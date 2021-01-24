@@ -1,0 +1,28 @@
+---
+
+# jenkins variables
+project_name: docker-homeassistant
+external_type: pip_version
+release_type: stable
+release_tag: latest
+ls_branch: main
+repo_vars:
+  - EXT_RELEASE_TYPE = 'pip_version'
+  - EXT_PIP = 'homeassistant'
+  - BUILD_VERSION_ARG = 'HASS_RELEASE'
+  - LS_USER = 'linuxserver'
+  - LS_REPO = 'docker-homeassistant'
+  - CONTAINER_NAME = 'homeassistant'
+  - DOCKERHUB_IMAGE = 'linuxserver/homeassistant'
+  - DEV_DOCKERHUB_IMAGE = 'lsiodev/homeassistant'
+  - PR_DOCKERHUB_IMAGE = 'lspipepr/homeassistant'
+  - DIST_IMAGE = 'alpine'
+  - MULTIARCH = 'true'
+  - CI = 'true'
+  - CI_WEB = 'true'
+  - CI_PORT = '8123'
+  - CI_SSL = 'false'
+  - CI_DELAY = '120'
+  - CI_DOCKERENV = 'TZ=Europe/London'
+  - CI_AUTH = ''
+  - CI_WEBPATH = ''
