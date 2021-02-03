@@ -2,7 +2,7 @@ alpine-baselayout-3.2.0-r8
 alpine-keys-2.2-r0
 alsa-lib-1.2.4-r2
 aom-libs-1.0.0-r1
-apk-tools-2.12.0-r4
+apk-tools-2.12.1-r0
 bash-5.1.0-r0
 bluez-deprecated-5.55-r1
 brotli-libs-1.0.9-r3
@@ -96,7 +96,7 @@ py3-idna-3.1-r0
 py3-lockfile-0.12.2-r3
 py3-msgpack-1.0.2-r0
 py3-ordered-set-4.0.2-r0
-py3-packaging-20.8-r1
+py3-packaging-20.9-r0
 py3-parsing-2.4.7-r1
 py3-pep517-0.9.1-r0
 py3-pip-20.3.4-r0
@@ -120,7 +120,7 @@ soxr-0.1.3-r2
 sqlite-libs-3.34.1-r0
 ssl_client-1.32.1-r2
 tiff-4.1.0-r2
-tzdata-2020f-r0
+tzdata-2021a-r0
 utmps-0.1.0.0-r0
 v4l-utils-libs-1.20.0-r0
 vidstab-1.1.0-r1
