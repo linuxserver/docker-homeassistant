@@ -34,6 +34,7 @@ RUN \
 	curl \
 	eudev-libs \
 	ffmpeg \
+	iputils \
 	libcap \
 	libjpeg-turbo \
 	libstdc++ \
