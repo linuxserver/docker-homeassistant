@@ -34,14 +34,15 @@ RUN \
 	curl \
 	eudev-libs \
 	ffmpeg \
+	iputils \
 	libcap \
 	libjpeg-turbo \
 	libstdc++ \
 	libxslt \
-	tiff \
 	openssl \
 	py3-pip \
-	python3 && \
+	python3 \
+	tiff && \
  echo "**** install homeassistant ****" && \
  mkdir -p \
 		/tmp/core && \
