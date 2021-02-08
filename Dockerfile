@@ -40,6 +40,7 @@ RUN \
 	libstdc++ \
 	libxslt \
 	mariadb-connector-c \
+	mariadb-connector-c-dev \
 	openssh-client \
 	openssl \
 	postgresql-libs \
