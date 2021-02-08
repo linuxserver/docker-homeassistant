@@ -38,6 +38,6 @@ app_setup_block: |
 
 # changelog
 changelogs:
-  - { date: "07.02.21:", desc: "Fix building from the wrong requirement file. Add ssh client." }
+  - { date: "07.02.21:", desc: "Fix building from the wrong requirement file. Add ssh client & external DB libs." }
   - { date: "06.02.21:", desc: "Add iputils so ping works as non root user." }
   - { date: "30.01.21:", desc: "Initial Release." }
