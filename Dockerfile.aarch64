@@ -73,7 +73,6 @@ RUN \
  cd /tmp/core && \
  pip install ${PIPFLAGS} \
 	-r requirements_all.txt && \
- cd /tmp/base && \
  pip install ${PIPFLAGS} \
 	-r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
  echo "**** install dependencies for hacs.xyz ****" && \
