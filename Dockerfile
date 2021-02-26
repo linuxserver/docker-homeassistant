@@ -85,7 +85,7 @@ RUN \
  pip install ${PIPFLAGS} \
 	-r requirements_all.txt && \
  cd /tmp/base && \
- pip install ${PIPFLAGS} --only-binary=:all: \
+ pip install ${PIPFLAGS} \
 	-r requirements.txt && \
  echo "**** install dependencies for hacs.xyz ****" && \
  if [ -z ${HACS_RELEASE+x} ]; then \
