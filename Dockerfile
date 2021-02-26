@@ -3,7 +3,6 @@ FROM ghcr.io/linuxserver/baseimage-alpine:3.13
 # set version label
 ARG BUILD_DATE
 ARG VERSION
-ARG HASS_BASE
 ARG HASS_RELEASE
 ARG HACS_RELEASE
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
@@ -61,18 +60,9 @@ RUN \
  tar xf \
 	/tmp/core.tar.gz -C \
 		/tmp/core --strip-components=1 && \
- mkdir -p \
-		/tmp/base && \
-  if [ -z ${HASS_BASE+x} ]; then \
-	HASS_BASE=$(curl -sX GET https://api.github.com/repos/home-assistant/docker/releases/latest \
-	| jq -r .tag_name); \
- fi && \
- curl -o \
-	/tmp/base.tar.gz -L \
-		"https://github.com/home-assistant/docker/archive/${HASS_BASE}.tar.gz" && \
- tar xf \
-	/tmp/base.tar.gz -C \
-		/tmp/base --strip-components=1 && \
+ HASS_BASE=$(cat /tmp/core/build.json \
+	| jq -r .build_from.amd64 \
+	| cut -d: -f2) && \
  mkdir -p /pip-packages && \
  pip install --target /pip-packages --no-cache-dir --upgrade \
 	distlib && \
@@ -84,9 +74,8 @@ RUN \
  cd /tmp/core && \
  pip install ${PIPFLAGS} \
 	-r requirements_all.txt && \
- cd /tmp/base && \
  pip install ${PIPFLAGS} \
-	-r requirements.txt && \
+	-r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
  echo "**** install dependencies for hacs.xyz ****" && \
  if [ -z ${HACS_RELEASE+x} ]; then \
 	HACS_RELEASE=$(curl -sX GET "https://api.github.com/repos/hacs/integration/releases/latest" \
