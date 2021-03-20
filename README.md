@@ -222,6 +222,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **25.02.21:** - Add python dependencies from homeassistant base image.
 * **07.02.21:** - Fix building from the wrong requirement file. Add ssh client & external DB libs.
 * **06.02.21:** - Add iputils so ping works as non root user.
 * **30.01.21:** - Initial Release.
