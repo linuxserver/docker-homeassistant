@@ -10,7 +10,7 @@ busybox-1.32.1-r6
 ca-certificates-20191127-r5
 ca-certificates-bundle-20191127-r5
 coreutils-8.32-r2
-curl-7.76.1-r0
+curl-7.77.0-r0
 dbus-1.12.20-r1
 dbus-libs-1.12.20-r1
 eudev-libs-3.2.9-r3
@@ -37,7 +37,7 @@ libbz2-1.0.8-r1
 libc-utils-0.7.2-r3
 libcap-2.46-r0
 libcrypto1.1-1.1.1k-r0
-libcurl-7.76.1-r0
+libcurl-7.77.0-r0
 libdav1d-0.8.1-r0
 libdrm-2.4.104-r0
 libedit-20191231.3.1-r1
