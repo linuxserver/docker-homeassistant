@@ -15,8 +15,8 @@ dbus-1.12.20-r1
 dbus-libs-1.12.20-r1
 eudev-libs-3.2.9-r3
 expat-2.2.10-r1
-ffmpeg-4.3.1-r3
-ffmpeg-libs-4.3.1-r3
+ffmpeg-4.3.1-r4
+ffmpeg-libs-4.3.1-r4
 fontconfig-2.13.1-r3
 freetype-2.10.4-r1
 fribidi-1.0.10-r0
