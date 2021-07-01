@@ -14,6 +14,21 @@ available_architectures:
   - { arch: "{{ arch_arm64 }}", tag: "arm64v8-latest"}
   - { arch: "{{ arch_armhf }}", tag: "arm32v7-latest"}
 
+# optional block 1
+optional_block_1: true
+optional_block_1_items:
+  - |
+    #### Host vs. Bridge
+
+    Home Assistant can [discover][hb0] and automatically configure
+    [zeroconf][hb1]/[mDNS][hb2] and [UPnP][hb3] devices on your network. In
+    order for this to work you must create the container with `--net=host`.
+
+    [hb0]: https://www.home-assistant.io/integrations/discovery/#mdns-and-upnp
+    [hb1]: https://en.wikipedia.org/wiki/Zero-configuration_networking
+    [hb2]: https://en.wikipedia.org/wiki/Multicast_DNS
+    [hb3]: https://en.wikipedia.org/wiki/Universal_Plug_and_Play
+
 # container parameters
 param_container_name: "{{ project_name }}"
 param_usage_include_vols: true
@@ -29,6 +44,11 @@ param_net_desc: "Shares host networking with container. Required for some device
 param_device_map: true
 param_devices:
   - { device_path: "/path/to/device", device_host_path: "/path/to/device", desc: "For passing through USB, serial or gpio devices." }
+
+# optional container parameters
+opt_param_usage_include_ports: true
+opt_param_ports:
+  - { external_port: "8123", internal_port: "8123", port_desc: "Application WebUI, only use this if you are not using host mode." }
 
 # application setup block
 app_setup_block_enabled: true
