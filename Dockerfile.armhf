@@ -29,6 +29,8 @@ RUN \
   g++ \
   jq \
   libffi-dev \
+  libxml2-dev \
+  libxslt-dev \
   make \
   postgresql-dev \
   python3-dev \
