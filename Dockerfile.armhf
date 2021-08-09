@@ -9,7 +9,7 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="saarg, roxedus"
 
 # environment settings
-ENV PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine/ --find-links https://wheels.home-assistant.io/alpine-3.12/armhf/" PYTHONPATH="${PYTHONPATH}:/pip-packages"
+ENV PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine/ --find-links https://wheels.home-assistant.io/alpine-3.13/armhf/" PYTHONPATH="${PYTHONPATH}:/pip-packages"
 
 # copy local files
 COPY root/ /
@@ -22,11 +22,20 @@ RUN \
  apk add --no-cache --virtual=build-dependencies \
   autoconf \
   ca-certificates \
+  cmake \
+  eudev-dev \
+  ffmpeg-dev \
   gcc \
   g++ \
   jq \
+  libffi-dev \
+  jpeg-dev \
+  libxml2-dev \
+  libxslt-dev \
   make \
+  postgresql-dev \
   python3-dev \
+  unixodbc-dev \
   unzip && \
  echo "**** install runtime packages ****" && \
  apk add --no-cache \
