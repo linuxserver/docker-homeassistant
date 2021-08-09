@@ -237,6 +237,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **09.08.21:** - Fixed broken build caused by missing dependency.
 * **01.07.21:** - Remove HACS dependencies as it caused a crash in Home-assistant.
 * **25.02.21:** - Add python dependencies from homeassistant base image.
 * **07.02.21:** - Fix building from the wrong requirement file. Add ssh client & external DB libs.
