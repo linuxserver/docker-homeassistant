@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-alpine:3.13
+FROM ghcr.io/linuxserver/baseimage-alpine:3.14
 
 # set version label
 ARG BUILD_DATE
@@ -9,7 +9,7 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="saarg, roxedus"
 
 # environment settings
-ENV PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine/ --find-links https://wheels.home-assistant.io/alpine-3.13/amd64/" PYTHONPATH="${PYTHONPATH}:/pip-packages"
+ENV PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine/ --find-links https://wheels.home-assistant.io/alpine-3.14/amd64/ --find-links https://wheels.home-assistant.io/alpine-3.13/amd64/ --find-links https://wheels.home-assistant.io/alpine-3.13/amd64/" PYTHONPATH="${PYTHONPATH}:/pip-packages"
 
 # copy local files
 COPY root/ /
@@ -22,6 +22,7 @@ RUN \
  apk add --no-cache --virtual=build-dependencies \
   autoconf \
   ca-certificates \
+  cargo \
   cmake \
   eudev-dev \
   ffmpeg-dev \
@@ -90,7 +91,8 @@ RUN \
   build-dependencies && \
  rm -rf \
   /tmp/* \
-  /root/.cache
+  /root/.cache \
+  /root/.cargo
 
 # environment settings. used so pip packages installed by home assistant installs in /config
 ENV HOME="/config"
