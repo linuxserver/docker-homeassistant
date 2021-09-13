@@ -78,9 +78,11 @@ RUN \
  pip install --no-cache-dir --upgrade \
   pip==20.2 \
   wheel && \
+ cd /tmp/core && \
+ CISO8601=$(grep 'ciso8601' requirements.txt) && \
+ pip install ${CISO8601} && \
  pip install ${PIPFLAGS} \
   homeassistant==${HASS_RELEASE} && \
- cd /tmp/core && \
  pip install ${PIPFLAGS} \
   -r requirements_all.txt && \
  pip install ${PIPFLAGS} \
