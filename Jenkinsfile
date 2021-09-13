@@ -432,7 +432,7 @@ pipeline {
         }
         stage('Build ARMHF') {
           agent {
-            label 'ARMHF'
+            label 'ARMHF-NATIVE'
           }
           steps {
             echo "Running on node: ${NODE_NAME}"
