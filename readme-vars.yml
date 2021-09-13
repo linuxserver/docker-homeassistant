@@ -58,6 +58,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "13.09.21:", desc: "Fix setcap in service." }
   - { date: "12.09.21:", desc: "Rebase to alpine 3.14. Build on native armhf." }
   - { date: "09.08.21:", desc: "Fixed broken build caused by missing dependency." }
   - { date: "01.07.21:", desc: "Remove HACS dependencies as it caused a crash in Home-assistant." }
