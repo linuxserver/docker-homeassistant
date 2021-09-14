@@ -81,7 +81,8 @@ RUN \
   wheel && \
  cd /tmp/core && \
  CISO8601=$(grep 'ciso8601' requirements.txt) && \
- pip install ${CISO8601} && \
+ PSYCOPG=$(curl -sL "https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt" | grep 'psycopg2') && \
+ pip install ${CISO8601} ${PSYCOPG} && \
  pip install ${PIPFLAGS} \
   homeassistant==${HASS_RELEASE} && \
  pip install ${PIPFLAGS} \
