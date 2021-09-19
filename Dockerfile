@@ -82,7 +82,7 @@ RUN \
  cd /tmp/core && \
  CISO8601=$(grep 'ciso8601' requirements.txt) && \
  PSYCOPG=$(curl -sL "https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt" | grep 'psycopg2') && \
- pip install --find-links https://wheel-index.linuxserver/alpine/ ${CISO8601} ${PSYCOPG} pycares && \
+ pip install --find-links https://wheel-index.linuxserver.io/alpine/ ${CISO8601} ${PSYCOPG} pycares && \
  pip install ${PIPFLAGS} \
   homeassistant==${HASS_RELEASE} && \
  pip install ${PIPFLAGS} \
