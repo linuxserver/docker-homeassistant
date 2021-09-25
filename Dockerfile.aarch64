@@ -9,7 +9,7 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="saarg, roxedus"
 
 # environment settings
-ENV PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine/ -find-links https://wheel-index.linuxserver.io/homeassistant/ PYTHONPATH="${PYTHONPATH}:/pip-packages"
+ENV PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine/ -find-links https://wheel-index.linuxserver.io/homeassistant/" PYTHONPATH="${PYTHONPATH}:/pip-packages"
 
 # copy local files
 COPY root/ /
