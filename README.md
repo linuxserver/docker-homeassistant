@@ -237,6 +237,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **25.09.21:** - Use the new lsio homeassistant wheel repo, instead of the HA wheels.
 * **13.09.21:** - Build psycopg locally as the HA provided wheel does not seem to work properly.
 * **13.09.21:** - Fix setcap in service. Build CISO8601 locally as the HA provided wheel does not seem to work properly.
 * **12.09.21:** - Rebase to alpine 3.14. Build on native armhf.
