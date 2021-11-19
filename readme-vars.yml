@@ -55,6 +55,7 @@ app_setup_block_enabled: true
 app_setup_block: |
   The Webui can be found at `http://your-ip:8123`. Follow the wizard to set up Home Assistant.
 
+unraid_template_sync: false
 
 # changelog
 changelogs:
