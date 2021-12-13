@@ -59,6 +59,7 @@ unraid_template_sync: false
 
 # changelog
 changelogs:
+  - { date: "12.12.21:", desc: "Use the new `build.yaml` to determine HA base version." }
   - { date: "25.09.21:", desc: "Use the new lsio homeassistant wheel repo, instead of the HA wheels." }
   - { date: "13.09.21:", desc: "Build psycopg locally as the HA provided wheel does not seem to work properly." }
   - { date: "13.09.21:", desc: "Fix setcap in service. Build CISO8601 locally as the HA provided wheel does not seem to work properly." }
