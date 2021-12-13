@@ -70,9 +70,9 @@ RUN \
  tar xf \
   /tmp/core.tar.gz -C \
   /tmp/core --strip-components=1 && \
- HASS_BASE=$(cat /tmp/core/build.json \
-  | jq -r .build_from.aarch64 \
-  | cut -d: -f2) && \
+ HASS_BASE=$(cat /tmp/core/build.yaml \
+  | grep 'amd64: ' \
+  | cut -d: -f3) && \
  pip install --target /pip-packages --no-cache-dir --upgrade \
   distlib && \
  pip install --no-cache-dir --upgrade \

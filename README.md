@@ -238,6 +238,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **12.12.21:** - Use the new `build.yaml` to determine HA base version.
 * **25.09.21:** - Use the new lsio homeassistant wheel repo, instead of the HA wheels.
 * **13.09.21:** - Build psycopg locally as the HA provided wheel does not seem to work properly.
 * **13.09.21:** - Fix setcap in service. Build CISO8601 locally as the HA provided wheel does not seem to work properly.
