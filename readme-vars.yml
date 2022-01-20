@@ -5,7 +5,7 @@ project_name: homeassistant
 project_url: "https://www.home-assistant.io/"
 project_logo: "https://github.com/home-assistant/home-assistant.io/raw/next/source/images/favicon-192x192-full.png"
 project_blurb: |
-  [{{ project_name|capitalize }}]({{ project_url }}) is open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. 
+  [Home Assistant Core]({{ project_url }}) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. 
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
 
 # supported architectures
@@ -41,18 +41,20 @@ param_usage_include_ports: false
 param_usage_include_net: true
 param_net: "host"
 param_net_desc: "Shares host networking with container. Required for some devices to be discovered by Home Assistant."
-param_device_map: true
-param_devices:
-  - { device_path: "/path/to/device", device_host_path: "/path/to/device", desc: "For passing through USB, serial or gpio devices." }
 
 # optional container parameters
 opt_param_usage_include_ports: true
 opt_param_ports:
   - { external_port: "8123", internal_port: "8123", port_desc: "Application WebUI, only use this if you are not using host mode." }
+opt_param_device_map: true
+opt_param_devices:
+  - { device_path: "/path/to/device", device_host_path: "/path/to/device", desc: "For passing through USB, serial or gpio devices." }
 
 # application setup block
 app_setup_block_enabled: true
 app_setup_block: |
+  This image is based on Home Assistant Core.
+  
   The Webui can be found at `http://your-ip:8123`. Follow the wizard to set up Home Assistant.
 
 unraid_template_sync: false
