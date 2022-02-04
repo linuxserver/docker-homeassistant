@@ -11,6 +11,12 @@ LABEL maintainer="saarg, roxedus"
 # environment settings
 ENV PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine/ --find-links https://wheel-index.linuxserver.io/homeassistant/" PYTHONPATH="${PYTHONPATH}:/pip-packages"
 
+# necessary args to compile grpcio on arm32v7
+ARG GRPC_BUILD_WITH_BORING_SSL_ASM=false
+ARG GRPC_PYTHON_BUILD_SYSTEM_OPENSSL=true 
+ARG GRPC_PYTHON_BUILD_WITH_CYTHON=true 
+ARG GRPC_PYTHON_DISABLE_LIBC_COMPATIBILITY=true
+
 # copy local files
 COPY root/ /
 
