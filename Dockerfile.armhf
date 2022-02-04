@@ -84,7 +84,7 @@ RUN \
  pip install ${PIPFLAGS} \
   homeassistant==${HASS_RELEASE} && \
  pip install ${PIPFLAGS} \
-  -r requirements_all.txt && \
+  -r requirements_all.txt --no-binary grpcio && \
  pip install ${PIPFLAGS} \
   -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
  echo "**** cleanup ****" && \
