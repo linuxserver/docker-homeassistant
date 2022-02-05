@@ -87,6 +87,7 @@ RUN \
   -r requirements_all.txt && \
  pip install ${PIPFLAGS} \
   -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
+ sed -i "s|Unsupported Third Party Container|linuxserver.io image version ${VERSION} - get support at https://linuxserver.io/support|" /usr/lib/python3.9/site-packages/homeassistant/helpers/system_info.py && \
  echo "**** cleanup ****" && \
  apk del --purge \
   build-dependencies && \
