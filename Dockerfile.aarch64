@@ -9,7 +9,7 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="saarg, roxedus"
 
 # environment settings
-ENV PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine/ --find-links https://wheel-index.linuxserver.io/homeassistant/" PYTHONPATH="${PYTHONPATH}:/pip-packages"
+ENV PIPFLAGS="--no-cache-dir --use-deprecated=legacy-resolver --find-links https://wheel-index.linuxserver.io/alpine/ --find-links https://wheel-index.linuxserver.io/homeassistant/" PYTHONPATH="${PYTHONPATH}:/pip-packages"
 
 # copy local files
 COPY root/ /
@@ -77,19 +77,23 @@ RUN \
   distlib && \
  pip install --no-cache-dir --upgrade \
   cython \
-  pip==20.2 \
-  setuptools==57.5.0 \
+  "pip>=21.0,<22.1" \
+  setuptools \
   wheel && \
  cd /tmp/core && \
  pip install ${PIPFLAGS} \
-  homeassistant==${HASS_RELEASE} && \
+  -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
  pip install ${PIPFLAGS} \
   -r requirements_all.txt && \
  pip install ${PIPFLAGS} \
-  -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
+  homeassistant==${HASS_RELEASE} && \
  echo "**** cleanup ****" && \
  apk del --purge \
   build-dependencies && \
+ for cleanfiles in *.pyc *.pyo; \
+  do \
+  find /usr/lib/python3.*  -iname "${cleanfiles}" -exec rm -f '{}' + \
+  ; done && \
  rm -rf \
   /tmp/* \
   /root/.cache \

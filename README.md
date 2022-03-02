@@ -241,6 +241,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **02.03.22:** - Update pip and use legacy resolver, clean up temp python files, reduce image size.
 * **04.02.22:** - Always compile grpcio on arm32v7 due to pypi pushing a glibc only wheel.
 * **12.12.21:** - Use the new `build.yaml` to determine HA base version.
 * **25.09.21:** - Use the new lsio homeassistant wheel repo, instead of the HA wheels.
