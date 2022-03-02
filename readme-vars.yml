@@ -61,6 +61,7 @@ unraid_template_sync: false
 
 # changelog
 changelogs:
+  - { date: "02.03.22:", desc: "Sync pip version with HA, use legacy dependency resolver to support 2022.3.0+" }
   - { date: "04.02.22:", desc: "Always compile grpcio on arm32v7 due to pypi pushing a glibc only wheel." }
   - { date: "12.12.21:", desc: "Use the new `build.yaml` to determine HA base version." }
   - { date: "25.09.21:", desc: "Use the new lsio homeassistant wheel repo, instead of the HA wheels." }
