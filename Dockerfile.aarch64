@@ -77,15 +77,15 @@ RUN \
   distlib && \
  pip install --no-cache-dir --upgrade \
   cython \
-  pip==20.2 \
+  pip==21.1.3 \
   setuptools==57.5.0 \
   wheel && \
  cd /tmp/core && \
  pip install ${PIPFLAGS} \
   homeassistant==${HASS_RELEASE} && \
- pip install ${PIPFLAGS} \
+ pip install ${PIPFLAGS} --use-deprecated=legacy-resolver \
   -r requirements_all.txt && \
- pip install ${PIPFLAGS} \
+ pip install ${PIPFLAGS} --use-deprecated=legacy-resolver \
   -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
  echo "**** cleanup ****" && \
  apk del --purge \
