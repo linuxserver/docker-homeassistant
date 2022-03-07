@@ -68,7 +68,7 @@ RUN \
   echo "**** install homeassistant ****" && \
   mkdir -p \
     /tmp/core && \
-    if [ -z ${HASS_RELEASE+x} ]; then \
+  if [ -z ${HASS_RELEASE+x} ]; then \
     HASS_RELEASE=$(curl -sX GET https://api.github.com/repos/home-assistant/core/releases/latest \
     | jq -r .tag_name); \
   fi && \
