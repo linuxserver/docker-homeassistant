@@ -87,6 +87,8 @@ RUN \
   -r requirements_all.txt && \
  pip install ${PIPFLAGS} \
   homeassistant==${HASS_RELEASE} && \
+ pip install ${PIPFLAGS} \
+  PySwitchbot && \
  echo "**** cleanup ****" && \
  apk del --purge \
   build-dependencies && \
