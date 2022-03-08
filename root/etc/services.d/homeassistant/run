@@ -3,5 +3,5 @@
 setcap 'cap_net_bind_service=+ep' /usr/bin/python3.9
 
 exec \
-	s6-setuidgid abc /usr/bin/hass \
-			-c /config
+    s6-setuidgid abc /usr/bin/hass \
+        -c /config

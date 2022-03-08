@@ -4,23 +4,23 @@ FILES=$(find /dev/ttyACM* /dev/ttyUSB* -type c -print 2>/dev/null)
 
 for i in $FILES
 do
-        USB_GID=$(stat -c '%g' "$i")
-        if id -G abc | grep -qw "$USB_GID"; then
-                touch /groupadd
-        else
-                if [ ! "${USB_GID}" == '0' ]; then
-                        USB_NAME=$(getent group "${USB_GID}" | awk -F: '{print $1}')
-                        if [ -z "${USB_NAME}" ]; then
-                                USB_NAME="usb$(head /dev/urandom | tr -dc 'a-z0-9' | head -c8)"
-                                groupadd "$USB_NAME"
-                                groupmod -g "$USB_GID" "$USB_NAME"
-                        fi
-                        usermod -a -G "$USB_NAME" abc
-                        touch /groupadd
-                fi
+    USB_GID=$(stat -c '%g' "$i")
+    if id -G abc | grep -qw "$USB_GID"; then
+        touch /groupadd
+    else
+        if [ ! "${USB_GID}" == '0' ]; then
+            USB_NAME=$(getent group "${USB_GID}" | awk -F: '{print $1}')
+            if [ -z "${USB_NAME}" ]; then
+                USB_NAME="usb$(head /dev/urandom | tr -dc 'a-z0-9' | head -c8)"
+                groupadd "$USB_NAME"
+                groupmod -g "$USB_GID" "$USB_NAME"
+            fi
+            usermod -a -G "$USB_NAME" abc
+            touch /groupadd
         fi
+    fi
 done
 
 if [ -n "${FILES}" ] && [ ! -f "/groupadd" ]; then
-        usermod -a -G root abc
+    usermod -a -G root abc
 fi
