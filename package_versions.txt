@@ -3,7 +3,7 @@ alpine-keys-2.4-r0
 alsa-lib-1.2.5-r2
 aom-libs-1.0.0-r3
 apk-tools-2.12.7-r0
-bash-5.1.4-r0
+bash-5.1.16-r0
 bluez-deprecated-5.58-r2
 brotli-libs-1.0.9-r5
 busybox-1.33.1-r6
@@ -57,7 +57,7 @@ libpng-1.6.37-r1
 libpq-13.6-r0
 libproc-3.3.17-r0
 libretls-3.3.3p1-r2
-libsasl-2.1.27-r12
+libsasl-2.1.28-r0
 libsrt-1.4.2-r0
 libssh-0.9.6-r0
 libssl1.1-1.1.1n-r0
@@ -136,7 +136,7 @@ soxr-0.1.3-r2
 sqlite-libs-3.35.5-r0
 ssl_client-1.33.1-r6
 tiff-4.2.0-r1
-tzdata-2021e-r0
+tzdata-2022a-r0
 utmps-0.1.0.2-r0
 v4l-utils-libs-1.20.0-r0
 vidstab-1.1.0-r1
