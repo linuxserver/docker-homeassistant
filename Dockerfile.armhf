@@ -32,6 +32,7 @@ RUN \
     ca-certificates \
     cargo \
     cmake \
+    cups-dev \
     eudev-dev \
     ffmpeg-dev \
     gcc \
@@ -48,7 +49,10 @@ RUN \
     unzip && \
   echo "**** install runtime packages ****" && \
   apk add --no-cache \
+    bluez \
     bluez-deprecated \
+    bluez-libs \
+    cups-libs \
     curl \
     eudev-libs \
     ffmpeg \
@@ -96,6 +100,7 @@ RUN \
   pip install ${PIPFLAGS} \
     homeassistant==${HASS_RELEASE} && \
   pip install ${PIPFLAGS} \
+    pycups \
     PySwitchbot && \
   echo "**** cleanup ****" && \
   apk del --purge \

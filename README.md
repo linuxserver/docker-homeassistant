@@ -241,6 +241,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **31.03.22:** - Install pycups.
 * **07.03.22:** - Install PySwitchbot.
 * **02.03.22:** - Update pip and use legacy resolver, clean up temp python files, reduce image size.
 * **04.02.22:** - Always compile grpcio on arm32v7 due to pypi pushing a glibc only wheel.
