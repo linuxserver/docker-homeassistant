@@ -9,7 +9,7 @@ bluez-5.58-r2
 bluez-deprecated-5.58-r2
 bluez-libs-5.58-r2
 brotli-libs-1.0.9-r5
-busybox-1.33.1-r6
+busybox-1.33.1-r7
 ca-certificates-20211220-r0
 ca-certificates-bundle-20211220-r0
 coreutils-8.32-r2
@@ -139,7 +139,7 @@ shadow-4.8.1-r0
 skalibs-2.10.0.3-r0
 soxr-0.1.3-r2
 sqlite-libs-3.35.5-r0
-ssl_client-1.33.1-r6
+ssl_client-1.33.1-r7
 tiff-4.2.0-r1
 tzdata-2022a-r0
 utmps-0.1.0.2-r0
