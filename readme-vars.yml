@@ -61,6 +61,7 @@ unraid_template_sync: false
 
 # changelog
 changelogs:
+  - { date: "07.05.22:", desc: "Build matplotlib with the same Numpy version as HA req." }
   - { date: "31.03.22:", desc: "Install pycups." }
   - { date: "07.03.22:", desc: "Install PySwitchbot." }
   - { date: "02.03.22:", desc: "Update pip and use legacy resolver, clean up temp python files, reduce image size." }
