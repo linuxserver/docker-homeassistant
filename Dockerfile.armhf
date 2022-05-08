@@ -36,6 +36,7 @@ RUN \
     eudev-dev \
     ffmpeg-dev \
     gcc \
+    glib-dev \
     g++ \
     jq \
     libffi-dev \
@@ -93,6 +94,9 @@ RUN \
     setuptools \
     wheel && \
   cd /tmp/core && \
+  NUMPY_VER=$(grep "numpy" requirements_all.txt) && \
+  pip install ${PIPFLAGS} \
+    "${NUMPY_VER}" && \
   pip install ${PIPFLAGS} \
     -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
   pip install ${PIPFLAGS} \
