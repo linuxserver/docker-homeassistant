@@ -14,7 +14,7 @@ ca-certificates-20211220-r0
 ca-certificates-bundle-20211220-r0
 coreutils-8.32-r2
 cups-libs-2.3.3-r3
-curl-7.79.1-r1
+curl-7.79.1-r2
 dbus-1.12.20-r2
 dbus-libs-1.12.20-r2
 eudev-libs-3.2.10-r0
@@ -41,8 +41,8 @@ libbsd-0.11.3-r0
 libbz2-1.0.8-r1
 libc-utils-0.7.2-r3
 libcap-2.50-r0
-libcrypto1.1-1.1.1o-r0
-libcurl-7.79.1-r1
+libcrypto1.1-1.1.1p-r0
+libcurl-7.79.1-r2
 libdav1d-0.9.0-r0
 libdrm-2.4.106-r0
 libedit-20210216.3.1-r0
@@ -65,7 +65,7 @@ libretls-3.3.3p1-r3
 libsasl-2.1.28-r0
 libsrt-1.4.2-r0
 libssh-0.9.6-r0
-libssl1.1-1.1.1o-r0
+libssl1.1-1.1.1p-r0
 libstdc++-10.3.1_git20210424-r2
 libtasn1-4.17.0-r0
 libtheora-1.1.1-r16
@@ -97,8 +97,8 @@ nghttp2-libs-1.43.0-r0
 openssh-client-common-8.6_p1-r3
 openssh-client-default-8.6_p1-r3
 openssh-keygen-8.6_p1-r3
-openssl-1.1.1o-r0
-openssl-dev-1.1.1o-r0
+openssl-1.1.1p-r0
+openssl-dev-1.1.1p-r0
 opus-1.3.1-r1
 p11-kit-0.23.22-r0
 pcre-8.44-r0
