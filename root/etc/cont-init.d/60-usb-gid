@@ -4,23 +4,32 @@ FILES=$(find /dev/ttyACM* /dev/ttyUSB* -type c -print 2>/dev/null)
 
 for i in $FILES
 do
-    USB_GID=$(stat -c '%g' "$i")
-    if id -G abc | grep -qw "$USB_GID"; then
-        touch /groupadd
+    USB_GID=$(stat -c '%g' "${i}")
+    USB_UID=$(stat -c '%u' "${i}")
+    # check if user matches device
+    if id -u abc | grep -qw "${USB_UID}"; then
+        echo "**** permissions for ${i} are good ****"
     else
-        if [ ! "${USB_GID}" == '0' ]; then
+        # check if group matches and that device has group rw
+        if id -G abc | grep -qw "${USB_GID}" && [ $(stat -c '%A' "${i}" | cut -b 5,6) = "rw" ]; then
+            echo "**** permissions for ${i} are good ****"
+        # check if device needs to be added to USB group
+        elif ! id -G abc | grep -qw "${USB_GID}"; then
+            # check if USB group needs to be created
             USB_NAME=$(getent group "${USB_GID}" | awk -F: '{print $1}')
             if [ -z "${USB_NAME}" ]; then
-                USB_NAME="usb$(head /dev/urandom | tr -dc 'a-z0-9' | head -c8)"
-                groupadd "$USB_NAME"
-                groupmod -g "$USB_GID" "$USB_NAME"
+                USB_NAME="usb$(head /dev/urandom | tr -dc 'a-z0-9' | head -c4)"
+                groupadd "${USB_NAME}"
+                groupmod -g "${USB_GID}" "${USB_NAME}"
+                echo "**** creating USB group ${USB_NAME} with id ${USB_GID} ****"
             fi
-            usermod -a -G "$USB_NAME" abc
-            touch /groupadd
+            echo "**** adding ${i} to USB group ${USB_NAME} with id ${USB_GID} ****"
+            usermod -a -G "${USB_NAME}" abc
+        fi
+        # check if device has group rw
+        if [ $(stat -c '%A' "${i}" | cut -b 5,6) != "rw" ]; then
+            echo -e "**** The device ${i} does not have group read/write permissions, attempting to fix inside the container. ****"
+            chmod g+rw "${i}"
         fi
     fi
 done
-
-if [ -n "${FILES}" ] && [ ! -f "/groupadd" ]; then
-    usermod -a -G root abc
-fi
