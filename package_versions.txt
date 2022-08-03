@@ -1,7 +1,7 @@
 alpine-baselayout-3.2.0-r22
 alpine-baselayout-data-3.2.0-r22
 alpine-keys-2.4-r1
-alsa-lib-1.2.6.1-r0
+alsa-lib-1.2.7.2-r0
 aom-libs-3.3.0-r0
 apk-tools-2.12.9-r3
 avahi-libs-0.8-r6
@@ -10,9 +10,9 @@ bluez-5.65-r0
 bluez-deprecated-5.65-r0
 bluez-libs-5.65-r0
 brotli-libs-1.0.9-r6
-busybox-1.35.0-r16
-ca-certificates-20211220-r0
-ca-certificates-bundle-20211220-r0
+busybox-1.35.0-r17
+ca-certificates-20220614-r0
+ca-certificates-bundle-20220614-r0
 cjson-1.7.15-r3
 coreutils-9.1-r0
 cups-libs-2.4.2-r0
@@ -30,7 +30,7 @@ fribidi-1.0.12-r0
 gdbm-1.23-r0
 glib-2.72.1-r0
 gmp-6.2.1-r2
-gnutls-3.7.6-r0
+gnutls-3.7.7-r0
 graphite2-1.3.14-r1
 harfbuzz-4.3.0-r0
 iputils-20211215-r0
@@ -131,7 +131,7 @@ skalibs-2.11.2.0-r0
 soxr-0.1.3-r2
 speexdsp-1.2.0-r0
 sqlite-libs-3.38.5-r0
-ssl_client-1.35.0-r16
+ssl_client-1.35.0-r17
 tdb-libs-1.4.6-r0
 tiff-4.3.0-r1
 tzdata-2022a-r0
