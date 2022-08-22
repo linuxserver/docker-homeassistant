@@ -241,6 +241,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **29.07.22:** - Improve usb device permission fix.
 * **07.07.22:** - Rebase to alpine 3.16, switch to cp310 wheels.
 * **07.05.22:** - Build matplotlib with the same Numpy version as HA req.
 * **31.03.22:** - Install pycups.
