@@ -1,5 +1,5 @@
-alpine-baselayout-3.2.0-r22
-alpine-baselayout-data-3.2.0-r22
+alpine-baselayout-3.2.0-r23
+alpine-baselayout-data-3.2.0-r23
 alpine-keys-2.4-r1
 alsa-lib-1.2.7.2-r0
 aom-libs-3.3.0-r0
