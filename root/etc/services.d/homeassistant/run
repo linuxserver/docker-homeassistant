@@ -1,7 +1,0 @@
-#!/usr/bin/with-contenv bash
-
-setcap 'cap_net_bind_service=+ep' /usr/bin/python3.10
-
-exec \
-    s6-setuidgid abc /usr/bin/hass \
-        -c /config
