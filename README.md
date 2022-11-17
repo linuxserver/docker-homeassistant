@@ -241,6 +241,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **16.11.22:** - Fix the dep conflict for google calendar.
 * **23.09.22:** - Migrate to s6v3.
 * **29.07.22:** - Improve usb device permission fix.
 * **07.07.22:** - Rebase to alpine 3.16, switch to cp310 wheels.

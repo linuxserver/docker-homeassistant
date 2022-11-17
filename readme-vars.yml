@@ -61,6 +61,7 @@ unraid_template_sync: false
 
 # changelog
 changelogs:
+  - { date: "16.11.22:", desc: "Fix the dep conflict for google calendar." }
   - { date: "23.09.22:", desc: "Migrate to s6v3." }
   - { date: "29.07.22:", desc: "Improve usb device permission fix." }
   - { date: "07.07.22:", desc: "Rebase to alpine 3.16, switch to cp310 wheels." }
