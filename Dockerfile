@@ -86,6 +86,7 @@ RUN \
   pip install --no-cache-dir --upgrade \
     cython \
     "pip>=21.0,<22.1" \
+    pyparsing \
     setuptools \
     wheel && \
   cd /tmp/core && \
