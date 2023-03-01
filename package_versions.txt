@@ -599,6 +599,7 @@ libass                            0.16.0-r0              apk
 libasyncns                        0.8-r1                 apk     
 libattr                           2.5.1-r1               apk     
 libblkid                          2.38-r1                apk     
+libbsd                            0.11.6-r2              apk     
 libbz2                            1.0.8-r1               apk     
 libc-utils                        0.7.2-r3               apk     
 libcap                            2.64-r0                apk     
@@ -616,6 +617,7 @@ libgpg-error                      1.45-r0                apk
 libintl                           0.21-r2                apk     
 libjpeg-turbo                     2.1.3-r1               apk     
 libltdl                           2.4.7-r0               apk     
+libmd                             1.0.4-r0               apk     
 libmount                          2.38-r1                apk     
 libogg                            1.3.5-r1               apk     
 libpciaccess                      0.16-r0                apk     
@@ -723,6 +725,7 @@ ncurses-terminfo-base             6.3_p20220521-r0       apk
 ndms2-client                      0.1.2                  python  
 nessclient                        0.10.0                 python  
 netaddr                           0.8.0                  python  
+netcat-openbsd                    1.130-r3               apk     
 netdata                           1.0.1                  python  
 netdisco                          3.0.0                  python  
 netifaces                         0.11.0                 python  
