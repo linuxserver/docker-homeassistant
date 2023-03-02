@@ -277,7 +277,7 @@ cffi                              1.15.1                 python
 cfgv                              3.3.1                  python  
 chacha20poly1305                  0.0.3                  python  
 chacha20poly1305-reuseable        0.0.4                  python  
-charset-normalizer                2.1.1                  python  
+charset-normalizer                3.0.1                  python  
 circuit-webhook                   1.0.1                  python  
 ciscomobilityexpress              0.3.9                  python  
 ciso8601                          2.3.0                  python  
@@ -441,7 +441,7 @@ goalzero                          0.2.1                  python
 goodwe                            0.2.25                 python  
 google-api-core                   2.11.0                 python  
 google-api-python-client          2.71.0                 python  
-google-auth                       2.16.1                 python  
+google-auth                       2.16.2                 python  
 google-auth-httplib2              0.1.0                  python  
 google-auth-oauthlib              1.0.0                  python  
 google-cloud-pubsub               2.13.11                python  
@@ -494,9 +494,9 @@ hole                              0.8.0                  python
 holidays                          0.18                   python  
 home-assistant-bluetooth          1.9.3                  python  
 home-assistant-chip-clusters      2023.2.2               python  
-home-assistant-frontend           20230301.0             python  
+home-assistant-frontend           20230302.0             python  
 home-assistant-intents            2023.2.28              python  
-homeassistant                     2023.3.0               python  
+homeassistant                     2023.3.1               python  
 homeconnect                       0.7.2                  python  
 homematicip                       1.0.13                 python  
 homepluscontrol                   0.0.5                  python  
@@ -718,7 +718,7 @@ mycroftapi                        2.0                    python
 mypy-extensions                   1.0.0                  python  
 mysqlclient                       2.1.1                  python  
 nad-receiver                      0.3.0                  python  
-natsort                           8.3.0                  python  
+natsort                           8.3.1                  python  
 nclib                             1.0.2                  python  
 ncurses-libs                      6.3_p20220521-r0       apk     
 ncurses-terminfo-base             6.3_p20220521-r0       apk     
@@ -748,7 +748,7 @@ notifications-android-tv          0.1.5                  python
 notify-events                     1.0.4                  python  
 nsapi                             3.0.5                  python  
 nsw-fuel-api-client               1.1.0                  python  
-nuheat                            1.0.0                  python  
+nuheat                            1.0.1                  python  
 numactl                           2.0.14-r0              apk     
 numato-gpio                       0.10.0                 python  
 numpy                             1.23.2                 python  
@@ -782,7 +782,7 @@ opus                              1.3.1-r1               apk
 oralb-ble                         0.17.5                 python  
 orc                               0.4.32-r0              apk     
 ordered-set                       4.0.2                  python  
-orjson                            3.8.6                  python  
+orjson                            3.8.7                  python  
 oru                               0.1.11                 python  
 orvibo                            1.1.1                  python  
 ovoenergy                         1.2.0                  python  
@@ -848,7 +848,7 @@ pushover-complete                 1.1.1                  python
 pvo                               0.2.2                  python  
 py-canary                         0.5.3                  python  
 py-cpuinfo                        8.0.0                  python  
-py-dormakaba-dkey                 1.0.3                  python  
+py-dormakaba-dkey                 1.0.4                  python  
 py-melissa-climate                2.1.4                  python  
 py-nextbusnext                    0.1.5                  python  
 py-nightscout                     1.2.2                  python  
@@ -881,7 +881,7 @@ pyOpenSSL                         23.0.0                 python
 pyRFC3339                         1.1                    python  
 pyRFXtrx                          0.30.1                 python  
 pySDCP                            1                      python  
-pyTibber                          0.26.13                python  
+pyTibber                          0.27.0                 python  
 pyW215                            0.7.0                  python  
 pyW800rf32                        0.1                    python  
 pyads                             3.2.2                  python  
@@ -1164,7 +1164,7 @@ related                           0.7.3                  python
 renault-api                       0.1.12                 python  
 reolink-aio                       0.5.1                  python  
 repoze.lru                        0.7                    python  
-requests                          2.28.1                 python  
+requests                          2.28.2                 python  
 requests-file                     1.5.1                  python  
 requests-futures                  1.0.0                  python  
 requests-oauth                    0.4.1                  python  
