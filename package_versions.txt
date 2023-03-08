@@ -59,7 +59,7 @@ RachioPy                          1.0.3                  python
 RestrictedPython                  6.0                    python  
 RtmAPI                            0.7.2                  python  
 Rx                                3.2.0                  python  
-SQLAlchemy                        2.0.4                  python  
+SQLAlchemy                        2.0.5.post1            python  
 SecretStorage                     3.3.3                  python  
 TravisPy                          0.3.5                  python  
 TwitterAPI                        2.7.12                 python  
@@ -94,14 +94,14 @@ aioazuredevops                    1.3.5                  python
 aiobafi6                          0.7.3                  python  
 aiobotocore                       2.1.0                  python  
 aiocoap                           0.4.5                  python  
-aioconsole                        0.6.0                  python  
+aioconsole                        0.6.1                  python  
 aiodiscover                       1.4.13                 python  
 aiodns                            3.0.0                  python  
 aioeafm                           0.1.2                  python  
 aioeagle                          1.1.0                  python  
 aioecowitt                        2023.1.0               python  
 aioemonitor                       1.0.5                  python  
-aioesphomeapi                     13.4.1                 python  
+aioesphomeapi                     13.4.2                 python  
 aiofiles                          23.1.0                 python  
 aioflo                            2021.11.0              python  
 aioftp                            0.21.3                 python  
@@ -184,7 +184,7 @@ aqipy-atmotech                    0.1.5                  python
 aqualogic                         2.6                    python  
 aranet4                           2.1.3                  python  
 arcam-fmj                         1.2.1                  python  
-argcomplete                       2.0.0                  python  
+argcomplete                       2.1.1                  python  
 arris-tg2492lg                    1.2.1                  python  
 arrow                             1.2.3                  python  
 asmog                             0.0.6                  python  
@@ -277,7 +277,7 @@ cffi                              1.15.1                 python
 cfgv                              3.3.1                  python  
 chacha20poly1305                  0.0.3                  python  
 chacha20poly1305-reuseable        0.0.4                  python  
-charset-normalizer                3.0.1                  python  
+charset-normalizer                3.1.0                  python  
 circuit-webhook                   1.0.1                  python  
 ciscomobilityexpress              0.3.9                  python  
 ciso8601                          2.3.0                  python  
@@ -404,7 +404,7 @@ flipr-api                         1.4.4                  python
 flux-led                          0.28.35                python  
 fnvhash                           0.1.0                  python  
 fontconfig                        2.14.0-r0              apk     
-fonttools                         4.38.0                 python  
+fonttools                         4.39.0                 python  
 foobot-async                      1.0.0                  python  
 forecast-solar                    2.2.0                  python  
 fortiosapi                        1.0.5                  python  
@@ -494,9 +494,9 @@ hole                              0.8.0                  python
 holidays                          0.18                   python  
 home-assistant-bluetooth          1.9.3                  python  
 home-assistant-chip-clusters      2023.2.2               python  
-home-assistant-frontend           20230302.0             python  
+home-assistant-frontend           20230306.0             python  
 home-assistant-intents            2023.2.28              python  
-homeassistant                     2023.3.1               python  
+homeassistant                     2023.3.2               python  
 homeconnect                       0.7.2                  python  
 homematicip                       1.0.13                 python  
 homepluscontrol                   0.0.5                  python  
@@ -523,7 +523,7 @@ ibmiotf                           0.3.4                  python
 ical                              4.2.9                  python  
 icalendar                         5.0.4                  python  
 icmplib                           3.0                    python  
-identify                          2.5.18                 python  
+identify                          2.5.19                 python  
 idna                              3.4                    python  
 ifaddr                            0.1.7                  python  
 iglo                              1.2.7                  python  
@@ -539,7 +539,7 @@ influxdb                          5.3.1                  python
 influxdb-client                   1.24.0                 python  
 iniconfig                         2.0.0                  python  
 inkbird-ble                       0.5.6                  python  
-insteon-frontend-home-assistant   0.3.2                  python  
+insteon-frontend-home-assistant   0.3.3                  python  
 intelhex                          2.3.0                  python  
 intellifire4py                    2.2.2                  python  
 iotawattpy                        0.1.0                  python  
@@ -704,7 +704,7 @@ motionblinds                      0.6.17                 python
 motioneye-client                  0.3.14                 python  
 mpdecimal                         2.5.1-r1               apk     
 ms-cv                             0.1.1                  python  
-msgpack                           1.0.4                  python  
+msgpack                           1.0.5                  python  
 msrest                            0.7.1                  python  
 mt-940                            4.28.0                 python  
 mullvad-api                       1.0.0                  python  
@@ -813,7 +813,7 @@ pip                               22.0.4                 python
 pizzapi                           0.0.3                  python  
 pkce                              1.0.3                  python  
 pkgconf                           1.8.1-r0               apk     
-platformdirs                      3.0.0                  python  
+platformdirs                      3.1.0                  python  
 plexauth                          0.0.6                  python  
 plexwebsocket                     0.0.13                 python  
 pluggy                            1.0.0                  python  
@@ -833,7 +833,7 @@ procps                            3.3.17-r1              apk
 proliphix                         0.4.1                  python  
 prometheus-client                 0.7.1                  python  
 proto-plus                        1.22.2                 python  
-protobuf                          4.22.0                 python  
+protobuf                          4.22.1                 python  
 proxmoxer                         1.3.1                  python  
 psutil                            5.9.4                  python  
 psutil-home-assistant             0.0.1                  python  
@@ -935,7 +935,7 @@ pyephember                        0.3.1                  python
 pyeverlights                      0.1.0                  python  
 pyevilgenius                      2.0.0                  python  
 pyezviz                           0.2.0.9                python  
-pyfibaro                          0.6.8                  python  
+pyfibaro                          0.6.9                  python  
 pyfido                            2.1.2                  python  
 pyfireservicerota                 0.0.43                 python  
 pyflic                            2.0.3                  python  
@@ -955,7 +955,7 @@ pyhomeworks                       0.0.6                  python
 pyhumps                           3.8.0                  python  
 pyialarm                          2.2.0                  python  
 pyicloud                          1.0.0                  python  
-pyinsteon                         1.3.3                  python  
+pyinsteon                         1.3.4                  python  
 pyintesishome                     1.8.0                  python  
 pyipma                            3.0.6                  python  
 pyipp                             0.12.1                 python  
@@ -1068,7 +1068,7 @@ pysuez                            0.1.19                 python
 pyswitchbee                       1.7.19                 python  
 pytankerkoenig                    0.0.6                  python  
 pytautulli                        23.1.1                 python  
-pytest                            7.2.1                  python  
+pytest                            7.2.2                  python  
 pytest-cov                        4.0.0                  python  
 pytest-mock                       3.10.0                 python  
 pytest-rerunfailures              11.1.1                 python  
@@ -1213,7 +1213,7 @@ sensorpush-ble                    1.5.5                  python
 sentry-sdk                        1.13.0                 python  
 sepaxml                           2.6.1                  python  
 serialio                          2.4.0                  python  
-setuptools                        67.4.0                 python  
+setuptools                        67.6.0                 python  
 sfrbox-api                        0.0.6                  python  
 sgmllib3k                         1.0.0                  python  
 shadow                            4.10-r3                apk     
@@ -1234,7 +1234,7 @@ sleekxmppfs                       1.4.1                  python
 slixmpp                           1.8.3                  python  
 smart-meter-texas                 0.4.7                  python  
 smhi-pkg                          1.0.16                 python  
-snapcast                          2.3.0                  python  
+snapcast                          2.3.2                  python  
 sniffio                           1.3.0                  python  
 snitun                            0.31.0                 python  
 sockio                            0.15.0                 python  
@@ -1308,7 +1308,7 @@ tornado                           6.2                    python
 total-connect-client              2023.2                 python  
 tp-connected                      0.0.4                  python  
 tplink_omada_client               1.1.0                  python  
-tqdm                              4.64.1                 python  
+tqdm                              4.65.0                 python  
 transitions                       0.8.11                 python  
 transmission-rpc                  3.4.0                  python  
 ttls                              1.5.1                  python  
@@ -1391,7 +1391,7 @@ xbox-webapi                       2.0.11                 python
 xboxapi                           2.0.1                  python  
 xiaomi-ble                        0.16.4                 python  
 xknx                              2.6.0                  python  
-xmlschema                         2.2.1                  python  
+xmlschema                         2.2.2                  python  
 xmltodict                         0.13.0                 python  
 xs1-api-client                    3.0.0                  python  
 xvidcore                          1.3.7-r1               apk     
