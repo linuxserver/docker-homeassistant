@@ -1423,7 +1423,7 @@ zipp                              3.15.0                 python
 zlib                              1.2.12-r3              apk     
 zlib-dev                          1.2.12-r3              apk     
 zm-py                             0.5.2                  python  
-zope.interface                    5.5.2                  python  
+zope.interface                    6.0                    python  
 zstd-libs                         1.5.2-r1               apk     
 zwave-js-server-python            0.46.0                 python  
 zwave-me-ws                       0.3.1                  python  
