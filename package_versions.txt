@@ -21,7 +21,7 @@ HATasmota                         0.6.4                  python
 Hydrawiser                        0.2                    python  
 Jinja2                            3.1.2                  python  
 Js2Py                             0.74                   python  
-Markdown                          3.4.1                  python  
+Markdown                          3.4.2                  python  
 MarkupSafe                        2.1.2                  python  
 Mastodon.py                       1.5.1                  python  
 Pillow                            9.4.0                  python  
@@ -43,7 +43,7 @@ PyQRCode                          1.2.1                  python
 PyRIC                             0.1.6.3                python  
 PyRMVtransport                    0.3.3                  python  
 PySocks                           1.7.1                  python  
-PySwitchbot                       0.37.3                 python  
+PySwitchbot                       0.37.4                 python  
 PySwitchmate                      0.5.1                  python  
 PySyncThru                        0.7.10                 python  
 PyTransportNSW                    0.1.1                  python  
@@ -107,7 +107,7 @@ aioflo                            2021.11.0              python
 aioftp                            0.21.3                 python  
 aiogithubapi                      22.10.1                python  
 aioguardian                       2022.7.0               python  
-aioharmony                        0.2.9                  python  
+aioharmony                        0.2.10                 python  
 aiohomekit                        2.6.1                  python  
 aiohttp                           3.8.4                  python  
 aiohttp-cors                      0.7.0                  python  
@@ -123,7 +123,7 @@ aiolivisi                         0.0.15                 python
 aiolookin                         1.0.0                  python  
 aiolyric                          1.0.9                  python  
 aiomodernforms                    0.1.8                  python  
-aiomusiccast                      0.14.7                 python  
+aiomusiccast                      0.14.8                 python  
 aionanoleaf                       0.2.1                  python  
 aionotify                         0.2.0                  python  
 aionotion                         3.0.2                  python  
@@ -184,7 +184,7 @@ aqipy-atmotech                    0.1.5                  python
 aqualogic                         2.6                    python  
 aranet4                           2.1.3                  python  
 arcam-fmj                         1.2.1                  python  
-argcomplete                       2.1.1                  python  
+argcomplete                       3.0.4                  python  
 arris-tg2492lg                    1.2.1                  python  
 arrow                             1.2.3                  python  
 asmog                             0.0.6                  python  
@@ -203,7 +203,7 @@ asyncio-throttle                  1.0.2                  python
 asyncpysupla                      0.0.5                  python  
 asyncsleepiq                      1.2.3                  python  
 asyncssh                          2.13.1                 python  
-asyncstdlib                       3.10.5                 python  
+asyncstdlib                       3.10.6                 python  
 asynctest                         0.13.0                 python  
 atenpdu                           0.3.2                  python  
 atomicwrites-homeassistant        1.4.1                  python  
@@ -330,7 +330,7 @@ dbus-fast                         1.84.1                 python
 dbus-libs                         1.14.4-r0              apk     
 debugpy                           1.6.6                  python  
 decorator                         5.1.1                  python  
-deepdiff                          6.2.3                  python  
+deepdiff                          6.3.0                  python  
 deepmerge                         1.1.0                  python  
 defusedxml                        0.7.1                  python  
 deluge-client                     1.7.1                  python  
@@ -353,11 +353,11 @@ dwdwfsapi                         1.0.5                  python
 dweepy                            0.3.0                  python  
 dynalite-devices                  0.1.47                 python  
 eagle100                          0.1.1                  python  
-easyenergy                        0.1.2                  python  
+easyenergy                        0.2.2                  python  
 ebusdpy                           0.0.17                 python  
 ecdsa                             0.18.0                 python  
 ecoaliface                        0.4.0                  python  
-elementpath                       4.0.1                  python  
+elementpath                       4.1.0                  python  
 elgato                            4.0.1                  python  
 eliqonline                        1.2.2                  python  
 elkm1-lib                         2.2.1                  python  
@@ -385,7 +385,7 @@ evohome-async                     0.3.15                 python
 exceptiongroup                    1.1.1                  python  
 expat                             2.5.0-r0               apk     
 faadelays                         0.0.7                  python  
-fake-useragent                    1.1.1                  python  
+fake-useragent                    1.1.3                  python  
 fastdotcom                        0.0.3                  python  
 faust-cchardet                    2.1.18                 python  
 feedparser                        6.0.10                 python  
@@ -393,7 +393,7 @@ ffmpeg                            1.4                    python
 ffmpeg                            5.0.1-r1               apk     
 ffmpeg-libs                       5.0.1-r1               apk     
 file-read-backwards               2.0.0                  python  
-filelock                          3.10.0                 python  
+filelock                          3.10.2                 python  
 fints                             3.1.0                  python  
 fitbit                            0.3.1                  python  
 fivem-api                         0.1.2                  python  
@@ -447,7 +447,7 @@ google-auth-oauthlib              1.0.0                  python
 google-cloud-pubsub               2.13.11                python  
 google-cloud-texttospeech         2.12.3                 python  
 google-nest-sdm                   2.2.4                  python  
-googleapis-common-protos          1.58.0                 python  
+googleapis-common-protos          1.59.0                 python  
 googlemaps                        2.5.1                  python  
 goslide-api                       0.5.1                  python  
 govee-ble                         0.23.0                 python  
@@ -496,7 +496,7 @@ home-assistant-bluetooth          1.9.3                  python
 home-assistant-chip-clusters      2023.2.2               python  
 home-assistant-frontend           20230309.1             python  
 home-assistant-intents            2023.2.28              python  
-homeassistant                     2023.3.5               python  
+homeassistant                     2023.3.6               python  
 homeconnect                       0.7.2                  python  
 homematicip                       1.0.13                 python  
 homepluscontrol                   0.0.5                  python  
@@ -507,7 +507,7 @@ html5lib                          1.1                    python
 httmock                           1.4.0                  python  
 http-ece                          1.1.0                  python  
 httpcore                          0.16.3                 python  
-httplib2                          0.21.0                 python  
+httplib2                          0.22.0                 python  
 httpsig                           1.3.0                  python  
 httpx                             0.23.3                 python  
 huawei-lte-api                    1.6.11                 python  
@@ -517,7 +517,7 @@ hyperion-py                       0.7.5                  python
 iammeter                          0.1.7                  python  
 iaqualink                         0.5.0                  python  
 ibeacon-ble                       1.0.1                  python  
-ibm-cloud-sdk-core                3.16.2                 python  
+ibm-cloud-sdk-core                3.16.3                 python  
 ibm-watson                        5.2.2                  python  
 ibmiotf                           0.3.4                  python  
 ical                              4.2.9                  python  
@@ -528,8 +528,8 @@ idna                              3.4                    python
 ifaddr                            0.1.7                  python  
 iglo                              1.2.7                  python  
 ihcsdk                            2.7.6                  python  
-imageio                           2.26.0                 python  
-importlib-metadata                6.0.0                  python  
+imageio                           2.26.1                 python  
+importlib-metadata                6.1.0                  python  
 importlib-resources               5.12.0                 python  
 incomfort-client                  0.5.0                  python  
 incremental                       22.10.0                python  
@@ -553,7 +553,7 @@ itsdangerous                      2.1.2                  python
 janus                             1.0.0                  python  
 jaraco.abode                      3.3.0                  python  
 jaraco.classes                    3.2.3                  python  
-jaraco.collections                3.8.0                  python  
+jaraco.collections                3.9.0                  python  
 jaraco.context                    4.3.0                  python  
 jaraco.email                      3.1.0                  python  
 jaraco.functools                  3.6.0                  python  
@@ -603,7 +603,7 @@ libbsd                            0.11.6-r2              apk
 libbz2                            1.0.8-r1               apk     
 libc-utils                        0.7.2-r3               apk     
 libcap                            2.64-r0                apk     
-libcrypto1.1                      1.1.1t-r0              apk     
+libcrypto1.1                      1.1.1t-r1              apk     
 libcurl                           7.83.1-r6              apk     
 libdav1d                          1.0.0-r0               apk     
 libdrm                            2.4.110-r0             apk     
@@ -633,7 +633,7 @@ libsndfile                        1.1.0-r0               apk
 libsoundtouch                     0.8.0                  python  
 libsrt                            1.4.4-r0               apk     
 libssh                            0.9.6-r1               apk     
-libssl1.1                         1.1.1t-r0              apk     
+libssl1.1                         1.1.1t-r1              apk     
 libstdc++                         11.2.1_git20220219-r2  apk     
 libtasn1                          4.18.0-r1              apk     
 libtheora                         1.1.1-r16              apk     
@@ -773,13 +773,13 @@ opensensemap-api                  0.2.0                  python
 openssh-client-common             9.0_p1-r2              apk     
 openssh-client-default            9.0_p1-r2              apk     
 openssh-keygen                    9.0_p1-r2              apk     
-openssl                           1.1.1t-r0              apk     
-openssl-dev                       1.1.1t-r0              apk     
+openssl                           1.1.1t-r1              apk     
+openssl-dev                       1.1.1t-r1              apk     
 openwebifpy                       3.2.7                  python  
 openwrt-luci-rpc                  1.1.11                 python  
 openwrt-ubus-rpc                  0.0.2                  python  
 opus                              1.3.1-r1               apk     
-oralb-ble                         0.17.5                 python  
+oralb-ble                         0.17.6                 python  
 orc                               0.4.32-r0              apk     
 ordered-set                       4.0.2                  python  
 orjson                            3.8.7                  python  
@@ -827,7 +827,7 @@ pprintpp                          0.4.0                  python
 praw                              7.5.0                  python  
 prawcore                          2.3.0                  python  
 prayer-times-calculator           0.0.6                  python  
-pre-commit                        3.1.1                  python  
+pre-commit                        3.2.0                  python  
 prettytable                       3.6.0                  python  
 procps                            3.3.17-r1              apk     
 proliphix                         0.4.1                  python  
@@ -920,7 +920,7 @@ pycsspeechtts                     1.0.8                  python
 pycups                            2.0.1                  python  
 pydaikin                          2.9.0                  python  
 pydanfossair                      0.1.0                  python  
-pydantic                          1.10.6                 python  
+pydantic                          1.10.7                 python  
 pydeconz                          110                    python  
 pydelijn                          1.0.0                  python  
 pydexcom                          0.2.3                  python  
@@ -1157,7 +1157,7 @@ raspyrfm-client                   1.2.8                  python
 ratelimit                         2.2.1                  python  
 readline                          8.1.2-r0               apk     
 recurring-ical-events             2.0.2                  python  
-redis                             4.5.1                  python  
+redis                             4.5.3                  python  
 regenmaschine                     2022.11.0              python  
 regex                             2021.8.28              python  
 related                           0.7.3                  python  
@@ -1321,7 +1321,7 @@ typing-inspect                    0.8.0                  python
 typing_extensions                 4.5.0                  python  
 tzdata                            2022.7                 python  
 tzdata                            2022f-r1               apk     
-tzlocal                           4.2                    python  
+tzlocal                           4.3                    python  
 uModbus                           1.0.4                  python  
 uamqp                             1.6.0                  python  
 uasiren                           0.0.1                  python  
@@ -1399,7 +1399,7 @@ xz-libs                           5.2.5-r1               apk
 yagrc                             1.1.1                  python  
 yalesmartalarmclient              0.3.9                  python  
 yalexs                            1.2.7                  python  
-yalexs-ble                        2.0.4                  python  
+yalexs-ble                        2.1.1                  python  
 yarl                              1.8.1                  python  
 yeelight                          0.7.10                 python  
 yeelightsunflower                 0.0.10                 python  
