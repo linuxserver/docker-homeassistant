@@ -21,7 +21,7 @@ HATasmota                         0.6.4                  python
 Hydrawiser                        0.2                    python  
 Jinja2                            3.1.2                  python  
 Js2Py                             0.74                   python  
-Markdown                          3.4.2                  python  
+Markdown                          3.4.3                  python  
 MarkupSafe                        2.1.2                  python  
 Mastodon.py                       1.5.1                  python  
 Pillow                            9.4.0                  python  
@@ -324,7 +324,7 @@ dacite                            1.8.0                  python
 dataclasses-json                  0.5.3                  python  
 datadog                           0.15.0                 python  
 datapoint                         0.9.8                  python  
-dateparser                        1.1.7                  python  
+dateparser                        1.1.8                  python  
 dbus                              1.14.4-r0              apk     
 dbus-fast                         1.84.1                 python  
 dbus-libs                         1.14.4-r0              apk     
@@ -393,7 +393,7 @@ ffmpeg                            1.4                    python
 ffmpeg                            5.0.1-r1               apk     
 ffmpeg-libs                       5.0.1-r1               apk     
 file-read-backwards               2.0.0                  python  
-filelock                          3.10.2                 python  
+filelock                          3.10.3                 python  
 fints                             3.1.0                  python  
 fitbit                            0.3.1                  python  
 fivem-api                         0.1.2                  python  
@@ -441,7 +441,7 @@ goalzero                          0.2.1                  python
 goodwe                            0.2.25                 python  
 google-api-core                   2.11.0                 python  
 google-api-python-client          2.71.0                 python  
-google-auth                       2.16.2                 python  
+google-auth                       2.16.3                 python  
 google-auth-httplib2              0.1.0                  python  
 google-auth-oauthlib              1.0.0                  python  
 google-cloud-pubsub               2.13.11                python  
@@ -517,7 +517,7 @@ hyperion-py                       0.7.5                  python
 iammeter                          0.1.7                  python  
 iaqualink                         0.5.0                  python  
 ibeacon-ble                       1.0.1                  python  
-ibm-cloud-sdk-core                3.16.3                 python  
+ibm-cloud-sdk-core                3.16.5                 python  
 ibm-watson                        5.2.2                  python  
 ibmiotf                           0.3.4                  python  
 ical                              4.2.9                  python  
