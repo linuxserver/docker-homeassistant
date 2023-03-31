@@ -74,7 +74,7 @@ adb-shell                         0.4.3                  python
 adext                             0.4.2                  python  
 adguardhome                       0.6.1                  python  
 advantage-air                     0.4.1                  python  
-aenum                             3.1.11                 python  
+aenum                             3.1.12                 python  
 afsapi                            0.2.7                  python  
 agent-py                          0.0.23                 python  
 aio-geojson-client                0.18                   python  
@@ -184,7 +184,7 @@ aqipy-atmotech                    0.1.5                  python
 aqualogic                         2.6                    python  
 aranet4                           2.1.3                  python  
 arcam-fmj                         1.2.1                  python  
-argcomplete                       3.0.4                  python  
+argcomplete                       3.0.5                  python  
 arris-tg2492lg                    1.2.1                  python  
 arrow                             1.2.3                  python  
 asmog                             0.0.6                  python  
@@ -393,7 +393,7 @@ ffmpeg                            1.4                    python
 ffmpeg                            5.0.1-r1               apk     
 ffmpeg-libs                       5.0.1-r1               apk     
 file-read-backwards               2.0.0                  python  
-filelock                          3.10.3                 python  
+filelock                          3.10.7                 python  
 fints                             3.1.0                  python  
 fitbit                            0.3.1                  python  
 fivem-api                         0.1.2                  python  
@@ -404,7 +404,7 @@ flipr-api                         1.4.4                  python
 flux-led                          0.28.35                python  
 fnvhash                           0.1.0                  python  
 fontconfig                        2.14.0-r0              apk     
-fonttools                         4.39.2                 python  
+fonttools                         4.39.3                 python  
 foobot-async                      1.0.0                  python  
 forecast-solar                    2.2.0                  python  
 fortiosapi                        1.0.5                  python  
@@ -441,7 +441,7 @@ goalzero                          0.2.1                  python
 goodwe                            0.2.25                 python  
 google-api-core                   2.11.0                 python  
 google-api-python-client          2.71.0                 python  
-google-auth                       2.16.3                 python  
+google-auth                       2.17.1                 python  
 google-auth-httplib2              0.1.0                  python  
 google-auth-oauthlib              1.0.0                  python  
 google-cloud-pubsub               2.13.11                python  
@@ -523,12 +523,12 @@ ibmiotf                           0.3.4                  python
 ical                              4.2.9                  python  
 icalendar                         5.0.4                  python  
 icmplib                           3.0                    python  
-identify                          2.5.21                 python  
+identify                          2.5.22                 python  
 idna                              3.4                    python  
 ifaddr                            0.1.7                  python  
 iglo                              1.2.7                  python  
 ihcsdk                            2.7.6                  python  
-imageio                           2.26.1                 python  
+imageio                           2.27.0                 python  
 importlib-metadata                6.1.0                  python  
 importlib-resources               5.12.0                 python  
 incomfort-client                  0.5.0                  python  
@@ -553,7 +553,7 @@ itsdangerous                      2.1.2                  python
 janus                             1.0.0                  python  
 jaraco.abode                      3.3.0                  python  
 jaraco.classes                    3.2.3                  python  
-jaraco.collections                3.9.0                  python  
+jaraco.collections                4.0.0                  python  
 jaraco.context                    4.3.0                  python  
 jaraco.email                      3.1.0                  python  
 jaraco.functools                  3.6.0                  python  
@@ -603,7 +603,7 @@ libbsd                            0.11.6-r2              apk
 libbz2                            1.0.8-r1               apk     
 libc-utils                        0.7.2-r3               apk     
 libcap                            2.64-r0                apk     
-libcrypto1.1                      1.1.1t-r1              apk     
+libcrypto1.1                      1.1.1t-r2              apk     
 libcurl                           7.83.1-r6              apk     
 libdav1d                          1.0.0-r0               apk     
 libdrm                            2.4.110-r0             apk     
@@ -633,7 +633,7 @@ libsndfile                        1.1.0-r0               apk
 libsoundtouch                     0.8.0                  python  
 libsrt                            1.4.4-r0               apk     
 libssh                            0.9.6-r1               apk     
-libssl1.1                         1.1.1t-r1              apk     
+libssl1.1                         1.1.1t-r2              apk     
 libstdc++                         11.2.1_git20220219-r2  apk     
 libtasn1                          4.18.0-r1              apk     
 libtheora                         1.1.1-r16              apk     
@@ -678,7 +678,7 @@ matplotlib                        3.6.1                  python
 matrix-client                     0.4.0                  python  
 maxcube-api                       0.4.3                  python  
 mbddns                            0.1.2                  python  
-mbedtls                           2.28.2-r0              apk     
+mbedtls                           2.28.3-r0              apk     
 mcstatus                          6.0.0                  python  
 meater-python                     0.0.8                  python  
 mechanize                         0.4.8                  python  
@@ -706,7 +706,7 @@ mpdecimal                         2.5.1-r1               apk
 ms-cv                             0.1.1                  python  
 msgpack                           1.0.5                  python  
 msrest                            0.7.1                  python  
-mt-940                            4.28.0                 python  
+mt-940                            4.29.0                 python  
 mullvad-api                       1.0.0                  python  
 multidict                         6.0.4                  python  
 munch                             2.5.0                  python  
@@ -773,8 +773,8 @@ opensensemap-api                  0.2.0                  python
 openssh-client-common             9.0_p1-r2              apk     
 openssh-client-default            9.0_p1-r2              apk     
 openssh-keygen                    9.0_p1-r2              apk     
-openssl                           1.1.1t-r1              apk     
-openssl-dev                       1.1.1t-r1              apk     
+openssl                           1.1.1t-r2              apk     
+openssl-dev                       1.1.1t-r2              apk     
 openwebifpy                       3.2.7                  python  
 openwrt-luci-rpc                  1.1.11                 python  
 openwrt-ubus-rpc                  0.0.2                  python  
@@ -813,7 +813,7 @@ pip                               22.0.4                 python
 pizzapi                           0.0.3                  python  
 pkce                              1.0.3                  python  
 pkgconf                           1.8.1-r0               apk     
-platformdirs                      3.1.1                  python  
+platformdirs                      3.2.0                  python  
 plexauth                          0.0.6                  python  
 plexwebsocket                     0.0.13                 python  
 pluggy                            1.0.0                  python  
@@ -827,7 +827,7 @@ pprintpp                          0.4.0                  python
 praw                              7.5.0                  python  
 prawcore                          2.3.0                  python  
 prayer-times-calculator           0.0.6                  python  
-pre-commit                        3.2.0                  python  
+pre-commit                        3.2.1                  python  
 prettytable                       3.6.0                  python  
 procps                            3.3.17-r1              apk     
 proliphix                         0.4.1                  python  
@@ -1126,7 +1126,7 @@ pytouchline                       0.7                    python
 pytraccar                         1.0.0                  python  
 pytradfri                         9.0.1                  python  
 pytrafikverket                    0.2.3                  python  
-pytz                              2022.7.1               python  
+pytz                              2023.3                 python  
 pytz-deprecation-shim             0.1.0.post0            python  
 pyudev                            0.23.2                 python  
 pyunifiprotect                    4.7.0                  python  
@@ -1157,7 +1157,7 @@ raspyrfm-client                   1.2.8                  python
 ratelimit                         2.2.1                  python  
 readline                          8.1.2-r0               apk     
 recurring-ical-events             2.0.2                  python  
-redis                             4.5.3                  python  
+redis                             4.5.4                  python  
 regenmaschine                     2022.11.0              python  
 regex                             2021.8.28              python  
 related                           0.7.3                  python  
@@ -1213,7 +1213,7 @@ sensorpush-ble                    1.5.5                  python
 sentry-sdk                        1.13.0                 python  
 sepaxml                           2.6.1                  python  
 serialio                          2.4.0                  python  
-setuptools                        67.6.0                 python  
+setuptools                        67.6.1                 python  
 sfrbox-api                        0.0.6                  python  
 sgmllib3k                         1.0.0                  python  
 shadow                            4.10-r3                apk     
@@ -1294,7 +1294,7 @@ thermobeacon-ble                  0.6.0                  python
 thermopro-ble                     0.4.5                  python  
 thermoworks-smoke                 0.1.8                  python  
 thingspeak                        1.0.0                  python  
-tiff                              4.4.0-r0               apk     
+tiff                              4.4.0-r1               apk     
 tikteck                           0.4                    python  
 tilt-ble                          0.2.3                  python  
 titlecase                         2.4                    python  
@@ -1316,11 +1316,11 @@ twentemilieu                      0.6.1                  python
 twilio                            6.32.0                 python  
 twitchAPI                         2.5.2                  python  
 typer                             0.7.0                  python  
-types-PyYAML                      6.0.12.8               python  
+types-PyYAML                      6.0.12.9               python  
 typing-inspect                    0.8.0                  python  
 typing_extensions                 4.5.0                  python  
-tzdata                            2022.7                 python  
-tzdata                            2022f-r1               apk     
+tzdata                            2023.3                 python  
+tzdata                            2023b-r1               apk     
 tzlocal                           4.3                    python  
 uModbus                           1.0.4                  python  
 uamqp                             1.6.0                  python  
@@ -1369,7 +1369,7 @@ watchdog                          2.2.1                  python
 waterfurnace                      1.1.0                  python  
 wayland-libs-client               1.20.0-r0              apk     
 wcwidth                           0.2.6                  python  
-webcolors                         1.12                   python  
+webcolors                         1.13                   python  
 webencodings                      0.5.1                  python  
 webexteamssdk                     1.1.1                  python  
 websocket-client                  1.5.1                  python  
