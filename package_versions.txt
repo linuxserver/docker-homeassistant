@@ -530,7 +530,7 @@ ifaddr                            0.1.7                  python
 iglo                              1.2.7                  python  
 ihcsdk                            2.8.5                  python  
 imageio                           2.27.0                 python  
-importlib-metadata                6.2.0                  python  
+importlib-metadata                6.2.1                  python  
 importlib-resources               5.12.0                 python  
 incomfort-client                  0.5.0                  python  
 incremental                       22.10.0                python  
