@@ -116,7 +116,7 @@ aioimaplib                        1.0.1                  python
 aioitertools                      0.11.0                 python  
 aiokafka                          0.7.2                  python  
 aiokef                            0.2.16                 python  
-aiolifx                           0.8.9                  python  
+aiolifx                           0.8.10                 python  
 aiolifx-effects                   0.3.2                  python  
 aiolifx-themes                    0.4.5                  python  
 aiolivisi                         0.0.19                 python  
@@ -495,9 +495,9 @@ hole                              0.8.0                  python
 holidays                          0.21.13                python  
 home-assistant-bluetooth          1.9.3                  python  
 home-assistant-chip-clusters      2023.2.2               python  
-home-assistant-frontend           20230411.0             python  
+home-assistant-frontend           20230411.1             python  
 home-assistant-intents            2023.3.29              python  
-homeassistant                     2023.4.3               python  
+homeassistant                     2023.4.4               python  
 homeconnect                       0.7.2                  python  
 homematicip                       1.0.13                 python  
 homepluscontrol                   0.0.5                  python  
@@ -522,7 +522,7 @@ ibm-cloud-sdk-core                3.16.5                 python
 ibm-watson                        5.2.2                  python  
 ibmiotf                           0.3.4                  python  
 ical                              4.5.1                  python  
-icalendar                         5.0.4                  python  
+icalendar                         5.0.5                  python  
 icmplib                           3.0                    python  
 identify                          2.5.22                 python  
 idna                              3.4                    python  
@@ -706,7 +706,7 @@ mpdecimal                         2.5.1-r1               apk
 ms-cv                             0.1.1                  python  
 msgpack                           1.0.5                  python  
 msrest                            0.7.1                  python  
-mt-940                            4.29.0                 python  
+mt-940                            4.30.0                 python  
 mullvad-api                       1.0.0                  python  
 multidict                         6.0.4                  python  
 munch                             2.5.0                  python  
@@ -1090,7 +1090,7 @@ python-family-hub-local           0.0.2                  python
 python-fullykiosk                 0.0.12                 python  
 python-gc100                      1.0.3a0                python  
 python-gitlab                     1.6.0                  python  
-python-homewizard-energy          1.8.0                  python  
+python-homewizard-energy          2.0.1                  python  
 python-hpilo                      4.3                    python  
 python-http-client                3.3.7                  python  
 python-izone                      1.2.9                  python  
