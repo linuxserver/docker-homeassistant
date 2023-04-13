@@ -133,7 +133,7 @@ aiopulse                          0.4.3                  python
 aiopurpleair                      2022.12.1              python  
 aiopvapi                          2.0.4                  python  
 aiopvpc                           4.1.0                  python  
-aiopyarr                          22.11.0                python  
+aiopyarr                          23.4.0                 python  
 aioqsw                            0.3.2                  python  
 aiorecollect                      1.0.8                  python  
 aioridwell                        2023.1.0               python  
@@ -225,7 +225,7 @@ bash                              5.1.16-r2              apk
 batinfo                           0.4.2                  python  
 bcrypt                            4.0.1                  python  
 beautifulsoup4                    4.11.1                 python  
-bellows                           0.35.0                 python  
+bellows                           0.35.1                 python  
 bimmer-connected                  0.13.0                 python  
 bitarray                          2.7.3                  python  
 bitstring                         4.0.1                  python  
@@ -264,7 +264,7 @@ btsocket                          0.2.0                  python
 buienradar                        1.0.5                  python  
 busybox                           1.35.0                 binary  
 busybox                           1.35.0-r17             apk     
-bx-py-utils                       76                     python  
+bx-py-utils                       78                     python  
 bytecode                          0.13.0.dev0            python  
 ca-certificates                   20220614-r0            apk     
 ca-certificates-bundle            20220614-r0            apk     
@@ -370,7 +370,7 @@ energyzero                        0.4.1                  python
 enocean                           0.50.0                 python  
 enturclient                       0.2.4                  python  
 enum-compat                       0.0.3                  python  
-env-canada                        0.5.31                 python  
+env-canada                        0.5.32                 python  
 envoy-reader                      0.20.1                 python  
 envoy-utils                       0.0.1                  python  
 envs                              1.4                    python  
@@ -442,7 +442,7 @@ goalzero                          0.2.1                  python
 goodwe                            0.2.30                 python  
 google-api-core                   2.11.0                 python  
 google-api-python-client          2.71.0                 python  
-google-auth                       2.17.2                 python  
+google-auth                       2.17.3                 python  
 google-auth-httplib2              0.1.0                  python  
 google-auth-oauthlib              1.0.0                  python  
 google-cloud-pubsub               2.13.11                python  
@@ -495,9 +495,9 @@ hole                              0.8.0                  python
 holidays                          0.21.13                python  
 home-assistant-bluetooth          1.9.3                  python  
 home-assistant-chip-clusters      2023.2.2               python  
-home-assistant-frontend           20230406.1             python  
+home-assistant-frontend           20230411.0             python  
 home-assistant-intents            2023.3.29              python  
-homeassistant                     2023.4.2               python  
+homeassistant                     2023.4.3               python  
 homeconnect                       0.7.2                  python  
 homematicip                       1.0.13                 python  
 homepluscontrol                   0.0.5                  python  
@@ -833,7 +833,7 @@ procps                            3.3.17-r1              apk
 proliphix                         0.4.1                  python  
 prometheus-client                 0.7.1                  python  
 proto-plus                        1.22.2                 python  
-protobuf                          4.22.1                 python  
+protobuf                          4.22.3                 python  
 proxmoxer                         2.0.1                  python  
 psutil                            5.9.4                  python  
 psutil-home-assistant             0.0.1                  python  
@@ -1119,7 +1119,7 @@ python-telegram-bot               13.1                   python
 python-vlc                        1.1.2                  python  
 python3                           3.10.11-r0             apk     
 pythonegardia                     1.0.40                 python  
-pytile                            2022.2.0               python  
+pytile                            2023.4.0               python  
 pytomorrowio                      0.3.5                  python  
 pytouchline                       0.7                    python  
 pytraccar                         1.0.0                  python  
@@ -1322,7 +1322,7 @@ tzlocal                           4.3                    python
 uModbus                           1.0.4                  python  
 uamqp                             1.6.0                  python  
 uasiren                           0.0.1                  python  
-ulid-transform                    0.6.0                  python  
+ulid-transform                    0.6.3                  python  
 ultraheat-api                     0.5.1                  python  
 unasync                           0.5.0                  python  
 unifi-discovery                   1.1.7                  python  
@@ -1409,10 +1409,10 @@ zeep                              4.2.1                  python
 zengge                            0.2                    python  
 zeroconf                          0.56.0                 python  
 zeversolar                        0.3.1                  python  
-zha-quirks                        0.0.96                 python  
+zha-quirks                        0.0.97                 python  
 zhong-hong-hvac                   1.0.9                  python  
 ziggo-mediabox-xl                 1.1.0                  python  
-zigpy                             0.54.0                 python  
+zigpy                             0.54.1                 python  
 zigpy-deconz                      0.20.0                 python  
 zigpy-xbee                        0.17.0                 python  
 zigpy-zigate                      0.10.3                 python  
