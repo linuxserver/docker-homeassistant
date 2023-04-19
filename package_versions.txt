@@ -51,7 +51,7 @@ PyTurboJPEG                       1.6.7                  python
 PyViCare                          2.21.0                 python  
 PyXiaomiGateway                   0.14.3                 python  
 PyYAML                            6.0                    python  
-Pygments                          2.15.0                 python  
+Pygments                          2.15.1                 python  
 Pypubsub                          4.0.3                  python  
 Pyrebase4                         4.6.0                  python  
 Pysher                            1.0.7                  python  
@@ -394,7 +394,7 @@ ffmpeg                            1.4                    python
 ffmpeg                            5.0.3-r0               apk     
 ffmpeg-libs                       5.0.3-r0               apk     
 file-read-backwards               2.0.0                  python  
-filelock                          3.11.0                 python  
+filelock                          3.12.0                 python  
 fints                             3.1.0                  python  
 fitbit                            0.3.1                  python  
 fivem-api                         0.1.2                  python  
@@ -530,7 +530,7 @@ ifaddr                            0.1.7                  python
 iglo                              1.2.7                  python  
 ihcsdk                            2.8.5                  python  
 imageio                           2.27.0                 python  
-importlib-metadata                6.4.1                  python  
+importlib-metadata                6.5.0                  python  
 importlib-resources               5.12.0                 python  
 incomfort-client                  0.5.0                  python  
 incremental                       22.10.0                python  
@@ -1371,7 +1371,7 @@ webcolors                         1.13                   python
 webencodings                      0.5.1                  python  
 webexteamssdk                     1.1.1                  python  
 websocket-client                  1.5.1                  python  
-websockets                        11.0.1                 python  
+websockets                        11.0.2                 python  
 wheel                             0.40.0                 python  
 whirlpool-sixth-sense             0.18.2                 python  
 whois                             0.9.27                 python  
