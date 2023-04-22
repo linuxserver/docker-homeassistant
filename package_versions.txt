@@ -142,7 +142,7 @@ aioruuvigateway                   0.0.2                  python
 aiosenseme                        0.6.1                  python  
 aiosenz                           1.0.0                  python  
 aioserial                         1.3.0                  python  
-aioshelly                         5.3.1                  python  
+aioshelly                         5.3.2                  python  
 aioshutil                         1.3                    python  
 aiosignal                         1.3.1                  python  
 aioskybell                        22.7.0                 python  
@@ -497,7 +497,7 @@ home-assistant-bluetooth          1.9.3                  python
 home-assistant-chip-clusters      2023.2.2               python  
 home-assistant-frontend           20230411.1             python  
 home-assistant-intents            2023.3.29              python  
-homeassistant                     2023.4.5               python  
+homeassistant                     2023.4.6               python  
 homeconnect                       0.7.2                  python  
 homematicip                       1.0.13                 python  
 homepluscontrol                   0.0.5                  python  
@@ -672,7 +672,7 @@ mac-vendor-lookup                 0.1.12                 python
 mariadb-connector-c               3.1.13-r4              apk     
 mariadb-connector-c-dev           3.1.13-r4              apk     
 marshmallow                       3.19.0                 python  
-marshmallow-dataclass             8.5.12                 python  
+marshmallow-dataclass             8.5.13                 python  
 marshmallow-enum                  1.5.1                  python  
 matplotlib                        3.6.1                  python  
 matrix-client                     0.4.0                  python  
@@ -890,8 +890,8 @@ pyaes                             1.6.1                  python
 pyaftership                       21.11.0                python  
 pyairnow                          1.2.1                  python  
 pyairvisual                       2022.12.1              python  
-pyasn1                            0.4.8                  python  
-pyasn1-modules                    0.2.8                  python  
+pyasn1                            0.5.0                  python  
+pyasn1-modules                    0.3.0                  python  
 pyatag                            0.3.5.3                python  
 pyatmo                            7.5.0                  python  
 pyatv                             0.10.3                 python  
@@ -955,7 +955,7 @@ pyhomeworks                       0.0.6                  python
 pyhumps                           3.8.0                  python  
 pyialarm                          2.2.0                  python  
 pyicloud                          1.0.0                  python  
-pyinsteon                         1.4.1                  python  
+pyinsteon                         1.4.2                  python  
 pyintesishome                     1.8.0                  python  
 pyipma                            3.0.6                  python  
 pyipp                             0.12.1                 python  
@@ -979,7 +979,7 @@ pylaunches                        1.3.0                  python
 pylgnetcast                       0.3.7                  python  
 pylibrespot-java                  0.1.1                  python  
 pylitejet                         0.5.0                  python  
-pylitterbot                       2023.1.2               python  
+pylitterbot                       2023.4.0               python  
 pylutron                          0.2.8                  python  
 pylutron-caseta                   0.18.1                 python  
 pymailgunner                      1.4                    python  
@@ -1054,7 +1054,7 @@ pysmarty                          0.7                    python
 pysmarty                          0.8                    python  
 pysmb                             1.2.9.1                python  
 pysmi                             0.3.4                  python  
-pysml                             0.0.9                  python  
+pysml                             0.0.10                 python  
 pysnmp                            4.4.12                 python  
 pysnmp-pyasn1                     1.1.3                  python  
 pysnmp-pysmi                      1.1.10                 python  
@@ -1113,7 +1113,7 @@ python-ripple-api                 0.0.3                  python
 python-slugify                    4.0.1                  python  
 python-smarttub                   0.0.33                 python  
 python-socketio                   4.6.1                  python  
-python-songpal                    0.15.1                 python  
+python-songpal                    0.15.2                 python  
 python-tado                       0.12.0                 python  
 python-telegram-bot               13.1                   python  
 python-vlc                        1.1.2                  python  
@@ -1160,7 +1160,7 @@ redis                             4.5.4                  python
 regenmaschine                     2022.11.0              python  
 regex                             2021.8.28              python  
 related                           0.7.3                  python  
-renault-api                       0.1.12                 python  
+renault-api                       0.1.13                 python  
 reolink-aio                       0.5.10                 python  
 repoze.lru                        0.7                    python  
 requests                          2.28.2                 python  
@@ -1211,7 +1211,7 @@ sensorpush-ble                    1.5.5                  python
 sentry-sdk                        1.16.0                 python  
 sepaxml                           2.6.1                  python  
 serialio                          2.4.0                  python  
-setuptools                        67.6.1                 python  
+setuptools                        67.7.1                 python  
 sfrbox-api                        0.0.6                  python  
 sgmllib3k                         1.0.0                  python  
 shadow                            4.10-r3                apk     
@@ -1301,7 +1301,7 @@ todoist-api-python                2.0.2                  python
 tololib                           0.1.0b4                python  
 tomli                             2.0.1                  python  
 toonapi                           0.2.1                  python  
-tornado                           6.3                    python  
+tornado                           6.3.1                  python  
 total-connect-client              2023.2                 python  
 tp-connected                      0.0.4                  python  
 tplink_omada_client               1.1.4                  python  
@@ -1348,7 +1348,7 @@ venstarcolortouch                 0.19                   python
 vidstab                           1.1.0-r1               apk     
 vilfo-api-client                  0.3.2                  python  
 vincenty                          0.1.4                  python  
-virtualenv                        20.21.0                python  
+virtualenv                        20.22.0                python  
 vobject                           0.9.6.1                python  
 vol                               0.1.1                  python  
 volkszaehler                      0.4.0                  python  
