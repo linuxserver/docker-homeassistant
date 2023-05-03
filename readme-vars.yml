@@ -61,6 +61,7 @@ unraid_template_sync: false
 
 # changelog
 changelogs:
+  - { date: "03.05.23:", desc: "Deprecate arm32v7. Latest HA version with an arm32v7 build is `2023.4.6`." }
   - { date: "16.11.22:", desc: "Fix the dep conflict for google calendar." }
   - { date: "23.09.22:", desc: "Migrate to s6v3." }
   - { date: "29.07.22:", desc: "Improve usb device permission fix." }
