@@ -15,7 +15,7 @@ DateTime                          5.1                    python
 Deprecated                        1.2.13                 python  
 DoorBirdPy                        2.1.0                  python  
 Events                            0.4                    python  
-Flask                             2.3.1                  python  
+Flask                             2.3.2                  python  
 HAP-python                        4.6.0                  python  
 HATasmota                         0.6.4                  python  
 Hydrawiser                        0.2                    python  
@@ -65,7 +65,7 @@ TravisPy                          0.3.5                  python
 TwitterAPI                        2.7.12                 python  
 WSDiscovery                       2.0.0                  python  
 WazeRouteCalculator               0.14                   python  
-Werkzeug                          2.3.0                  python  
+Werkzeug                          2.3.3                  python  
 XlsxWriter                        3.1.0                  python  
 accuweather                       0.5.0                  python  
 acme                              1.31.0                 python  
@@ -203,7 +203,7 @@ asyncio-throttle                  1.0.2                  python
 asyncpysupla                      0.0.5                  python  
 asyncsleepiq                      1.2.3                  python  
 asyncssh                          2.13.1                 python  
-asyncstdlib                       3.10.6                 python  
+asyncstdlib                       3.10.7                 python  
 asynctest                         0.13.0                 python  
 atenpdu                           0.3.2                  python  
 atomicwrites-homeassistant        1.4.1                  python  
@@ -278,7 +278,7 @@ certifi                           2022.12.7              python
 cffi                              1.15.1                 python  
 cfgv                              3.3.1                  python  
 chacha20poly1305                  0.0.3                  python  
-chacha20poly1305-reuseable        0.2.2                  python  
+chacha20poly1305-reuseable        0.2.5                  python  
 charset-normalizer                3.1.0                  python  
 circuit-webhook                   1.0.1                  python  
 ciscomobilityexpress              0.3.9                  python  
@@ -308,7 +308,7 @@ contourpy                         1.0.7                  python
 convertdate                       2.4.0                  python  
 coreutils                         9.1-r0                 apk     
 coronavirus                       1.1.1                  python  
-coverage                          7.2.3                  python  
+coverage                          7.2.5                  python  
 crc16                             0.1.1                  python  
 crccheck                          1.3.0                  python  
 crcmod                            1.7                    python  
@@ -530,7 +530,7 @@ idna                              3.4                    python
 ifaddr                            0.1.7                  python  
 iglo                              1.2.7                  python  
 ihcsdk                            2.8.5                  python  
-imageio                           2.28.0                 python  
+imageio                           2.28.1                 python  
 importlib-metadata                6.6.0                  python  
 importlib-resources               5.12.0                 python  
 incomfort-client                  0.5.0                  python  
@@ -673,7 +673,7 @@ mac-vendor-lookup                 0.1.12                 python
 mariadb-connector-c               3.1.13-r4              apk     
 mariadb-connector-c-dev           3.1.13-r4              apk     
 marshmallow                       3.19.0                 python  
-marshmallow-dataclass             8.5.13                 python  
+marshmallow-dataclass             8.5.14                 python  
 marshmallow-enum                  1.5.1                  python  
 matplotlib                        3.6.1                  python  
 matrix-client                     0.4.0                  python  
@@ -814,7 +814,7 @@ pip                               22.0.4                 python
 pizzapi                           0.0.3                  python  
 pkce                              1.0.3                  python  
 pkgconf                           1.8.1-r0               apk     
-platformdirs                      3.3.0                  python  
+platformdirs                      3.5.0                  python  
 plexauth                          0.0.6                  python  
 plexwebsocket                     0.0.13                 python  
 pluggy                            1.0.0                  python  
@@ -828,7 +828,7 @@ pprintpp                          0.4.0                  python
 praw                              7.5.0                  python  
 prawcore                          2.3.0                  python  
 prayer-times-calculator           0.0.6                  python  
-pre-commit                        3.2.2                  python  
+pre-commit                        3.3.1                  python  
 prettytable                       3.7.0                  python  
 procps                            3.3.17-r1              apk     
 proliphix                         0.4.1                  python  
@@ -1169,7 +1169,7 @@ requests-file                     1.5.1                  python
 requests-futures                  1.0.0                  python  
 requests-oauth                    0.4.1                  python  
 requests-oauthlib                 1.3.1                  python  
-requests-toolbelt                 0.10.1                 python  
+requests-toolbelt                 1.0.0                  python  
 retry2                            0.9.5                  python  
 retrying                          1.3.3                  python  
 rfc3986                           1.5.0                  python  
@@ -1349,7 +1349,7 @@ venstarcolortouch                 0.19                   python
 vidstab                           1.1.0-r1               apk     
 vilfo-api-client                  0.3.2                  python  
 vincenty                          0.1.4                  python  
-virtualenv                        20.22.0                python  
+virtualenv                        20.23.0                python  
 vobject                           0.9.6.1                python  
 vol                               0.1.1                  python  
 volkszaehler                      0.4.0                  python  
