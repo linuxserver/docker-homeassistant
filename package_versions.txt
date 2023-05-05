@@ -126,7 +126,7 @@ aiomodernforms                    0.1.8                  python
 aiomusiccast                      0.14.8                 python  
 aionanoleaf                       0.2.1                  python  
 aionotify                         0.2.0                  python  
-aionotion                         2023.4.2               python  
+aionotion                         2023.5.0               python  
 aiooncue                          0.3.4                  python  
 aioopenexchangerates              0.4.0                  python  
 aiopulse                          0.4.3                  python  
@@ -239,7 +239,7 @@ blinkpy                           0.19.2                 python
 blockchain                        1.4.4                  python  
 bluemaestro-ble                   0.2.3                  python  
 bluetooth-adapters                0.15.3                 python  
-bluetooth-auto-recovery           1.1.1                  python  
+bluetooth-auto-recovery           1.1.2                  python  
 bluetooth-data-tools              0.4.0                  python  
 bluetooth-sensor-state-data       1.6.1                  python  
 bluez                             5.65-r0                apk     
@@ -355,7 +355,7 @@ easyenergy                        0.3.0                  python
 ebusdpy                           0.0.17                 python  
 ecdsa                             0.18.0                 python  
 ecoaliface                        0.4.0                  python  
-elementpath                       4.1.1                  python  
+elementpath                       4.1.2                  python  
 elgato                            4.0.1                  python  
 eliqonline                        1.2.2                  python  
 elkm1-lib                         2.2.1                  python  
@@ -493,9 +493,9 @@ hole                              0.8.0                  python
 holidays                          0.21.13                python  
 home-assistant-bluetooth          1.10.0                 python  
 home-assistant-chip-clusters      2023.2.2               python  
-home-assistant-frontend           20230503.1             python  
+home-assistant-frontend           20230503.2             python  
 home-assistant-intents            2023.4.26              python  
-homeassistant                     2023.5.0               python  
+homeassistant                     2023.5.1               python  
 homeconnect                       0.7.2                  python  
 homematicip                       1.0.14                 python  
 homepluscontrol                   0.0.5                  python  
