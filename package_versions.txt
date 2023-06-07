@@ -22,7 +22,7 @@ Hydrawiser                        0.2                    python
 Jinja2                            3.1.2                  python  
 Js2Py                             0.74                   python  
 Markdown                          3.4.3                  python  
-MarkupSafe                        2.1.2                  python  
+MarkupSafe                        2.1.3                  python  
 Mastodon.py                       1.5.1                  python  
 Pillow                            9.5.0                  python  
 PlexAPI                           4.13.2                 python  
@@ -205,7 +205,7 @@ asyncio-throttle                  1.0.2                  python
 asyncpysupla                      0.0.5                  python  
 asyncsleepiq                      1.3.5                  python  
 asyncssh                          2.13.1                 python  
-asyncstdlib                       3.10.7                 python  
+asyncstdlib                       3.10.8                 python  
 asynctest                         0.13.0                 python  
 atomicwrites-homeassistant        1.4.1                  python  
 attrs                             22.2.0                 python  
@@ -215,7 +215,7 @@ autocommand                       2.2.2                  python
 avahi-libs                        0.8-r6                 apk     
 awesomeversion                    22.9.0                 python  
 axis                              47                     python  
-azure-core                        1.26.4                 python  
+azure-core                        1.27.0                 python  
 azure-eventhub                    5.11.1                 python  
 backoff                           2.2.1                  python  
 baidu-aip                         1.6.6.0                python  
@@ -264,7 +264,7 @@ btsocket                          0.2.0                  python
 buienradar                        1.0.5                  python  
 busybox                           1.35.0                 binary  
 busybox                           1.35.0-r17             apk     
-bx-py-utils                       82                     python  
+bx-py-utils                       83                     python  
 bytecode                          0.13.0.dev0            python  
 ca-certificates                   20230506-r0            apk     
 ca-certificates-bundle            20230506-r0            apk     
@@ -316,16 +316,16 @@ crownstone-sse                    2.0.4                  python
 crownstone-uart                   2.1.0                  python  
 cryptography                      40.0.2                 python  
 cssselect                         1.2.0                  python  
-cups-libs                         2.4.2-r0               apk     
-curl                              8.1.1-r1               apk     
+cups-libs                         2.4.2-r1               apk     
+curl                              8.1.2-r0               apk     
 cycler                            0.11.0                 python  
 dacite                            1.8.1                  python  
 datadog                           0.15.0                 python  
 datapoint                         0.9.8                  python  
 dateparser                        1.1.8                  python  
-dbus                              1.14.4-r0              apk     
+dbus                              1.14.8-r0              apk     
 dbus-fast                         1.85.0                 python  
-dbus-libs                         1.14.4-r0              apk     
+dbus-libs                         1.14.8-r0              apk     
 debugpy                           1.6.7                  python  
 decorator                         5.1.1                  python  
 deepdiff                          6.3.0                  python  
@@ -440,7 +440,7 @@ goalzero                          0.2.1                  python
 goodwe                            0.2.31                 python  
 google-api-core                   2.11.0                 python  
 google-api-python-client          2.71.0                 python  
-google-auth                       2.19.0                 python  
+google-auth                       2.19.1                 python  
 google-auth-httplib2              0.1.0                  python  
 google-auth-oauthlib              1.0.0                  python  
 google-cloud-pubsub               2.13.11                python  
@@ -516,7 +516,7 @@ hyperion-py                       0.7.5                  python
 iammeter                          0.1.7                  python  
 iaqualink                         0.5.0                  python  
 ibeacon-ble                       1.0.1                  python  
-ibm-cloud-sdk-core                3.16.6                 python  
+ibm-cloud-sdk-core                3.16.7                 python  
 ibm-watson                        5.2.2                  python  
 ibmiotf                           0.3.4                  python  
 ical                              4.5.1                  python  
@@ -527,7 +527,7 @@ idna                              3.4                    python
 ifaddr                            0.1.7                  python  
 iglo                              1.2.7                  python  
 ihcsdk                            2.8.5                  python  
-imageio                           2.30.0                 python  
+imageio                           2.31.0                 python  
 importlib-metadata                6.6.0                  python  
 importlib-resources               5.12.0                 python  
 incomfort-client                  0.5.0                  python  
@@ -552,7 +552,7 @@ itsdangerous                      2.1.2                  python
 janus                             1.0.0                  python  
 jaraco.abode                      3.3.0                  python  
 jaraco.classes                    3.2.3                  python  
-jaraco.collections                4.1.0                  python  
+jaraco.collections                4.2.0                  python  
 jaraco.context                    4.3.0                  python  
 jaraco.email                      3.1.0                  python  
 jaraco.functools                  3.7.0                  python  
@@ -603,7 +603,7 @@ libbz2                            1.0.8-r1               apk
 libc-utils                        0.7.2-r3               apk     
 libcap                            2.64-r1                apk     
 libcrypto1.1                      1.1.1u-r1              apk     
-libcurl                           8.1.1-r1               apk     
+libcurl                           8.1.2-r0               apk     
 libdav1d                          1.0.0-r0               apk     
 libdrm                            2.4.110-r0             apk     
 libecpg                           14.8-r0                apk     
@@ -690,7 +690,7 @@ mficlient                         0.3.0                  python
 micloud                           0.5                    python  
 mill-local                        0.2.0                  python  
 millheater                        0.10.0                 python  
-miniaudio                         1.58                   python  
+miniaudio                         1.59                   python  
 minio                             7.1.12                 python  
 moat-ble                          0.1.1                  python  
 mock                              5.0.2                  python  
@@ -1288,7 +1288,7 @@ thermobeacon-ble                  0.6.0                  python
 thermopro-ble                     0.4.5                  python  
 thermoworks-smoke                 0.1.8                  python  
 thingspeak                        1.0.0                  python  
-tiff                              4.4.0-r1               apk     
+tiff                              4.4.0-r3               apk     
 tikteck                           0.4                    python  
 tilt-ble                          0.2.3                  python  
 titlecase                         2.4                    python  
@@ -1311,7 +1311,7 @@ twilio                            6.32.0                 python
 twitchAPI                         2.5.2                  python  
 typer                             0.7.0                  python  
 typing-inspect                    0.9.0                  python  
-typing_extensions                 4.6.2                  python  
+typing_extensions                 4.6.3                  python  
 tzdata                            2023.3                 python  
 tzdata                            2023c-r0               apk     
 tzlocal                           5.0.1                  python  
