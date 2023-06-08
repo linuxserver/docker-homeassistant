@@ -64,7 +64,7 @@ TravisPy                          0.3.5                   python
 TwitterAPI                        2.7.12                  python  
 WSDiscovery                       2.0.0                   python  
 WazeRouteCalculator               0.14                    python  
-Werkzeug                          2.3.5                   python  
+Werkzeug                          2.3.6                   python  
 XlsxWriter                        3.1.2                   python  
 accuweather                       1.0.0                   python  
 acme                              1.31.0                  python  
