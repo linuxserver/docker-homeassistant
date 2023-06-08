@@ -6,3 +6,4 @@ lsiown -R abc:abc \
     /config
 find /lsiopy -path /lsiopy/lib/python3.11/site-packages -prune -o -exec chown abc:abc {} +
 lsiown abc:abc /lsiopy/lib/python3.11/site-packages
+lsiown -R abc:abc /lsiopy/lib/python3.11/site-packages/{test,tests}
