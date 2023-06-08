@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-alpine:3.16
+FROM ghcr.io/linuxserver/baseimage-alpine:3.18
 
 # set version label
 ARG BUILD_DATE
@@ -10,13 +10,11 @@ LABEL maintainer="saarg, roxedus"
 
 # environment settings
 ENV \
-  PIPFLAGS="--no-cache-dir --use-deprecated=legacy-resolver --find-links https://wheel-index.linuxserver.io/alpine-3.16/ --find-links https://wheel-index.linuxserver.io/homeassistant-3.16/" \
+  PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine-3.18/ --find-links https://wheel-index.linuxserver.io/homeassistant-3.18/" \
   PYTHONPATH="${PYTHONPATH}:/pip-packages"
 
 # copy local files
 COPY root/ /
-
-#https://github.com/home-assistant/core/pull/59769
 
 # install packages
 RUN \
@@ -69,11 +67,11 @@ RUN \
     /tmp/core && \
   if [ -z ${HASS_RELEASE+x} ]; then \
     HASS_RELEASE=$(curl -sX GET https://api.github.com/repos/home-assistant/core/releases/latest \
-    | jq -r .tag_name); \
+      | jq -r .tag_name); \
   fi && \
   curl -o \
-  /tmp/core.tar.gz -L \
-  "https://github.com/home-assistant/core/archive/${HASS_RELEASE}.tar.gz" && \
+    /tmp/core.tar.gz -L \
+    "https://github.com/home-assistant/core/archive/${HASS_RELEASE}.tar.gz" && \
   tar xf \
     /tmp/core.tar.gz -C \
     /tmp/core --strip-components=1 && \
@@ -81,8 +79,7 @@ RUN \
     | grep 'amd64: ' \
     | cut -d: -f3) && \
   mkdir -p /pip-packages && \
-  pip install --target /pip-packages --no-cache-dir --upgrade \
-    distlib && \
+  python3 -m venv /lsiopy && \
   pip install --no-cache-dir --upgrade \
     cython \
     "pip>=21.0,<22.1" \
@@ -107,7 +104,7 @@ RUN \
     build-dependencies && \
   for cleanfiles in *.pyc *.pyo; \
     do \
-    find /usr/lib/python3.*  -iname "${cleanfiles}" -exec rm -f '{}' + \
+    find /lsiopy/lib/python3.*  -iname "${cleanfiles}" -exec rm -f '{}' + \
     ; done && \
   rm -rf \
     /tmp/* \
