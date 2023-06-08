@@ -79,7 +79,7 @@ RUN \
     | grep 'amd64: ' \
     | cut -d: -f3) && \
   mkdir -p /pip-packages && \
-  python3 -m venv /lsipoy && \
+  python3 -m venv /lsiopy && \
   pip install --no-cache-dir --upgrade \
     cython \
     "pip>=21.0,<22.1" \
