@@ -187,7 +187,7 @@ aqipy-atmotech                    0.1.5                   python
 aqualogic                         2.6                     python  
 aranet4                           2.1.3                   python  
 arcam-fmj                         1.3.0                   python  
-argcomplete                       3.0.8                   python  
+argcomplete                       3.1.1                   python  
 arris-tg2492lg                    1.2.1                   python  
 arrow                             1.2.3                   python  
 asmog                             0.0.6                   python  
@@ -216,7 +216,7 @@ autocommand                       2.2.2                   python
 avahi-libs                        0.8-r13                 apk     
 awesomeversion                    22.9.0                  python  
 axis                              48                      python  
-azure-core                        1.27.0                  python  
+azure-core                        1.27.1                  python  
 azure-eventhub                    5.11.1                  python  
 azure-servicebus                  7.10.0                  python  
 backoff                           2.2.1                   python  
@@ -228,7 +228,7 @@ bcrypt                            4.0.1                   python
 beautifulsoup4                    4.11.1                  python  
 bellows                           0.35.5                  python  
 bimmer-connected                  0.13.6                  python  
-bitarray                          2.7.4                   python  
+bitarray                          2.7.5                   python  
 bitstring                         4.0.2                   python  
 bitstruct                         8.17.0                  python  
 bizkaibus                         0.1.1                   python  
@@ -267,7 +267,7 @@ buienradar                        1.0.5                   python
 busybox                           1.36.1                  binary  
 busybox                           1.36.1-r0               apk     
 busybox-binsh                     1.36.1-r0               apk     
-bx-py-utils                       83                      python  
+bx-py-utils                       84                      python  
 bytecode                          0.13.0.dev0             python  
 ca-certificates                   20230506-r0             apk     
 ca-certificates-bundle            20230506-r0             apk     
@@ -304,7 +304,7 @@ config                            0.5.1                   python
 connect-box                       0.2.8                   python  
 connio                            0.2.0                   python  
 construct                         2.10.56                 python  
-contourpy                         1.0.7                   python  
+contourpy                         1.1.0                   python  
 convertdate                       2.4.0                   python  
 coreutils                         9.3-r1                  apk     
 coverage                          7.2.7                   python  
@@ -318,7 +318,7 @@ crownstone-sse                    2.0.4                   python
 crownstone-uart                   2.1.0                   python  
 cryptography                      40.0.2                  python  
 cssselect                         1.2.0                   python  
-cups-libs                         2.4.4-r0                apk     
+cups-libs                         2.4.5-r0                apk     
 curl                              8.1.2-r0                apk     
 cycler                            0.11.0                  python  
 dacite                            1.8.1                   python  
@@ -401,7 +401,7 @@ ffmpeg-libpostproc                6.0-r14                 apk
 ffmpeg-libswresample              6.0-r14                 apk     
 ffmpeg-libswscale                 6.0-r14                 apk     
 file-read-backwards               2.0.0                   python  
-filelock                          3.12.0                  python  
+filelock                          3.12.2                  python  
 fints                             3.1.0                   python  
 fitbit                            0.3.1                   python  
 fivem-api                         0.1.2                   python  
@@ -413,7 +413,7 @@ flux-led                          0.28.37                 python
 fnv-hash-fast                     0.3.1                   python  
 fnvhash                           0.1.0                   python  
 fontconfig                        2.14.2-r3               apk     
-fonttools                         4.39.4                  python  
+fonttools                         4.40.0                  python  
 foobot-async                      1.0.0                   python  
 forecast-solar                    3.0.0                   python  
 fortiosapi                        1.0.5                   python  
@@ -451,14 +451,14 @@ goodwe                            0.2.31                  python
 google-ai-generativelanguage      0.2.0                   python  
 google-api-core                   2.11.0                  python  
 google-api-python-client          2.71.0                  python  
-google-auth                       2.19.1                  python  
+google-auth                       2.20.0                  python  
 google-auth-httplib2              0.1.0                   python  
 google-auth-oauthlib              1.0.0                   python  
 google-cloud-pubsub               2.13.11                 python  
 google-cloud-texttospeech         2.12.3                  python  
 google-generativeai               0.1.0rc2                python  
 google-nest-sdm                   2.2.4                   python  
-googleapis-common-protos          1.59.0                  python  
+googleapis-common-protos          1.59.1                  python  
 googlemaps                        2.5.1                   python  
 goslide-api                       0.5.1                   python  
 govee-ble                         0.23.0                  python  
@@ -539,7 +539,7 @@ idna                              3.4                     python
 ifaddr                            0.2.0                   python  
 iglo                              1.2.7                   python  
 ihcsdk                            2.8.5                   python  
-imageio                           2.31.0                  python  
+imageio                           2.31.1                  python  
 importlib-metadata                6.6.0                   python  
 importlib-resources               5.12.0                  python  
 incomfort-client                  0.5.0                   python  
@@ -561,7 +561,7 @@ iputils-ping                      20221126-r2             apk
 iputils-tracepath                 20221126-r2             apk     
 ismartgate                        5.0.0                   python  
 iso4217                           1.11.20220401           python  
-iso8601                           1.1.0                   python  
+iso8601                           2.0.0                   python  
 isodate                           0.6.1                   python  
 itsdangerous                      2.1.2                   python  
 janus                             1.0.0                   python  
@@ -841,7 +841,7 @@ pip                               23.1.2                  python
 pizzapi                           0.0.3                   python  
 pkce                              1.0.3                   python  
 pkgconf                           1.9.5-r0                apk     
-platformdirs                      3.5.1                   python  
+platformdirs                      3.5.3                   python  
 plexauth                          0.0.6                   python  
 plexwebsocket                     0.0.13                  python  
 pluggy                            1.0.0                   python  
@@ -855,8 +855,8 @@ pprintpp                          0.4.0                   python
 praw                              7.5.0                   python  
 prawcore                          2.3.0                   python  
 prayer-times-calculator           0.0.6                   python  
-pre-commit                        3.3.2                   python  
-prettytable                       3.7.0                   python  
+pre-commit                        3.3.3                   python  
+prettytable                       3.8.0                   python  
 procps-ng                         4.0.3-r1                apk     
 proliphix                         0.4.1                   python  
 prometheus-client                 0.7.1                   python  
@@ -1091,7 +1091,7 @@ pysuez                            0.1.19                  python
 pyswitchbee                       1.8.0                   python  
 pytankerkoenig                    0.0.6                   python  
 pytautulli                        23.1.1                  python  
-pytest                            7.3.1                   python  
+pytest                            7.3.2                   python  
 pytest-cov                        4.1.0                   python  
 pytest-mock                       3.10.0                  python  
 pytest-rerunfailures              11.1.2                  python  
@@ -1231,7 +1231,7 @@ semver                            3.0.0                   python
 sendgrid                          6.8.2                   python  
 sense-energy                      0.11.2                  python  
 sensirion-ble                     0.0.1                   python  
-sensor-state-data                 2.15.1                  python  
+sensor-state-data                 2.16.0                  python  
 sensorpro-ble                     0.5.3                   python  
 sensorpush-ble                    1.5.5                   python  
 sentry-sdk                        1.23.1                  python  
@@ -1315,7 +1315,7 @@ tellduslive                       0.10.11                 python
 tellsticknet                      0.1.2                   python  
 temescal                          0.5                     python  
 temperusb                         1.6.0                   python  
-tempora                           5.2.2                   python  
+tempora                           5.3.0                   python  
 tenacity                          8.2.2                   python  
 tesla-powerwall                   0.3.19                  python  
 tesla-wall-connector              1.0.2                   python  
@@ -1404,7 +1404,7 @@ webcolors                         1.13                    python
 webencodings                      0.5.1                   python  
 webexteamssdk                     1.1.1                   python  
 webrtcvad                         2.0.10                  python  
-websocket-client                  1.5.2                   python  
+websocket-client                  1.5.3                   python  
 websockets                        11.0.3                  python  
 wheel                             0.40.0                  python  
 whirlpool-sixth-sense             0.18.3                  python  
