@@ -1,9 +1,15 @@
 #!/usr/bin/with-contenv bash
 # shellcheck shell=bash
 
+# Create secondary venv in /config for pip installs
+if [[ ! -d /config/lsiopy/bin ]]; then
+  mkdir -p /config/lsiopy
+  python3 -m venv /config/lsiopy
+fi
+if ! grep -q '/config/lsiopy/bin' /var/run/s6/container_environment/PATH; then
+  sed -i '1s|^|/config/lsiopy/bin:|' /var/run/s6/container_environment/PATH
+fi
+
 # set permissions
 lsiown -R abc:abc \
     /config
-find /lsiopy -path /lsiopy/lib/python3.11/site-packages -prune -o -exec chown abc:abc {} +
-lsiown abc:abc /lsiopy/lib/python3.11/site-packages
-lsiown -R abc:abc /lsiopy/lib/python3.11/site-packages/{test,tests}
