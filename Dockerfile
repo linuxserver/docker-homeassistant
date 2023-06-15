@@ -10,8 +10,9 @@ LABEL maintainer="saarg, roxedus"
 
 # environment settings
 ENV \
+  PATH="/config/lsiopy/bin:${PATH}" \
   PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine-3.18/ --find-links https://wheel-index.linuxserver.io/homeassistant-3.18/" \
-  PYTHONPATH="${PYTHONPATH}:/pip-packages"
+  PYTHONPATH="/config/lsiopy/lib/python3.11/site-packages:/lsiopy/lib/python3.11/site-packages"
 
 # copy local files
 COPY root/ /
@@ -78,7 +79,6 @@ RUN \
   HASS_BASE=$(cat /tmp/core/build.yaml \
     | grep 'amd64: ' \
     | cut -d: -f3) && \
-  mkdir -p /pip-packages && \
   python3 -m venv /lsiopy && \
   pip install --no-cache-dir --upgrade \
     cython \
@@ -94,6 +94,7 @@ RUN \
     -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
   pip install ${PIPFLAGS} \
     -r requirements_all.txt && \
+  PYTHONPATH="" pip uninstall -y asyncio || : && \
   pip install ${PIPFLAGS} \
     homeassistant==${HASS_RELEASE} && \
   pip install ${PIPFLAGS} \

@@ -3,12 +3,13 @@
 
 # Create secondary venv in /config for pip installs
 if [[ ! -d /config/lsiopy/bin ]]; then
-  mkdir -p /config/lsiopy
-  python3 -m venv /config/lsiopy
+  s6-setuidgid abc python3 -m venv /config/lsiopy
 fi
-if ! grep -q '/config/lsiopy/bin' /var/run/s6/container_environment/PATH; then
-  sed -i '1s|^|/config/lsiopy/bin:|' /var/run/s6/container_environment/PATH
-fi
+s6-setuidgid abc /config/lsiopy/bin/pip install \
+    --no-cache-dir --upgrade \
+    "pip>=21.0,<22.1" \
+    setuptools \
+    wheel
 
 # set permissions
 lsiown -R abc:abc \
