@@ -3,8 +3,10 @@
 
 # Create secondary venv in /config for pip installs
 if [[ ! -d /config/lsiopy/bin ]]; then
+  echo "Creating venv in /config/lsiopy for runtime use"
   s6-setuidgid abc python3 -m venv /config/lsiopy
 fi
+echo "Updating pip to HA supported version"
 s6-setuidgid abc /config/lsiopy/bin/pip install \
     --no-cache-dir --upgrade \
     "pip>=21.0,<22.1" \
@@ -12,5 +14,6 @@ s6-setuidgid abc /config/lsiopy/bin/pip install \
     wheel
 
 # set permissions
+echo "Setting permissions"
 lsiown -R abc:abc \
     /config
