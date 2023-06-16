@@ -1378,7 +1378,7 @@ venstarcolortouch                 0.19                    python
 vidstab                           1.1.1-r0                apk     
 vilfo-api-client                  0.4.1                   python  
 vincenty                          0.1.4                   python  
-virtualenv                        20.23.0                 python  
+virtualenv                        20.23.1                 python  
 vobject                           0.9.6.1                 python  
 voip-utils                        0.0.7                   python  
 vol                               0.1.1                   python  
