@@ -12,7 +12,8 @@ LABEL maintainer="saarg, roxedus"
 ENV \
   PATH="/config/lsiopy/bin:${PATH}" \
   PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine-3.18/ --find-links https://wheel-index.linuxserver.io/homeassistant-3.18/" \
-  PYTHONPATH="/config/lsiopy/lib/python3.11/site-packages:/lsiopy/lib/python3.11/site-packages"
+  PYTHONPATH="/config/lsiopy/lib/python3.11/site-packages:/lsiopy/lib/python3.11/site-packages" \
+  PIP_DISABLE_PIP_VERSION_CHECK=1
 
 # copy local files
 COPY root/ /
