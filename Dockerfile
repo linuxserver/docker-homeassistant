@@ -89,6 +89,7 @@ RUN \
     wheel && \
   cd /tmp/core && \
   NUMPY_VER=$(grep "numpy" requirements_all.txt) && \
+  PYCUPS_VER=$(grep "pycups" requirements_all.txt | sed 's|.*==||') && \
   pip install ${PIPFLAGS} \
     "${NUMPY_VER}" && \
   pip install ${PIPFLAGS} \
@@ -96,11 +97,10 @@ RUN \
   pip install ${PIPFLAGS} \
     -r requirements_all.txt && \
   PYTHONPATH="" pip uninstall -y asyncio || : && \
+  pip wheel --wheel-dir=/build ${PIPFLAGS} --only-binary cmake \
+    pycups==${PYCUPS_VER} && \
   pip install ${PIPFLAGS} \
     homeassistant==${HASS_RELEASE} && \
-  pip install ${PIPFLAGS} \
-    pycups \
-    PySwitchbot && \
   echo "**** cleanup ****" && \
   apk del --purge \
     build-dependencies && \
