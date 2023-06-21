@@ -842,7 +842,7 @@ pkgconf                           1.9.5-r0                apk
 platformdirs                      3.7.0                   python  
 plexauth                          0.0.6                   python  
 plexwebsocket                     0.0.13                  python  
-pluggy                            1.0.0                   python  
+pluggy                            1.2.0                   python  
 plugwise                          0.31.1                  python  
 plumbum                           1.8.2                   python  
 plumlightpad                      0.0.11                  python  
@@ -942,7 +942,7 @@ pycrc16                           0.1.2                   python
 pycryptodome                      3.17                    python  
 pycryptodomex                     3.18.0                  python  
 pycsspeechtts                     1.0.8                   python  
-pycups                            2.0.1                   python  
+pycups                            1.9.73                  python  
 pydaikin                          2.9.0                   python  
 pydanfossair                      0.1.0                   python  
 pydantic                          1.10.9                  python  
