@@ -97,7 +97,7 @@ RUN \
   pip install ${PIPFLAGS} \
     -r requirements_all.txt && \
   PYTHONPATH="" pip uninstall -y asyncio || : && \
-  pip wheel --wheel-dir=/build ${PIPFLAGS} --only-binary cmake \
+  pip install ${PIPFLAGS} \
     pycups==${PYCUPS_VER} && \
   pip install ${PIPFLAGS} \
     homeassistant==${HASS_RELEASE} && \
