@@ -61,6 +61,7 @@ unraid_template_sync: false
 
 # changelog
 changelogs:
+  - { date: "21.06.23:", desc: "Pin pycups version." }
   - { date: "14.06.23:", desc: "Create secondary venv in `/config` for pip installs." }
   - { date: "07.06.23:", desc: "Rebase to alpine 3.18, switch to cp311 wheels." }
   - { date: "03.05.23:", desc: "Deprecate arm32v7. Latest HA version with an arm32v7 build is `2023.4.6`." }
