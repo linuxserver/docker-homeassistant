@@ -16,7 +16,7 @@ Deprecated                        1.2.14                  python
 DoorBirdPy                        2.1.0                   python  
 Events                            0.4                     python  
 Flask                             2.3.2                   python  
-HAP-python                        4.6.0                   python  
+HAP-python                        4.7.0                   python  
 HATasmota                         0.6.5                   python  
 Hydrawiser                        0.2                     python  
 Jinja2                            3.1.2                   python  
@@ -73,7 +73,7 @@ adb-shell                         0.4.3                   python
 adext                             0.4.2                   python  
 adguardhome                       0.6.1                   python  
 advantage-air                     0.4.4                   python  
-aenum                             3.1.12                  python  
+aenum                             3.1.14                  python  
 afsapi                            0.2.7                   python  
 agent-py                          0.0.23                  python  
 aio-geojson-client                0.18                    python  
@@ -85,7 +85,7 @@ aio-geojson-usgs-earthquakes      0.2                     python
 aio-georss-client                 0.11                    python  
 aio-georss-gdacs                  0.8                     python  
 aioairq                           0.2.4                   python  
-aioairzone                        0.6.3                   python  
+aioairzone                        0.6.4                   python  
 aioairzone-cloud                  0.1.8                   python  
 aioambient                        2023.4.0                python  
 aioaseko                          0.0.2                   python  
@@ -204,7 +204,7 @@ asyncio-mqtt                      0.16.1                  python
 asyncio-throttle                  1.0.2                   python  
 asyncpysupla                      0.0.5                   python  
 asyncsleepiq                      1.3.5                   python  
-asyncssh                          2.13.1                  python  
+asyncssh                          2.13.2                  python  
 asyncstdlib                       3.10.8                  python  
 asynctest                         0.13.0                  python  
 atomicwrites-homeassistant        1.4.1                   python  
@@ -226,7 +226,7 @@ batinfo                           0.4.2                   python
 bcrypt                            4.0.1                   python  
 beautifulsoup4                    4.11.1                  python  
 bellows                           0.35.5                  python  
-bimmer-connected                  0.13.6                  python  
+bimmer-connected                  0.13.7                  python  
 bitarray                          2.7.5                   python  
 bitstring                         4.0.2                   python  
 bitstruct                         8.17.0                  python  
@@ -258,7 +258,7 @@ brottsplatskartan                 0.0.1                   python
 brunt                             1.2.0                   python  
 bs4                               0.0.1                   python  
 bt-proximity                      0.2.1                   python  
-bthome-ble                        2.11.3                  python  
+bthome-ble                        2.12.0                  python  
 bthomehub5-devicelist             0.1.1                   python  
 btsmarthub-devicelist             0.2.3                   python  
 btsocket                          0.2.0                   python  
@@ -316,7 +316,7 @@ crownstone-sse                    2.0.4                   python
 crownstone-uart                   2.1.0                   python  
 cryptography                      40.0.2                  python  
 cssselect                         1.2.0                   python  
-cups-libs                         2.4.5-r0                apk     
+cups-libs                         2.4.6-r0                apk     
 curl                              8.1.2-r0                apk     
 cycler                            0.11.0                  python  
 dacite                            1.8.1                   python  
@@ -389,15 +389,15 @@ fastdotcom                        0.0.3                   python
 faust-cchardet                    2.1.18                  python  
 feedparser                        6.0.10                  python  
 ffmpeg                            1.4                     python  
-ffmpeg                            6.0-r14                 apk     
-ffmpeg-libavcodec                 6.0-r14                 apk     
-ffmpeg-libavdevice                6.0-r14                 apk     
-ffmpeg-libavfilter                6.0-r14                 apk     
-ffmpeg-libavformat                6.0-r14                 apk     
-ffmpeg-libavutil                  6.0-r14                 apk     
-ffmpeg-libpostproc                6.0-r14                 apk     
-ffmpeg-libswresample              6.0-r14                 apk     
-ffmpeg-libswscale                 6.0-r14                 apk     
+ffmpeg                            6.0-r15                 apk     
+ffmpeg-libavcodec                 6.0-r15                 apk     
+ffmpeg-libavdevice                6.0-r15                 apk     
+ffmpeg-libavfilter                6.0-r15                 apk     
+ffmpeg-libavformat                6.0-r15                 apk     
+ffmpeg-libavutil                  6.0-r15                 apk     
+ffmpeg-libpostproc                6.0-r15                 apk     
+ffmpeg-libswresample              6.0-r15                 apk     
+ffmpeg-libswscale                 6.0-r15                 apk     
 file-read-backwards               2.0.0                   python  
 filelock                          3.12.2                  python  
 fints                             3.1.0                   python  
@@ -405,7 +405,7 @@ fitbit                            0.3.1                   python
 fivem-api                         0.1.2                   python  
 fixerio                           1.0.0a0                 python  
 fjaraskupan                       2.2.0                   python  
-flac-libs                         1.4.2-r2                apk     
+flac-libs                         1.4.3-r0                apk     
 flipr-api                         1.5.0                   python  
 flux-led                          0.28.37                 python  
 fnv-hash-fast                     0.3.1                   python  
@@ -503,10 +503,10 @@ hlk-sw16                          0.0.9                   python
 hole                              0.8.0                   python  
 holidays                          0.21.13                 python  
 home-assistant-bluetooth          1.10.0                  python  
-home-assistant-chip-clusters      2023.5.2                python  
+home-assistant-chip-clusters      2023.6.0                python  
 home-assistant-frontend           20230608.0              python  
 home-assistant-intents            2023.6.5                python  
-homeassistant                     2023.6.2                python  
+homeassistant                     2023.6.3                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.14                  python  
 homepluscontrol                   0.0.5                   python  
@@ -529,7 +529,7 @@ iammeter                          0.1.7                   python
 iaqualink                         0.5.0                   python  
 ibeacon-ble                       1.0.1                   python  
 ibmiotf                           0.3.4                   python  
-ical                              4.5.1                   python  
+ical                              4.5.4                   python  
 icalendar                         5.0.7                   python  
 icmplib                           3.0                     python  
 identify                          2.5.24                  python  
@@ -592,7 +592,7 @@ kafka-python                      2.0.2                   python
 kaiterra-async-client             1.0.0                   python  
 keba-kecontact                    1.1.0                   python  
 kegtron-ble                       0.4.0                   python  
-keyring                           24.0.0                  python  
+keyring                           24.1.0                  python  
 keyrings.alt                      4.2.0                   python  
 kiwiki-client                     0.1.1                   python  
 kiwisolver                        1.4.4                   python  
@@ -839,7 +839,7 @@ pip                               23.1.2                  python
 pizzapi                           0.0.3                   python  
 pkce                              1.0.3                   python  
 pkgconf                           1.9.5-r0                apk     
-platformdirs                      3.7.0                   python  
+platformdirs                      3.8.0                   python  
 plexauth                          0.0.6                   python  
 plexwebsocket                     0.0.13                  python  
 pluggy                            1.2.0                   python  
@@ -858,7 +858,7 @@ prettytable                       3.8.0                   python
 procps-ng                         4.0.3-r1                apk     
 proliphix                         0.4.1                   python  
 prometheus-client                 0.7.1                   python  
-proto-plus                        1.22.2                  python  
+proto-plus                        1.22.3                  python  
 protobuf                          4.23.1                  python  
 proxmoxer                         2.0.1                   python  
 psutil                            5.9.5                   python  
@@ -1091,7 +1091,7 @@ pysuez                            0.1.19                  python
 pyswitchbee                       1.8.0                   python  
 pytankerkoenig                    0.0.6                   python  
 pytautulli                        23.1.1                  python  
-pytest                            7.3.2                   python  
+pytest                            7.4.0                   python  
 pytest-cov                        4.1.0                   python  
 pytest-mock                       3.11.1                  python  
 pytest-rerunfailures              11.1.2                  python  
@@ -1123,7 +1123,7 @@ python-juicenet                   1.1.0                   python
 python-jwt                        4.0.0                   python  
 python-kasa                       0.5.1                   python  
 python-magic                      0.4.27                  python  
-python-matter-server              3.4.1                   python  
+python-matter-server              3.5.1                   python  
 python-miio                       0.5.12                  python  
 python-mpd2                       3.0.5                   python  
 python-mystrom                    2.2.0                   python  
@@ -1179,7 +1179,7 @@ quantum-gateway                   0.0.8                   python
 radios                            0.1.1                   python  
 radiotherm                        2.1.0                   python  
 raincloudy                        0.0.7                   python  
-rapt-ble                          0.1.1                   python  
+rapt-ble                          0.1.2                   python  
 raspyrfm-client                   1.2.8                   python  
 ratelimit                         2.2.1                   python  
 readline                          8.2.1-r1                apk     
@@ -1299,7 +1299,7 @@ stringcase                        1.2.0                   python
 subarulink                        0.7.6                   python  
 sunwatcher                        0.2.1                   python  
 surepy                            0.8.0                   python  
-svt-av1-libs                      1.5.0-r0                apk     
+svt-av1-libs                      1.6.0-r0                apk     
 swisshydrodata                    0.1.0                   python  
 synology-srm                      0.2.0                   python  
 systembridgeconnector             3.4.8                   python  
@@ -1404,7 +1404,7 @@ webcolors                         1.13                    python
 webencodings                      0.5.1                   python  
 webexteamssdk                     1.1.1                   python  
 webrtcvad                         2.0.10                  python  
-websocket-client                  1.6.0                   python  
+websocket-client                  1.6.1                   python  
 websockets                        11.0.3                  python  
 wheel                             0.40.0                  python  
 whirlpool-sixth-sense             0.18.3                  python  
