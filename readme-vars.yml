@@ -4,16 +4,12 @@
 project_name: homeassistant
 project_url: "https://www.home-assistant.io/"
 project_logo: "https://github.com/home-assistant/home-assistant.io/raw/next/source/images/favicon-192x192-full.png"
-project_blurb: |
-  [Home Assistant Core]({{ project_url }}) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. 
+project_blurb: "[Home Assistant Core]({{ project_url }}) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. \n"
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
-
 # supported architectures
 available_architectures:
-  - { arch: "{{ arch_x86_64 }}", tag: "amd64-latest"}
-  - { arch: "{{ arch_arm64 }}", tag: "arm64v8-latest"}
-  - { arch: "{{ arch_armhf }}", tag: "arm32v7-latest"}
-
+  - {arch: "{{ arch_x86_64 }}", tag: "amd64-latest"}
+  - {arch: "{{ arch_arm64 }}", tag: "arm64v8-latest"}
 # optional block 1
 optional_block_1: true
 optional_block_1_items:
@@ -28,60 +24,56 @@ optional_block_1_items:
     [hb1]: https://en.wikipedia.org/wiki/Zero-configuration_networking
     [hb2]: https://en.wikipedia.org/wiki/Multicast_DNS
     [hb3]: https://en.wikipedia.org/wiki/Universal_Plug_and_Play
-
 # container parameters
 param_container_name: "{{ project_name }}"
 param_usage_include_vols: true
 param_volumes:
-  - { vol_path: "/config", vol_host_path: "/path/to/data", desc: "Home Assistant config storage path." }
+  - {vol_path: "/config", vol_host_path: "/path/to/data", desc: "Home Assistant config storage path."}
 param_usage_include_env: true
 param_env_vars:
-  - { env_var: "TZ", env_value: "Europe/London", desc: "Specify your TimeZone e.g. Europe/London." }
+  - {env_var: "TZ", env_value: "Europe/London", desc: "Specify your TimeZone e.g. Europe/London."}
 param_usage_include_ports: false
 param_usage_include_net: true
 param_net: "host"
 param_net_desc: "Shares host networking with container. Required for some devices to be discovered by Home Assistant."
-
 # optional container parameters
 opt_param_usage_include_ports: true
 opt_param_ports:
-  - { external_port: "8123", internal_port: "8123", port_desc: "Application WebUI, only use this if you are not using host mode." }
+  - {external_port: "8123", internal_port: "8123", port_desc: "Application WebUI, only use this if you are not using host mode."}
 opt_param_device_map: true
 opt_param_devices:
-  - { device_path: "/path/to/device", device_host_path: "/path/to/device", desc: "For passing through USB, serial or gpio devices." }
-
+  - {device_path: "/path/to/device", device_host_path: "/path/to/device", desc: "For passing through USB, serial or gpio devices."}
 # application setup block
 app_setup_block_enabled: true
 app_setup_block: |
   This image is based on Home Assistant Core.
-  
+
   The Webui can be found at `http://your-ip:8123`. Follow the wizard to set up Home Assistant.
-
 unraid_template_sync: false
-
 # changelog
 changelogs:
-  - { date: "21.06.23:", desc: "Pin pycups version." }
-  - { date: "14.06.23:", desc: "Create secondary venv in `/config` for pip installs." }
-  - { date: "07.06.23:", desc: "Rebase to alpine 3.18, switch to cp311 wheels." }
-  - { date: "03.05.23:", desc: "Deprecate arm32v7. Latest HA version with an arm32v7 build is `2023.4.6`." }
-  - { date: "16.11.22:", desc: "Fix the dep conflict for google calendar." }
-  - { date: "23.09.22:", desc: "Migrate to s6v3." }
-  - { date: "29.07.22:", desc: "Improve usb device permission fix." }
-  - { date: "07.07.22:", desc: "Rebase to alpine 3.16, switch to cp310 wheels." }
-  - { date: "07.05.22:", desc: "Build matplotlib with the same Numpy version as HA req." }
-  - { date: "31.03.22:", desc: "Install pycups." }
-  - { date: "07.03.22:", desc: "Install PySwitchbot." }
-  - { date: "02.03.22:", desc: "Update pip and use legacy resolver, clean up temp python files, reduce image size." }
-  - { date: "04.02.22:", desc: "Always compile grpcio on arm32v7 due to pypi pushing a glibc only wheel." }
-  - { date: "12.12.21:", desc: "Use the new `build.yaml` to determine HA base version." }
-  - { date: "25.09.21:", desc: "Use the new lsio homeassistant wheel repo, instead of the HA wheels." }
-  - { date: "13.09.21:", desc: "Build psycopg locally as the HA provided wheel does not seem to work properly." }
-  - { date: "13.09.21:", desc: "Fix setcap in service. Build CISO8601 locally as the HA provided wheel does not seem to work properly." }
-  - { date: "12.09.21:", desc: "Rebase to alpine 3.14. Build on native armhf." }
-  - { date: "09.08.21:", desc: "Fixed broken build caused by missing dependency." }
-  - { date: "01.07.21:", desc: "Remove HACS dependencies as it caused a crash in Home-assistant." }
-  - { date: "25.02.21:", desc: "Add python dependencies from homeassistant base image." }
-  - { date: "07.02.21:", desc: "Fix building from the wrong requirement file. Add ssh client & external DB libs." }
-  - { date: "06.02.21:", desc: "Add iputils so ping works as non root user." }
-  - { date: "30.01.21:", desc: "Initial Release." }
+  - {date: "05.07.23:", desc: "Deprecate armhf. As announced [here](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)"}
+  - {date: "21.06.23:", desc: "Pin pycups version."}
+  - {date: "14.06.23:", desc: "Create secondary venv in `/config` for pip installs."}
+  - {date: "07.06.23:", desc: "Rebase to alpine 3.18, switch to cp311 wheels."}
+  - {date: "03.05.23:", desc: "Deprecate arm32v7. Latest HA version with an arm32v7 build is `2023.4.6`."}
+  - {date: "16.11.22:", desc: "Fix the dep conflict for google calendar."}
+  - {date: "23.09.22:", desc: "Migrate to s6v3."}
+  - {date: "29.07.22:", desc: "Improve usb device permission fix."}
+  - {date: "07.07.22:", desc: "Rebase to alpine 3.16, switch to cp310 wheels."}
+  - {date: "07.05.22:", desc: "Build matplotlib with the same Numpy version as HA req."}
+  - {date: "31.03.22:", desc: "Install pycups."}
+  - {date: "07.03.22:", desc: "Install PySwitchbot."}
+  - {date: "02.03.22:", desc: "Update pip and use legacy resolver, clean up temp python files, reduce image size."}
+  - {date: "04.02.22:", desc: "Always compile grpcio on arm32v7 due to pypi pushing a glibc only wheel."}
+  - {date: "12.12.21:", desc: "Use the new `build.yaml` to determine HA base version."}
+  - {date: "25.09.21:", desc: "Use the new lsio homeassistant wheel repo, instead of the HA wheels."}
+  - {date: "13.09.21:", desc: "Build psycopg locally as the HA provided wheel does not seem to work properly."}
+  - {date: "13.09.21:", desc: "Fix setcap in service. Build CISO8601 locally as the HA provided wheel does not seem to work properly."}
+  - {date: "12.09.21:", desc: "Rebase to alpine 3.14. Build on native armhf."}
+  - {date: "09.08.21:", desc: "Fixed broken build caused by missing dependency."}
+  - {date: "01.07.21:", desc: "Remove HACS dependencies as it caused a crash in Home-assistant."}
+  - {date: "25.02.21:", desc: "Add python dependencies from homeassistant base image."}
+  - {date: "07.02.21:", desc: "Fix building from the wrong requirement file. Add ssh client & external DB libs."}
+  - {date: "06.02.21:", desc: "Add iputils so ping works as non root user."}
+  - {date: "30.01.21:", desc: "Initial Release."}
