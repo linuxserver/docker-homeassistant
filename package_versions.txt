@@ -111,6 +111,7 @@ aioharmony                        0.2.10                  python
 aiohomekit                        2.6.5                   python  
 aiohttp                           3.8.4                   python  
 aiohttp-cors                      0.7.0                   python  
+aiohttp-retry                     2.8.3                   python  
 aiohue                            4.6.2                   python  
 aioimaplib                        1.0.1                   python  
 aioitertools                      0.11.0                  python  
@@ -285,7 +286,7 @@ ciscomobilityexpress              0.3.9                   python
 ciso8601                          2.3.0                   python  
 cjson                             1.7.15-r4               apk     
 clearpasspy                       1.0.2                   python  
-click                             8.1.3                   python  
+click                             8.1.4                   python  
 click-log                         0.4.0                   python  
 click-plugins                     1.1.1                   python  
 clx-sdk-xms                       1.0.0                   python  
@@ -329,7 +330,7 @@ dbus-fast                         1.86.0                  python
 dbus-libs                         1.14.8-r0               apk     
 debugpy                           1.6.7                   python  
 decorator                         5.1.1                   python  
-deepdiff                          6.3.0                   python  
+deepdiff                          6.3.1                   python  
 deepmerge                         1.1.0                   python  
 defusedxml                        0.7.1                   python  
 deluge-client                     1.7.1                   python  
@@ -505,9 +506,9 @@ hole                              0.8.0                   python
 holidays                          0.21.13                 python  
 home-assistant-bluetooth          1.10.0                  python  
 home-assistant-chip-clusters      2023.6.0                python  
-home-assistant-frontend           20230705.0              python  
+home-assistant-frontend           20230705.1              python  
 home-assistant-intents            2023.6.28               python  
-homeassistant                     2023.7.0                python  
+homeassistant                     2023.7.1                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.14                  python  
 homepluscontrol                   0.0.5                   python  
@@ -586,13 +587,14 @@ jsonpickle                        3.0.1                   python
 jsonrpc-async                     2.1.1                   python  
 jsonrpc-base                      2.1.1                   python  
 jsonrpc-websocket                 3.1.4                   python  
-jsonschema                        4.17.3                  python  
+jsonschema                        4.18.0                  python  
+jsonschema-specifications         2023.6.1                python  
 justbackoff                       0.6.0                   python  
 justnimbus                        0.6.0                   python  
 jwcrypto                          1.5.0                   python  
 kafka-python                      2.0.2                   python  
 kaiterra-async-client             1.0.0                   python  
-kasa-crypt                        0.2.0                   python  
+kasa-crypt                        0.2.1                   python  
 keba-kecontact                    1.1.0                   python  
 kegtron-ble                       0.4.0                   python  
 keyring                           24.2.0                  python  
@@ -869,7 +871,7 @@ psutil                            5.9.5                   python
 psutil-home-assistant             0.0.1                   python  
 psycopg2                          2.9.6                   python  
 ptyprocess                        0.7.0                   python  
-pubnub                            7.1.0                   python  
+pubnub                            7.2.0                   python  
 pulsectl                          23.5.2                  python  
 pure-pcapy3                       1.0.1                   python  
 pure-python-adb                   0.3.0.dev0              python  
@@ -1060,13 +1062,12 @@ pyquery                           2.0.0                   python
 pyqvrpro                          0.52                    python  
 pyqwikswitch                      0.93                    python  
 pyrail                            0.0.3                   python  
-pyrainbird                        2.0.0                   python  
+pyrainbird                        2.1.0                   python  
 pyrecswitch                       1.0.2                   python  
 pyrepetierng                      0.1.0                   python  
 pyrisco                           0.5.7                   python  
 pyrituals                         0.0.6                   python  
 pyroute2                          0.7.5                   python  
-pyrsistent                        0.19.3                  python  
 pyruckus                          0.16                    python  
 pyrympro                          0.0.7                   python  
 pysabnzbd                         1.1.1                   python  
@@ -1190,6 +1191,7 @@ ratelimit                         2.2.1                   python
 readline                          8.2.1-r1                apk     
 recurring-ical-events             2.0.2                   python  
 redis                             4.6.0                   python  
+referencing                       0.29.1                  python  
 regenmaschine                     2023.6.0                python  
 regex                             2021.8.28               python  
 related                           0.7.3                   python  
@@ -1215,6 +1217,7 @@ rokuecp                           0.18.0                  python
 roombapy                          1.6.8                   python  
 roonapi                           0.1.4                   python  
 rova                              0.3.0                   python  
+rpds-py                           0.8.8                   python  
 rpi-bad-power                     0.1.0                   python  
 rsa                               4.9                     python  
 rtsp-to-webrtc                    0.5.1                   python  
@@ -1238,7 +1241,7 @@ semver                            3.0.1                   python
 sendgrid                          6.8.2                   python  
 sense-energy                      0.12.0                  python  
 sensirion-ble                     0.1.0                   python  
-sensor-state-data                 2.16.0                  python  
+sensor-state-data                 2.16.1                  python  
 sensorpro-ble                     0.5.3                   python  
 sensorpush-ble                    1.5.5                   python  
 sentry-sdk                        1.25.1                  python  
