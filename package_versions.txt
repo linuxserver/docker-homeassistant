@@ -55,7 +55,7 @@ Pygments                          2.15.1                  python
 Pypubsub                          4.0.3                   python  
 Pyrebase4                         4.7.0                   python  
 RachioPy                          1.0.3                   python  
-RestrictedPython                  6.0                     python  
+RestrictedPython                  6.1                     python  
 RtmAPI                            0.7.2                   python  
 Rx                                3.2.0                   python  
 SQLAlchemy                        2.0.15                  python  
@@ -108,7 +108,7 @@ aioftp                            0.21.3                  python
 aiogithubapi                      22.10.1                 python  
 aioguardian                       2022.7.0                python  
 aioharmony                        0.2.10                  python  
-aiohomekit                        2.6.5                   python  
+aiohomekit                        2.6.7                   python  
 aiohttp                           3.8.4                   python  
 aiohttp-cors                      0.7.0                   python  
 aiohttp-retry                     2.8.3                   python  
@@ -136,7 +136,7 @@ aiopvpc                           4.1.0                   python
 aiopyarr                          23.4.0                  python  
 aioqsw                            0.3.2                   python  
 aiorecollect                      1.0.8                   python  
-aioridwell                        2023.1.0                python  
+aioridwell                        2023.7.0                python  
 aiorun                            2023.7.2                python  
 aioruuvigateway                   0.1.0                   python  
 aiosenz                           1.0.0                   python  
@@ -259,7 +259,7 @@ brottsplatskartan                 0.0.1                   python
 brunt                             1.2.0                   python  
 bs4                               0.0.1                   python  
 bt-proximity                      0.2.1                   python  
-bthome-ble                        2.12.0                  python  
+bthome-ble                        2.12.1                  python  
 bthomehub5-devicelist             0.1.1                   python  
 btsmarthub-devicelist             0.2.3                   python  
 btsocket                          0.2.0                   python  
@@ -286,7 +286,7 @@ ciscomobilityexpress              0.3.9                   python
 ciso8601                          2.3.0                   python  
 cjson                             1.7.15-r4               apk     
 clearpasspy                       1.0.2                   python  
-click                             8.1.4                   python  
+click                             8.1.5                   python  
 click-log                         0.4.0                   python  
 click-plugins                     1.1.1                   python  
 clx-sdk-xms                       1.0.0                   python  
@@ -413,7 +413,7 @@ flux-led                          0.28.37                 python
 fnv-hash-fast                     0.3.1                   python  
 fnvhash                           0.1.0                   python  
 fontconfig                        2.14.2-r3               apk     
-fonttools                         4.40.0                  python  
+fonttools                         4.41.0                  python  
 foobot-async                      1.0.0                   python  
 forecast-solar                    3.0.0                   python  
 fortiosapi                        1.0.5                   python  
@@ -422,7 +422,7 @@ freesms                           0.2.0                   python
 freetype                          2.13.0-r5               apk     
 fribidi                           1.0.13-r0               apk     
 fritzconnection                   1.12.0                  python  
-frozenlist                        1.3.3                   python  
+frozenlist                        1.4.0                   python  
 future                            0.18.3                  python  
 gTTS                              2.2.4                   python  
 gassist-text                      0.0.10                  python  
@@ -446,7 +446,7 @@ glib                              2.76.4-r0               apk
 glslang-libs                      1.3.243.0-r1            apk     
 gmp                               6.2.1-r3                apk     
 gnutls                            3.8.0-r2                apk     
-goalzero                          0.2.1                   python  
+goalzero                          0.2.2                   python  
 goodwe                            0.2.31                  python  
 google-ai-generativelanguage      0.2.0                   python  
 google-api-core                   2.11.1                  python  
@@ -508,7 +508,7 @@ home-assistant-bluetooth          1.10.0                  python
 home-assistant-chip-clusters      2023.6.0                python  
 home-assistant-frontend           20230705.1              python  
 home-assistant-intents            2023.6.28               python  
-homeassistant                     2023.7.1                python  
+homeassistant                     2023.7.2                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.14                  python  
 homepluscontrol                   0.0.5                   python  
@@ -572,7 +572,7 @@ jaraco.collections                4.3.0                   python
 jaraco.context                    4.3.0                   python  
 jaraco.email                      3.1.0                   python  
 jaraco.functools                  3.8.0                   python  
-jaraco.itertools                  6.2.1                   python  
+jaraco.itertools                  6.4.1                   python  
 jaraco.logging                    3.1.2                   python  
 jaraco.net                        9.3.1                   python  
 jaraco.text                       3.11.1                  python  
@@ -587,7 +587,7 @@ jsonpickle                        3.0.1                   python
 jsonrpc-async                     2.1.2                   python  
 jsonrpc-base                      2.1.1                   python  
 jsonrpc-websocket                 3.1.4                   python  
-jsonschema                        4.18.0                  python  
+jsonschema                        4.18.3                  python  
 jsonschema-specifications         2023.6.1                python  
 justbackoff                       0.6.0                   python  
 justnimbus                        0.6.0                   python  
@@ -717,7 +717,7 @@ mechanize                         0.4.8                   python
 mediafile                         0.12.0                  python  
 melnor-bluetooth                  0.0.25                  python  
 messagebird                       1.2.0                   python  
-metar                             1.10.0                  python  
+metar                             1.11.0                  python  
 meteoalertapi                     0.3.0                   python  
 meteocalc                         1.1.0                   python  
 meteofrance-api                   1.2.0                   python  
@@ -949,7 +949,7 @@ pycryptodome                      3.18.0                  python
 pycryptodomex                     3.18.0                  python  
 pycsspeechtts                     1.0.8                   python  
 pycups                            1.9.73                  python  
-pydaikin                          2.9.0                   python  
+pydaikin                          2.10.5                  python  
 pydanfossair                      0.1.0                   python  
 pydantic                          1.10.11                 python  
 pydeconz                          113                     python  
@@ -1140,7 +1140,7 @@ python-otbr-api                   2.2.0                   python
 python-picnic-api                 1.1.0                   python  
 python-qbittorrent                0.4.3                   python  
 python-ripple-api                 0.0.3                   python  
-python-roborock                   0.29.2                  python  
+python-roborock                   0.30.0                  python  
 python-slugify                    4.0.1                   python  
 python-smarttub                   0.0.33                  python  
 python-socketio                   4.6.1                   python  
@@ -1170,7 +1170,7 @@ pyvizio                           0.1.61                  python
 pyvlx                             0.2.20                  python  
 pyvolumio                         0.1.5                   python  
 pywebpush                         1.9.2                   python  
-pywemo                            0.9.1                   python  
+pywemo                            1.1.0                   python  
 pywilight                         0.0.74                  python  
 pywinusb                          0.4.2                   python  
 pywizlight                        0.5.14                  python  
@@ -1197,7 +1197,7 @@ regex                             2021.8.28               python
 related                           0.7.3                   python  
 renault-api                       0.1.13                  python  
 renson-endura-delta               1.5.0                   python  
-reolink-aio                       0.7.1                   python  
+reolink-aio                       0.7.3                   python  
 repoze.lru                        0.7                     python  
 requests                          2.31.0                  python  
 requests-file                     1.5.1                   python  
@@ -1457,13 +1457,13 @@ zeversolar                        0.3.1                   python
 zha-quirks                        0.0.101                 python  
 zhong-hong-hvac                   1.0.9                   python  
 ziggo-mediabox-xl                 1.1.0                   python  
-zigpy                             0.56.1                  python  
+zigpy                             0.56.2                  python  
 zigpy-deconz                      0.21.0                  python  
 zigpy-xbee                        0.18.1                  python  
 zigpy-zigate                      0.11.0                  python  
-zigpy-znp                         0.11.2                  python  
+zigpy-znp                         0.11.3                  python  
 zimg                              3.0.5-r0                apk     
-zipp                              3.16.0                  python  
+zipp                              3.16.1                  python  
 zlib                              1.2.13-r1               apk     
 zlib-dev                          1.2.13-r1               apk     
 zm-py                             0.5.2                   python  
