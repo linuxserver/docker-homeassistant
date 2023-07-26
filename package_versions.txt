@@ -21,7 +21,7 @@ HATasmota                         0.6.5                   python
 Hydrawiser                        0.2                     python  
 Jinja2                            3.1.2                   python  
 Js2Py                             0.74                    python  
-Markdown                          3.4.3                   python  
+Markdown                          3.4.4                   python  
 MarkupSafe                        2.1.3                   python  
 Mastodon.py                       1.5.1                   python  
 Pillow                            9.5.0                   python  
@@ -94,7 +94,7 @@ aioazuredevops                    1.3.5                   python
 aiobafi6                          0.8.2                   python  
 aiobotocore                       2.1.0                   python  
 aiocoap                           0.4.7                   python  
-aioconsole                        0.6.1                   python  
+aioconsole                        0.6.2                   python  
 aiodiscover                       1.4.16                  python  
 aiodns                            3.0.0                   python  
 aioeafm                           0.1.2                   python  
@@ -275,11 +275,11 @@ cachetools                        5.3.1                   python
 caldav                            1.2.0                   python  
 casttube                          0.2.1                   python  
 cbor2                             5.4.6                   python  
-certifi                           2023.5.7                python  
+certifi                           2023.7.22               python  
 cffi                              1.15.1                  python  
 cfgv                              3.3.1                   python  
 chacha20poly1305                  0.0.3                   python  
-chacha20poly1305-reuseable        0.3.0                   python  
+chacha20poly1305-reuseable        0.4.1                   python  
 charset-normalizer                3.2.0                   python  
 circuit-webhook                   1.0.1                   python  
 ciscomobilityexpress              0.3.9                   python  
@@ -317,7 +317,7 @@ crownstone-uart                   2.1.0                   python
 cryptography                      41.0.1                  python  
 cssselect                         1.2.0                   python  
 cups-libs                         2.4.6-r0                apk     
-curl                              8.1.2-r0                apk     
+curl                              8.2.0-r1                apk     
 dacite                            1.8.1                   python  
 datadog                           0.15.0                  python  
 datapoint                         0.9.8                   python  
@@ -357,12 +357,12 @@ easyenergy                        0.3.0                   python
 ebusdpy                           0.0.17                  python  
 ecdsa                             0.18.0                  python  
 ecoaliface                        0.4.0                   python  
-elementpath                       4.1.4                   python  
+elementpath                       4.1.5                   python  
 elgato                            4.0.1                   python  
 eliqonline                        1.2.2                   python  
 elkm1-lib                         2.2.5                   python  
 elmax-api                         0.0.4                   python  
-emoji                             2.6.0                   python  
+emoji                             2.7.0                   python  
 emulated-roku                     0.2.1                   python  
 energyflip-client                 0.2.2                   python  
 energyzero                        0.4.1                   python  
@@ -531,7 +531,7 @@ ibmiotf                           0.3.4                   python
 ical                              4.5.4                   python  
 icalendar                         5.0.7                   python  
 icmplib                           3.0                     python  
-identify                          2.5.25                  python  
+identify                          2.5.26                  python  
 idna                              3.4                     python  
 ifaddr                            0.2.0                   python  
 iglo                              1.2.7                   python  
@@ -591,11 +591,11 @@ justnimbus                        0.6.0                   python
 jwcrypto                          1.5.0                   python  
 kafka-python                      2.0.2                   python  
 kaiterra-async-client             1.0.0                   python  
-kasa-crypt                        0.2.1                   python  
+kasa-crypt                        0.3.0                   python  
 keba-kecontact                    1.1.0                   python  
 kegtron-ble                       0.4.0                   python  
 keyring                           24.2.0                  python  
-keyrings.alt                      4.2.0                   python  
+keyrings.alt                      5.0.0                   python  
 kiwiki-client                     0.1.1                   python  
 knx-frontend                      2023.6.23.191712        python  
 konnected                         1.2.0                   python  
@@ -622,7 +622,7 @@ libcap                            2.69-r0                 apk
 libcap-utils                      2.69-r0                 apk     
 libcap2                           2.69-r0                 apk     
 libcrypto3                        3.1.1-r3                apk     
-libcurl                           8.1.2-r0                apk     
+libcurl                           8.2.0-r1                apk     
 libdav1d                          1.2.1-r0                apk     
 libdrm                            2.4.115-r4              apk     
 libecpg                           15.3-r0                 apk     
@@ -726,7 +726,7 @@ moat-ble                          0.1.1                   python
 mock                              5.1.0                   python  
 moehlenhoff-alpha2                1.3.0                   python  
 mopeka-iot-ble                    0.4.1                   python  
-more-itertools                    9.1.0                   python  
+more-itertools                    10.0.0                  python  
 motionblinds                      0.6.18                  python  
 motioneye-client                  0.3.14                  python  
 mpdecimal                         2.5.1-r2                apk     
@@ -762,7 +762,7 @@ nexia                             2.0.6                   python
 nextcloudmonitor                  1.4.0                   python  
 nextcord                          2.0.0a8                 python  
 nextdns                           1.4.0                   python  
-nghttp2-libs                      1.53.0-r0               apk     
+nghttp2-libs                      1.55.1-r0               apk     
 nibe                              2.2.0                   python  
 niko-home-control                 0.2.1                   python  
 niluclient                        0.1.2                   python  
@@ -945,7 +945,7 @@ pycsspeechtts                     1.0.8                   python
 pycups                            1.9.73                  python  
 pydaikin                          2.10.5                  python  
 pydanfossair                      0.1.0                   python  
-pydantic                          1.10.11                 python  
+pydantic                          1.10.12                 python  
 pydeconz                          113                     python  
 pydelijn                          1.1.0                   python  
 pydexcom                          0.2.3                   python  
@@ -1384,7 +1384,7 @@ venstarcolortouch                 0.19                    python
 vidstab                           1.1.1-r0                apk     
 vilfo-api-client                  0.4.1                   python  
 vincenty                          0.1.4                   python  
-virtualenv                        20.24.1                 python  
+virtualenv                        20.24.2                 python  
 vobject                           0.9.6.1                 python  
 voip-utils                        0.1.0                   python  
 vol                               0.1.1                   python  
@@ -1411,7 +1411,7 @@ webexteamssdk                     1.1.1                   python
 webrtcvad                         2.0.10                  python  
 websocket-client                  1.6.1                   python  
 websockets                        11.0.3                  python  
-wheel                             0.40.0                  python  
+wheel                             0.41.0                  python  
 whirlpool-sixth-sense             0.18.3                  python  
 whois                             0.9.27                  python  
 wiffi                             1.1.2                   python  
@@ -1433,7 +1433,7 @@ xmltodict                         0.13.0                  python
 xs1-api-client                    3.0.0                   python  
 xvidcore                          1.3.7-r1                apk     
 xz-libs                           5.4.3-r0                apk     
-yagrc                             1.1.1                   python  
+yagrc                             1.1.2                   python  
 yalesmartalarmclient              0.3.9                   python  
 yalexs                            1.5.1                   python  
 yalexs-ble                        2.1.18                  python  
