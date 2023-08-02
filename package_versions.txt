@@ -60,6 +60,7 @@ RtmAPI                            0.7.2                   python
 Rx                                3.2.0                   python  
 SQLAlchemy                        2.0.15                  python  
 SecretStorage                     3.3.3                   python  
+Simple Launcher Executable        1.1.0.14                dotnet  
 TravisPy                          0.3.5                   python  
 TwitterAPI                        2.7.12                  python  
 WSDiscovery                       2.0.0                   python  
@@ -265,8 +266,8 @@ btsmarthub-devicelist             0.2.3                   python
 btsocket                          0.2.0                   python  
 buienradar                        1.0.5                   python  
 busybox                           1.36.1                  binary  
-busybox                           1.36.1-r1               apk     
-busybox-binsh                     1.36.1-r1               apk     
+busybox                           1.36.1-r2               apk     
+busybox-binsh                     1.36.1-r2               apk     
 bx-py-utils                       85                      python  
 bytecode                          0.13.0.dev0             python  
 ca-certificates                   20230506-r0             apk     
@@ -317,7 +318,7 @@ crownstone-uart                   2.1.0                   python
 cryptography                      41.0.1                  python  
 cssselect                         1.2.0                   python  
 cups-libs                         2.4.6-r0                apk     
-curl                              8.2.0-r1                apk     
+curl                              8.2.1-r0                apk     
 dacite                            1.8.1                   python  
 datadog                           0.15.0                  python  
 datapoint                         0.9.8                   python  
@@ -343,7 +344,7 @@ directv                           0.4.0                   python
 discogs-client                    2.3.0                   python  
 discovery30303                    0.2.1                   python  
 distlib                           0.3.7                   python  
-dnspython                         2.3.0                   python  
+dnspython                         2.4.1                   python  
 docopt                            0.6.2                   python  
 dovado                            0.4.1                   python  
 dremel3dpy                        2.1.1                   python  
@@ -384,7 +385,7 @@ eufylife-ble-client               0.1.7                   python
 evohome-async                     0.3.15                  python  
 exceptiongroup                    1.1.2                   python  
 faadelays                         0.0.7                   python  
-fake-useragent                    1.1.3                   python  
+fake-useragent                    1.2.0                   python  
 fastdotcom                        0.0.3                   python  
 faust-cchardet                    2.1.18                  python  
 feedparser                        6.0.10                  python  
@@ -455,7 +456,7 @@ google-cloud-pubsub               2.13.11                 python
 google-cloud-texttospeech         2.12.3                  python  
 google-generativeai               0.1.0                   python  
 google-nest-sdm                   2.2.5                   python  
-googleapis-common-protos          1.59.1                  python  
+googleapis-common-protos          1.60.0                  python  
 googlemaps                        2.5.1                   python  
 goslide-api                       0.5.1                   python  
 govee-ble                         0.23.0                  python  
@@ -622,7 +623,7 @@ libcap                            2.69-r0                 apk
 libcap-utils                      2.69-r0                 apk     
 libcap2                           2.69-r0                 apk     
 libcrypto3                        3.1.1-r3                apk     
-libcurl                           8.2.0-r1                apk     
+libcurl                           8.2.1-r0                apk     
 libdav1d                          1.2.1-r0                apk     
 libdrm                            2.4.115-r4              apk     
 libecpg                           15.3-r0                 apk     
@@ -737,15 +738,15 @@ mt-940                            4.30.0                  python
 mullvad-api                       1.0.0                   python  
 multidict                         6.0.4                   python  
 munch                             4.0.0                   python  
-musl                              1.2.4-r0                apk     
-musl-utils                        1.2.4-r0                apk     
+musl                              1.2.4-r1                apk     
+musl-utils                        1.2.4-r1                apk     
 mutagen                           1.46.0                  python  
 mutesync                          0.0.1                   python  
 mypy-extensions                   1.0.0                   python  
 mysqlclient                       2.2.0                   python  
 nad-receiver                      0.3.0                   python  
 natsort                           8.4.0                   python  
-nclib                             1.0.2                   python  
+nclib                             1.0.5                   python  
 ncurses-terminfo-base             6.4_p20230506-r0        apk     
 ndms2-client                      0.1.2                   python  
 nessclient                        0.10.0                  python  
@@ -821,7 +822,7 @@ paho-mqtt                         1.6.1                   python
 panacotta                         0.2                     python  
 panasonic-viera                   0.3.6                   python  
 pandas                            2.0.3                   python  
-paramiko                          3.2.0                   python  
+paramiko                          3.3.1                   python  
 passlib                           1.7.4                   python  
 path                              16.7.1                  python  
 pathvalidate                      3.1.0                   python  
@@ -840,7 +841,7 @@ pip                               23.1.2                  python
 pizzapi                           0.0.3                   python  
 pkce                              1.0.3                   python  
 pkgconf                           1.9.5-r0                apk     
-platformdirs                      3.9.1                   python  
+platformdirs                      3.10.0                  python  
 plexauth                          0.0.6                   python  
 plexwebsocket                     0.0.13                  python  
 pluggy                            1.2.0                   python  
@@ -1042,7 +1043,7 @@ pyoverkiz                         1.9.0                   python
 pyowm                             3.2.0                   python  
 pyownet                           0.10.0.post1            python  
 pyparsing                         3.0.9                   python  
-pyparsing                         3.1.0                   python  
+pyparsing                         3.1.1                   python  
 pypca                             0.0.7                   python  
 pypck                             0.7.17                  python  
 pypjlink2                         1.2.1                   python  
@@ -1287,7 +1288,7 @@ sqlite-libs                       3.41.2-r2               apk
 srpenergy                         1.3.6                   python  
 srptools                          1.0.1                   python  
 sseclient-py                      1.7.2                   python  
-ssl_client                        1.36.1-r1               apk     
+ssl_client                        1.36.1-r2               apk     
 starkbank-ecdsa                   2.2.0                   python  
 starline                          0.1.5                   python  
 starlingbank                      3.2                     python  
@@ -1428,7 +1429,7 @@ xbox-webapi                       2.0.11                  python
 xiaomi-ble                        0.17.2                  python  
 xknx                              2.11.1                  python  
 xknxproject                       3.2.0                   python  
-xmlschema                         2.3.1                   python  
+xmlschema                         2.4.0                   python  
 xmltodict                         0.13.0                  python  
 xs1-api-client                    3.0.0                   python  
 xvidcore                          1.3.7-r1                apk     
