@@ -49,7 +49,7 @@ PyTurboJPEG                       1.7.1                   python
 PyViCare                          2.25.0                  python  
 PyXiaomiGateway                   0.14.3                  python  
 PyYAML                            6.0.1                   python  
-Pygments                          2.15.1                  python  
+Pygments                          2.16.1                  python  
 Pypubsub                          4.0.3                   python  
 Pyrebase4                         4.7.0                   python  
 RachioPy                          1.0.3                   python  
@@ -101,7 +101,7 @@ aioeagle                          1.1.0                   python
 aioecowitt                        2023.5.0                python  
 aioemonitor                       1.0.5                   python  
 aioesphomeapi                     15.1.15                 python  
-aiofiles                          0.8.0                   python  
+aiofiles                          23.1.0                  python  
 aioflo                            2021.11.0               python  
 aioftp                            0.21.3                  python  
 aiogithubapi                      22.10.1                 python  
@@ -162,7 +162,7 @@ airthings-ble                     0.5.3                   python
 airthings-cloud                   0.1.0                   python  
 airtouch4pyapi                    1.0.5                   python  
 alarmdecoder                      1.13.11                 python  
-alexapy                           1.26.8                  python  
+alexapy                           1.26.9                  python  
 alpha-vantage                     2.3.1                   python  
 alpine-baselayout                 3.4.3-r1                apk     
 alpine-baselayout-data            3.4.3-r1                apk     
@@ -219,7 +219,7 @@ autocommand                       2.2.2                   python
 avahi-libs                        0.8-r13                 apk     
 awesomeversion                    22.9.0                  python  
 axis                              48                      python  
-azure-core                        1.28.0                  python  
+azure-core                        1.29.0                  python  
 azure-eventhub                    5.11.1                  python  
 azure-servicebus                  7.10.0                  python  
 backoff                           2.2.1                   python  
@@ -541,7 +541,7 @@ iglo                              1.2.7                   python
 ihcsdk                            2.8.5                   python  
 imageio                           2.31.1                  python  
 importlib-metadata                6.8.0                   python  
-importlib-resources               6.0.0                   python  
+importlib-resources               6.0.1                   python  
 imutils                           0.5.4                   python  
 incomfort-client                  0.5.0                   python  
 incremental                       22.10.0                 python  
@@ -571,7 +571,7 @@ jaraco.classes                    3.3.0                   python
 jaraco.collections                4.3.0                   python  
 jaraco.context                    4.3.0                   python  
 jaraco.email                      3.1.0                   python  
-jaraco.functools                  3.8.0                   python  
+jaraco.functools                  3.8.1                   python  
 jaraco.itertools                  6.4.1                   python  
 jaraco.logging                    3.1.2                   python  
 jaraco.net                        9.3.1                   python  
@@ -587,7 +587,7 @@ jsonpickle                        3.0.1                   python
 jsonrpc-async                     2.1.2                   python  
 jsonrpc-base                      2.1.1                   python  
 jsonrpc-websocket                 3.1.4                   python  
-jsonschema                        4.18.6                  python  
+jsonschema                        4.19.0                  python  
 jsonschema-specifications         2023.7.1                python  
 justbackoff                       0.6.0                   python  
 justnimbus                        0.6.0                   python  
@@ -1188,7 +1188,7 @@ ratelimit                         2.2.1                   python
 readline                          8.2.1-r1                apk     
 recurring-ical-events             2.0.2                   python  
 redis                             4.6.0                   python  
-referencing                       0.30.1                  python  
+referencing                       0.30.2                  python  
 regenmaschine                     2023.6.0                python  
 regex                             2021.8.28               python  
 related                           0.7.3                   python  
@@ -1342,7 +1342,7 @@ tornado                           6.3.2                   python
 total-connect-client              2023.2                  python  
 tp-connected                      0.0.4                   python  
 tplink_omada_client               1.2.4                   python  
-tqdm                              4.65.0                  python  
+tqdm                              4.65.2                  python  
 transitions                       0.8.11                  python  
 transmission-rpc                  4.1.5                   python  
 ttls                              1.5.1                   python  
@@ -1413,7 +1413,7 @@ webexteamssdk                     1.1.1                   python
 webrtcvad                         2.0.10                  python  
 websocket-client                  1.6.1                   python  
 websockets                        11.0.3                  python  
-wheel                             0.41.0                  python  
+wheel                             0.41.1                  python  
 whirlpool-sixth-sense             0.18.4                  python  
 whois                             0.9.27                  python  
 wiffi                             1.1.2                   python  
