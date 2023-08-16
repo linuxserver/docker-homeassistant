@@ -63,7 +63,7 @@ TravisPy                          0.3.5                   python
 TwitterAPI                        2.7.12                  python  
 WSDiscovery                       2.0.0                   python  
 WazeRouteCalculator               0.14                    python  
-Werkzeug                          2.3.6                   python  
+Werkzeug                          2.3.7                   python  
 XlsxWriter                        3.1.2                   python  
 accuweather                       1.0.0                   python  
 acme                              1.31.0                  python  
@@ -167,7 +167,7 @@ alpha-vantage                     2.3.1                   python
 alpine-baselayout                 3.4.3-r1                apk     
 alpine-baselayout-data            3.4.3-r1                apk     
 alpine-keys                       2.4-r1                  apk     
-alpine-release                    3.18.2-r0               apk     
+alpine-release                    3.18.3-r0               apk     
 alsa-lib                          1.2.9-r1                apk     
 amberelectric                     1.0.4                   python  
 amcrest                           1.9.7                   python  
@@ -219,7 +219,7 @@ autocommand                       2.2.2                   python
 avahi-libs                        0.8-r13                 apk     
 awesomeversion                    22.9.0                  python  
 axis                              48                      python  
-azure-core                        1.29.1                  python  
+azure-core                        1.29.2                  python  
 azure-eventhub                    5.11.1                  python  
 azure-servicebus                  7.10.0                  python  
 backoff                           2.2.1                   python  
@@ -266,7 +266,6 @@ bthomehub5-devicelist             0.1.1                   python
 btsmarthub-devicelist             0.2.3                   python  
 btsocket                          0.2.0                   python  
 buienradar                        1.0.5                   python  
-busybox                           1.36.1                  binary  
 busybox                           1.36.1-r2               apk     
 busybox-binsh                     1.36.1-r2               apk     
 bx-py-utils                       85                      python  
@@ -279,7 +278,7 @@ casttube                          0.2.1                   python
 cbor2                             5.4.6                   python  
 certifi                           2023.7.22               python  
 cffi                              1.15.1                  python  
-cfgv                              3.3.1                   python  
+cfgv                              3.4.0                   python  
 chacha20poly1305                  0.0.3                   python  
 chacha20poly1305-reuseable        0.4.1                   python  
 charset-normalizer                3.2.0                   python  
@@ -307,7 +306,7 @@ connect-box                       0.2.8                   python
 connio                            0.2.0                   python  
 construct                         2.10.68                 python  
 coreutils                         9.3-r1                  apk     
-coverage                          7.2.7                   python  
+coverage                          7.3.0                   python  
 crccheck                          1.3.0                   python  
 crcmod                            1.7                     python  
 croniter                          1.0.6                   python  
@@ -385,7 +384,7 @@ eternalegypt                      0.0.16                  python
 eudev-libs                        3.2.11-r8               apk     
 eufylife-ble-client               0.1.7                   python  
 evohome-async                     0.3.15                  python  
-exceptiongroup                    1.1.2                   python  
+exceptiongroup                    1.1.3                   python  
 faadelays                         0.0.7                   python  
 fake-useragent                    1.2.1                   python  
 fastdotcom                        0.0.3                   python  
@@ -583,7 +582,7 @@ josepy                            1.13.0                  python
 jq                                1.6-r3                  apk     
 json-c                            0.16-r3                 apk     
 jsonpath                          0.82                    python  
-jsonpickle                        3.0.1                   python  
+jsonpickle                        3.0.2                   python  
 jsonrpc-async                     2.1.2                   python  
 jsonrpc-base                      2.1.1                   python  
 jsonrpc-websocket                 3.1.4                   python  
@@ -627,7 +626,7 @@ libcrypto3                        3.1.2-r0                apk
 libcurl                           8.2.1-r0                apk     
 libdav1d                          1.2.1-r0                apk     
 libdrm                            2.4.115-r4              apk     
-libecpg                           15.3-r0                 apk     
+libecpg                           15.4-r0                 apk     
 libedit                           20221030.3.1-r1         apk     
 libexpat                          2.5.0-r1                apk     
 libffi                            3.4.4-r2                apk     
@@ -650,7 +649,7 @@ libpanelw                         6.4_p20230506-r0        apk
 libpciaccess                      0.17-r2                 apk     
 libplacebo                        5.264.1-r1              apk     
 libpng                            1.6.39-r3               apk     
-libpq                             15.3-r0                 apk     
+libpq                             15.4-r0                 apk     
 libproc2                          4.0.3-r1                apk     
 libpulse                          16.1-r10                apk     
 libpyfoscam                       1.0                     python  
@@ -1102,7 +1101,6 @@ pytest-rerunfailures              12.0                    python
 pytest-runner                     6.0.0                   python  
 pytfiac                           0.4                     python  
 pythinkingcleaner                 0.0.3                   python  
-python                            3.11.4                  binary  
 python-awair                      0.2.4                   python  
 python-blockchain-api             0.0.2                   python  
 python-bsblan                     0.5.11                  python  
@@ -1187,7 +1185,7 @@ raspyrfm-client                   1.2.8                   python
 ratelimit                         2.2.1                   python  
 readline                          8.2.1-r1                apk     
 recurring-ical-events             2.0.2                   python  
-redis                             4.6.0                   python  
+redis                             5.0.0                   python  
 referencing                       0.30.2                  python  
 regenmaschine                     2023.6.0                python  
 regex                             2021.8.28               python  
@@ -1245,7 +1243,7 @@ sentry-sdk                        1.28.1                  python
 sepaxml                           2.6.1                   python  
 serialio                          2.4.0                   python  
 setuptools                        67.7.2                  python  
-setuptools                        68.0.0                  python  
+setuptools                        68.1.0                  python  
 sfrbox-api                        0.0.6                   python  
 sgmllib3k                         1.0.0                   python  
 shaderc                           2023.3-r1               apk     
@@ -1322,7 +1320,7 @@ tellsticknet                      0.1.2                   python
 temescal                          0.5                     python  
 temperusb                         1.6.0                   python  
 tempora                           5.5.0                   python  
-tenacity                          8.2.2                   python  
+tenacity                          8.2.3                   python  
 tesla-powerwall                   0.3.19                  python  
 tesla-wall-connector              1.0.2                   python  
 text-unidecode                    1.3                     python  
