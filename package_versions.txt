@@ -107,7 +107,7 @@ aioftp                            0.21.3                  python
 aiogithubapi                      22.10.1                 python  
 aioguardian                       2022.7.0                python  
 aioharmony                        0.2.10                  python  
-aiohomekit                        2.6.15                  python  
+aiohomekit                        2.6.16                  python  
 aiohttp                           3.8.5                   python  
 aiohttp-cors                      0.7.0                   python  
 aiohttp-retry                     2.8.3                   python  
@@ -231,7 +231,8 @@ bcrypt                            4.0.1                   python
 beautifulsoup4                    4.11.1                  python  
 bellows                           0.35.9                  python  
 bimmer-connected                  0.13.9                  python  
-bitstring                         4.0.2                   python  
+bitarray                          2.8.0                   python  
+bitstring                         4.1.0                   python  
 bitstruct                         8.17.0                  python  
 bizkaibus                         0.1.1                   python  
 bleach                            6.0.0                   python  
@@ -287,7 +288,7 @@ ciscomobilityexpress              0.3.9                   python
 ciso8601                          2.3.0                   python  
 cjson                             1.7.15-r4               apk     
 clearpasspy                       1.0.2                   python  
-click                             8.1.6                   python  
+click                             8.1.7                   python  
 click-log                         0.4.0                   python  
 click-plugins                     1.1.1                   python  
 clx-sdk-xms                       1.0.0                   python  
@@ -364,7 +365,7 @@ elgato                            4.0.1                   python
 eliqonline                        1.2.2                   python  
 elkm1-lib                         2.2.5                   python  
 elmax-api                         0.0.4                   python  
-emoji                             2.7.0                   python  
+emoji                             2.8.0                   python  
 emulated-roku                     0.2.1                   python  
 energyflip-client                 0.2.2                   python  
 energyzero                        0.4.1                   python  
@@ -409,7 +410,7 @@ fixerio                           1.0.0a0                 python
 fjaraskupan                       2.2.0                   python  
 flac-libs                         1.4.3-r0                apk     
 flipr-api                         1.5.0                   python  
-flux-led                          1.0.1                   python  
+flux-led                          1.0.2                   python  
 fnv-hash-fast                     0.4.0                   python  
 fnvhash                           0.1.0                   python  
 fontconfig                        2.14.2-r3               apk     
@@ -505,9 +506,9 @@ hole                              0.8.0                   python
 holidays                          0.28                    python  
 home-assistant-bluetooth          1.10.2                  python  
 home-assistant-chip-clusters      2023.6.0                python  
-home-assistant-frontend           20230802.0              python  
+home-assistant-frontend           20230802.1              python  
 home-assistant-intents            2023.8.2                python  
-homeassistant                     2023.8.2                python  
+homeassistant                     2023.8.3                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.14                  python  
 homepluscontrol                   0.0.5                   python  
@@ -749,7 +750,7 @@ natsort                           8.4.0                   python
 nclib                             1.0.5                   python  
 ncurses-terminfo-base             6.4_p20230506-r0        apk     
 ndms2-client                      0.1.2                   python  
-nessclient                        0.10.0                  python  
+nessclient                        1.0.0                   python  
 netaddr                           0.8.0                   python  
 netcat-openbsd                    1.219-r1                apk     
 netdata                           1.1.0                   python  
@@ -804,7 +805,7 @@ openssl-dev                       3.1.2-r0                apk
 openwebifpy                       3.2.7                   python  
 openwrt-luci-rpc                  1.1.16                  python  
 openwrt-ubus-rpc                  0.0.2                   python  
-opower                            0.0.26                  python  
+opower                            0.0.29                  python  
 opus                              1.4-r0                  apk     
 opuslib                           3.0.1                   python  
 oralb-ble                         0.17.6                  python  
@@ -987,7 +988,7 @@ pyicloud                          1.0.0                   python
 pyinsteon                         1.4.3                   python  
 pyintesishome                     1.8.0                   python  
 pyipma                            3.0.6                   python  
-pyipp                             0.14.2                  python  
+pyipp                             0.14.3                  python  
 pyiqvia                           2022.4.0                python  
 pyirishrail                       0.0.2                   python  
 pyiss                             1.0.1                   python  
@@ -1059,7 +1060,7 @@ pyquery                           2.0.0                   python
 pyqvrpro                          0.52                    python  
 pyqwikswitch                      0.93                    python  
 pyrail                            0.0.3                   python  
-pyrainbird                        3.0.0                   python  
+pyrainbird                        4.0.0                   python  
 pyrecswitch                       1.0.2                   python  
 pyrepetierng                      0.1.0                   python  
 pyrisco                           0.5.7                   python  
@@ -1135,12 +1136,12 @@ python-otbr-api                   2.3.0                   python
 python-picnic-api                 1.1.0                   python  
 python-qbittorrent                0.4.3                   python  
 python-ripple-api                 0.0.3                   python  
-python-roborock                   0.32.2                  python  
+python-roborock                   0.32.3                  python  
 python-slugify                    4.0.1                   python  
 python-smarttub                   0.0.33                  python  
 python-socketio                   4.6.1                   python  
 python-songpal                    0.15.2                  python  
-python-tado                       0.16.0                  python  
+python-tado                       0.15.0                  python  
 python-telegram-bot               13.1                    python  
 python-vlc                        1.1.2                   python  
 python3                           3.11.4-r0               apk     
@@ -1192,7 +1193,7 @@ regex                             2021.8.28               python
 related                           0.7.3                   python  
 renault-api                       0.1.13                  python  
 renson-endura-delta               1.5.0                   python  
-reolink-aio                       0.7.6                   python  
+reolink-aio                       0.7.7                   python  
 repoze.lru                        0.7                     python  
 requests                          2.31.0                  python  
 requests-file                     1.5.1                   python  
@@ -1208,7 +1209,7 @@ ring-doorbell                     0.7.2                   python
 ritassist                         0.9.2                   python  
 rjpl                              0.3.6                   python  
 rocketchat-API                    0.6.1                   python  
-rokuecp                           0.18.0                  python  
+rokuecp                           0.18.1                  python  
 roombapy                          1.6.8                   python  
 roonapi                           0.1.4                   python  
 rova                              0.3.0                   python  
@@ -1243,14 +1244,14 @@ sentry-sdk                        1.28.1                  python
 sepaxml                           2.6.1                   python  
 serialio                          2.4.0                   python  
 setuptools                        67.7.2                  python  
-setuptools                        68.1.0                  python  
+setuptools                        68.1.2                  python  
 sfrbox-api                        0.0.6                   python  
 sgmllib3k                         1.0.0                   python  
 shaderc                           2023.3-r1               apk     
 shadow                            4.13-r4                 apk     
 sharkiq                           1.0.2                   python  
 sharp-aquos-rc                    0.3.2                   python  
-shellingham                       1.5.0.post1             python  
+shellingham                       1.5.3                   python  
 shodan                            1.28.0                  python  
 simplehound                       0.3                     python  
 simplejson                        3.19.1                  python  
