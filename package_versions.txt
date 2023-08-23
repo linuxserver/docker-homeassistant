@@ -15,7 +15,7 @@ DateTime                          5.2                     python
 Deprecated                        1.2.14                  python  
 DoorBirdPy                        2.1.0                   python  
 Events                            0.4                     python  
-Flask                             2.3.2                   python  
+Flask                             2.3.3                   python  
 HAP-python                        4.7.1                   python  
 HATasmota                         0.6.5                   python  
 Jinja2                            3.1.2                   python  
@@ -219,7 +219,7 @@ autocommand                       2.2.2                   python
 avahi-libs                        0.8-r13                 apk     
 awesomeversion                    22.9.0                  python  
 axis                              48                      python  
-azure-core                        1.29.2                  python  
+azure-core                        1.29.3                  python  
 azure-eventhub                    5.11.1                  python  
 azure-servicebus                  7.10.0                  python  
 backoff                           2.2.1                   python  
@@ -534,7 +534,7 @@ ibmiotf                           0.3.4                   python
 ical                              4.5.4                   python  
 icalendar                         5.0.7                   python  
 icmplib                           3.0                     python  
-identify                          2.5.26                  python  
+identify                          2.5.27                  python  
 idna                              3.4                     python  
 ifaddr                            0.2.0                   python  
 iglo                              1.2.7                   python  
@@ -1410,9 +1410,9 @@ webcolors                         1.13                    python
 webencodings                      0.5.1                   python  
 webexteamssdk                     1.1.1                   python  
 webrtcvad                         2.0.10                  python  
-websocket-client                  1.6.1                   python  
+websocket-client                  1.6.2                   python  
 websockets                        11.0.3                  python  
-wheel                             0.41.1                  python  
+wheel                             0.41.2                  python  
 whirlpool-sixth-sense             0.18.4                  python  
 whois                             0.9.27                  python  
 wiffi                             1.1.2                   python  
