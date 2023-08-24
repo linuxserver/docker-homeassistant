@@ -173,7 +173,7 @@ amberelectric                     1.0.4                   python
 amcrest                           1.9.7                   python  
 android-backup                    0.2.0                   python  
 androidtv                         0.0.70                  python  
-androidtvremote2                  0.0.13                  python  
+androidtvremote2                  0.0.14                  python  
 anel-pwrctrl-homeassistant        0.0.1.dev2              python  
 anova-wifi                        0.10.0                  python  
 anthemav                          1.4.1                   python  
@@ -231,8 +231,8 @@ bcrypt                            4.0.1                   python
 beautifulsoup4                    4.11.1                  python  
 bellows                           0.35.9                  python  
 bimmer-connected                  0.13.9                  python  
-bitarray                          2.8.0                   python  
-bitstring                         4.1.0                   python  
+bitarray                          2.8.1                   python  
+bitstring                         4.1.1                   python  
 bitstruct                         8.17.0                  python  
 bizkaibus                         0.1.1                   python  
 bleach                            6.0.0                   python  
@@ -269,7 +269,7 @@ btsocket                          0.2.0                   python
 buienradar                        1.0.5                   python  
 busybox                           1.36.1-r2               apk     
 busybox-binsh                     1.36.1-r2               apk     
-bx-py-utils                       85                      python  
+bx_py_utils                       87                      python  
 bytecode                          0.13.0.dev0             python  
 ca-certificates                   20230506-r0             apk     
 ca-certificates-bundle            20230506-r0             apk     
@@ -508,7 +508,7 @@ home-assistant-bluetooth          1.10.2                  python
 home-assistant-chip-clusters      2023.6.0                python  
 home-assistant-frontend           20230802.1              python  
 home-assistant-intents            2023.8.2                python  
-homeassistant                     2023.8.3                python  
+homeassistant                     2023.8.4                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.14                  python  
 homepluscontrol                   0.0.5                   python  
@@ -805,7 +805,7 @@ openssl-dev                       3.1.2-r0                apk
 openwebifpy                       3.2.7                   python  
 openwrt-luci-rpc                  1.1.16                  python  
 openwrt-ubus-rpc                  0.0.2                   python  
-opower                            0.0.29                  python  
+opower                            0.0.31                  python  
 opus                              1.4-r0                  apk     
 opuslib                           3.0.1                   python  
 oralb-ble                         0.17.6                  python  
@@ -1010,7 +1010,7 @@ pylaunches                        1.4.0                   python
 pylgnetcast                       0.3.7                   python  
 pylibrespot-java                  0.1.1                   python  
 pylitejet                         0.5.0                   python  
-pylitterbot                       2023.4.2                python  
+pylitterbot                       2023.4.5                python  
 pylutron                          0.2.8                   python  
 pylutron-caseta                   0.18.1                  python  
 pymailgunner                      1.4                     python  
@@ -1035,7 +1035,7 @@ pynws                             1.5.1                   python
 pynx584                           0.5                     python  
 pynzbgetapi                       0.2.0                   python  
 pyobihai                          1.4.2                   python  
-pyoctoprintapi                    0.1.11                  python  
+pyoctoprintapi                    0.1.12                  python  
 pyombi                            0.1.10                  python  
 pyopenuv                          2023.2.0                python  
 pyopnsense                        0.4.0                   python  
@@ -1193,7 +1193,7 @@ regex                             2021.8.28               python
 related                           0.7.3                   python  
 renault-api                       0.1.13                  python  
 renson-endura-delta               1.5.0                   python  
-reolink-aio                       0.7.7                   python  
+reolink-aio                       0.7.8                   python  
 repoze.lru                        0.7                     python  
 requests                          2.31.0                  python  
 requests-file                     1.5.1                   python  
