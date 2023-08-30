@@ -281,7 +281,7 @@ certifi                           2023.7.22               python
 cffi                              1.15.1                  python  
 cfgv                              3.4.0                   python  
 chacha20poly1305                  0.0.3                   python  
-chacha20poly1305-reuseable        0.4.1                   python  
+chacha20poly1305-reuseable        0.4.2                   python  
 charset-normalizer                3.2.0                   python  
 circuit-webhook                   1.0.1                   python  
 ciscomobilityexpress              0.3.9                   python  
@@ -402,7 +402,7 @@ ffmpeg-libpostproc                6.0-r15                 apk
 ffmpeg-libswresample              6.0-r15                 apk     
 ffmpeg-libswscale                 6.0-r15                 apk     
 file-read-backwards               2.0.0                   python  
-filelock                          3.12.2                  python  
+filelock                          3.12.3                  python  
 fints                             3.1.0                   python  
 fitbit                            0.3.1                   python  
 fivem-api                         0.1.2                   python  
@@ -539,7 +539,7 @@ idna                              3.4                     python
 ifaddr                            0.2.0                   python  
 iglo                              1.2.7                   python  
 ihcsdk                            2.8.5                   python  
-imageio                           2.31.1                  python  
+imageio                           2.31.2                  python  
 importlib-metadata                6.8.0                   python  
 importlib-resources               6.0.1                   python  
 imutils                           0.5.4                   python  
@@ -571,7 +571,7 @@ jaraco.classes                    3.3.0                   python
 jaraco.collections                4.3.0                   python  
 jaraco.context                    4.3.0                   python  
 jaraco.email                      3.1.0                   python  
-jaraco.functools                  3.8.1                   python  
+jaraco.functools                  3.9.0                   python  
 jaraco.itertools                  6.4.1                   python  
 jaraco.logging                    3.1.2                   python  
 jaraco.net                        9.3.1                   python  
@@ -845,7 +845,7 @@ pkgconf                           1.9.5-r0                apk
 platformdirs                      3.10.0                  python  
 plexauth                          0.0.6                   python  
 plexwebsocket                     0.0.13                  python  
-pluggy                            1.2.0                   python  
+pluggy                            1.3.0                   python  
 plugwise                          0.31.1                  python  
 plumbum                           1.8.2                   python  
 plumlightpad                      0.0.11                  python  
@@ -1144,9 +1144,9 @@ python-songpal                    0.15.2                  python
 python-tado                       0.15.0                  python  
 python-telegram-bot               13.1                    python  
 python-vlc                        1.1.2                   python  
-python3                           3.11.4-r0               apk     
-python3-pyc                       3.11.4-r0               apk     
-python3-pycache-pyc0              3.11.4-r0               apk     
+python3                           3.11.5-r0               apk     
+python3-pyc                       3.11.5-r0               apk     
+python3-pycache-pyc0              3.11.5-r0               apk     
 pythonegardia                     1.0.52                  python  
 pytile                            2023.4.0                python  
 pytomorrowio                      0.3.6                   python  
@@ -1213,7 +1213,7 @@ rokuecp                           0.18.1                  python
 roombapy                          1.6.8                   python  
 roonapi                           0.1.4                   python  
 rova                              0.3.0                   python  
-rpds-py                           0.9.2                   python  
+rpds-py                           0.10.0                  python  
 rpi-bad-power                     0.1.0                   python  
 rsa                               4.9                     python  
 rtsp-to-webrtc                    0.5.1                   python  
