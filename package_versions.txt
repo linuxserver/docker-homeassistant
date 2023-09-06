@@ -123,7 +123,7 @@ aiolivisi                         0.0.19                  python
 aiolookin                         1.0.0                   python  
 aiolyric                          1.0.9                   python  
 aiomodernforms                    0.1.8                   python  
-aiomqtt                           1.1.0                   python  
+aiomqtt                           1.2.0                   python  
 aiomusiccast                      0.14.8                  python  
 aionanoleaf                       0.2.1                   python  
 aionotion                         2023.5.5                python  
@@ -330,7 +330,7 @@ dbus-fast                         1.90.1                  python
 dbus-libs                         1.14.8-r0               apk     
 debugpy                           1.6.7                   python  
 decorator                         5.1.1                   python  
-deepdiff                          6.3.1                   python  
+deepdiff                          6.4.1                   python  
 deepmerge                         1.1.0                   python  
 defusedxml                        0.7.1                   python  
 deluge-client                     1.7.1                   python  
@@ -539,7 +539,7 @@ idna                              3.4                     python
 ifaddr                            0.2.0                   python  
 iglo                              1.2.7                   python  
 ihcsdk                            2.8.5                   python  
-imageio                           2.31.2                  python  
+imageio                           2.31.3                  python  
 importlib-metadata                6.8.0                   python  
 importlib-resources               6.0.1                   python  
 imutils                           0.5.4                   python  
@@ -573,7 +573,7 @@ jaraco.context                    4.3.0                   python
 jaraco.email                      3.1.0                   python  
 jaraco.functools                  3.9.0                   python  
 jaraco.itertools                  6.4.1                   python  
-jaraco.logging                    3.1.2                   python  
+jaraco.logging                    3.2.0                   python  
 jaraco.net                        9.3.1                   python  
 jaraco.text                       3.11.1                  python  
 jeepney                           0.8.0                   python  
@@ -651,7 +651,7 @@ libpciaccess                      0.17-r2                 apk
 libplacebo                        5.264.1-r1              apk     
 libpng                            1.6.39-r3               apk     
 libpq                             15.4-r0                 apk     
-libproc2                          4.0.3-r1                apk     
+libproc2                          4.0.4-r0                apk     
 libpulse                          16.1-r10                apk     
 libpyfoscam                       1.0                     python  
 libpyvivotek                      0.4.0                   python  
@@ -690,7 +690,7 @@ linode-api                        4.1.9b1                 python
 linux-pam                         1.5.2-r10               apk     
 locationsharinglib                5.0.1                   python  
 logi-circle                       0.2.3                   python  
-loguru                            0.7.0                   python  
+loguru                            0.7.1                   python  
 lomond                            0.3.3                   python  
 london-tube-status                0.5                     python  
 loqedAPI                          2.1.7                   python  
@@ -822,7 +822,7 @@ packaging                         23.1                    python
 paho-mqtt                         1.6.1                   python  
 panacotta                         0.2                     python  
 panasonic-viera                   0.3.6                   python  
-pandas                            2.0.3                   python  
+pandas                            2.1.0                   python  
 paramiko                          3.3.1                   python  
 passlib                           1.7.4                   python  
 path                              16.7.1                  python  
@@ -856,9 +856,9 @@ pprintpp                          0.4.0                   python
 praw                              7.5.0                   python  
 prawcore                          2.3.0                   python  
 prayer-times-calculator           0.0.6                   python  
-pre-commit                        3.3.3                   python  
+pre-commit                        3.4.0                   python  
 prettytable                       3.8.0                   python  
-procps-ng                         4.0.3-r1                apk     
+procps-ng                         4.0.4-r0                apk     
 proliphix                         0.4.1                   python  
 prometheus-client                 0.7.1                   python  
 proto-plus                        1.22.3                  python  
@@ -1095,7 +1095,7 @@ pysuez                            0.1.19                  python
 pyswitchbee                       1.8.0                   python  
 pytankerkoenig                    0.0.6                   python  
 pytautulli                        23.1.1                  python  
-pytest                            7.4.0                   python  
+pytest                            7.4.1                   python  
 pytest-cov                        4.1.0                   python  
 pytest-mock                       3.11.1                  python  
 pytest-rerunfailures              12.0                    python  
@@ -1154,7 +1154,7 @@ pytouchline                       0.7                     python
 pytraccar                         1.0.0                   python  
 pytradfri                         9.0.1                   python  
 pytrafikverket                    0.3.3                   python  
-pytz                              2023.3                  python  
+pytz                              2023.3.post1            python  
 pyudev                            0.23.2                  python  
 pyunifiprotect                    4.10.6                  python  
 pyuptimerobot                     22.2.0                  python  
@@ -1213,7 +1213,7 @@ rokuecp                           0.18.1                  python
 roombapy                          1.6.8                   python  
 roonapi                           0.1.4                   python  
 rova                              0.3.0                   python  
-rpds-py                           0.10.0                  python  
+rpds-py                           0.10.2                  python  
 rpi-bad-power                     0.1.0                   python  
 rsa                               4.9                     python  
 rtsp-to-webrtc                    0.5.1                   python  
@@ -1277,7 +1277,7 @@ solax                             0.3.2                   python
 somfy-mylink-synergy              1.0.6                   python  
 sonos-websocket                   0.1.2                   python  
 sortedcontainers                  2.4.0                   python  
-soupsieve                         2.4.1                   python  
+soupsieve                         2.5                     python  
 soxr                              0.1.3-r5                apk     
 speak2mary                        1.4.0                   python  
 speedtest-cli                     2.1.3                   python  
@@ -1377,7 +1377,7 @@ usb-devices                       0.4.1                   python
 utmps-libs                        0.1.2.1-r1              apk     
 uvcclient                         0.11.0                  python  
 v4l-utils-libs                    1.24.1-r0               apk     
-validators                        0.21.2                  python  
+validators                        0.22.0                  python  
 vallox-websocket-api              3.3.0                   python  
 vehicle                           1.0.1                   python  
 velbus-aio                        2023.2.0                python  
@@ -1385,7 +1385,7 @@ venstarcolortouch                 0.19                    python
 vidstab                           1.1.1-r0                apk     
 vilfo-api-client                  0.4.1                   python  
 vincenty                          0.1.4                   python  
-virtualenv                        20.24.3                 python  
+virtualenv                        20.24.4                 python  
 vobject                           0.9.6.1                 python  
 voip-utils                        0.1.0                   python  
 vol                               0.1.1                   python  
