@@ -451,7 +451,7 @@ gnutls                            3.8.0-r2                apk
 goalzero                          0.2.2                   python  
 goodwe                            0.2.31                  python  
 google-ai-generativelanguage      0.2.0                   python  
-google-api-core                   2.11.1                  python  
+google-api-core                   2.12.0                  python  
 google-api-python-client          2.71.0                  python  
 google-auth                       2.23.0                  python  
 google-auth-httplib2              0.1.1                   python  
@@ -534,14 +534,14 @@ iaqualink                         0.5.0                   python
 ibeacon-ble                       1.0.1                   python  
 ibmiotf                           0.3.4                   python  
 ical                              5.0.1                   python  
-icalendar                         5.0.9                   python  
+icalendar                         5.0.10                  python  
 icmplib                           3.0                     python  
 identify                          2.5.29                  python  
 idna                              3.4                     python  
 ifaddr                            0.2.0                   python  
 iglo                              1.2.7                   python  
 ihcsdk                            2.8.5                   python  
-imageio                           2.31.3                  python  
+imageio                           2.31.4                  python  
 importlib-metadata                6.8.0                   python  
 importlib-resources               6.1.0                   python  
 imutils                           0.5.4                   python  
@@ -1191,7 +1191,7 @@ raspyrfm-client                   1.2.8                   python
 ratelimit                         2.2.1                   python  
 readline                          8.2.1-r1                apk     
 recurring-ical-events             2.1.0                   python  
-redis                             5.0.0                   python  
+redis                             5.0.1                   python  
 referencing                       0.30.2                  python  
 regenmaschine                     2023.6.0                python  
 regex                             2021.8.28               python  
