@@ -16,11 +16,11 @@ Deprecated                        1.2.14                  python
 DoorBirdPy                        2.1.0                   python  
 Events                            0.4                     python  
 Flask                             3.0.0                   python  
-HAP-python                        4.7.1                   python  
+HAP-python                        4.8.0                   python  
 HATasmota                         0.7.3                   python  
 Jinja2                            3.1.2                   python  
 Js2Py                             0.74                    python  
-Markdown                          3.4.4                   python  
+Markdown                          3.5                     python  
 MarkupSafe                        2.1.3                   python  
 Mastodon.py                       1.5.1                   python  
 Pillow                            10.0.1                  python  
@@ -239,7 +239,7 @@ bitarray                          2.8.2                   python
 bitstring                         4.1.2                   python  
 bitstruct                         8.17.0                  python  
 bizkaibus                         0.1.1                   python  
-bleach                            6.0.0                   python  
+bleach                            6.1.0                   python  
 bleak                             0.21.1                  python  
 bleak-retry-connector             3.2.1                   python  
 blebox-uniapi                     2.1.4                   python  
@@ -331,11 +331,11 @@ datapoint                         0.9.8                   python
 dateparser                        1.1.8                   python  
 dbus                              1.14.8-r0               apk     
 dbus-daemon-launch-helper         1.14.8-r0               apk     
-dbus-fast                         2.11.0                  python  
+dbus-fast                         2.11.1                  python  
 dbus-libs                         1.14.8-r0               apk     
 debugpy                           1.8.0                   python  
 decorator                         5.1.1                   python  
-deepdiff                          6.5.0                   python  
+deepdiff                          6.6.0                   python  
 deepmerge                         1.1.0                   python  
 defusedxml                        0.7.1                   python  
 deluge-client                     1.7.1                   python  
@@ -377,7 +377,7 @@ energyzero                        0.5.0                   python
 enocean                           0.50.0                  python  
 enturclient                       0.2.4                   python  
 enum-compat                       0.0.3                   python  
-env-canada                        0.5.36                  python  
+env-canada                        0.5.37                  python  
 envoy-utils                       0.0.1                   python  
 envs                              1.4                     python  
 ephem                             4.1.2                   python  
@@ -510,9 +510,9 @@ hole                              0.8.0                   python
 holidays                          0.28                    python  
 home-assistant-bluetooth          1.10.3                  python  
 home-assistant-chip-clusters      2023.6.0                python  
-home-assistant-frontend           20231002.0              python  
+home-assistant-frontend           20231005.0              python  
 home-assistant-intents            2023.10.2               python  
-homeassistant                     2023.10.0               python  
+homeassistant                     2023.10.1               python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.15                  python  
 homepluscontrol                   0.0.5                   python  
@@ -699,7 +699,7 @@ logi-circle                       0.2.3                   python
 loguru                            0.7.2                   python  
 lomond                            0.3.3                   python  
 london-tube-status                0.5                     python  
-loqedAPI                          2.1.7                   python  
+loqedAPI                          2.1.8                   python  
 lru-dict                          1.2.0                   python  
 luftdaten                         0.7.4                   python  
 lupupy                            0.3.0                   python  
@@ -713,7 +713,7 @@ marshmallow-dataclass             8.6.0                   python
 matrix-nio                        0.21.2                  python  
 maxcube-api                       0.4.3                   python  
 mbddns                            0.1.2                   python  
-mbedtls                           2.28.4-r0               apk     
+mbedtls                           2.28.5-r0               apk     
 mcstatus                          11.0.0                  python  
 meater-python                     0.0.8                   python  
 mechanize                         0.4.8                   python  
@@ -746,7 +746,7 @@ mt-940                            4.30.0                  python
 mullvad-api                       1.0.0                   python  
 multidict                         6.0.4                   python  
 munch                             4.0.0                   python  
-musl                              1.2.4-r1                apk     
+musl                              1.2.4-r2                apk     
 musl-utils                        1.2.4-r1                apk     
 mutagen                           1.47.0                  python  
 mutesync                          0.0.1                   python  
@@ -937,7 +937,7 @@ pyblackbird                       0.6                     python
 pybotvac                          0.0.24                  python  
 pybravia                          0.3.3                   python  
 pyc                               0.1-r0                  apk     
-pycares                           4.3.0                   python  
+pycares                           4.4.0                   python  
 pycarwings2                       2.14                    python  
 pycfdns                           2.0.1                   python  
 pychannels                        1.2.3                   python  
@@ -1177,7 +1177,7 @@ pyvesync                          2.1.1                   python
 pyvizio                           0.1.61                  python  
 pyvlx                             0.2.20                  python  
 pyvolumio                         0.1.5                   python  
-pywaze                            0.5.0                   python  
+pywaze                            0.5.1                   python  
 pyweatherflowudp                  1.4.3                   python  
 pywebpush                         1.9.2                   python  
 pywemo                            1.3.0                   python  
@@ -1186,7 +1186,7 @@ pywinusb                          0.4.2                   python
 pywizlight                        0.5.14                  python  
 pyws66i                           1.1                     python  
 pyxeoma                           1.4.1                   python  
-pyyardian                         1.1.0                   python  
+pyyardian                         1.1.1                   python  
 pyzbar                            0.1.7                   python  
 pyzerproc                         0.4.8                   python  
 pyzipper                          0.3.6                   python  
@@ -1228,7 +1228,7 @@ rokuecp                           0.18.1                  python
 roombapy                          1.6.8                   python  
 roonapi                           0.1.4                   python  
 rova                              0.3.0                   python  
-rpds-py                           0.10.3                  python  
+rpds-py                           0.10.4                  python  
 rpi-bad-power                     0.1.0                   python  
 rsa                               4.9                     python  
 rtsp-to-webrtc                    0.5.1                   python  
@@ -1269,7 +1269,7 @@ sharp-aquos-rc                    0.3.2                   python
 shellingham                       1.5.3                   python  
 shodan                            1.28.0                  python  
 simplehound                       0.3                     python  
-simplejson                        3.19.1                  python  
+simplejson                        3.19.2                  python  
 simplepush                        2.2.3                   python  
 simplisafe-python                 2023.8.0                python  
 siobrultech-protocols             0.5.0                   python  
@@ -1467,7 +1467,7 @@ yt-dlp                            2023.9.24               python
 zamg                              0.3.0                   python  
 zeep                              4.2.1                   python  
 zengge                            0.2                     python  
-zeroconf                          0.115.1                 python  
+zeroconf                          0.115.2                 python  
 zeversolar                        0.3.1                   python  
 zha-quirks                        0.0.104                 python  
 zhong-hong-hvac                   1.0.9                   python  
@@ -1482,7 +1482,7 @@ zipp                              3.17.0                  python
 zlib                              1.2.13-r1               apk     
 zlib-dev                          1.2.13-r1               apk     
 zm-py                             0.5.2                   python  
-zope.interface                    6.0                     python  
+zope.interface                    6.1                     python  
 zstd-libs                         1.5.5-r4                apk     
 zwave-js-server-python            0.52.1                  python  
 zwave-me-ws                       0.4.3                   python  
