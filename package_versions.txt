@@ -110,7 +110,7 @@ aiogithubapi                      22.10.1                 python
 aioguardian                       2022.7.0                python  
 aioharmony                        0.2.10                  python  
 aiohomekit                        3.0.5                   python  
-aiohttp                           3.8.6                   python  
+aiohttp                           3.8.5                   python  
 aiohttp-cors                      0.7.0                   python  
 aiohttp-retry                     2.8.3                   python  
 aiohttp-socks                     0.7.1                   python  
@@ -512,7 +512,7 @@ home-assistant-bluetooth          1.10.3                  python
 home-assistant-chip-clusters      2023.6.0                python  
 home-assistant-frontend           20231005.0              python  
 home-assistant-intents            2023.10.2               python  
-homeassistant                     2023.10.2               python  
+homeassistant                     2023.10.3               python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.15                  python  
 homepluscontrol                   0.0.5                   python  
@@ -1207,7 +1207,7 @@ regex                             2021.8.28               python
 related                           0.7.3                   python  
 renault-api                       0.2.0                   python  
 renson-endura-delta               1.6.0                   python  
-reolink-aio                       0.7.10                  python  
+reolink-aio                       0.7.11                  python  
 repoze.lru                        0.7                     python  
 requests                          2.31.0                  python  
 requests-file                     1.5.1                   python  
