@@ -205,7 +205,7 @@ astral                            2.2                     python
 async-interrupt                   1.1.1                   python  
 async-modbus                      0.2.1                   python  
 async-timeout                     4.0.3                   python  
-async-upnp-client                 0.36.1                  python  
+async-upnp-client                 0.36.2                  python  
 asyncclick                        8.1.3.4                 python  
 asyncinotify                      4.0.2                   python  
 asyncio-dgram                     2.1.2                   python  
@@ -233,7 +233,7 @@ bash                              5.2.15-r5               apk
 batinfo                           0.4.2                   python  
 bcrypt                            4.0.1                   python  
 beautifulsoup4                    4.12.2                  python  
-bellows                           0.36.7                  python  
+bellows                           0.36.5                  python  
 bimmer-connected                  0.14.1                  python  
 bitarray                          2.8.2                   python  
 bitstring                         4.1.2                   python  
@@ -285,7 +285,7 @@ certifi                           2023.7.22               python
 cffi                              1.16.0                  python  
 cfgv                              3.4.0                   python  
 chacha20poly1305                  0.0.3                   python  
-chacha20poly1305-reuseable        0.10.1                  python  
+chacha20poly1305-reuseable        0.10.2                  python  
 charset-normalizer                3.2.0                   python  
 circuit-webhook                   1.0.1                   python  
 ciscomobilityexpress              0.3.9                   python  
@@ -512,7 +512,7 @@ home-assistant-bluetooth          1.10.3                  python
 home-assistant-chip-clusters      2023.6.0                python  
 home-assistant-frontend           20231005.0              python  
 home-assistant-intents            2023.10.2               python  
-homeassistant                     2023.10.4               python  
+homeassistant                     2023.10.5               python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.15                  python  
 homepluscontrol                   0.0.5                   python  
