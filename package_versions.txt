@@ -61,7 +61,7 @@ RtmAPI                            0.7.2                   python
 Rx                                3.2.0                   python  
 SQLAlchemy                        2.0.22                  python  
 SecretStorage                     3.3.3                   python  
-Simple Launcher Executable        1.1.0.14                dotnet  
+SimpleLauncherExecutable          1.1.0.14                dotnet  
 SpeechRecognition                 3.8.1                   python  
 Tami4EdgeAPI                      2.1                     python  
 TravisPy                          0.3.5                   python  
@@ -341,7 +341,7 @@ dbus-fast                         2.12.0                  python
 dbus-libs                         1.14.8-r0               apk     
 debugpy                           1.8.0                   python  
 decorator                         5.1.1                   python  
-deepdiff                          6.6.1                   python  
+deepdiff                          6.7.0                   python  
 deepmerge                         1.1.0                   python  
 defusedxml                        0.7.1                   python  
 deluge-client                     1.7.1                   python  
@@ -460,7 +460,7 @@ gnutls                            3.8.0-r2                apk
 goalzero                          0.2.2                   python  
 goodwe                            0.2.31                  python  
 google-ai-generativelanguage      0.2.0                   python  
-google-api-core                   2.12.0                  python  
+google-api-core                   2.13.0                  python  
 google-api-python-client          2.71.0                  python  
 google-auth                       2.23.4                  python  
 google-auth-httplib2              0.1.1                   python  
@@ -554,7 +554,7 @@ iglo                              1.2.7                   python
 ihcsdk                            2.8.5                   python  
 imageio                           2.31.5                  python  
 importlib-metadata                6.8.0                   python  
-importlib-resources               6.1.0                   python  
+importlib-resources               6.1.1                   python  
 imutils                           0.5.4                   python  
 incomfort-client                  0.5.0                   python  
 incremental                       22.10.0                 python  
@@ -584,7 +584,7 @@ jaraco.classes                    3.3.0                   python
 jaraco.collections                4.3.0                   python  
 jaraco.context                    4.3.0                   python  
 jaraco.email                      3.1.0                   python  
-jaraco.functools                  3.9.0                   python  
+jaraco.functools                  4.0.0                   python  
 jaraco.itertools                  6.4.1                   python  
 jaraco.logging                    3.2.0                   python  
 jaraco.net                        9.3.1                   python  
@@ -723,7 +723,7 @@ mbddns                            0.1.2                   python
 mbedtls                           2.28.5-r0               apk     
 mcstatus                          11.0.0                  python  
 meater-python                     0.0.8                   python  
-mechanize                         0.4.8                   python  
+mechanize                         0.4.9                   python  
 medcom-ble                        0.1.1                   python  
 mediafile                         0.12.0                  python  
 melnor-bluetooth                  0.0.25                  python  
@@ -843,7 +843,7 @@ paramiko                          3.3.1                   python
 passlib                           1.7.4                   python  
 path                              16.7.1                  python  
 pathvalidate                      3.2.0                   python  
-pbr                               5.11.1                  python  
+pbr                               6.0.0                   python  
 pcre2                             10.42-r1                apk     
 pdunehd                           1.3.2                   python  
 peco                              0.0.29                  python  
