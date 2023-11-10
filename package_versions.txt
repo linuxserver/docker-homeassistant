@@ -89,7 +89,7 @@ aio-georss-client                 0.11                    python
 aio-georss-gdacs                  0.8                     python  
 aioairq                           0.2.4                   python  
 aioairzone                        0.6.9                   python  
-aioairzone-cloud                  0.3.1                   python  
+aioairzone-cloud                  0.3.5                   python  
 aioambient                        2023.4.0                python  
 aioaseko                          0.0.2                   python  
 aioasuswrt                        1.4.0                   python  
@@ -105,7 +105,7 @@ aioeafm                           0.1.2                   python
 aioeagle                          1.1.0                   python  
 aioecowitt                        2023.5.0                python  
 aioemonitor                       1.0.5                   python  
-aioesphomeapi                     18.1.0                  python  
+aioesphomeapi                     18.2.4                  python  
 aiofiles                          23.2.1                  python  
 aioflo                            2021.11.0               python  
 aioftp                            0.21.3                  python  
@@ -217,7 +217,7 @@ asyncio-dgram                     2.1.2                   python
 asyncio-throttle                  1.0.2                   python  
 asyncpysupla                      0.0.5                   python  
 asyncsleepiq                      1.3.7                   python  
-asyncssh                          2.14.0                  python  
+asyncssh                          2.14.1                  python  
 asyncstdlib                       3.10.9                  python  
 asynctest                         0.13.0                  python  
 atomicwrites-homeassistant        1.4.1                   python  
@@ -250,12 +250,12 @@ bleak                             0.21.1                  python
 bleak-retry-connector             3.3.0                   python  
 blebox-uniapi                     2.2.0                   python  
 blinker                           1.7.0                   python  
-blinkpy                           0.22.2                  python  
+blinkpy                           0.22.3                  python  
 blockchain                        1.4.4                   python  
 bluemaestro-ble                   0.2.3                   python  
 bluetooth-adapters                0.16.1                  python  
 bluetooth-auto-recovery           1.2.3                   python  
-bluetooth-data-tools              1.13.0                  python  
+bluetooth-data-tools              1.14.0                  python  
 bluetooth-sensor-state-data       1.6.2                   python  
 bluez                             5.66-r5                 apk     
 bluez-deprecated                  5.66-r5                 apk     
@@ -291,7 +291,7 @@ certifi                           2023.7.22               python
 cffi                              1.16.0                  python  
 cfgv                              3.4.0                   python  
 chacha20poly1305                  0.0.3                   python  
-chacha20poly1305-reuseable        0.10.2                  python  
+chacha20poly1305-reuseable        0.11.0                  python  
 charset-normalizer                3.2.0                   python  
 circuit-webhook                   1.0.1                   python  
 ciscomobilityexpress              0.3.9                   python  
@@ -331,7 +331,7 @@ cssselect                         1.2.0                   python
 cups-libs                         2.4.7-r0                apk     
 curl                              8.4.0-r0                apk     
 dacite                            1.8.1                   python  
-dataclasses-json                  0.6.1                   python  
+dataclasses-json                  0.6.2                   python  
 datadog                           0.15.0                  python  
 datapoint                         0.9.8                   python  
 dateparser                        1.1.8                   python  
@@ -361,7 +361,7 @@ dnspython                         2.4.2                   python
 docopt                            0.6.2                   python  
 dovado                            0.4.1                   python  
 dremel3dpy                        2.1.1                   python  
-dsmr-parser                       1.3.0                   python  
+dsmr-parser                       1.3.1                   python  
 dwdwfsapi                         1.0.6                   python  
 dweepy                            0.3.0                   python  
 dynalite-devices                  0.1.47                  python  
@@ -460,7 +460,7 @@ gnutls                            3.8.0-r2                apk
 goalzero                          0.2.2                   python  
 goodwe                            0.2.31                  python  
 google-ai-generativelanguage      0.2.0                   python  
-google-api-core                   2.13.0                  python  
+google-api-core                   2.14.0                  python  
 google-api-python-client          2.71.0                  python  
 google-auth                       2.23.4                  python  
 google-auth-httplib2              0.1.1                   python  
@@ -473,7 +473,7 @@ googleapis-common-protos          1.61.0                  python
 googlemaps                        2.5.1                   python  
 goslide-api                       0.5.1                   python  
 govee-ble                         0.24.0                  python  
-gpiod                             2.1.1                   python  
+gpiod                             2.1.3                   python  
 gpiozero                          1.6.2                   python  
 gps3                              0.33.3                  python  
 gql                               3.4.1                   python  
@@ -486,7 +486,7 @@ greenlet                          3.0.1                   python
 greenwavereality                  0.5.1                   python  
 gridnet                           4.2.0                   python  
 growattServer                     1.3.0                   python  
-grpc-google-iam-v1                0.12.6                  python  
+grpc-google-iam-v1                0.12.7                  python  
 grpcio                            1.59.0                  python  
 grpcio-reflection                 1.59.0                  python  
 grpcio-status                     1.59.0                  python  
@@ -517,9 +517,9 @@ hole                              0.8.0                   python
 holidays                          0.35                    python  
 home-assistant-bluetooth          1.10.4                  python  
 home-assistant-chip-clusters      2023.10.1               python  
-home-assistant-frontend           20231030.1              python  
+home-assistant-frontend           20231030.2              python  
 home-assistant-intents            2023.10.16              python  
-homeassistant                     2023.11.1               python  
+homeassistant                     2023.11.2               python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.15                  python  
 homepluscontrol                   0.0.5                   python  
@@ -584,7 +584,7 @@ jaraco.classes                    3.3.0                   python
 jaraco.collections                4.3.0                   python  
 jaraco.context                    4.3.0                   python  
 jaraco.email                      3.1.0                   python  
-jaraco.functools                  4.0.0                   python  
+jaraco.functools                  3.9.0                   python  
 jaraco.itertools                  6.4.1                   python  
 jaraco.logging                    3.2.0                   python  
 jaraco.net                        9.3.1                   python  
@@ -717,6 +717,7 @@ mariadb-connector-c               3.3.5-r0                apk
 mariadb-connector-c-dev           3.3.5-r0                apk     
 marshmallow                       3.20.1                  python  
 marshmallow-dataclass             8.6.0                   python  
+mashumaro                         3.10                    python  
 matrix-nio                        0.22.1                  python  
 maxcube-api                       0.4.3                   python  
 mbddns                            0.1.2                   python  
@@ -936,7 +937,7 @@ pyairvisual                       2023.8.1                python
 pyasn1                            0.4.8                   python  
 pyasn1-modules                    0.3.0                   python  
 pyatag                            0.3.5.3                 python  
-pyatmo                            7.5.0                   python  
+pyatmo                            7.6.0                   python  
 pyatv                             0.14.3                  python  
 pyaussiebb                        0.0.15                  python  
 pybalboa                          1.0.1                   python  
@@ -978,7 +979,7 @@ pyecoforest                       0.3.0                   python
 pyeconet                          0.1.22                  python  
 pyedimax                          0.2.1                   python  
 pyefergy                          22.1.1                  python  
-pyenphase                         1.14.1                  python  
+pyenphase                         1.14.2                  python  
 pyenvisalink                      4.6                     python  
 pyephember                        0.3.1                   python  
 pyeverlights                      0.1.0                   python  
@@ -1156,7 +1157,7 @@ python-qbittorrent                0.4.3                   python
 python-ripple-api                 0.0.3                   python  
 python-roborock                   0.35.0                  python  
 python-slugify                    4.0.1                   python  
-python-smarttub                   0.0.33                  python  
+python-smarttub                   0.0.35                  python  
 python-socketio                   4.6.1                   python  
 python-socks                      2.4.3                   python  
 python-songpal                    0.15.2                  python  
@@ -1336,7 +1337,7 @@ syrupy                            4.6.0                   python
 systembridgeconnector             3.8.4                   python  
 tabulate                          0.9.0                   python  
 tailer                            0.4.1                   python  
-tailscale                         0.2.0                   python  
+tailscale                         0.6.0                   python  
 tank-utility                      1.5.0                   python  
 tapsaff                           0.2.1                   python  
 tdb-libs                          1.4.8-r1                apk     
@@ -1448,7 +1449,7 @@ wiffi                             1.1.2                   python
 wirelesstagpy                     0.8.1                   python  
 wled                              0.17.0                  python  
 wolf-smartset                     0.1.11                  python  
-wrapt                             1.15.0                  python  
+wrapt                             1.16.0                  python  
 wsproto                           1.2.0                   python  
 wyoming                           1.2.0                   python  
 x-wr-timezone                     0.0.6                   python  
@@ -1473,7 +1474,7 @@ yeelightsunflower                 0.0.10                  python
 yolink-api                        0.3.1                   python  
 youless-api                       1.0.1                   python  
 youtubeaio                        1.1.5                   python  
-yt-dlp                            2023.9.24               python  
+yt-dlp                            2023.10.13              python  
 zamg                              0.3.0                   python  
 zeep                              4.2.1                   python  
 zengge                            0.2                     python  
