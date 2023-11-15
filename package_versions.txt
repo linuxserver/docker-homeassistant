@@ -11,7 +11,7 @@ Brotli                            1.1.0                   python
 CO2Signal                         0.4.2                   python  
 Cython                            0.29.36                 python  
 DTLSSocket                        0.1.16                  python  
-DateTime                          5.2                     python  
+DateTime                          5.3                     python  
 Deprecated                        1.2.14                  python  
 DoorBirdPy                        2.1.0                   python  
 Events                            0.4                     python  
@@ -199,7 +199,7 @@ aqipy-atmotech                    0.1.5                   python
 aqualogic                         2.6                     python  
 aranet4                           2.2.2                   python  
 arcam-fmj                         1.4.0                   python  
-argcomplete                       3.1.4                   python  
+argcomplete                       3.1.6                   python  
 arris-tg2492lg                    1.2.1                   python  
 arrow                             1.3.0                   python  
 asmog                             0.0.6                   python  
@@ -241,7 +241,7 @@ bcrypt                            4.0.1                   python
 beautifulsoup4                    4.12.2                  python  
 bellows                           0.36.8                  python  
 bimmer-connected                  0.14.2                  python  
-bitarray                          2.8.2                   python  
+bitarray                          2.8.3                   python  
 bitstring                         4.1.2                   python  
 bitstruct                         8.19.0                  python  
 bizkaibus                         0.1.1                   python  
@@ -277,8 +277,8 @@ bthomehub5-devicelist             0.1.1                   python
 btsmarthub-devicelist             0.2.3                   python  
 btsocket                          0.2.0                   python  
 buienradar                        1.0.5                   python  
-busybox                           1.36.1-r4               apk     
-busybox-binsh                     1.36.1-r4               apk     
+busybox                           1.36.1-r5               apk     
+busybox-binsh                     1.36.1-r5               apk     
 bx_py_utils                       88                      python  
 bytecode                          0.13.0.dev0             python  
 ca-certificates                   20230506-r0             apk     
@@ -341,7 +341,7 @@ dbus-fast                         2.12.0                  python
 dbus-libs                         1.14.8-r0               apk     
 debugpy                           1.8.0                   python  
 decorator                         5.1.1                   python  
-deepdiff                          6.7.0                   python  
+deepdiff                          6.7.1                   python  
 deepmerge                         1.1.0                   python  
 defusedxml                        0.7.1                   python  
 deluge-client                     1.7.1                   python  
@@ -601,7 +601,7 @@ jsonrpc-async                     2.1.2                   python
 jsonrpc-base                      2.1.1                   python  
 jsonrpc-websocket                 3.1.4                   python  
 jsonschema                        4.19.2                  python  
-jsonschema-specifications         2023.7.1                python  
+jsonschema-specifications         2023.11.1               python  
 justbackoff                       0.6.0                   python  
 justnimbus                        0.6.0                   python  
 jwcrypto                          1.5.0                   python  
@@ -610,7 +610,7 @@ kaiterra-async-client             1.0.0                   python
 kasa-crypt                        0.4.0                   python  
 keba-kecontact                    1.1.0                   python  
 kegtron-ble                       0.4.0                   python  
-keyring                           24.2.0                  python  
+keyring                           24.3.0                  python  
 keyrings.alt                      5.0.0                   python  
 kiwiki-client                     0.1.1                   python  
 knx-frontend                      2023.6.23.191712        python  
@@ -636,7 +636,7 @@ libc-utils                        0.7.2-r5                apk
 libcap                            2.69-r0                 apk     
 libcap-utils                      2.69-r0                 apk     
 libcap2                           2.69-r0                 apk     
-libcrypto3                        3.1.4-r0                apk     
+libcrypto3                        3.1.4-r1                apk     
 libcurl                           8.4.0-r0                apk     
 libdav1d                          1.2.1-r0                apk     
 libdrm                            2.4.115-r4              apk     
@@ -675,7 +675,7 @@ libsodium                         1.0.18-r3               apk
 libsoundtouch                     0.8.0                   python  
 libsrt                            1.5.2-r0                apk     
 libssh                            0.10.5-r0               apk     
-libssl3                           3.1.4-r0                apk     
+libssl3                           3.1.4-r1                apk     
 libstdc++                         12.2.1_git20220924-r10  apk     
 libtasn1                          4.19.0-r1               apk     
 libtheora                         1.1.1-r17               apk     
@@ -815,8 +815,8 @@ opensensemap-api                  0.2.0                   python
 openssh-client-common             9.3_p2-r0               apk     
 openssh-client-default            9.3_p2-r0               apk     
 openssh-keygen                    9.3_p2-r0               apk     
-openssl                           3.1.4-r0                apk     
-openssl-dev                       3.1.4-r0                apk     
+openssl                           3.1.4-r1                apk     
+openssl-dev                       3.1.4-r1                apk     
 openwebifpy                       3.2.7                   python  
 openwrt-luci-rpc                  1.1.16                  python  
 openwrt-ubus-rpc                  0.0.2                   python  
@@ -839,7 +839,7 @@ packaging                         23.2                    python
 paho-mqtt                         1.6.1                   python  
 panacotta                         0.2                     python  
 panasonic-viera                   0.3.6                   python  
-pandas                            2.1.2                   python  
+pandas                            2.1.3                   python  
 paramiko                          3.3.1                   python  
 passlib                           1.7.4                   python  
 path                              16.7.1                  python  
@@ -1142,7 +1142,7 @@ python-izone                      1.2.9                   python
 python-join-api                   0.0.9                   python  
 python-jose                       3.3.0                   python  
 python-juicenet                   1.1.0                   python  
-python-jwt                        4.0.0                   python  
+python-jwt                        4.1.0                   python  
 python-kasa                       0.5.4                   python  
 python-magic                      0.4.27                  python  
 python-matter-server              4.0.0                   python  
@@ -1211,7 +1211,7 @@ ratelimit                         2.2.1                   python
 readline                          8.2.1-r1                apk     
 recurring-ical-events             2.1.0                   python  
 redis                             5.0.1                   python  
-referencing                       0.30.2                  python  
+referencing                       0.31.0                  python  
 regenmaschine                     2023.6.0                python  
 regex                             2021.8.28               python  
 related                           0.7.3                   python  
@@ -1312,7 +1312,7 @@ spotipy                           2.23.0                  python
 sqlite-libs                       3.41.2-r2               apk     
 srpenergy                         1.3.6                   python  
 srptools                          1.0.1                   python  
-ssl_client                        1.36.1-r4               apk     
+ssl_client                        1.36.1-r5               apk     
 starkbank-ecdsa                   2.2.0                   python  
 starline                          0.1.5                   python  
 starlingbank                      3.2                     python  
@@ -1435,7 +1435,7 @@ warrant-lite                      1.0.4                   python
 watchdog                          2.3.1                   python  
 waterfurnace                      1.1.0                   python  
 wayland-libs-client               1.22.0-r2               apk     
-wcwidth                           0.2.9                   python  
+wcwidth                           0.2.10                  python  
 webcolors                         1.13                    python  
 webencodings                      0.5.1                   python  
 webexteamssdk                     1.1.1                   python  
