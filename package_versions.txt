@@ -242,7 +242,7 @@ beautifulsoup4                    4.12.2                  python
 bellows                           0.36.8                  python  
 bimmer-connected                  0.14.3                  python  
 bitarray                          2.8.3                   python  
-bitstring                         4.1.2                   python  
+bitstring                         4.1.3                   python  
 bitstruct                         8.19.0                  python  
 bizkaibus                         0.1.1                   python  
 bleach                            6.1.0                   python  
@@ -331,7 +331,7 @@ cssselect                         1.2.0                   python
 cups-libs                         2.4.7-r0                apk     
 curl                              8.4.0-r0                apk     
 dacite                            1.8.1                   python  
-dataclasses-json                  0.6.2                   python  
+dataclasses-json                  0.6.3                   python  
 datadog                           0.15.0                  python  
 datapoint                         0.9.8                   python  
 dateparser                        1.2.0                   python  
@@ -398,7 +398,7 @@ eufylife-ble-client               0.1.8                   python
 evohome-async                     0.3.15                  python  
 exceptiongroup                    1.2.0                   python  
 faadelays                         2023.9.1                python  
-fake-useragent                    1.3.0                   python  
+fake-useragent                    1.4.0                   python  
 fastdotcom                        0.0.3                   python  
 faust-cchardet                    2.1.19                  python  
 feedparser                        6.0.10                  python  
@@ -548,7 +548,7 @@ icmplib                           3.0                     python
 idasen                            0.10.3                  python  
 idasen-ha                         2.3                     python  
 identify                          2.5.32                  python  
-idna                              3.4                     python  
+idna                              3.6                     python  
 ifaddr                            0.2.0                   python  
 iglo                              1.2.7                   python  
 ihcsdk                            2.8.5                   python  
@@ -588,7 +588,7 @@ jaraco.functools                  3.9.0                   python
 jaraco.itertools                  6.4.1                   python  
 jaraco.logging                    3.2.0                   python  
 jaraco.net                        9.3.1                   python  
-jaraco.text                       3.11.1                  python  
+jaraco.text                       3.12.0                  python  
 jeepney                           0.8.0                   python  
 jellyfin-apiclient-python         1.9.2                   python  
 jmespath                          1.0.1                   python  
@@ -717,7 +717,7 @@ mariadb-connector-c               3.3.5-r0                apk
 mariadb-connector-c-dev           3.3.5-r0                apk     
 marshmallow                       3.20.1                  python  
 marshmallow-dataclass             8.6.0                   python  
-mashumaro                         3.10                    python  
+mashumaro                         3.11                    python  
 matrix-nio                        0.22.1                  python  
 maxcube-api                       0.4.3                   python  
 mbddns                            0.1.2                   python  
@@ -885,7 +885,7 @@ psutil                            5.9.6                   python
 psutil-home-assistant             0.0.1                   python  
 psycopg2                          2.9.9                   python  
 ptyprocess                        0.7.0                   python  
-pubnub                            7.3.1                   python  
+pubnub                            7.3.2                   python  
 pulsectl                          23.5.2                  python  
 pure-pcapy3                       1.0.1                   python  
 pure-python-adb                   0.3.0.dev0              python  
@@ -1255,7 +1255,7 @@ screenlogicpy                     0.9.4                   python
 scsgate                           0.1.0                   python  
 sdl2                              2.26.5-r0               apk     
 securetar                         2023.3.0                python  
-segno                             1.5.3                   python  
+segno                             1.6.0                   python  
 selenium                          4.15.2                  python  
 semver                            3.0.2                   python  
 sendgrid                          6.8.2                   python  
@@ -1442,7 +1442,7 @@ webexteamssdk                     1.1.1                   python
 webrtc-noise-gain                 1.2.3                   python  
 websocket-client                  1.6.4                   python  
 websockets                        11.0.3                  python  
-wheel                             0.41.3                  python  
+wheel                             0.42.0                  python  
 whirlpool-sixth-sense             0.18.4                  python  
 whois                             0.9.27                  python  
 wiffi                             1.1.2                   python  
