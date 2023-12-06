@@ -176,7 +176,7 @@ alpha-vantage                     2.3.1                   python
 alpine-baselayout                 3.4.3-r1                apk     
 alpine-baselayout-data            3.4.3-r1                apk     
 alpine-keys                       2.4-r1                  apk     
-alpine-release                    3.18.4-r0               apk     
+alpine-release                    3.18.5-r0               apk     
 alsa-lib                          1.2.9-r1                apk     
 amberelectric                     1.0.4                   python  
 amcrest                           1.9.8                   python  
@@ -241,8 +241,8 @@ bcrypt                            4.0.1                   python
 beautifulsoup4                    4.12.2                  python  
 bellows                           0.36.8                  python  
 bimmer-connected                  0.14.3                  python  
-bitarray                          2.8.3                   python  
-bitstring                         4.1.3                   python  
+bitarray                          2.8.4                   python  
+bitstring                         4.1.4                   python  
 bitstruct                         8.19.0                  python  
 bizkaibus                         0.1.1                   python  
 bleach                            6.1.0                   python  
@@ -279,7 +279,7 @@ btsocket                          0.2.0                   python
 buienradar                        1.0.5                   python  
 busybox                           1.36.1-r5               apk     
 busybox-binsh                     1.36.1-r5               apk     
-bx_py_utils                       88                      python  
+bx_py_utils                       89                      python  
 bytecode                          0.13.0.dev0             python  
 ca-certificates                   20230506-r0             apk     
 ca-certificates-bundle            20230506-r0             apk     
@@ -291,7 +291,7 @@ certifi                           2023.11.17              python
 cffi                              1.16.0                  python  
 cfgv                              3.4.0                   python  
 chacha20poly1305                  0.0.3                   python  
-chacha20poly1305-reuseable        0.11.0                  python  
+chacha20poly1305-reuseable        0.12.0                  python  
 charset-normalizer                3.2.0                   python  
 circuit-webhook                   1.0.1                   python  
 ciscomobilityexpress              0.3.9                   python  
@@ -318,7 +318,7 @@ connio                            0.2.0                   python
 construct                         2.10.68                 python  
 coreutils                         9.3-r1                  apk     
 coverage                          7.3.2                   python  
-crc                               5.0.0                   python  
+crc                               6.0.0                   python  
 crccheck                          1.3.0                   python  
 crcmod                            1.7                     python  
 croniter                          1.0.6                   python  
@@ -462,7 +462,7 @@ goodwe                            0.2.31                  python
 google-ai-generativelanguage      0.2.0                   python  
 google-api-core                   2.14.0                  python  
 google-api-python-client          2.71.0                  python  
-google-auth                       2.23.4                  python  
+google-auth                       2.25.0                  python  
 google-auth-httplib2              0.1.1                   python  
 google-auth-oauthlib              1.1.0                   python  
 google-cloud-pubsub               2.13.11                 python  
@@ -553,7 +553,7 @@ ifaddr                            0.2.0                   python
 iglo                              1.2.7                   python  
 ihcsdk                            2.8.5                   python  
 imageio                           2.33.0                  python  
-importlib-metadata                6.8.0                   python  
+importlib-metadata                7.0.0                   python  
 importlib-resources               6.1.1                   python  
 imutils                           0.5.4                   python  
 incomfort-client                  0.5.0                   python  
@@ -601,7 +601,7 @@ jsonrpc-async                     2.1.2                   python
 jsonrpc-base                      2.1.1                   python  
 jsonrpc-websocket                 3.1.4                   python  
 jsonschema                        4.20.0                  python  
-jsonschema-specifications         2023.11.1               python  
+jsonschema-specifications         2023.11.2               python  
 justbackoff                       0.6.0                   python  
 justnimbus                        0.6.0                   python  
 jwcrypto                          1.5.0                   python  
@@ -842,7 +842,7 @@ panasonic-viera                   0.3.6                   python
 pandas                            2.1.3                   python  
 paramiko                          3.3.1                   python  
 passlib                           1.7.4                   python  
-path                              16.7.1                  python  
+path                              16.9.0                  python  
 pathvalidate                      3.2.0                   python  
 pbr                               6.0.0                   python  
 pcre2                             10.42-r1                apk     
@@ -859,7 +859,7 @@ pip                               23.1.2                  python
 pizzapi                           0.0.3                   python  
 pkce                              1.0.3                   python  
 pkgconf                           1.9.5-r0                apk     
-platformdirs                      4.0.0                   python  
+platformdirs                      4.1.0                   python  
 plexauth                          0.0.6                   python  
 plexwebsocket                     0.0.14                  python  
 pluggy                            1.3.0                   python  
@@ -1103,7 +1103,7 @@ pysmartthings                     0.7.8                   python
 pysmb                             1.2.9.1                 python  
 pysml                             0.0.12                  python  
 pysnmp-pyasn1                     1.1.3                   python  
-pysnmp-pysmi                      1.1.10                  python  
+pysnmp-pysmi                      1.1.11                  python  
 pysnmplib                         5.0.21                  python  
 pysnooz                           0.8.6                   python  
 pysoma                            0.0.12                  python  
@@ -1118,7 +1118,7 @@ pytest                            7.4.3                   python
 pytest-cov                        4.1.0                   python  
 pytest-mock                       3.12.0                  python  
 pytest-rerunfailures              13.0                    python  
-pytest-runner                     6.0.0                   python  
+pytest-runner                     6.0.1                   python  
 pytfiac                           0.4                     python  
 pythinkingcleaner                 0.0.3                   python  
 python-awair                      0.2.4                   python  
@@ -1211,7 +1211,7 @@ ratelimit                         2.2.1                   python
 readline                          8.2.1-r1                apk     
 recurring-ical-events             2.1.1                   python  
 redis                             5.0.1                   python  
-referencing                       0.31.0                  python  
+referencing                       0.31.1                  python  
 regenmaschine                     2023.6.0                python  
 regex                             2021.8.28               python  
 related                           0.7.3                   python  
@@ -1236,7 +1236,7 @@ rokuecp                           0.18.1                  python
 roombapy                          1.6.8                   python  
 roonapi                           0.1.4                   python  
 rova                              0.3.0                   python  
-rpds-py                           0.13.1                  python  
+rpds-py                           0.13.2                  python  
 rpi-bad-power                     0.1.0                   python  
 rsa                               4.9                     python  
 rtsp-to-webrtc                    0.5.1                   python  
@@ -1364,7 +1364,7 @@ tmb                               0.0.4                   python
 todoist-api-python                2.1.2                   python  
 tololib                           0.1.0b4                 python  
 toonapi                           0.3.0                   python  
-tornado                           6.3.3                   python  
+tornado                           6.4                     python  
 total-connect-client              2023.2                  python  
 tp-connected                      0.0.4                   python  
 tplink_omada_client               1.3.2                   python  
@@ -1416,7 +1416,7 @@ venstarcolortouch                 0.19                    python
 vidstab                           1.1.1-r0                apk     
 vilfo-api-client                  0.4.1                   python  
 vincenty                          0.1.4                   python  
-virtualenv                        20.24.7                 python  
+virtualenv                        20.25.0                 python  
 vobject                           0.9.6.1                 python  
 voip-utils                        0.1.0                   python  
 vol                               0.1.1                   python  
@@ -1440,7 +1440,7 @@ webcolors                         1.13                    python
 webencodings                      0.5.1                   python  
 webexteamssdk                     1.1.1                   python  
 webrtc-noise-gain                 1.2.3                   python  
-websocket-client                  1.6.4                   python  
+websocket-client                  1.7.0                   python  
 websockets                        11.0.3                  python  
 wheel                             0.42.0                  python  
 whirlpool-sixth-sense             0.18.4                  python  
