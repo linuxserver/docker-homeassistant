@@ -1,7 +1,12 @@
 #!/usr/bin/with-contenv bash
 # shellcheck shell=bash
 
-setcap 'cap_net_bind_service=+ep cap_net_raw,cap_net_admin+eip' /usr/bin/python3.11
+if [[ -d "/var/run/dbus" ]] && capsh --current | grep "Current:" | grep -q "cap_net_admin" && capsh --current | grep "Current:" | grep -q "cap_net_raw"; then
+    echo "**** Bluetooth detected, setting the necessary caps for HA ****"
+    setcap 'cap_net_bind_service=+ep cap_net_raw,cap_net_admin+eip' /usr/bin/python3.11
+else
+    setcap 'cap_net_bind_service=+ep' /usr/bin/python3.11
+fi
 
 exec \
     s6-notifyoncheck -d -n 60 -w 5000 -c "nc -z localhost 8123" \
