@@ -52,6 +52,7 @@ app_setup_block: |
 unraid_template_sync: false
 # changelog
 changelogs:
+  - {date: "14.12.23:", desc: "Fix bluetooth access."}
   - {date: "05.07.23:", desc: "Deprecate armhf. As announced [here](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)"}
   - {date: "21.06.23:", desc: "Pin pycups version."}
   - {date: "14.06.23:", desc: "Create secondary venv in `/config` for pip installs."}

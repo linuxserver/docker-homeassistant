@@ -308,6 +308,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **14.12.23:** - Fix bluetooth access.
 * **05.07.23:** - Deprecate armhf. As announced [here](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)
 * **21.06.23:** - Pin pycups version.
 * **14.06.23:** - Create secondary venv in `/config` for pip installs.
