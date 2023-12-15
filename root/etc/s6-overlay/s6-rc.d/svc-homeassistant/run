@@ -1,7 +1,7 @@
 #!/usr/bin/with-contenv bash
 # shellcheck shell=bash
 
-setcap 'cap_net_bind_service=+ep,cap_net_raw,cap_net_admin+eip' /usr/bin/python3.11
+setcap 'cap_net_bind_service=+ep cap_net_raw,cap_net_admin+eip' /usr/bin/python3.11
 
 exec \
     s6-notifyoncheck -d -n 60 -w 5000 -c "nc -z localhost 8123" \
