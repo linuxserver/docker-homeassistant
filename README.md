@@ -63,6 +63,35 @@ This image is based on Home Assistant Core.
 
 The Webui can be found at `http://your-ip:8123`. Follow the wizard to set up Home Assistant.
 
+### Host vs. Bridge
+
+Home Assistant can [discover][hb0] and automatically configure
+[zeroconf][hb1]/[mDNS][hb2] and [UPnP][hb3] devices on your network. In
+order for this to work you must create the container with `--net=host`.
+
+[hb0]: https://www.home-assistant.io/integrations/discovery/#mdns-and-upnp
+[hb1]: https://en.wikipedia.org/wiki/Zero-configuration_networking
+[hb2]: https://en.wikipedia.org/wiki/Multicast_DNS
+[hb3]: https://en.wikipedia.org/wiki/Universal_Plug_and_Play
+
+### Accessing Bluetooth Device
+
+In order to provide HA with access to the host's Bluetooth device, one needs to install Bluez on the host, add the capabilities `NET_ADMIN` and `NET_RAW` to the container, and map dbus as shown in the below examples.
+
+#### Docker Cli:
+```bash
+--cap-add=NET_ADMIN --cap-add=NET_RAW --device /var/run/dbus:/var/run/dbus
+```
+
+#### Docker Compose:
+```yaml
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+    devices:
+      - /var/run/dbus:/var/run/dbus
+```
+
 ## Usage
 
 To help you get started creating a container from this image you can either use docker-compose or the docker cli.
@@ -105,18 +134,6 @@ docker run -d \
   --restart unless-stopped \
   lscr.io/linuxserver/homeassistant:latest
 ```
-
-#### Host vs. Bridge
-
-Home Assistant can [discover][hb0] and automatically configure
-[zeroconf][hb1]/[mDNS][hb2] and [UPnP][hb3] devices on your network. In
-order for this to work you must create the container with `--net=host`.
-
-[hb0]: https://www.home-assistant.io/integrations/discovery/#mdns-and-upnp
-[hb1]: https://en.wikipedia.org/wiki/Zero-configuration_networking
-[hb2]: https://en.wikipedia.org/wiki/Multicast_DNS
-[hb3]: https://en.wikipedia.org/wiki/Universal_Plug_and_Play
-
 
 ## Parameters
 
