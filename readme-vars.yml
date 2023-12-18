@@ -49,11 +49,11 @@ app_setup_block: |
 
   ### Accessing Bluetooth Device
 
-  In order to provide HA with access to the host's Bluetooth device, one needs to install Bluez on the host, add the capabilities `NET_ADMIN` and `NET_RAW` to the container, and map dbus as shown in the below examples.
+  In order to provide HA with access to the host's Bluetooth device, one needs to install BlueZ on the host, add the capabilities `NET_ADMIN` and `NET_RAW` to the container, and map dbus as shown in the below examples.
 
   #### Docker Cli:
   ```bash
-  --cap-add=NET_ADMIN --cap-add=NET_RAW --device /var/run/dbus:/var/run/dbus
+  --cap-add=NET_ADMIN --cap-add=NET_RAW --device /var/run/dbus:/var/run/dbus:ro
   ```
 
   #### Docker Compose:
@@ -62,13 +62,14 @@ app_setup_block: |
         - NET_ADMIN
         - NET_RAW
       devices:
-        - /var/run/dbus:/var/run/dbus
+        - /var/run/dbus:/var/run/dbus:ro
   ```
 
 
 unraid_template_sync: false
 # changelog
 changelogs:
+  - {date: "18.12.23:", desc: "Add Bluetooth instructions to readme."}
   - {date: "05.07.23:", desc: "Deprecate armhf. As announced [here](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)"}
   - {date: "21.06.23:", desc: "Pin pycups version."}
   - {date: "14.06.23:", desc: "Create secondary venv in `/config` for pip installs."}
