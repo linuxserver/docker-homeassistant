@@ -76,11 +76,11 @@ order for this to work you must create the container with `--net=host`.
 
 ### Accessing Bluetooth Device
 
-In order to provide HA with access to the host's Bluetooth device, one needs to install BlueZ on the host, add the capabilities `NET_ADMIN` and `NET_RAW` to the container, and map dbus as shown in the below examples.
+In order to provide HA with access to the host's Bluetooth device, one needs to install BlueZ on the host, add the capabilities `NET_ADMIN` and `NET_RAW` to the container, and map dbus as a volume as shown in the below examples.
 
 #### Docker Cli:
 ```bash
---cap-add=NET_ADMIN --cap-add=NET_RAW --device /var/run/dbus:/var/run/dbus:ro
+--cap-add=NET_ADMIN --cap-add=NET_RAW -v /var/run/dbus:/var/run/dbus:ro
 ```
 
 #### Docker Compose:
@@ -88,7 +88,7 @@ In order to provide HA with access to the host's Bluetooth device, one needs to 
     cap_add:
       - NET_ADMIN
       - NET_RAW
-    devices:
+    volumes:
       - /var/run/dbus:/var/run/dbus:ro
 ```
 
