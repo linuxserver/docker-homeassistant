@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-alpine:3.18
+FROM ghcr.io/linuxserver/baseimage-alpine:3.19
 
 # set version label
 ARG BUILD_DATE
@@ -11,7 +11,7 @@ LABEL maintainer="saarg, roxedus"
 # environment settings
 ENV \
   PATH="/config/lsiopy/bin:${PATH}" \
-  PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine-3.18/ --find-links https://wheel-index.linuxserver.io/homeassistant-3.18/" \
+  PIPFLAGS="--no-cache-dir --find-links https://wheel-index.linuxserver.io/alpine-3.19/ --find-links https://wheel-index.linuxserver.io/homeassistant-3.19/" \
   PYTHONPATH="/config/lsiopy/lib/python3.11/site-packages:/lsiopy/lib/python3.11/site-packages" \
   PIP_DISABLE_PIP_VERSION_CHECK=1
 

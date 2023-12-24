@@ -14,7 +14,7 @@ available_architectures:
 param_container_name: "{{ project_name }}"
 param_usage_include_vols: true
 param_volumes:
-  - {vol_path: "/config", vol_host_path: "/path/to/data", desc: "Home Assistant config storage path."}
+  - { vol_path: "/config", vol_host_path: "/path/to/{{ project_name }}/config", desc: "Persistent config files" }
 param_usage_include_env: true
 param_env_vars:
   - {env_var: "TZ", env_value: "Europe/London", desc: "Specify your TimeZone e.g. Europe/London."}
@@ -69,6 +69,7 @@ app_setup_block: |
 unraid_template_sync: false
 # changelog
 changelogs:
+  - { date: "23.12.23:", desc: "Rebase to Alpine 3.19."}
   - {date: "18.12.23:", desc: "Add Bluetooth instructions to readme."}
   - {date: "05.07.23:", desc: "Deprecate armhf. As announced [here](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)"}
   - {date: "21.06.23:", desc: "Pin pycups version."}
