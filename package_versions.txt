@@ -322,7 +322,7 @@ connect-box                       0.2.8                   python
 connio                            0.2.0                   python  
 construct                         2.10.68                 python  
 coreutils                         9.3-r1                  apk     
-coverage                          7.3.4                   python  
+coverage                          7.4.0                   python  
 crc                               6.0.0                   python  
 crccheck                          1.3.0                   python  
 crcmod                            1.7                     python  
@@ -972,8 +972,8 @@ pycountry                         22.3.5                  python
 pycountry-convert                 0.7.2                   python  
 pycparser                         2.21                    python  
 pycrc16                           0.1.2                   python  
-pycryptodome                      3.19.0                  python  
-pycryptodomex                     3.19.0                  python  
+pycryptodome                      3.19.1                  python  
+pycryptodomex                     3.19.1                  python  
 pycsspeechtts                     1.0.8                   python  
 pycups                            1.9.73                  python  
 pydaikin                          2.11.1                  python  
@@ -1249,7 +1249,7 @@ rokuecp                           0.18.1                  python
 roombapy                          1.6.8                   python  
 roonapi                           0.1.5                   python  
 rova                              0.3.0                   python  
-rpds-py                           0.15.2                  python  
+rpds-py                           0.16.2                  python  
 rpi-bad-power                     0.1.0                   python  
 rsa                               4.9                     python  
 rtsp-to-webrtc                    0.5.1                   python  
