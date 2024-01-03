@@ -246,7 +246,7 @@ bcrypt                            4.0.1                   python
 beautifulsoup4                    4.12.2                  python  
 bellows                           0.37.4                  python  
 bimmer-connected                  0.14.6                  python  
-bitarray                          2.9.1                   python  
+bitarray                          2.9.2                   python  
 bitstring                         4.1.4                   python  
 bitstruct                         8.19.0                  python  
 bizkaibus                         0.1.1                   python  
@@ -323,7 +323,7 @@ connio                            0.2.0                   python
 construct                         2.10.68                 python  
 coreutils                         9.3-r1                  apk     
 coverage                          7.4.0                   python  
-crc                               6.0.0                   python  
+crc                               6.1.0                   python  
 crccheck                          1.3.0                   python  
 crcmod                            1.7                     python  
 croniter                          1.0.6                   python  
@@ -776,7 +776,7 @@ nclib                             1.0.5                   python
 ncurses-terminfo-base             6.4_p20230506-r0        apk     
 ndms2-client                      0.1.2                   python  
 nessclient                        1.0.0                   python  
-netaddr                           0.9.0                   python  
+netaddr                           0.10.1                  python  
 netcat-openbsd                    1.219-r1                apk     
 netdata                           1.1.0                   python  
 netifaces                         0.11.0                  python  
@@ -1127,7 +1127,7 @@ pysuez                            0.2.0                   python
 pyswitchbee                       1.8.0                   python  
 pytankerkoenig                    0.0.6                   python  
 pytautulli                        23.1.1                  python  
-pytest                            7.4.3                   python  
+pytest                            7.4.4                   python  
 pytest-cov                        4.1.0                   python  
 pytest-mock                       3.12.0                  python  
 pytest-rerunfailures              13.0                    python  
@@ -1396,8 +1396,8 @@ typer                             0.9.0                   python
 types-python-dateutil             2.8.19.14               python  
 typing-inspect                    0.9.0                   python  
 typing_extensions                 4.9.0                   python  
-tzdata                            2023.3                  python  
-tzdata                            2023c-r1                apk     
+tzdata                            2023.4                  python  
+tzdata                            2023d-r0                apk     
 tzlocal                           5.2                     python  
 uModbus                           1.0.4                   python  
 uasiren                           0.0.1                   python  
