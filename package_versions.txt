@@ -116,7 +116,7 @@ aiogithubapi                      22.10.1                 python
 aioguardian                       2022.7.0                python  
 aiohappyeyeballs                  2.3.1                   python  
 aioharmony                        0.2.10                  python  
-aiohomekit                        3.1.1                   python  
+aiohomekit                        3.1.2                   python  
 aiohttp                           3.9.1                   python  
 aiohttp-cors                      0.7.0                   python  
 aiohttp-fast-url-dispatcher       0.3.0                   python  
@@ -225,7 +225,7 @@ asyncio-throttle                  1.0.2                   python
 asyncpysupla                      0.0.5                   python  
 asyncsleepiq                      1.4.1                   python  
 asyncssh                          2.14.2                  python  
-asyncstdlib                       3.10.9                  python  
+asyncstdlib                       3.12.0                  python  
 asynctest                         0.13.0                  python  
 atomicwrites-homeassistant        1.4.1                   python  
 atpublic                          4.0                     python  
@@ -375,7 +375,7 @@ docopt                            0.6.2                   python
 dovado                            0.4.1                   python  
 dpkt                              1.9.8                   python  
 dremel3dpy                        2.1.1                   python  
-dropmqttapi                       1.0.1                   python  
+dropmqttapi                       1.0.2                   python  
 dsmr-parser                       1.3.1                   python  
 dwdwfsapi                         1.0.6                   python  
 dweepy                            0.3.0                   python  
@@ -479,7 +479,7 @@ goodwe                            0.2.32                  python
 google-ai-generativelanguage      0.4.0                   python  
 google-api-core                   2.15.0                  python  
 google-api-python-client          2.71.0                  python  
-google-auth                       2.26.0                  python  
+google-auth                       2.26.1                  python  
 google-auth-httplib2              0.2.0                   python  
 google-auth-oauthlib              1.2.0                   python  
 google-cloud-pubsub               2.13.11                 python  
@@ -518,7 +518,7 @@ ha-ffmpeg                         3.1.0                   python
 ha-iotawattpy                     0.1.1                   python  
 ha-philipsjs                      3.1.1                   python  
 habitipy                          0.2.0                   python  
-habluetooth                       2.0.1                   python  
+habluetooth                       2.0.2                   python  
 harfbuzz                          7.3.0-r0                apk     
 hass-nabucasa                     0.75.1                  python  
 hass-splunk                       0.1.1                   python  
@@ -536,9 +536,9 @@ hole                              0.8.0                   python
 holidays                          0.39                    python  
 home-assistant-bluetooth          1.11.0                  python  
 home-assistant-chip-clusters      2023.12.0               python  
-home-assistant-frontend           20240103.3              python  
+home-assistant-frontend           20240104.0              python  
 home-assistant-intents            2024.1.2                python  
-homeassistant                     2024.1.0                python  
+homeassistant                     2024.1.1                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.16                  python  
 homepluscontrol                   0.0.5                   python  
@@ -839,7 +839,7 @@ openssh-client-default            9.3_p2-r1               apk
 openssh-keygen                    9.3_p2-r1               apk     
 openssl                           3.1.4-r1                apk     
 openssl-dev                       3.1.4-r1                apk     
-openwebifpy                       4.0.2                   python  
+openwebifpy                       4.0.4                   python  
 openwrt-luci-rpc                  1.1.16                  python  
 openwrt-ubus-rpc                  0.0.2                   python  
 opower                            0.1.0                   python  
@@ -850,7 +850,7 @@ orc                               0.4.34-r0               apk
 ordered-set                       4.1.0                   python  
 orjson                            3.9.9                   python  
 oru                               0.1.11                  python  
-orvibo                            1.1.1                   python  
+orvibo                            1.1.2                   python  
 ourgroceries                      1.5.4                   python  
 outcome                           1.3.0.post0             python  
 ovoenergy                         1.2.0                   python  
@@ -1188,7 +1188,7 @@ python-smarttub                   0.0.36                  python
 python-socketio                   4.6.1                   python  
 python-socks                      2.4.4                   python  
 python-songpal                    0.16                    python  
-python-tado                       0.17.0                  python  
+python-tado                       0.17.3                  python  
 python-telegram-bot               13.1                    python  
 python-vlc                        3.0.18122               python  
 python3                           3.11.6-r0               apk     
@@ -1533,5 +1533,5 @@ zlib-ng                           0.4.0                   python
 zm-py                             0.5.2                   python  
 zope.interface                    6.1                     python  
 zstd-libs                         1.5.5-r4                apk     
-zwave-js-server-python            0.55.2                  python  
+zwave-js-server-python            0.55.3                  python  
 zwave-me-ws                       0.4.3                   python  
