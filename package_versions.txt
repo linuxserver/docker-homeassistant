@@ -538,7 +538,7 @@ home-assistant-bluetooth          1.11.0                  python
 home-assistant-chip-clusters      2023.12.0               python  
 home-assistant-frontend           20240104.0              python  
 home-assistant-intents            2024.1.2                python  
-homeassistant                     2024.1.1                python  
+homeassistant                     2024.1.2                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.16                  python  
 homepluscontrol                   0.0.5                   python  
@@ -1240,7 +1240,7 @@ ratelimit                         2.2.1                   python
 readline                          8.2.1-r1                apk     
 recurring-ical-events             2.1.2                   python  
 redis                             5.0.1                   python  
-referencing                       0.32.0                  python  
+referencing                       0.32.1                  python  
 refoss-ha                         1.2.0                   python  
 regenmaschine                     2023.6.0                python  
 regex                             2021.8.28               python  
@@ -1412,7 +1412,7 @@ twentemilieu                      2.0.1                   python
 twilio                            6.32.0                  python  
 twitchAPI                         4.0.0                   python  
 typer                             0.9.0                   python  
-types-python-dateutil             2.8.19.14               python  
+types-python-dateutil             2.8.19.20240106         python  
 typing-inspect                    0.9.0                   python  
 typing_extensions                 4.9.0                   python  
 tzdata                            2023.4                  python  
@@ -1472,7 +1472,7 @@ warrant-lite                      1.0.4                   python
 watchdog                          2.3.1                   python  
 waterfurnace                      1.1.0                   python  
 wayland-libs-client               1.22.0-r2               apk     
-wcwidth                           0.2.12                  python  
+wcwidth                           0.2.13                  python  
 webcolors                         1.13                    python  
 webencodings                      0.5.1                   python  
 webexteamssdk                     1.1.1                   python  
