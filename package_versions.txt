@@ -79,7 +79,7 @@ advantage-air                     0.4.4                   python
 aenum                             3.1.15                  python  
 afsapi                            0.2.7                   python  
 agent-py                          0.0.23                  python  
-aio-geojson-client                0.18                    python  
+aio-geojson-client                0.19                    python  
 aio-geojson-generic-client        0.3                     python  
 aio-geojson-geonetnz-quakes       0.15                    python  
 aio-geojson-geonetnz-volcano      0.8                     python  
@@ -114,7 +114,7 @@ aioflo                            2021.11.0               python
 aioftp                            0.21.3                  python  
 aiogithubapi                      22.10.1                 python  
 aioguardian                       2022.7.0                python  
-aiohappyeyeballs                  2.3.1                   python  
+aiohappyeyeballs                  2.3.2                   python  
 aioharmony                        0.2.10                  python  
 aiohomekit                        3.1.2                   python  
 aiohttp                           3.9.1                   python  
@@ -736,7 +736,7 @@ lxml                              4.9.4                   python
 mac-vendor-lookup                 0.1.12                  python  
 mariadb-connector-c               3.3.5-r0                apk     
 mariadb-connector-c-dev           3.3.5-r0                apk     
-marshmallow                       3.20.1                  python  
+marshmallow                       3.20.2                  python  
 marshmallow-dataclass             8.6.0                   python  
 mashumaro                         3.11                    python  
 matrix-nio                        0.22.1                  python  
@@ -764,7 +764,7 @@ moat-ble                          0.1.1                   python
 mock                              5.1.0                   python  
 moehlenhoff-alpha2                1.3.0                   python  
 mopeka-iot-ble                    0.5.0                   python  
-more-itertools                    10.1.0                  python  
+more-itertools                    10.2.0                  python  
 motionblinds                      0.6.19                  python  
 motioneye-client                  0.3.14                  python  
 mpdecimal                         2.5.1-r2                apk     
@@ -1496,7 +1496,7 @@ xbox-webapi                       2.0.11                  python
 xiaomi-ble                        0.21.1                  python  
 xknx                              2.11.2                  python  
 xknxproject                       3.4.0                   python  
-xmlschema                         2.5.1                   python  
+xmlschema                         3.0.1                   python  
 xmltodict                         0.13.0                  python  
 xs1-api-client                    3.0.0                   python  
 xvidcore                          1.3.7-r1                apk     
