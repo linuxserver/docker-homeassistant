@@ -20,7 +20,7 @@ HAP-python                        4.9.1                   python
 HATasmota                         0.8.0                   python  
 Jinja2                            3.1.2                   python  
 Js2Py                             0.74                    python  
-Markdown                          3.5.1                   python  
+Markdown                          3.5.2                   python  
 MarkupSafe                        2.1.3                   python  
 Mastodon.py                       1.5.1                   python  
 Pillow                            10.1.0                  python  
@@ -79,8 +79,8 @@ advantage-air                     0.4.4                   python
 aenum                             3.1.15                  python  
 afsapi                            0.2.7                   python  
 agent-py                          0.0.23                  python  
-aio-geojson-client                0.19                    python  
-aio-geojson-generic-client        0.3                     python  
+aio-geojson-client                0.20                    python  
+aio-geojson-generic-client        0.4                     python  
 aio-geojson-geonetnz-quakes       0.15                    python  
 aio-geojson-geonetnz-volcano      0.8                     python  
 aio-geojson-nsw-rfs-incidents     0.6                     python  
@@ -99,7 +99,7 @@ aiobafi6                          0.9.0                   python
 aiobotocore                       2.6.0                   python  
 aiocache                          0.12.2                  python  
 aiocoap                           0.4.7                   python  
-aiocomelit                        0.7.0                   python  
+aiocomelit                        0.7.3                   python  
 aioconsole                        0.7.0                   python  
 aiodiscover                       1.6.0                   python  
 aiodns                            3.0.0                   python  
@@ -156,7 +156,7 @@ aiorun                            2023.7.2                python
 aioruuvigateway                   0.1.0                   python  
 aiosenz                           1.0.0                   python  
 aioserial                         1.3.0                   python  
-aioshelly                         7.0.0                   python  
+aioshelly                         7.1.0                   python  
 aioshutil                         1.3                     python  
 aiosignal                         1.3.1                   python  
 aioskybell                        22.7.0                  python  
@@ -164,7 +164,7 @@ aioslimproto                      2.3.3                   python
 aiosmtpd                          1.4.4.post2             python  
 aiosqlite                         0.19.0                  python  
 aiosteamist                       0.3.2                   python  
-aioswitcher                       3.3.0                   python  
+aioswitcher                       3.4.1                   python  
 aiosyncthing                      0.5.1                   python  
 aiotractive                       0.5.6                   python  
 aiounifi                          68                      python  
@@ -259,12 +259,12 @@ bleak-esphome                     0.4.0                   python
 bleak-retry-connector             3.4.0                   python  
 blebox-uniapi                     2.2.0                   python  
 blinker                           1.7.0                   python  
-blinkpy                           0.22.4                  python  
+blinkpy                           0.22.5                  python  
 blockchain                        1.4.4                   python  
 bluecurrent-api                   1.0.6                   python  
 bluemaestro-ble                   0.2.3                   python  
 bluetooth-adapters                0.16.2                  python  
-bluetooth-auto-recovery           1.2.3                   python  
+bluetooth-auto-recovery           1.3.0                   python  
 bluetooth-data-tools              1.19.0                  python  
 bluetooth-sensor-state-data       1.6.2                   python  
 bluez                             5.66-r5                 apk     
@@ -479,7 +479,7 @@ goodwe                            0.2.32                  python
 google-ai-generativelanguage      0.4.0                   python  
 google-api-core                   2.15.0                  python  
 google-api-python-client          2.71.0                  python  
-google-auth                       2.26.1                  python  
+google-auth                       2.26.2                  python  
 google-auth-httplib2              0.2.0                   python  
 google-auth-oauthlib              1.2.0                   python  
 google-cloud-pubsub               2.13.11                 python  
@@ -518,7 +518,7 @@ ha-ffmpeg                         3.1.0                   python
 ha-iotawattpy                     0.1.1                   python  
 ha-philipsjs                      3.1.1                   python  
 habitipy                          0.2.0                   python  
-habluetooth                       2.0.2                   python  
+habluetooth                       2.1.0                   python  
 harfbuzz                          7.3.0-r0                apk     
 hass-nabucasa                     0.75.1                  python  
 hass-splunk                       0.1.1                   python  
@@ -534,11 +534,11 @@ hkavr                             0.0.5                   python
 hlk-sw16                          0.0.9                   python  
 hole                              0.8.0                   python  
 holidays                          0.39                    python  
-home-assistant-bluetooth          1.11.0                  python  
+home-assistant-bluetooth          1.12.0                  python  
 home-assistant-chip-clusters      2023.12.0               python  
 home-assistant-frontend           20240104.0              python  
 home-assistant-intents            2024.1.2                python  
-homeassistant                     2024.1.2                python  
+homeassistant                     2024.1.3                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.16                  python  
 homepluscontrol                   0.0.5                   python  
@@ -627,7 +627,7 @@ justnimbus                        0.6.0                   python
 jwcrypto                          1.5.1                   python  
 kafka-python                      2.0.2                   python  
 kaiterra-async-client             1.0.0                   python  
-kasa-crypt                        0.4.0                   python  
+kasa-crypt                        0.4.1                   python  
 keba-kecontact                    1.1.0                   python  
 kegtron-ble                       0.4.0                   python  
 keyring                           24.3.0                  python  
@@ -656,7 +656,7 @@ libc-utils                        0.7.2-r5                apk
 libcap                            2.69-r0                 apk     
 libcap-utils                      2.69-r0                 apk     
 libcap2                           2.69-r0                 apk     
-libcrypto3                        3.1.4-r1                apk     
+libcrypto3                        3.1.4-r3                apk     
 libcurl                           8.5.0-r0                apk     
 libdav1d                          1.2.1-r0                apk     
 libdrm                            2.4.115-r4              apk     
@@ -695,7 +695,7 @@ libsodium                         1.0.18-r3               apk
 libsoundtouch                     0.8.0                   python  
 libsrt                            1.5.2-r0                apk     
 libssh                            0.10.5-r0               apk     
-libssl3                           3.1.4-r1                apk     
+libssl3                           3.1.4-r3                apk     
 libstdc++                         12.2.1_git20220924-r10  apk     
 libtasn1                          4.19.0-r1               apk     
 libtheora                         1.1.1-r17               apk     
@@ -743,7 +743,7 @@ matrix-nio                        0.22.1                  python
 maxcube-api                       0.4.3                   python  
 mbddns                            0.1.2                   python  
 mbedtls                           2.28.5-r0               apk     
-mcstatus                          11.0.0                  python  
+mcstatus                          11.1.1                  python  
 meater-python                     0.0.8                   python  
 mechanize                         0.4.9                   python  
 medcom-ble                        0.1.1                   python  
@@ -837,8 +837,8 @@ opensensemap-api                  0.2.0                   python
 openssh-client-common             9.3_p2-r1               apk     
 openssh-client-default            9.3_p2-r1               apk     
 openssh-keygen                    9.3_p2-r1               apk     
-openssl                           3.1.4-r1                apk     
-openssl-dev                       3.1.4-r1                apk     
+openssl                           3.1.4-r3                apk     
+openssl-dev                       3.1.4-r3                apk     
 openwebifpy                       4.0.4                   python  
 openwrt-luci-rpc                  1.1.16                  python  
 openwrt-ubus-rpc                  0.0.2                   python  
@@ -916,7 +916,7 @@ pure-python-adb                   0.3.0.dev0              python
 pushbullet.py                     0.11.0                  python  
 pushover-complete                 1.1.1                   python  
 pvo                               2.1.1                   python  
-py-aosmith                        1.0.1                   python  
+py-aosmith                        1.0.4                   python  
 py-canary                         0.5.3                   python  
 py-ccm15                          0.0.9                   python  
 py-cpuinfo                        9.0.0                   python  
@@ -986,8 +986,8 @@ pycountry                         22.3.5                  python
 pycountry-convert                 0.7.2                   python  
 pycparser                         2.21                    python  
 pycrc16                           0.1.2                   python  
-pycryptodome                      3.19.1                  python  
-pycryptodomex                     3.19.1                  python  
+pycryptodome                      3.20.0                  python  
+pycryptodomex                     3.20.0                  python  
 pycsspeechtts                     1.0.8                   python  
 pycups                            1.9.73                  python  
 pydaikin                          2.11.1                  python  
@@ -1206,7 +1206,7 @@ pytrafikverket                    0.3.9.2                 python
 pytrydan                          0.4.0                   python  
 pytz                              2023.3.post1            python  
 pyudev                            0.23.2                  python  
-pyunifiprotect                    4.22.5                  python  
+pyunifiprotect                    4.23.2                  python  
 pyuptimerobot                     22.2.0                  python  
 pyusb                             1.2.1                   python  
 pyvera                            0.3.13                  python  
@@ -1247,7 +1247,7 @@ regex                             2021.8.28               python
 related                           0.7.3                   python  
 renault-api                       0.2.1                   python  
 renson-endura-delta               1.7.1                   python  
-reolink_aio                       0.8.5                   python  
+reolink_aio                       0.8.6                   python  
 repoze.lru                        0.7                     python  
 requests                          2.31.0                  python  
 requests-file                     1.5.1                   python  
@@ -1266,7 +1266,7 @@ rokuecp                           0.18.1                  python
 roombapy                          1.6.10                  python  
 roonapi                           0.1.6                   python  
 rova                              0.3.0                   python  
-rpds-py                           0.16.2                  python  
+rpds-py                           0.17.1                  python  
 rpi-bad-power                     0.1.0                   python  
 rsa                               4.9                     python  
 rtsp-to-webrtc                    0.5.1                   python  
@@ -1404,7 +1404,7 @@ tplink_omada_client               1.3.2                   python
 tqdm                              4.66.1                  python  
 transitions                       0.8.11                  python  
 transmission-rpc                  7.0.3                   python  
-trio                              0.23.2                  python  
+trio                              0.24.0                  python  
 trio-websocket                    0.11.1                  python  
 ttls                              1.5.1                   python  
 tuya-iot-py-sdk                   0.6.6                   python  
@@ -1530,7 +1530,7 @@ zipp                              3.17.0                  python
 zlib                              1.2.13-r1               apk     
 zlib-dev                          1.2.13-r1               apk     
 zlib-ng                           0.4.0                   python  
-zm-py                             0.5.2                   python  
+zm-py                             0.5.4                   python  
 zope.interface                    6.1                     python  
 zstd-libs                         1.5.5-r4                apk     
 zwave-js-server-python            0.55.3                  python  
