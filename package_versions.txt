@@ -15,10 +15,10 @@ DateTime                          5.4                     python
 Deprecated                        1.2.14                  python  
 DoorBirdPy                        2.1.0                   python  
 Events                            0.4                     python  
-Flask                             3.0.0                   python  
+Flask                             3.0.1                   python  
 HAP-python                        4.9.1                   python  
 HATasmota                         0.8.0                   python  
-Jinja2                            3.1.2                   python  
+Jinja2                            3.1.3                   python  
 Js2Py                             0.74                    python  
 Markdown                          3.5.2                   python  
 MarkupSafe                        2.1.3                   python  
@@ -116,7 +116,7 @@ aiogithubapi                      22.10.1                 python
 aioguardian                       2022.7.0                python  
 aiohappyeyeballs                  2.3.2                   python  
 aioharmony                        0.2.10                  python  
-aiohomekit                        3.1.2                   python  
+aiohomekit                        3.1.3                   python  
 aiohttp                           3.9.1                   python  
 aiohttp-cors                      0.7.0                   python  
 aiohttp-fast-url-dispatcher       0.3.0                   python  
@@ -149,7 +149,7 @@ aiopvpc                           4.2.2                   python
 aiopyarr                          23.4.0                  python  
 aioqsw                            0.3.5                   python  
 aiorecollect                      2023.9.0                python  
-aioridwell                        2023.7.0                python  
+aioridwell                        2024.1.0                python  
 aiortsp                           1.3.7                   python  
 aioruckus                         0.34                    python  
 aiorun                            2023.7.2                python  
@@ -167,7 +167,7 @@ aiosteamist                       0.3.2                   python
 aioswitcher                       3.4.1                   python  
 aiosyncthing                      0.5.1                   python  
 aiotractive                       0.5.6                   python  
-aiounifi                          68                      python  
+aiounifi                          69                      python  
 aiovlc                            0.1.0                   python  
 aiovodafone                       0.4.3                   python  
 aiowaqi                           3.0.1                   python  
@@ -236,7 +236,7 @@ autocommand                       2.2.2                   python
 avahi-libs                        0.8-r13                 apk     
 awesomeversion                    23.11.0                 python  
 axis                              48                      python  
-azure-core                        1.29.6                  python  
+azure-core                        1.29.7                  python  
 azure-eventhub                    5.11.1                  python  
 azure-servicebus                  7.10.0                  python  
 backoff                           2.2.1                   python  
@@ -280,7 +280,7 @@ brother                           3.0.0                   python
 brotli-libs                       1.0.9-r14               apk     
 brottsplatskartan                 1.0.5                   python  
 brunt                             1.2.0                   python  
-bs4                               0.0.1                   python  
+bs4                               0.0.2                   python  
 bt-proximity                      0.2.1                   python  
 bthome-ble                        3.3.1                   python  
 bthomehub5-devicelist             0.1.1                   python  
@@ -297,7 +297,7 @@ cached-ipaddress                  0.3.0                   python
 cachetools                        5.3.2                   python  
 caldav                            1.3.8                   python  
 casttube                          0.2.1                   python  
-cbor2                             5.5.1                   python  
+cbor2                             5.6.0                   python  
 certifi                           2023.11.17              python  
 cffi                              1.16.0                  python  
 cfgv                              3.4.0                   python  
@@ -436,7 +436,7 @@ fixerio                           1.0.0a0                 python
 fjaraskupan                       2.2.0                   python  
 flac-libs                         1.4.3-r0                apk     
 flexit-bacnet                     2.1.0                   python  
-flipr-api                         1.5.0                   python  
+flipr-api                         1.5.1                   python  
 flux-led                          1.0.4                   python  
 fnv-hash-fast                     0.5.0                   python  
 fnvhash                           0.1.0                   python  
@@ -473,7 +473,7 @@ glances_api                       0.5.0                   python
 glib                              2.76.4-r0               apk     
 glslang-libs                      1.3.243.0-r1            apk     
 gmp                               6.2.1-r3                apk     
-gnutls                            3.8.0-r2                apk     
+gnutls                            3.8.3-r0                apk     
 goalzero                          0.2.2                   python  
 goodwe                            0.2.32                  python  
 google-ai-generativelanguage      0.4.0                   python  
@@ -538,7 +538,7 @@ home-assistant-bluetooth          1.12.0                  python
 home-assistant-chip-clusters      2023.12.0               python  
 home-assistant-frontend           20240104.0              python  
 home-assistant-intents            2024.1.2                python  
-homeassistant                     2024.1.3                python  
+homeassistant                     2024.1.4                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.16                  python  
 homepluscontrol                   0.0.5                   python  
@@ -620,7 +620,7 @@ jsonpickle                        3.0.2                   python
 jsonrpc-async                     2.1.2                   python  
 jsonrpc-base                      2.2.0                   python  
 jsonrpc-websocket                 3.1.5                   python  
-jsonschema                        4.21.0                  python  
+jsonschema                        4.21.1                  python  
 jsonschema-specifications         2023.12.1               python  
 justbackoff                       0.6.0                   python  
 justnimbus                        0.6.0                   python  
@@ -839,7 +839,7 @@ openssh-client-default            9.3_p2-r1               apk
 openssh-keygen                    9.3_p2-r1               apk     
 openssl                           3.1.4-r4                apk     
 openssl-dev                       3.1.4-r4                apk     
-openwebifpy                       4.0.4                   python  
+openwebifpy                       4.2.1                   python  
 openwrt-luci-rpc                  1.1.16                  python  
 openwrt-ubus-rpc                  0.0.2                   python  
 opower                            0.1.0                   python  
@@ -1006,7 +1006,7 @@ pyecoforest                       0.4.0                   python
 pyeconet                          0.1.22                  python  
 pyedimax                          0.2.1                   python  
 pyefergy                          22.1.1                  python  
-pyenphase                         1.15.2                  python  
+pyenphase                         1.17.0                  python  
 pyenvisalink                      4.6                     python  
 pyephember                        0.3.1                   python  
 pyeverlights                      0.1.0                   python  
@@ -1188,7 +1188,7 @@ python-smarttub                   0.0.36                  python
 python-socketio                   4.6.1                   python  
 python-socks                      2.4.4                   python  
 python-songpal                    0.16                    python  
-python-tado                       0.17.3                  python  
+python-tado                       0.17.4                  python  
 python-telegram-bot               13.1                    python  
 python-vlc                        3.0.18122               python  
 python3                           3.11.6-r0               apk     
@@ -1247,7 +1247,7 @@ regex                             2021.8.28               python
 related                           0.7.3                   python  
 renault-api                       0.2.1                   python  
 renson-endura-delta               1.7.1                   python  
-reolink_aio                       0.8.6                   python  
+reolink_aio                       0.8.7                   python  
 repoze.lru                        0.7                     python  
 requests                          2.31.0                  python  
 requests-file                     1.5.1                   python  
@@ -1339,7 +1339,7 @@ speexdsp                          1.2.1-r1                apk
 spiderpy                          1.6.1                   python  
 spirv-tools                       1.3.243.0-r1            apk     
 spotipy                           2.23.0                  python  
-sqlite-libs                       3.41.2-r2               apk     
+sqlite-libs                       3.41.2-r3               apk     
 sqlparse                          0.4.4                   python  
 srpenergy                         1.3.6                   python  
 srptools                          1.0.1                   python  
@@ -1520,7 +1520,7 @@ zeversolar                        0.3.1                   python
 zha-quirks                        0.0.109                 python  
 zhong-hong-hvac                   1.0.9                   python  
 ziggo-mediabox-xl                 1.1.0                   python  
-zigpy                             0.60.4                  python  
+zigpy                             0.60.6                  python  
 zigpy-deconz                      0.22.4                  python  
 zigpy-xbee                        0.20.1                  python  
 zigpy-zigate                      0.12.0                  python  
