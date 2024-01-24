@@ -206,7 +206,7 @@ aqipy-atmotech                    0.1.5                   python
 aqualogic                         2.6                     python  
 aranet4                           2.2.2                   python  
 arcam-fmj                         1.4.0                   python  
-argcomplete                       3.2.1                   python  
+argcomplete                       3.2.2                   python  
 arris-tg2492lg                    1.2.1                   python  
 arrow                             1.3.0                   python  
 asmog                             0.0.6                   python  
@@ -1286,7 +1286,7 @@ scsgate                           0.1.0                   python
 sdl2                              2.26.5-r0               apk     
 securetar                         2023.3.0                python  
 segno                             1.6.0                   python  
-selenium                          4.16.0                  python  
+selenium                          4.17.2                  python  
 semver                            3.0.2                   python  
 sendgrid                          6.8.2                   python  
 sense-energy                      0.12.2                  python  
