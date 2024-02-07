@@ -309,6 +309,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **07.02.24:** - Rebase to alpine 3.19, upgrade to python 3.12. Restructure python packages so all packages are internal (no more venv in /config). Use upstream project's wheels.
 * **18.12.23:** - Add Bluetooth instructions to readme.
 * **05.07.23:** - Deprecate armhf. As announced [here](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)
 * **21.06.23:** - Pin pycups version.

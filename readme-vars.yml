@@ -69,6 +69,7 @@ app_setup_block: |
 unraid_template_sync: false
 # changelog
 changelogs:
+  - {date: "07.02.24:", desc: "Rebase to alpine 3.19, upgrade to python 3.12. Restructure python packages so all packages are internal (no more venv in /config). Use upstream project's wheels."}
   - {date: "18.12.23:", desc: "Add Bluetooth instructions to readme."}
   - {date: "05.07.23:", desc: "Deprecate armhf. As announced [here](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)"}
   - {date: "21.06.23:", desc: "Pin pycups version."}
