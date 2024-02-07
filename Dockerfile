@@ -194,7 +194,9 @@ RUN \
   LD_PRELOAD="/usr/local/lib/libjemalloc.so.2" \
     MALLOC_CONF="background_thread:true,metadata_thp:auto,dirty_decay_ms:20000,muzzy_decay_ms:20000" \
     pip3 install --only-binary=:all: \
-      -r requirements_all.txt && \
+      -r requirements_all.txt \
+      isal \
+      pycups==${PYCUPS_VER} && \
   pip3 install \
     homeassistant==${HASS_RELEASE} && \
   for cleanfiles in *.pyc *.pyo; do \
