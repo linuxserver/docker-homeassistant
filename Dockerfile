@@ -191,6 +191,7 @@ RUN \
     -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
   pip3 install --only-binary=:all: \
     -r requirements.txt && \
+  PYCUPS_VER=$(grep "pycups" requirements_all.txt | sed 's|.*==||') && \
   LD_PRELOAD="/usr/local/lib/libjemalloc.so.2" \
     MALLOC_CONF="background_thread:true,metadata_thp:auto,dirty_decay_ms:20000,muzzy_decay_ms:20000" \
     pip3 install --only-binary=:all: \
