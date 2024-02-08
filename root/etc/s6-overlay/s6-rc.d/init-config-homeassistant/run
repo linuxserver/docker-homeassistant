@@ -1,6 +1,9 @@
 #!/usr/bin/with-contenv bash
 # shellcheck shell=bash
 
+# migration
+rm -rf /config/lsiopy
+
 # set permissions
 echo "Setting permissions"
 lsiown -R abc:abc \
