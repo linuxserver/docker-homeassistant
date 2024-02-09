@@ -35,7 +35,7 @@ PyJWT                             2.8.0                   python
 PyMVGLive                         1.1.4                   python  
 PyMetEireann                      2021.8.0                python  
 PyMetno                           0.11.0                  python  
-PyMicroBot                        0.0.10                  python  
+PyMicroBot                        0.0.12                  python  
 PyNINA                            0.3.3                   python  
 PyNaCl                            1.5.0                   python  
 PyPasser                          0.0.5                   python  
@@ -81,7 +81,7 @@ agent-py                          0.0.23                  python
 aio-geojson-client                0.20                    python  
 aio-geojson-generic-client        0.4                     python  
 aio-geojson-geonetnz-quakes       0.16                    python  
-aio-geojson-geonetnz-volcano      0.8                     python  
+aio-geojson-geonetnz-volcano      0.9                     python  
 aio-geojson-nsw-rfs-incidents     0.7                     python  
 aio-geojson-usgs-earthquakes      0.2                     python  
 aio-georss-client                 0.12                    python  
@@ -104,8 +104,8 @@ aiodiscover                       1.6.0                   python
 aiodns                            3.0.0                   python  
 aioeafm                           0.1.2                   python  
 aioeagle                          1.1.0                   python  
-aioecowitt                        2024.2.0                python  
-aioelectricitymaps                0.3.1                   python  
+aioecowitt                        2024.2.1                python  
+aioelectricitymaps                0.4.0                   python  
 aioemonitor                       1.0.5                   python  
 aioesphomeapi                     21.0.2                  python  
 aiofiles                          23.2.1                  python  
@@ -353,7 +353,7 @@ dbus-fast                         2.21.1                  python
 dbus-libs                         1.14.8-r0               apk     
 debugpy                           1.8.0                   python  
 decorator                         5.1.1                   python  
-deebot-client                     5.1.0                   python  
+deebot-client                     5.1.1                   python  
 deepdiff                          6.7.1                   python  
 deepmerge                         1.1.1                   python  
 defusedxml                        0.7.1                   python  
@@ -414,7 +414,7 @@ esprima                           4.0.1                   python
 eternalegypt                      0.0.16                  python  
 eudev-libs                        3.2.11-r8               apk     
 eufylife-ble-client               0.1.8                   python  
-evohome-async                     0.4.17                  python  
+evohome-async                     0.4.18                  python  
 exceptiongroup                    1.2.0                   python  
 faadelays                         2023.9.1                python  
 fake-useragent                    1.4.0                   python  
@@ -481,7 +481,7 @@ gnutls                            3.8.3-r0                apk
 goalzero                          0.2.2                   python  
 goodwe                            0.2.32                  python  
 google-ai-generativelanguage      0.4.0                   python  
-google-api-core                   2.16.2                  python  
+google-api-core                   2.17.0                  python  
 google-api-python-client          2.71.0                  python  
 google-auth                       2.27.0                  python  
 google-auth-httplib2              0.2.0                   python  
@@ -542,9 +542,9 @@ hole                              0.8.0                   python
 holidays                          0.42                    python  
 home-assistant-bluetooth          1.12.0                  python  
 home-assistant-chip-clusters      2024.1.0                python  
-home-assistant-frontend           20240207.0              python  
+home-assistant-frontend           20240207.1              python  
 home-assistant-intents            2024.2.2                python  
-homeassistant                     2024.2.0                python  
+homeassistant                     2024.2.1                python  
 homeconnect                       0.7.2                   python  
 homematicip                       1.0.16                  python  
 horimote                          0.4.1                   python  
@@ -606,7 +606,7 @@ isodate                           0.6.1                   python
 itsdangerous                      2.1.2                   python  
 janus                             1.0.0                   python  
 jaraco.abode                      3.3.0                   python  
-jaraco.classes                    3.3.0                   python  
+jaraco.classes                    3.3.1                   python  
 jaraco.collections                5.0.0                   python  
 jaraco.context                    4.3.0                   python  
 jaraco.email                      3.1.1                   python  
@@ -918,14 +918,14 @@ psutil                            5.9.8                   python
 psutil-home-assistant             0.0.1                   python  
 psycopg2                          2.9.9                   python  
 ptyprocess                        0.7.0                   python  
-pubnub                            7.3.2                   python  
+pubnub                            7.4.0                   python  
 pulsectl                          23.5.2                  python  
 pure-pcapy3                       1.0.1                   python  
 pure-python-adb                   0.3.0.dev0              python  
 pushbullet.py                     0.11.0                  python  
 pushover-complete                 1.1.1                   python  
 pvo                               2.1.1                   python  
-py-aosmith                        1.0.6                   python  
+py-aosmith                        1.0.8                   python  
 py-canary                         0.5.3                   python  
 py-ccm15                          0.0.9                   python  
 py-cpuinfo                        9.0.0                   python  
@@ -1185,7 +1185,7 @@ python-juicenet                   1.1.0                   python
 python-jwt                        4.1.0                   python  
 python-kasa                       0.6.2.1                 python  
 python-magic                      0.4.27                  python  
-python-matter-server              5.4.1                   python  
+python-matter-server              5.5.0                   python  
 python-miio                       0.5.12                  python  
 python-mpd2                       3.1.1                   python  
 python-mystrom                    2.2.0                   python  
@@ -1299,7 +1299,7 @@ screenlogicpy                     0.10.0                  python
 scsgate                           0.1.0                   python  
 sdl2                              2.26.5-r0               apk     
 securetar                         2023.3.0                python  
-segno                             1.6.0                   python  
+segno                             1.6.1                   python  
 selenium                          4.17.2                  python  
 semver                            3.0.2                   python  
 sendgrid                          6.8.2                   python  
