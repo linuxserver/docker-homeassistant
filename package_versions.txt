@@ -1,5 +1,4 @@
 NAME                              VERSION                TYPE       
-.python-rundeps                   20240215.160958        apk         
 AEMET-OpenData                    0.4.7                  python      
 AIOAladdinConnect                 0.1.58                 python      
 AIOSomecomfort                    0.0.25                 python      
