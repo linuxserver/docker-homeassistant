@@ -309,6 +309,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **13.02.24:** - Rebase to alpine 3.19, upgrade to python 3.12. Restructure python packages so all packages are internal (no more venv in /config). Use upstream project's wheels. Due to an upstream issue, on first start of the newly updated container, some custom integrations may be disabled in HA due to missing dependencies. A subsequent container restart should fix that and the integrations should be re-enabled.
 * **18.12.23:** - Add Bluetooth instructions to readme.
 * **05.07.23:** - Deprecate armhf. As announced [here](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)
 * **21.06.23:** - Pin pycups version.

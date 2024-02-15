@@ -1,0 +1,24 @@
+#!/usr/bin/with-contenv bash
+# shellcheck shell=bash
+
+if [[ -f "/mod-repo-packages-to-install.list" ]]; then
+    IFS=' ' read -ra REPO_PACKAGES <<< "$(tr '\n' ' ' < /mod-repo-packages-to-install.list)"
+    if [[ ${#REPO_PACKAGES[@]} -ne 0 ]] && [[ ${REPO_PACKAGES[*]} != "" ]]; then
+        echo "[mod-init] **** Installing all mod packages ****"
+        apk add --no-cache \
+            "${REPO_PACKAGES[@]}"
+    fi
+fi
+
+if [[ -f "/mod-pip-packages-to-install.list" ]]; then
+    IFS=' ' read -ra PIP_PACKAGES <<< "$(tr '\n' ' ' < /mod-pip-packages-to-install.list)"
+    if [[ ${#PIP_PACKAGES[@]} -ne 0 ]] && [[ ${PIP_PACKAGES[*]} != "" ]]; then
+        echo "[mod-init] **** Installing all pip packages ****"
+        python3 -m pip install \
+            "${PIP_PACKAGES[@]}"
+    fi
+fi
+
+rm -rf \
+    /mod-repo-packages-to-install.list \
+    /mod-pip-packages-to-install.list

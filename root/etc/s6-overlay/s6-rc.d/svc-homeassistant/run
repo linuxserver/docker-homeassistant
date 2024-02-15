@@ -1,8 +1,13 @@
 #!/usr/bin/with-contenv bash
 # shellcheck shell=bash
 
-setcap 'cap_net_bind_service=+ep' /usr/bin/python3.11
+setcap 'cap_net_bind_service=+ep' /usr/local/bin/python3.12
+
+if [[ -z "${DISABLE_JEMALLOC+x}" ]]; then
+  export LD_PRELOAD="/usr/local/lib/libjemalloc.so.2"
+  export MALLOC_CONF="background_thread:true,metadata_thp:auto,dirty_decay_ms:20000,muzzy_decay_ms:20000"
+fi
 
 exec \
     s6-notifyoncheck -d -n 60 -w 5000 -c "nc -z localhost 8123" \
-    s6-setuidgid abc /config/lsiopy/bin/python3 /lsiopy/bin/hass -c /config
+    s6-setuidgid abc python3 -m homeassistant -c /config
