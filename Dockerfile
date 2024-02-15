@@ -164,7 +164,7 @@ RUN \
 		| tr ',' '\n' \
 		| sort -u \
 		| awk 'system("[ -e /usr/local/lib/" $1 " ]") == 0 { next } { print "so:" $1 }' \
-		| xargs -rt apk add --no-cache --virtual .python-rundeps && \
+		| xargs -rt apk add --no-cache && \
   find /usr/local -depth \
     \( \
         -type d -a \( -name test -o -name tests \) \
