@@ -43,7 +43,7 @@ PyQRCode                          1.2.1                  python
 PyRIC                             0.1.6.3                python      
 PyRMVtransport                    0.3.3                  python      
 PySocks                           1.7.1                  python      
-PySwitchbot                       0.44.0                 python      
+PySwitchbot                       0.45.0                 python      
 PySwitchmate                      0.5.1                  python      
 PySyncThru                        0.7.10                 python      
 PyTransportNSW                    0.1.1                  python      
@@ -83,7 +83,7 @@ aio-geojson-generic-client        0.4                    python
 aio-geojson-geonetnz-quakes       0.16                   python      
 aio-geojson-geonetnz-volcano      0.9                    python      
 aio-geojson-nsw-rfs-incidents     0.7                    python      
-aio-geojson-usgs-earthquakes      0.2                    python      
+aio-geojson-usgs-earthquakes      0.3                    python      
 aio-georss-client                 0.12                   python      
 aio-georss-gdacs                  0.9                    python      
 aioairq                           0.3.2                  python      
@@ -140,7 +140,7 @@ aionanoleaf                       0.2.1                  python
 aionotion                         2023.5.5               python      
 aiooncue                          0.3.5                  python      
 aioopenexchangerates              0.4.0                  python      
-aiopegelonline                    0.0.6                  python      
+aiopegelonline                    0.0.8                  python      
 aiopulse                          0.4.4                  python      
 aiopurpleair                      2022.12.1              python      
 aiopvapi                          2.0.4                  python      
@@ -168,7 +168,7 @@ aioswitcher                       3.4.1                  python
 aiosyncthing                      0.5.1                  python      
 aiotankerkoenig                   0.3.0                  python      
 aiotractive                       0.5.6                  python      
-aiounifi                          70                     python      
+aiounifi                          71                     python      
 aiovlc                            0.1.0                  python      
 aiovodafone                       0.5.4                  python      
 aiowaqi                           3.0.1                  python      
@@ -223,7 +223,7 @@ astral                            2.2                    python
 async-interrupt                   1.1.1                  python      
 async-modbus                      0.2.1                  python      
 async-timeout                     4.0.3                  python      
-async_upnp_client                 0.38.1                 python      
+async_upnp_client                 0.38.2                 python      
 asyncclick                        8.1.7.1                python      
 asyncinotify                      4.0.2                  python      
 asyncio                           3.4.3                  python      
@@ -379,6 +379,7 @@ curl                              8.5.0-r0               apk
 dacite                            1.8.1                  python      
 dataclasses-json                  0.6.4                  python      
 datadog                           0.15.0                 python      
+datapoint                         0.9.9                  python      
 dateparser                        1.2.0                  python      
 dbus                              1.14.10-r0             apk         
 dbus-daemon-launch-helper         1.14.10-r0             apk         
@@ -386,7 +387,7 @@ dbus-fast                         2.21.1                 python
 dbus-libs                         1.14.10-r0             apk         
 debugpy                           1.8.0                  python      
 decorator                         5.1.1                  python      
-deebot-client                     5.1.1                  python      
+deebot-client                     5.2.1                  python      
 deepdiff                          6.7.1                  python      
 deepmerge                         1.1.1                  python      
 defusedxml                        0.7.1                  python      
@@ -449,7 +450,7 @@ esprima                           4.0.1                  python
 eternalegypt                      0.0.16                 python      
 eudev-libs                        3.2.14-r0              apk         
 eufylife-ble-client               0.1.8                  python      
-evohome-async                     0.4.18                 python      
+evohome-async                     0.4.19                 python      
 exceptiongroup                    1.2.0                  python      
 faadelays                         2023.9.1               python      
 fake-useragent                    1.4.0                  python      
@@ -523,7 +524,7 @@ goodwe                            0.2.32                 python
 google-ai-generativelanguage      0.4.0                  python      
 google-api-core                   2.17.1                 python      
 google-api-python-client          2.71.0                 python      
-google-auth                       2.27.0                 python      
+google-auth                       2.28.0                 python      
 google-auth-httplib2              0.2.0                  python      
 google-auth-oauthlib              1.2.0                  python      
 google-cloud-pubsub               2.13.11                python      
@@ -585,7 +586,7 @@ home-assistant-bluetooth          1.12.0                 python
 home-assistant-chip-clusters      2024.1.0               python      
 home-assistant-frontend           20240207.1             python      
 home-assistant-intents            2024.2.2               python      
-homeassistant                     2024.2.1               python      
+homeassistant                     2024.2.2               python      
 homeconnect                       0.7.2                  python      
 homematicip                       1.0.16                 python      
 horimote                          0.4.1                  python      
@@ -806,7 +807,7 @@ lightify                          1.0.7.3                python
 lightwave                         0.24                   python      
 lilv-libs                         0.24.22-r0             apk         
 limitlessled                      1.1.3                  python      
-linear-garage-door                0.2.7                  python      
+linear-garage-door                0.2.9                  python      
 linode-api                        4.1.9b1                python      
 linux-pam                         1.5.3-r7               apk         
 linux-raw-sys                     0.3.7                  rust-crate  
@@ -955,7 +956,7 @@ opuslib                           3.0.1                  python
 oralb-ble                         0.17.6                 python      
 orc                               0.4.34-r0              apk         
 ordered-set                       4.1.0                  python      
-orjson                            3.9.13                 python      
+orjson                            3.9.14                 python      
 oru                               0.1.11                 python      
 orvibo                            1.1.2                  python      
 os_str_bytes                      6.5.0                  rust-crate  
@@ -1040,7 +1041,7 @@ py-improv-ble-client              1.0.3                  python
 py-melissa-climate                2.1.4                  python      
 py-nextbusnext                    1.0.2                  python      
 py-schluter                       0.1.7                  python      
-py-sucks                          0.9.8                  python      
+py-sucks                          0.9.9                  python      
 py-synologydsm-api                2.1.4                  python      
 py-vapid                          1.9.0                  python      
 py-zabbix                         1.1.7                  python      
@@ -1165,7 +1166,7 @@ pylgnetcast                       0.3.7                  python
 pylibrespot-java                  0.1.1                  python      
 pylitejet                         0.6.2                  python      
 pylitterbot                       2023.4.9               python      
-pylutron                          0.2.8                  python      
+pylutron                          0.2.12                 python      
 pylutron-caseta                   0.19.0                 python      
 pymailgunner                      1.4                    python      
 pymata-express                    1.19                   python      
@@ -1300,7 +1301,7 @@ python-socketio                   4.6.1                  python
 python-socks                      2.4.4                  python      
 python-songpal                    0.16.1                 python      
 python-tado                       0.17.4                 python      
-python-technove                   1.2.1                  python      
+python-technove                   1.2.2                  python      
 python-telegram-bot               13.1                   python      
 python-vlc                        3.0.18122              python      
 python_opensky                    1.0.0                  python      
@@ -1638,7 +1639,7 @@ x265-libs                         3.5-r4                 apk
 xbox-webapi                       2.0.11                 python      
 xiaomi-ble                        0.23.1                 python      
 xknx                              2.12.0                 python      
-xknxproject                       3.5.0                  python      
+xknxproject                       3.6.0                  python      
 xmlschema                         3.0.1                  python      
 xmltodict                         0.13.0                 python      
 xs1-api-client                    3.0.0                  python      
@@ -1648,7 +1649,7 @@ xz-libs                           5.4.5-r0               apk
 y4m                               0.8.0                  rust-crate  
 yagrc                             1.1.2                  python      
 yalesmartalarmclient              0.3.9                  python      
-yalexs                            1.10.0                 python      
+yalexs                            1.11.2                 python      
 yalexs-ble                        2.4.1                  python      
 yarl                              1.9.4                  python      
 yeelight                          0.7.14                 python      
@@ -1675,7 +1676,7 @@ zix-libs                          0.4.2-r0               apk
 zlib                              1.3.1-r0               apk         
 zlib-ng                           0.4.0                  python      
 zm-py                             0.5.4                  python      
-zope.interface                    6.1                    python      
+zope.interface                    6.2                    python      
 zstd-libs                         1.5.5-r8               apk         
 zwave-js-server-python            0.55.3                 python      
 zwave-me-ws                       0.4.3                  python      
