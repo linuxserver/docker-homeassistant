@@ -67,7 +67,7 @@ TravisPy                          0.3.5                  python
 TwitterAPI                        2.7.12                 python      
 WSDiscovery                       2.0.0                  python      
 Werkzeug                          3.0.1                  python      
-XlsxWriter                        3.1.9                  python      
+XlsxWriter                        3.2.0                  python      
 accuweather                       2.1.1                  python      
 acme                              2.8.0                  python      
 adax                              0.4.0                  python      
@@ -162,7 +162,7 @@ aiosignal                         1.3.1                  python
 aioskybell                        22.7.0                 python      
 aioslimproto                      2.3.3                  python      
 aiosmtpd                          1.4.4.post2            python      
-aiosqlite                         0.19.0                 python      
+aiosqlite                         0.20.0                 python      
 aiosteamist                       0.3.2                  python      
 aioswitcher                       3.4.1                  python      
 aiosyncthing                      0.5.1                  python      
@@ -314,7 +314,7 @@ cached-ipaddress                  0.3.0                  python
 cachetools                        5.3.2                  python      
 caldav                            1.3.8                  python      
 casttube                          0.2.1                  python      
-cbor2                             5.6.1                  python      
+cbor2                             5.6.2                  python      
 certifi                           2024.2.2               python      
 cffi                              1.16.0                 python      
 cfg-if                            1.0.0                  rust-crate  
@@ -355,7 +355,7 @@ coreutils                         9.4-r2                 apk
 coreutils-env                     9.4-r2                 apk         
 coreutils-fmt                     9.4-r2                 apk         
 coreutils-sha512sum               9.4-r2                 apk         
-coverage                          7.4.1                  python      
+coverage                          7.4.2                  python      
 crc                               3.0.1                  rust-crate  
 crc                               4.3.0                  python      
 crc-catalog                       2.2.0                  rust-crate  
@@ -406,7 +406,7 @@ discovery30303                    0.2.1                  python
 distlib                           0.3.8                  python      
 distro                            1.9.0                  python      
 dlms-cosem                        21.3.2                 python      
-dnspython                         2.5.0                  python      
+dnspython                         2.6.1                  python      
 docopt                            0.6.2                  python      
 dolby_vision                      3.2.0                  rust-crate  
 dovado                            0.4.1                  python      
@@ -425,7 +425,7 @@ ecdsa                             0.18.0                 python
 ecoaliface                        0.4.0                  python      
 either                            1.8.1                  rust-crate  
 electrickiwi-api                  0.8.5                  python      
-elementpath                       4.2.1                  python      
+elementpath                       4.3.0                  python      
 elgato                            5.1.2                  python      
 eliqonline                        1.2.2                  python      
 elkm1-lib                         2.2.6                  python      
@@ -615,7 +615,7 @@ icalendar                         5.0.11                 python
 icmplib                           3.0                    python      
 idasen                            0.11.1                 python      
 idasen-ha                         2.5                    python      
-identify                          2.5.34                 python      
+identify                          2.5.35                 python      
 idna                              3.6                    python      
 ifaddr                            0.2.0                  python      
 iglo                              1.2.7                  python      
@@ -646,7 +646,7 @@ iputils-clockdiff                 20221126-r2            apk
 iputils-ping                      20221126-r2            apk         
 iputils-tracepath                 20221126-r2            apk         
 is-terminal                       0.4.7                  rust-crate  
-isal                              1.5.3                  python      
+isal                              1.6.0                  python      
 ismartgate                        5.0.1                  python      
 iso4217                           1.11.20220401          python      
 iso8601                           2.1.0                  python      
@@ -663,7 +663,7 @@ jaraco.email                      3.1.1                  python
 jaraco.functools                  3.9.0                  python      
 jaraco.itertools                  6.4.1                  python      
 jaraco.logging                    3.3.0                  python      
-jaraco.net                        9.3.1                  python      
+jaraco.net                        10.2.0                 python      
 jaraco.text                       3.12.0                 python      
 jeepney                           0.8.0                  python      
 jellyfin-apiclient-python         1.9.2                  python      
@@ -672,7 +672,7 @@ josepy                            1.14.0                 python
 jq                                1.7.1-r0               apk         
 json-c                            0.17-r0                apk         
 jsonpath                          0.82.2                 python      
-jsonpickle                        3.0.2                  python      
+jsonpickle                        3.0.3                  python      
 jsonrpc-async                     2.1.2                  python      
 jsonrpc-base                      2.2.0                  python      
 jsonrpc-websocket                 3.1.5                  python      
@@ -886,7 +886,7 @@ ncurses-terminfo-base             6.4_p20231125-r0       apk
 ndms2-client                      0.1.2                  python      
 nessclient                        1.0.0                  python      
 net-tools                         2.10-r3                apk         
-netaddr                           1.1.0                  python      
+netaddr                           1.2.1                  python      
 netcat-openbsd                    1.226-r0               apk         
 netdata                           1.1.0                  python      
 netifaces                         0.11.0                 python      
@@ -1007,8 +1007,8 @@ ppv-lite86                        0.2.17                 rust-crate
 praw                              7.5.0                  python      
 prawcore                          2.4.0                  python      
 prayer-times-calculator           0.0.10                 python      
-pre-commit                        3.6.1                  python      
-prettytable                       3.9.0                  python      
+pre-commit                        3.6.2                  python      
+prettytable                       3.10.0                 python      
 proc-macro-error                  1.0.4                  rust-crate  
 proc-macro-error-attr             1.0.4                  rust-crate  
 proc-macro2                       1.0.57                 rust-crate  
@@ -1249,7 +1249,7 @@ pysuez                            0.2.0                  python
 pyswitchbee                       1.8.0                  python      
 pytautulli                        23.1.1                 python      
 pytedee_async                     0.2.13                 python      
-pytest                            8.0.0                  python      
+pytest                            8.0.1                  python      
 pytest-cov                        4.1.0                  python      
 pytest-mock                       3.12.0                 python      
 pytest-rerunfailures              13.0                   python      
@@ -1411,7 +1411,7 @@ scsgate                           0.1.0                  python
 sdl2                              2.28.5-r0              apk         
 securetar                         2023.3.0               python      
 segno                             1.6.1                  python      
-selenium                          4.17.2                 python      
+selenium                          4.18.1                 python      
 semver                            3.0.2                  python      
 sendgrid                          6.8.2                  python      
 sense-energy                      0.12.2                 python      
@@ -1494,7 +1494,7 @@ subarulink                        0.7.9                  python
 sunwatcher                        0.2.1                  python      
 sunweg                            2.1.0                  python      
 surepy                            0.9.0                  python      
-svg.py                            1.4.2                  python      
+svg.py                            1.4.3                  python      
 swisshydrodata                    0.1.0                  python      
 switchbot_api                     2.0.0                  python      
 syn                               1.0.109                rust-crate  
@@ -1515,7 +1515,7 @@ tellduslive                       0.10.11                python
 tellsticknet                      0.1.2                  python      
 temescal                          0.5                    python      
 temperusb                         1.6.1                  python      
-tempora                           5.5.0                  python      
+tempora                           5.5.1                  python      
 tenacity                          8.2.3                  python      
 termcolor                         1.2.0                  rust-crate  
 terminal_size                     0.2.6                  rust-crate  
@@ -1640,7 +1640,7 @@ xbox-webapi                       2.0.11                 python
 xiaomi-ble                        0.23.1                 python      
 xknx                              2.12.0                 python      
 xknxproject                       3.6.0                  python      
-xmlschema                         3.0.1                  python      
+xmlschema                         3.0.2                  python      
 xmltodict                         0.13.0                 python      
 xs1-api-client                    3.0.0                  python      
 xvidcore                          1.3.7-r2               apk         
