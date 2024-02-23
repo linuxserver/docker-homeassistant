@@ -87,7 +87,7 @@ aio-geojson-usgs-earthquakes      0.3                    python
 aio-georss-client                 0.12                   python      
 aio-georss-gdacs                  0.9                    python      
 aioairq                           0.3.2                  python      
-aioairzone                        0.7.2                  python      
+aioairzone                        0.7.4                  python      
 aioairzone-cloud                  0.3.8                  python      
 aioambient                        2024.1.0               python      
 aioapcaccess                      0.4.2                  python      
@@ -166,7 +166,7 @@ aiosqlite                         0.20.0                 python
 aiosteamist                       0.3.2                  python      
 aioswitcher                       3.4.1                  python      
 aiosyncthing                      0.5.1                  python      
-aiotankerkoenig                   0.3.0                  python      
+aiotankerkoenig                   0.4.1                  python      
 aiotractive                       0.5.6                  python      
 aiounifi                          71                     python      
 aiovlc                            0.1.0                  python      
@@ -387,11 +387,11 @@ dbus-fast                         2.21.1                 python
 dbus-libs                         1.14.10-r0             apk         
 debugpy                           1.8.0                  python      
 decorator                         5.1.1                  python      
-deebot-client                     5.2.1                  python      
+deebot-client                     5.2.2                  python      
 deepdiff                          6.7.1                  python      
 deepmerge                         1.1.1                  python      
 defusedxml                        0.7.1                  python      
-deluge-client                     1.7.1                  python      
+deluge-client                     1.10.2                 python      
 demetriek                         0.4.0                  python      
 demjson3                          3.0.6                  python      
 denonavr                          0.11.4                 python      
@@ -492,7 +492,7 @@ fritzconnection                   1.13.2                 python
 frozenlist                        1.4.1                  python      
 fstrm                             0.6.1-r4               apk         
 funty                             2.0.0                  rust-crate  
-future                            0.18.3                 python      
+future                            1.0.0                  python      
 gTTS                              2.2.4                  python      
 gardena-bluetooth                 1.4.1                  python      
 gassist-text                      0.0.10                 python      
@@ -524,7 +524,7 @@ goodwe                            0.2.32                 python
 google-ai-generativelanguage      0.4.0                  python      
 google-api-core                   2.17.1                 python      
 google-api-python-client          2.71.0                 python      
-google-auth                       2.28.0                 python      
+google-auth                       2.28.1                 python      
 google-auth-httplib2              0.2.0                  python      
 google-auth-oauthlib              1.2.0                  python      
 google-cloud-pubsub               2.13.11                python      
@@ -536,7 +536,7 @@ googlemaps                        2.5.1                  python
 goslide-api                       0.5.1                  python      
 gotailwind                        0.2.2                  python      
 govee-ble                         0.31.0                 python      
-govee-local-api                   1.4.1                  python      
+govee-local-api                   1.4.4                  python      
 gpiod                             1.5.4                  python      
 gpiozero                          1.6.2                  python      
 gps3                              0.33.3                 python      
@@ -581,12 +581,12 @@ hkavr                             0.0.5                  python
 hko                               0.3.2                  python      
 hlk-sw16                          0.0.9                  python      
 hole                              0.8.0                  python      
-holidays                          0.42                   python      
+holidays                          0.43                   python      
 home-assistant-bluetooth          1.12.0                 python      
 home-assistant-chip-clusters      2024.1.0               python      
 home-assistant-frontend           20240207.1             python      
 home-assistant-intents            2024.2.2               python      
-homeassistant                     2024.2.2               python      
+homeassistant                     2024.2.3               python      
 homeconnect                       0.7.2                  python      
 homematicip                       1.0.16                 python      
 horimote                          0.4.1                  python      
@@ -860,7 +860,7 @@ mock                              5.1.0                  python
 moehlenhoff-alpha2                1.3.0                  python      
 mopeka-iot-ble                    0.5.0                  python      
 more-itertools                    10.2.0                 python      
-motionblinds                      0.6.20                 python      
+motionblinds                      0.6.21                 python      
 motioneye-client                  0.3.14                 python      
 mozart_api                        3.2.1.150.6            python      
 mpdecimal                         2.5.1-r2               apk         
@@ -1326,7 +1326,7 @@ pyvlx                             0.2.21                 python
 pyvolumio                         0.1.5                  python      
 pywaze                            0.5.1                  python      
 pyweatherflowudp                  1.4.5                  python      
-pywebpush                         1.9.2                  python      
+pywebpush                         1.14.1                 python      
 pywemo                            1.4.0                  python      
 pywilight                         0.0.74                 python      
 pywinusb                          0.4.2                  python      
@@ -1365,7 +1365,7 @@ regex                             2021.8.28              python
 related-without-future            0.7.4                  python      
 renault-api                       0.2.1                  python      
 renson-endura-delta               1.7.1                  python      
-reolink_aio                       0.8.7                  python      
+reolink_aio                       0.8.8                  python      
 repoze.lru                        0.7                    python      
 requests                          2.31.0                 python      
 requests-file                     2.0.0                  python      
@@ -1380,9 +1380,9 @@ ring-doorbell                     0.8.7                  python
 ritassist                         0.9.2                  python      
 rjpl                              0.3.6                  python      
 rocketchat-API                    0.6.1                  python      
-rokuecp                           0.19.0                 python      
+rokuecp                           0.19.1                 python      
 romy                              0.0.7                  python      
-roombapy                          1.6.10                 python      
+roombapy                          1.6.12                 python      
 roonapi                           0.1.6                  python      
 rova                              0.3.0                  python      
 rpds-py                           0.18.0                 python      
@@ -1425,7 +1425,7 @@ serd-libs                         0.32.0-r0              apk
 serde                             1.0.163                rust-crate  
 serde_derive                      1.0.163                rust-crate  
 serialio                          2.4.0                  python      
-setuptools                        69.1.0                 python      
+setuptools                        69.1.1                 python      
 sfrbox-api                        0.0.8                  python      
 sgmllib3k                         1.0.0                  python      
 shaderc                           2023.7-r0              apk         
@@ -1484,7 +1484,7 @@ starlink-grpc-core                1.1.3                  python
 statsd                            3.2.1                  python      
 stdiomask                         0.0.6                  python      
 steamodd                          4.21                   python      
-stevedore                         5.1.0                  python      
+stevedore                         5.2.0                  python      
 stookalert                        0.1.4                  python      
 stookwijzer                       1.3.0                  python      
 streamlabswater                   1.0.1                  python      
@@ -1597,7 +1597,7 @@ venstarcolortouch                 0.19                   python
 vidstab                           1.1.1-r0               apk         
 vilfo-api-client                  0.4.1                  python      
 vincenty                          0.1.4                  python      
-virtualenv                        20.25.0                python      
+virtualenv                        20.25.1                python      
 vobject                           0.9.6.1                python      
 voip-utils                        0.1.0                  python      
 vol                               0.1.1                  python      
