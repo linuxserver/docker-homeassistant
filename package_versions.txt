@@ -586,7 +586,7 @@ home-assistant-bluetooth          1.12.0                 python
 home-assistant-chip-clusters      2024.1.0               python      
 home-assistant-frontend           20240207.1             python      
 home-assistant-intents            2024.2.2               python      
-homeassistant                     2024.2.4               python      
+homeassistant                     2024.2.5               python      
 homeconnect                       0.7.2                  python      
 homematicip                       1.0.16                 python      
 horimote                          0.4.1                  python      
@@ -1071,7 +1071,7 @@ pyairvisual                       2023.8.1               python
 pyasn1                            0.4.8                  python      
 pyasn1-modules                    0.3.0                  python      
 pyasuswrt                         0.1.21                 python      
-pyasyncore                        1.0.3                  python      
+pyasyncore                        1.0.4                  python      
 pyatag                            0.3.5.3                python      
 pyatmo                            8.0.3                  python      
 pyatv                             0.14.3                 python      
@@ -1357,7 +1357,7 @@ rayon                             1.7.0                  rust-crate
 rayon-core                        1.11.0                 rust-crate  
 readline                          8.2.1-r2               apk         
 recurring-ical-events             2.1.2                  python      
-redis                             5.0.1                  python      
+redis                             5.0.2                  python      
 referencing                       0.33.0                 python      
 refoss-ha                         1.2.0                  python      
 regenmaschine                     2024.1.0               python      
