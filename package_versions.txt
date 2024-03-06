@@ -680,7 +680,7 @@ jsonschema                        4.21.1                 python
 jsonschema-specifications         2023.12.1              python                        
 justbackoff                       0.6.0                  python                        
 justnimbus                        0.7.3                  python                        
-jwcrypto                          1.5.4                  python                        
+jwcrypto                          1.5.5                  python                        
 kaiterra-async-client             1.0.0                  python                        
 kasa-crypt                        0.4.1                  python                        
 keba-kecontact                    1.1.0                  python                        
