@@ -359,7 +359,7 @@ coreutils                         9.4-r2                 apk
 coreutils-env                     9.4-r2                 apk                           
 coreutils-fmt                     9.4-r2                 apk                           
 coreutils-sha512sum               9.4-r2                 apk                           
-coverage                          7.4.3                  python                        
+coverage                          7.4.4                  python                        
 crc                               3.0.1                  rust-crate                    
 crc                               4.3.0                  python                        
 crc-catalog                       2.2.0                  rust-crate                    
