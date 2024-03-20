@@ -457,7 +457,7 @@ eufylife-ble-client               0.1.8                  python
 evohome-async                     0.4.19                 python                        
 exceptiongroup                    1.2.0                  python                        
 faadelays                         2023.9.1               python                        
-fake-useragent                    1.5.0                  python                        
+fake-useragent                    1.5.1                  python                        
 fastdotcom                        0.0.3                  python                        
 faust-cchardet                    2.1.19                 python                        
 feedparser                        6.0.11                 python                        
@@ -474,7 +474,7 @@ ffmpeg-libswscale                 6.1.1-r0               apk
 file-read-backwards               2.0.0                  python                        
 filelock                          3.13.1                 python                        
 fints                             3.1.0                  python                        
-firebase-messaging                0.2.0                  python                        
+firebase-messaging                0.2.1                  python                        
 fitbit                            0.3.1                  python                        
 fivem-api                         0.1.2                  python                        
 fixerio                           1.0.0a0                python                        
@@ -495,7 +495,7 @@ fribidi                           1.0.13-r0              apk
 fritzconnection                   1.13.2                 python                        
 frozenlist                        1.4.1                  python                        
 fstrm                             0.6.1-r4               apk                           
-ftfy                              6.1.3                  python                        
+ftfy                              6.2.0                  python                        
 funty                             2.0.0                  rust-crate                    
 future                            1.0.0                  python                        
 gTTS                              2.2.4                  python                        
@@ -548,7 +548,7 @@ gps3                              0.33.3                 python
 gql                               3.5.0                  python                        
 graphite2                         1.3.14-r6              apk                           
 graphql-core                      3.2.3                  python                        
-graphviz                          0.20.1                 python                        
+graphviz                          0.20.2                 python                        
 greeclimate                       1.4.1                  python                        
 greeneye-monitor                  3.0.3                  python                        
 greenlet                          3.0.3                  python                        
@@ -616,7 +616,7 @@ iaqualink                         0.5.0                  python
 ibeacon-ble                       1.2.0                  python                        
 ibmiotf                           0.3.4                  python                        
 ical                              7.0.1                  python                        
-icalendar                         5.0.11                 python                        
+icalendar                         5.0.12                 python                        
 icmplib                           3.0                    python                        
 idasen                            0.11.0                 python                        
 idasen-ha                         2.5.1                  python                        
@@ -627,7 +627,7 @@ iglo                              1.2.7                  python
 ihcsdk                            2.8.5                  python                        
 imageio                           2.34.0                 python                        
 imlib2                            1.12.1-r0              apk                           
-importlib_resources               6.3.0                  python                        
+importlib_resources               6.3.2                  python                        
 imutils                           0.5.4                  python                        
 incomfort-client                  0.5.0                  python                        
 incremental                       22.10.0                python                        
@@ -736,7 +736,7 @@ libdovi                           3.2.0-r1               apk
 libdrm                            2.4.118-r0             apk                           
 libecpg                           16.2-r0                apk                           
 libedit                           20230828.3.1-r3        apk                           
-libexpat                          2.6.0-r0               apk                           
+libexpat                          2.6.2-r0               apk                           
 libffi                            3.4.4-r3               apk                           
 libflac                           1.4.3-r1               apk                           
 libftdi1                          1.5-r2                 apk                           
@@ -1243,7 +1243,7 @@ pysmappee                         0.2.29                 python
 pysmartapp                        0.3.5                  python                        
 pysmartthings                     0.7.8                  python                        
 pysmb                             1.2.9.1                python                        
-pysmi-lextudio                    1.3.3                  python                        
+pysmi-lextudio                    1.4.1                  python                        
 pysml                             0.0.12                 python                        
 pysnmp-lextudio                   6.0.9                  python                        
 pysnmpcrypto                      0.0.4                  python                        
@@ -1362,9 +1362,9 @@ rav1e-libs                        0.6.6-r2               apk
 rayon                             1.7.0                  rust-crate                    
 rayon-core                        1.11.0                 rust-crate                    
 readline                          8.2.1-r2               apk                           
-recurring-ical-events             2.1.2                  python                        
+recurring-ical-events             2.1.3                  python                        
 redis                             5.0.3                  python                        
-referencing                       0.33.0                 python                        
+referencing                       0.34.0                 python                        
 refoss-ha                         1.2.0                  python                        
 regenmaschine                     2024.1.0               python                        
 regex                             2021.8.28              python                        
@@ -1552,7 +1552,7 @@ tplink_omada_client               1.3.11                 python
 tqdm                              4.66.2                 python                        
 transitions                       0.8.11                 python                        
 transmission-rpc                  7.0.3                  python                        
-trio                              0.24.0                 python                        
+trio                              0.25.0                 python                        
 trio-websocket                    0.11.1                 python                        
 ttls                              1.5.1                  python                        
 tuya-device-sharing-sdk           0.1.9                  python                        
@@ -1560,7 +1560,7 @@ twentemilieu                      2.0.1                  python
 twilio                            6.32.0                 python                        
 twitchAPI                         4.0.0                  python                        
 typer                             0.9.0                  python                        
-types-python-dateutil             2.8.19.20240311        python                        
+types-python-dateutil             2.9.0.20240316         python                        
 typing-inspect                    0.9.0                  python                        
 typing_extensions                 4.10.0                 python                        
 tzdata                            2024.1                 python                        
@@ -1596,7 +1596,7 @@ v4l-utils-libs                    1.24.1-r1              apk
 v_frame                           0.3.3                  rust-crate                    
 vacuum-map-parser-base            0.1.2                  python                        
 vacuum-map-parser-roborock        0.1.1                  python                        
-validators                        0.22.0                 python                        
+validators                        0.23.1                 python                        
 vallox_websocket_api              5.1.0                  python                        
 vehicle                           2.2.1                  python                        
 velbus-aio                        2023.12.0              python                        
@@ -1642,7 +1642,7 @@ wrapt                             1.16.0                 python
 wsproto                           1.2.0                  python                        
 wyoming                           1.5.3                  python                        
 wyz                               0.5.1                  rust-crate                    
-x-wr-timezone                     0.0.6                  python                        
+x-wr-timezone                     0.0.7                  python                        
 x264-libs                         0.164_git20231001-r0   apk                           
 x265-libs                         3.5-r4                 apk                           
 xbox-webapi                       2.0.11                 python                        
