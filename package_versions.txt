@@ -27,7 +27,7 @@ Pint                              0.23                   python
 PlexAPI                           4.15.10                python                        
 ProgettiHWSW                      0.1.3                  python                        
 PsychroLib                        2.5.0                  python                        
-PyChromecast                      14.0.0                 python                        
+PyChromecast                      14.0.1                 python                        
 PyFlick                           0.0.2                  python                        
 PyFlume                           0.6.5                  python                        
 PyFronius                         0.7.3                  python                        
@@ -93,7 +93,7 @@ aioambient                        2024.1.0               python
 aioapcaccess                      0.4.2                  python                        
 aioaseko                          0.0.2                  python                        
 aioasuswrt                        1.4.0                  python                        
-aioautomower                      2024.3.0               python                        
+aioautomower                      2024.3.3               python                        
 aioazuredevops                    1.3.5                  python                        
 aiobafi6                          0.9.0                  python                        
 aiobotocore                       2.9.1                  python                        
@@ -101,7 +101,7 @@ aiocache                          0.12.2                 python
 aiocoap                           0.4.7                  python                        
 aiocomelit                        0.9.0                  python                        
 aioconsole                        0.7.0                  python                        
-aiodhcpwatcher                    0.8.1                  python                        
+aiodhcpwatcher                    0.8.2                  python                        
 aiodiscover                       1.6.1                  python                        
 aiodns                            3.0.0                  python                        
 aioeafm                           0.1.2                  python                        
@@ -150,7 +150,7 @@ aiopvapi                          3.0.2                  python
 aiopvpc                           4.2.2                  python                        
 aiopyarr                          23.4.0                 python                        
 aioqsw                            0.3.5                  python                        
-aioraven                          0.5.1                  python                        
+aioraven                          0.5.2                  python                        
 aiorecollect                      2023.9.0               python                        
 aioridwell                        2024.1.0               python                        
 aiortsp                           1.3.7                  python                        
@@ -247,7 +247,7 @@ av-metrics                        0.9.0                  rust-crate
 av1-grain                         0.2.2                  rust-crate                    
 avahi-libs                        0.8-r16                apk                           
 awesomeversion                    24.2.0                 python                        
-axis                              54                     python                        
+axis                              57                     python                        
 azure-core                        1.30.1                 python                        
 azure-eventhub                    5.11.1                 python                        
 azure-servicebus                  7.10.0                 python                        
@@ -365,7 +365,7 @@ crc                               4.3.0                  python
 crc-catalog                       2.2.0                  rust-crate                    
 crccheck                          1.3.0                  python                        
 crcmod                            1.7                    python                        
-croniter                          1.0.6                  python                        
+croniter                          2.0.2                  python                        
 crossbeam                         0.8.2                  rust-crate                    
 crossbeam-channel                 0.5.8                  rust-crate                    
 crossbeam-deque                   0.8.3                  rust-crate                    
@@ -591,7 +591,7 @@ home-assistant-bluetooth          1.12.0                 python
 home-assistant-chip-clusters      2024.2.1               python                        
 home-assistant-frontend           20240307.0             python                        
 home-assistant-intents            2024.3.12              python                        
-homeassistant                     2024.3.1               python                        
+homeassistant                     2024.3.2               python                        
 homeconnect                       0.7.2                  python                        
 homematicip                       1.1.0                  python                        
 horimote                          0.4.1                  python                        
@@ -615,7 +615,7 @@ iammeter                          0.2.1                  python
 iaqualink                         0.5.0                  python                        
 ibeacon-ble                       1.2.0                  python                        
 ibmiotf                           0.3.4                  python                        
-ical                              7.0.1                  python                        
+ical                              7.0.3                  python                        
 icalendar                         5.0.12                 python                        
 icmplib                           3.0                    python                        
 idasen                            0.11.0                 python                        
@@ -886,7 +886,6 @@ mypy-extensions                   1.0.0                  python
 mysqlclient                       2.2.4                  python                        
 myuplink                          0.5.0                  python                        
 nad-receiver                      0.3.0                  python                        
-natsort                           8.4.0                  python                        
 nclib                             1.0.5                  python                        
 ncurses-terminfo-base             6.4_p20231125-r0       apk                           
 ndms2-client                      0.1.2                  python                        
@@ -1182,7 +1181,7 @@ pymelcloud                        2.5.9                  python
 pymeteoclimatic                   0.1.0                  python                        
 pymitv                            1.4.3                  python                        
 pymochad                          0.2.0                  python                        
-pymodbus                          3.6.5                  python                        
+pymodbus                          3.6.6                  python                        
 pymonoprice                       0.4                    python                        
 pymsteams                         0.1.12                 python                        
 pymysensors                       0.24.0                 python                        
@@ -1223,7 +1222,7 @@ pyrail                            0.0.3                  python
 pyrainbird                        4.0.2                  python                        
 pyrecswitch                       1.0.2                  python                        
 pyrepetierng                      0.1.0                  python                        
-pyrisco                           0.5.8                  python                        
+pyrisco                           0.5.10                 python                        
 pyrituals                         0.0.6                  python                        
 pyroute2                          0.7.5                  python                        
 pyrympro                          0.0.7                  python                        
@@ -1245,7 +1244,7 @@ pysmartthings                     0.7.8                  python
 pysmb                             1.2.9.1                python                        
 pysmi-lextudio                    1.4.1                  python                        
 pysml                             0.0.12                 python                        
-pysnmp-lextudio                   6.0.9                  python                        
+pysnmp-lextudio                   6.0.11                 python                        
 pysnmpcrypto                      0.0.4                  python                        
 pysnooz                           0.8.6                  python                        
 pysoma                            0.0.12                 python                        
@@ -1255,7 +1254,7 @@ pystiebeleltron                   0.0.1.dev2             python
 pysuez                            0.2.0                  python                        
 pyswitchbee                       1.8.0                  python                        
 pytautulli                        23.1.1                 python                        
-pytedee_async                     0.2.16                 python                        
+pytedee_async                     0.2.17                 python                        
 pytest                            8.1.1                  python                        
 pytest-cov                        4.1.0                  python                        
 pytest-mock                       3.14.0                 python                        
@@ -1321,7 +1320,7 @@ pytrafikverket                    0.3.10                 python
 pytrydan                          0.4.0                  python                        
 pytz                              2024.1                 python                        
 pyudev                            0.23.2                 python                        
-pyunifiprotect                    4.23.3                 python                        
+pyunifiprotect                    5.0.2                  python                        
 pyuptimerobot                     22.2.0                 python                        
 pyusb                             1.2.1                  python                        
 pyvera                            0.3.13                 python                        
