@@ -312,8 +312,8 @@ busybox-binsh                     1.36.1-r15             apk
 bx_py_utils                       92                     python                        
 bytecode                          0.13.0.dev0            python                        
 c-ares                            1.24.0-r1              apk                           
-ca-certificates                   20230506-r0            apk                           
-ca-certificates-bundle            20230506-r0            apk                           
+ca-certificates                   20240226-r0            apk                           
+ca-certificates-bundle            20240226-r0            apk                           
 cached-ipaddress                  0.3.0                  python                        
 cachetools                        5.3.3                  python                        
 caldav                            1.3.9                  python                        
@@ -472,7 +472,7 @@ ffmpeg-libpostproc                6.1.1-r0               apk
 ffmpeg-libswresample              6.1.1-r0               apk                           
 ffmpeg-libswscale                 6.1.1-r0               apk                           
 file-read-backwards               2.0.0                  python                        
-filelock                          3.13.1                 python                        
+filelock                          3.13.3                 python                        
 fints                             3.1.0                  python                        
 firebase-messaging                0.2.1                  python                        
 fitbit                            0.3.1                  python                        
@@ -515,7 +515,7 @@ georss-ign-sismologia-client      0.8                    python
 georss-qld-bushfire-alert-client  0.7                    python                        
 getmac                            0.9.4                  python                        
 getrandom                         0.2.9                  rust-crate                    
-giflib                            5.2.1-r5               apk                           
+giflib                            5.2.2-r0               apk                           
 gios                              3.2.2                  python                        
 git                               2.43.0-r0              apk                           
 gitterpy                          0.1.7                  python                        
@@ -523,7 +523,7 @@ glances_api                       0.5.0                  python
 glib                              2.78.4-r0              apk                           
 glslang-libs                      1.3.261.1-r0           apk                           
 gmp                               6.3.0-r0               apk                           
-gnutls                            3.8.3-r0               apk                           
+gnutls                            3.8.4-r0               apk                           
 goalzero                          0.2.2                  python                        
 goodwe                            0.2.32                 python                        
 google-ai-generativelanguage      0.4.0                  python                        
@@ -690,7 +690,7 @@ kaiterra-async-client             1.0.0                  python
 kasa-crypt                        0.4.1                  python                        
 keba-kecontact                    1.1.0                  python                        
 kegtron-ble                       0.4.0                  python                        
-keyring                           24.3.1                 python                        
+keyring                           25.0.0                 python                        
 keyrings.alt                      5.0.0                  python                        
 keyutils-libs                     1.6.3-r3               apk                           
 kiwiki-client                     0.1.1                  python                        
@@ -1013,7 +1013,7 @@ ppv-lite86                        0.2.17                 rust-crate
 praw                              7.5.0                  python                        
 prawcore                          2.4.0                  python                        
 prayer-times-calculator           0.0.10                 python                        
-pre-commit                        3.6.2                  python                        
+pre-commit                        3.7.0                  python                        
 prettytable                       3.10.0                 python                        
 proc-macro-error                  1.0.4                  rust-crate                    
 proc-macro-error-attr             1.0.4                  rust-crate                    
@@ -1075,8 +1075,8 @@ pyaftership                       21.11.0                python
 pyairnow                          1.2.1                  python                        
 pyairvisual                       2023.8.1               python                        
 pyaprilaire                       0.7.0                  python                        
-pyasn1                            0.5.1                  python                        
-pyasn1-modules                    0.3.0                  python                        
+pyasn1                            0.6.0                  python                        
+pyasn1_modules                    0.4.0                  python                        
 pyasuswrt                         0.1.21                 python                        
 pyatag                            0.3.5.3                python                        
 pyatmo                            8.0.3                  python                        
@@ -1242,7 +1242,7 @@ pysmappee                         0.2.29                 python
 pysmartapp                        0.3.5                  python                        
 pysmartthings                     0.7.8                  python                        
 pysmb                             1.2.9.1                python                        
-pysmi-lextudio                    1.4.1                  python                        
+pysmi-lextudio                    1.4.2                  python                        
 pysml                             0.0.12                 python                        
 pysnmp-lextudio                   6.0.11                 python                        
 pysnmpcrypto                      0.0.4                  python                        
@@ -1256,7 +1256,7 @@ pyswitchbee                       1.8.0                  python
 pytautulli                        23.1.1                 python                        
 pytedee_async                     0.2.17                 python                        
 pytest                            8.1.1                  python                        
-pytest-cov                        4.1.0                  python                        
+pytest-cov                        5.0.0                  python                        
 pytest-mock                       3.14.0                 python                        
 pytest-rerunfailures              14.0                   python                        
 pytest-runner                     6.0.1                  python                        
@@ -1375,7 +1375,7 @@ repoze.lru                        0.7                    python
 requests                          2.31.0                 python                        
 requests-file                     2.0.0                  python                        
 requests-futures                  1.0.1                  python                        
-requests-oauthlib                 1.4.0                  python                        
+requests-oauthlib                 1.4.1                  python                        
 requests-toolbelt                 1.0.0                  python                        
 retry2                            0.9.5                  python                        
 rfk101py                          0.0.1                  python                        
@@ -1558,7 +1558,7 @@ tuya-device-sharing-sdk           0.1.9                  python
 twentemilieu                      2.0.1                  python                        
 twilio                            6.32.0                 python                        
 twitchAPI                         4.0.0                  python                        
-typer                             0.9.0                  python                        
+typer                             0.9.4                  python                        
 types-python-dateutil             2.9.0.20240316         python                        
 typing-inspect                    0.9.0                  python                        
 typing_extensions                 4.10.0                 python                        
@@ -1595,7 +1595,7 @@ v4l-utils-libs                    1.24.1-r1              apk
 v_frame                           0.3.3                  rust-crate                    
 vacuum-map-parser-base            0.1.2                  python                        
 vacuum-map-parser-roborock        0.1.1                  python                        
-validators                        0.23.2                 python                        
+validators                        0.24.0                 python                        
 vallox_websocket_api              5.1.0                  python                        
 vehicle                           2.2.1                  python                        
 velbus-aio                        2023.12.0              python                        
@@ -1604,7 +1604,7 @@ vidstab                           1.1.1-r0               apk
 vilfo-api-client                  0.4.1                  python                        
 vincenty                          0.1.4                  python                        
 virtualenv                        20.25.1                python                        
-vobject                           0.9.6.1                python                        
+vobject                           0.9.7                  python                        
 voip-utils                        0.1.0                  python                        
 vol                               0.1.1                  python                        
 volkszaehler                      0.4.0                  python                        
@@ -1648,7 +1648,7 @@ xbox-webapi                       2.0.11                 python
 xiaomi-ble                        0.25.2                 python                        
 xknx                              2.12.2                 python                        
 xknxproject                       3.7.0                  python                        
-xmlschema                         3.1.0                  python                        
+xmlschema                         3.2.0                  python                        
 xmltodict                         0.13.0                 python                        
 xs1-api-client                    3.0.0                  python                        
 xvidcore                          1.3.7-r2               apk                           
