@@ -92,6 +92,12 @@ In order to provide HA with access to the host's Bluetooth device, one needs to 
       - /var/run/dbus:/var/run/dbus:ro
 ```
 
+### Using the Ping integration
+
+For the [Ping][ping0] integration to work, the capability `NET_RAW` must be added to the container. See above for instructions.
+
+[ping0]: https://www.home-assistant.io/integrations/ping
+
 ## Usage
 
 To help you get started creating a container from this image you can either use docker-compose or the docker cli.
