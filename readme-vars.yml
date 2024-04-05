@@ -65,6 +65,11 @@ app_setup_block: |
         - /var/run/dbus:/var/run/dbus:ro
   ```
 
+  ### Using the Ping integration
+
+  For the [Ping][ping0] integration to work, the capability `NET_RAW` must be added to the container. See above for instructions.
+
+  [ping0]: https://www.home-assistant.io/integrations/ping
 
 unraid_template_sync: false
 # changelog
