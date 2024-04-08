@@ -14,7 +14,7 @@ DateTime                          5.5                    python
 Deprecated                        1.2.14                 python                        
 DoorBirdPy                        2.1.0                  python                        
 Events                            0.4                    python                        
-Flask                             3.0.2                  python                        
+Flask                             3.0.3                  python                        
 HAP-python                        4.9.1                  python                        
 HATasmota                         0.8.0                  python                        
 Jinja2                            3.1.3                  python                        
@@ -68,7 +68,7 @@ WSDiscovery                       2.0.0                  python
 Werkzeug                          3.0.2                  python                        
 XlsxWriter                        3.2.0                  python                        
 accuweather                       2.1.1                  python                        
-acme                              2.9.0                  python                        
+acme                              2.8.0                  python                        
 adax                              0.4.0                  python                        
 adb-shell                         0.4.4                  python                        
 adext                             0.4.2                  python                        
@@ -205,7 +205,7 @@ anyhow                            1.0.75                 rust-crate
 anyio                             4.3.0                  python                        
 aom-libs                          3.7.1-r0               apk                           
 apischema                         0.18.1                 python                        
-apk-tools                         2.14.0-r5              apk                           
+apk-tools                         2.14.3-r1              apk                           
 appdirs                           1.4.4                  python                        
 apple_weatherkit                  1.1.2                  python                        
 apprise                           1.7.4                  python                        
@@ -248,7 +248,7 @@ av-metrics                        0.9.0                  rust-crate
 av1-grain                         0.2.2                  rust-crate                    
 avahi-libs                        0.8-r16                apk                           
 awesomeversion                    24.2.0                 python                        
-axis                              60                     python                        
+axis                              61                     python                        
 azure-core                        1.30.1                 python                        
 azure-eventhub                    5.11.1                 python                        
 azure-servicebus                  7.10.0                 python                        
@@ -297,7 +297,7 @@ boto3                             1.33.13                python
 botocore                          1.33.13                python                        
 bring-api                         0.5.7                  python                        
 broadlink                         0.18.3                 python                        
-brother                           4.0.2                  python                        
+brother                           4.1.0                  python                        
 brotli-libs                       1.1.0-r1               apk                           
 brottsplatskartan                 1.0.5                  python                        
 brunt                             1.2.0                  python                        
@@ -499,7 +499,7 @@ fstrm                             0.6.1-r4               apk
 ftfy                              6.2.0                  python                        
 funty                             2.0.0                  rust-crate                    
 future                            1.0.0                  python                        
-fyta_cli                          0.3.3                  python                        
+fyta_cli                          0.3.5                  python                        
 gTTS                              2.2.4                  python                        
 gardena-bluetooth                 1.4.1                  python                        
 gassist-text                      0.0.11                 python                        
@@ -573,7 +573,7 @@ ha-philipsjs                      3.1.1                  python
 habitipy                          0.2.0                  python                        
 habluetooth                       2.4.2                  python                        
 harfbuzz                          8.3.0-r0               apk                           
-hass-nabucasa                     0.79.0                 python                        
+hass-nabucasa                     0.78.0                 python                        
 hass-splunk                       0.1.1                  python                        
 hassil                            1.6.1                  python                        
 haversine                         2.8.1                  python                        
@@ -593,7 +593,7 @@ home-assistant-bluetooth          1.12.0                 python
 home-assistant-chip-clusters      2024.2.1               python                        
 home-assistant-frontend           20240404.1             python                        
 home-assistant-intents            2024.4.3               python                        
-homeassistant                     2024.4.1               python                        
+homeassistant                     2024.4.2               python                        
 homeconnect                       0.7.2                  python                        
 homematicip                       1.1.0                  python                        
 horimote                          0.4.1                  python                        
@@ -664,7 +664,7 @@ ivf                               0.1.2                  rust-crate
 jaraco.abode                      3.3.0                  python                        
 jaraco.classes                    3.4.0                  python                        
 jaraco.collections                5.0.0                  python                        
-jaraco.context                    5.1.0                  python                        
+jaraco.context                    5.3.0                  python                        
 jaraco.email                      3.1.1                  python                        
 jaraco.functools                  3.9.0                  python                        
 jaraco.itertools                  6.4.1                  python                        
@@ -982,7 +982,7 @@ pandas                            2.1.4                  python
 paramiko                          3.3.1                  python                        
 passlib                           1.7.4                  python                        
 paste                             1.0.12                 rust-crate                    
-path                              16.12.1                python                        
+path                              16.13.0                python                        
 pathvalidate                      3.2.0                  python                        
 pbr                               6.0.0                  python                        
 pcre                              8.45-r3                apk                           
@@ -1096,7 +1096,7 @@ pycfdns                           3.0.0                  python
 pychannels                        1.2.3                  python                        
 pycketcasts                       1.0.1                  python                        
 pycmus                            0.1.1                  python                        
-pycognito                         2024.2.0               python                        
+pycognito                         2023.5.0               python                        
 pycomfoconnect                    0.5.1                  python                        
 pycoolmasternet-async             0.1.5                  python                        
 pycountry                         23.12.11               python                        
@@ -1174,7 +1174,7 @@ pylaunches                        1.4.0                  python
 pylgnetcast                       0.3.7                  python                        
 pylibrespot-java                  0.1.1                  python                        
 pylitejet                         0.6.2                  python                        
-pylitterbot                       2023.4.9               python                        
+pylitterbot                       2023.4.11              python                        
 pylutron                          0.2.12                 python                        
 pylutron-caseta                   0.20.0                 python                        
 pymailgunner                      1.4                    python                        
@@ -1190,7 +1190,7 @@ pymsteams                         0.1.12                 python
 pymysensors                       0.24.0                 python                        
 pynetgear                         0.10.10                python                        
 pynetio                           0.1.9.1                python                        
-pynobo                            1.8.0                  python                        
+pynobo                            1.8.1                  python                        
 pynuki                            1.6.3                  python                        
 pynws                             1.6.0                  python                        
 pynx584                           0.5                    python                        
@@ -1601,7 +1601,7 @@ vacuum-map-parser-roborock        0.1.1                  python
 validators                        0.28.0                 python                        
 vallox_websocket_api              5.1.1                  python                        
 vehicle                           2.2.1                  python                        
-velbus-aio                        2024.4.0               python                        
+velbus-aio                        2024.4.1               python                        
 venstarcolortouch                 0.19                   python                        
 vidstab                           1.1.1-r0               apk                           
 vilfo-api-client                  0.5.0                  python                        
@@ -1650,8 +1650,8 @@ x265-libs                         3.5-r4                 apk
 xbox-webapi                       2.0.11                 python                        
 xiaomi-ble                        0.28.0                 python                        
 xknx                              2.12.2                 python                        
-xknxproject                       3.7.0                  python                        
-xmlschema                         3.2.0                  python                        
+xknxproject                       3.7.1                  python                        
+xmlschema                         3.2.1                  python                        
 xmltodict                         0.13.0                 python                        
 xs1-api-client                    3.0.0                  python                        
 xvidcore                          1.3.7-r2               apk                           
@@ -1665,7 +1665,7 @@ yalexs-ble                        2.4.2                  python
 yarl                              1.9.4                  python                        
 yeelight                          0.7.14                 python                        
 yeelightsunflower                 0.0.10                 python                        
-yolink-api                        0.4.1                  python                        
+yolink-api                        0.4.2                  python                        
 youless-api                       1.0.1                  python                        
 youtubeaio                        1.1.5                  python                        
 yt-dlp                            2024.3.10              python                        
