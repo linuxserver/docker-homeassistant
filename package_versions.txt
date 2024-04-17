@@ -215,7 +215,7 @@ aqualogic                         2.6                    python
 aranet4                           2.3.3                  python                        
 arcam-fmj                         1.4.0                  python                        
 arg_enum_proc_macro               0.3.2                  rust-crate                    
-argcomplete                       3.2.3                  python                        
+argcomplete                       3.3.0                  python                        
 arrayvec                          0.7.2                  rust-crate                    
 arris-tg2492lg                    1.2.1                  python                        
 arrow                             1.3.0                  python                        
@@ -236,7 +236,7 @@ asyncio-throttle                  1.0.2                  python
 asyncpysupla                      0.0.5                  python                        
 asyncsleepiq                      1.5.2                  python                        
 asyncssh                          2.14.2                 python                        
-asyncstdlib                       3.12.2                 python                        
+asyncstdlib                       3.12.3                 python                        
 asynctest                         0.13.0                 python                        
 atomicwrites-homeassistant        1.4.1                  python                        
 atpublic                          4.1.0                  python                        
@@ -659,11 +659,11 @@ iso4217                           1.11.20220401          python
 iso8601                           2.1.0                  python                        
 isodate                           0.6.1                  python                        
 itertools                         0.10.5                 rust-crate                    
-itsdangerous                      2.1.2                  python                        
+itsdangerous                      2.2.0                  python                        
 ivf                               0.1.2                  rust-crate                    
 jaraco.abode                      3.3.0                  python                        
 jaraco.classes                    3.4.0                  python                        
-jaraco.collections                5.0.0                  python                        
+jaraco.collections                5.0.1                  python                        
 jaraco.context                    5.3.0                  python                        
 jaraco.email                      3.1.1                  python                        
 jaraco.functools                  3.9.0                  python                        
@@ -1606,7 +1606,7 @@ venstarcolortouch                 0.19                   python
 vidstab                           1.1.1-r0               apk                           
 vilfo-api-client                  0.5.0                  python                        
 vincenty                          0.1.4                  python                        
-virtualenv                        20.25.1                python                        
+virtualenv                        20.25.2                python                        
 vobject                           0.9.7                  python                        
 voip-utils                        0.1.0                  python                        
 vol                               0.1.1                  python                        
@@ -1685,9 +1685,9 @@ zigpy-znp                         0.12.1                 python
 zimg                              3.0.5-r2               apk                           
 zix-libs                          0.4.2-r0               apk                           
 zlib                              1.3.1-r0               apk                           
-zlib-ng                           0.4.2                  python                        
+zlib-ng                           0.4.3                  python                        
 zm-py                             0.5.4                  python                        
-zope.interface                    6.2                    python                        
+zope.interface                    6.3                    python                        
 zstd-libs                         1.5.5-r8               apk                           
 zwave-js-server-python            0.55.3                 python                        
 zwave-me-ws                       0.4.3                  python                        
