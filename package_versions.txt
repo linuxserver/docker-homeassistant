@@ -1632,7 +1632,7 @@ webcolors                         1.13                   python
 webencodings                      0.5.1                  python                        
 webmin-xmlrpc                     0.0.2                  python                        
 webrtc-noise-gain                 1.2.3                  python                        
-websocket-client                  1.7.0                  python                        
+websocket-client                  1.8.0                  python                        
 websockets                        12.0                   python                        
 wheel                             0.42.0                 python                        
 whirlpool_sixth_sense             0.18.8                 python                        
