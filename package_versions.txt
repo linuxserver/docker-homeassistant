@@ -1376,7 +1376,7 @@ rayon-core                        1.11.0                 rust-crate
 readline                          8.2.1-r2               apk                           
 recurring-ical-events             2.2.1                  python                        
 redis                             5.0.4                  python                        
-referencing                       0.35.0                 python                        
+referencing                       0.35.1                 python                        
 refoss-ha                         1.2.0                  python                        
 regenmaschine                     2024.3.0               python                        
 regex                             2021.8.28              python                        
