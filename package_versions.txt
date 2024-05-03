@@ -174,7 +174,7 @@ aioswitcher                       3.4.1                  python
 aiosyncthing                      0.5.1                  python                        
 aiotankerkoenig                   0.4.1                  python                        
 aiotractive                       0.5.6                  python                        
-aiounifi                          76                     python                        
+aiounifi                          77                     python                        
 aiovlc                            0.1.0                  python                        
 aiovodafone                       0.5.4                  python                        
 aiowaqi                           3.0.1                  python                        
@@ -183,7 +183,7 @@ aiowebostv                        0.4.0                  python
 aiowithings                       2.1.0                  python                        
 aioymaps                          1.2.2                  python                        
 airly                             1.1.0                  python                        
-airthings-ble                     0.7.1                  python                        
+airthings-ble                     0.8.0                  python                        
 airthings_cloud                   0.2.0                  python                        
 airtouch4pyapi                    1.0.5                  python                        
 airtouch5py                       0.2.8                  python                        
@@ -263,8 +263,7 @@ bash                              5.2.21-r0              apk
 batinfo                           0.4.2                  python                        
 bcrypt                            4.1.2                  python                        
 beautifulsoup4                    4.12.3                 python                        
-bellows                           0.38.3                 python                        
-betterproto                       2.0.0b5                python                        
+bellows                           0.38.4                 python                        
 bimmer_connected                  0.15.2                 python                        
 bind-libs                         9.18.24-r1             apk                           
 bind-tools                        9.18.24-r1             apk                           
@@ -438,7 +437,7 @@ electrickiwi-api                  0.8.5                  python
 elementpath                       4.4.0                  python                        
 elgato                            5.1.2                  python                        
 eliqonline                        1.2.2                  python                        
-elkm1-lib                         2.2.6                  python                        
+elkm1-lib                         2.2.7                  python                        
 elmax-api                         0.0.4                  python                        
 elvia                             0.1.0                  python                        
 emoji                             2.8.0                  python                        
@@ -448,7 +447,7 @@ energyzero                        2.1.0                  python
 enocean                           0.50.0                 python                        
 enturclient                       0.2.4                  python                        
 enum-compat                       0.0.3                  python                        
-env-canada                        0.6.0                  python                        
+env_canada                        0.6.2                  python                        
 envoy-utils                       0.0.1                  python                        
 envs                              1.4                    python                        
 ephem                             4.1.5                  python                        
@@ -550,7 +549,7 @@ googlemaps                        2.5.1                  python
 goslide-api                       0.5.1                  python                        
 gotailwind                        0.2.2                  python                        
 govee-ble                         0.31.2                 python                        
-govee-local-api                   1.4.4                  python                        
+govee-local-api                   1.4.5                  python                        
 gpiod                             1.5.4                  python                        
 gpiozero                          1.6.2                  python                        
 gps3                              0.33.3                 python                        
@@ -568,7 +567,6 @@ grpc-google-iam-v1                0.13.0                 python
 grpcio                            1.59.0                 python                        
 grpcio-reflection                 1.59.0                 python                        
 grpcio-status                     1.59.0                 python                        
-grpclib                           0.4.7                  python                        
 gspread                           5.5.0                  python                        
 gstreamer-player                  1.1.2                  python                        
 guppy3                            3.1.4.post1            python                        
@@ -579,7 +577,7 @@ ha-ffmpeg                         3.2.0                  python
 ha-iotawattpy                     0.1.2                  python                        
 ha-philipsjs                      3.1.1                  python                        
 habitipy                          0.2.0                  python                        
-habluetooth                       2.8.0                  python                        
+habluetooth                       2.8.1                  python                        
 harfbuzz                          8.3.0-r0               apk                           
 hass-nabucasa                     0.78.0                 python                        
 hass-splunk                       0.1.1                  python                        
@@ -601,7 +599,7 @@ home-assistant-bluetooth          1.12.0                 python
 home-assistant-chip-clusters      2024.3.2               python                        
 home-assistant-frontend           20240501.0             python                        
 home-assistant-intents            2024.4.24              python                        
-homeassistant                     2024.5.0               python                        
+homeassistant                     2024.5.1               python                        
 homeconnect                       0.7.2                  python                        
 homematicip                       1.1.0                  python                        
 horimote                          0.4.1                  python                        
@@ -628,7 +626,6 @@ ibmiotf                           0.3.4                  python
 ical                              8.0.0                  python                        
 icalendar                         5.0.12                 python                        
 icmplib                           3.0                    python                        
-id                                1.4.0                  python                        
 idasen                            0.11.0                 python                        
 idasen-ha                         2.5.1                  python                        
 identify                          2.5.36                 python                        
@@ -841,7 +838,7 @@ lw12                              0.9.2                  python
 lxml                              5.1.0                  python                        
 mac-vendor-lookup                 0.1.12                 python                        
 mariadb-connector-c               3.3.8-r0               apk                           
-marshmallow                       3.21.1                 python                        
+marshmallow                       3.21.2                 python                        
 marshmallow_dataclass             8.6.1                  python                        
 mashumaro                         3.13                   python                        
 matrix-nio                        0.24.0                 python                        
@@ -1202,7 +1199,7 @@ pynetgear                         0.10.10                python
 pynetio                           0.1.9.1                python                        
 pynobo                            1.8.1                  python                        
 pynuki                            1.6.3                  python                        
-pynws                             1.6.0                  python                        
+pynws                             1.7.0                  python                        
 pynx584                           0.5                    python                        
 pynzbgetapi                       0.2.0                  python                        
 pyobihai                          1.4.2                  python                        
@@ -1212,7 +1209,7 @@ pyopenuv                          2023.2.0               python
 pyopnsense                        0.4.0                  python                        
 pyoppleio-legacy                  1.0.8                  python                        
 pyosoenergyapi                    1.1.3                  python                        
-pyotgw                            2.1.3                  python                        
+pyotgw                            2.2.0                  python                        
 pyotp                             2.8.0                  python                        
 pyoverkiz                         1.13.10                python                        
 pyowm                             3.2.0                  python                        
@@ -1342,7 +1339,7 @@ pyvesync                          2.1.10                 python
 pyvizio                           0.1.61                 python                        
 pyvlx                             0.2.21                 python                        
 pyvolumio                         0.1.5                  python                        
-pywaze                            1.0.0                  python                        
+pywaze                            1.0.1                  python                        
 pyweatherflowudp                  1.4.5                  python                        
 pywebpush                         1.14.1                 python                        
 pywemo                            1.4.0                  python                        
@@ -1418,7 +1415,7 @@ rxv                               0.7.0                  python
 s3transfer                        0.10.1                 python                        
 samsungctl                        0.7.1                  python                        
 samsungtvws                       2.6.0                  python                        
-sanix                             1.0.5                  python                        
+sanix                             1.0.6                  python                        
 satel-integra                     0.3.7                  python                        
 scan_fmt                          0.2.6                  rust-crate                    
 scanelf                           1.3.7-r2               apk                           
@@ -1457,8 +1454,7 @@ shodan                            1.28.0                 python
 shortuuid                         1.0.13                 python                        
 signal-hook                       0.3.15                 rust-crate                    
 signal-hook-registry              1.4.1                  rust-crate                    
-sigstore                          1.1.2                  python                        
-sigstore-protobuf-specs           0.1.0                  python                        
+sigstore                          1.0.0                  python                        
 simd_helpers                      0.1.0                  rust-crate                    
 simplehound                       0.3                    python                        
 simplejson                        3.19.2                 python                        
@@ -1559,18 +1555,19 @@ tilt-ble                          0.2.3                  python
 titlecase                         2.4.1                  python                        
 tmb                               0.0.4                  python                        
 todoist-api-python                2.1.2                  python                        
+tokenize-rt                       5.2.0                  python                        
 tololib                           1.1.0                  python                        
 toonapi                           0.3.0                  python                        
 total-connect-client              2023.12.1              python                        
 tp-connected                      0.0.4                  python                        
 tplink_omada_client               1.3.12                 python                        
-tqdm                              4.66.2                 python                        
+tqdm                              4.66.4                 python                        
 transitions                       0.8.11                 python                        
 transmission-rpc                  7.0.3                  python                        
 trio                              0.25.0                 python                        
 trio-websocket                    0.11.1                 python                        
 ttls                              1.5.1                  python                        
-tuf                               2.1.0                  python                        
+tuf                               4.0.0                  python                        
 tuya-device-sharing-sdk           0.1.9                  python                        
 twentemilieu                      2.0.1                  python                        
 twilio                            6.32.0                 python                        
@@ -1588,7 +1585,7 @@ uart-devices                      0.1.0                  python
 uasiren                           0.0.1                  python                        
 ulid-transform                    0.9.0                  python                        
 ultraheat-api                     0.5.7                  python                        
-unasync                           0.5.0                  python                        
+unasync                           0.6.0                  python                        
 unicode-ident                     1.0.8                  rust-crate                    
 unicode-rbnf                      1.0.0                  python                        
 unicode-width                     0.1.10                 rust-crate                    
@@ -1599,7 +1596,7 @@ universal-silabs-flasher          0.0.18                 python
 unpaddedbase64                    2.1.0                  python                        
 untangle                          1.2.1                  python                        
 uonet-request-signer-hebe         0.1.1                  python                        
-upb-lib                           0.5.4                  python                        
+upb-lib                           0.5.6                  python                        
 upcloud-api                       2.0.0                  python                        
 update-checker                    0.18.0                 python                        
 uplink                            0.9.7                  python                        
