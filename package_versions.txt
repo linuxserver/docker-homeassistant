@@ -8,7 +8,7 @@ Authlib                           1.3.0                  python
 Babel                             2.13.1                 python                        
 BlinkStick                        1.2.0                  python                        
 Brotli                            1.1.0                  python                        
-DTLSSocket                        0.1.17                 python                        
+DTLSSocket                        0.1.18                 python                        
 DateTime                          5.5                    python                        
 Deprecated                        1.2.14                 python                        
 DoorBirdPy                        2.1.0                  python                        
@@ -693,7 +693,7 @@ justbackoff                       0.6.0                  python
 justnimbus                        0.7.3                  python                        
 jwcrypto                          1.5.6                  python                        
 kaiterra-async-client             1.0.0                  python                        
-kasa-crypt                        0.4.1                  python                        
+kasa-crypt                        0.4.2                  python                        
 keba-kecontact                    1.1.0                  python                        
 kegtron-ble                       0.4.0                  python                        
 keyring                           25.2.0                 python                        
@@ -1534,7 +1534,7 @@ tellsticknet                      0.1.2                  python
 temescal                          0.5                    python                        
 temperusb                         1.6.1                  python                        
 tempora                           5.5.1                  python                        
-tenacity                          8.2.3                  python                        
+tenacity                          8.3.0                  python                        
 termcolor                         1.2.0                  rust-crate                    
 terminal_size                     0.2.6                  rust-crate                    
 tesla-wall-connector              1.0.2                  python                        
