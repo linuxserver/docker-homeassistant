@@ -161,7 +161,7 @@ aioruuvigateway                   0.1.0                  python
 aiosenz                           1.0.0                  python                        
 aioserial                         1.3.0                  python                        
 aioshelly                         9.0.0                  python                        
-aioshutil                         1.3                    python                        
+aioshutil                         1.4                    python                        
 aiosignal                         1.3.1                  python                        
 aioskybell                        22.7.0                 python                        
 aioslimproto                      3.0.0                  python                        
@@ -270,7 +270,7 @@ bitarray                          2.9.2                  python
 bitflags                          1.3.2                  rust-crate                    
 bitstream-io                      1.6.0                  rust-crate                    
 bitstream-io                      1.7.0                  rust-crate                    
-bitstring                         4.2.2                  python                        
+bitstring                         4.2.3                  python                        
 bitstruct                         8.19.0                 python                        
 bitvec                            1.0.1                  rust-crate                    
 bitvec_helpers                    3.1.2                  rust-crate                    
@@ -364,7 +364,7 @@ coreutils                         9.4-r2                 apk
 coreutils-env                     9.4-r2                 apk                           
 coreutils-fmt                     9.4-r2                 apk                           
 coreutils-sha512sum               9.4-r2                 apk                           
-coverage                          7.5.1                  python                        
+coverage                          7.5.3                  python                        
 crc                               3.0.1                  rust-crate                    
 crc                               4.3.0                  python                        
 crc-catalog                       2.2.0                  rust-crate                    
@@ -899,7 +899,7 @@ ncurses-terminfo-base             6.4_p20231125-r0       apk
 ndms2-client                      0.1.2                  python                        
 nessclient                        1.0.0                  python                        
 net-tools                         2.10-r3                apk                           
-netaddr                           1.2.1                  python                        
+netaddr                           1.3.0                  python                        
 netcat-openbsd                    1.226-r0               apk                           
 netdata                           1.1.0                  python                        
 netifaces                         0.11.0                 python                        
@@ -918,7 +918,7 @@ niko-home-control                 0.2.1                  python
 niluclient                        0.1.2                  python                        
 nmap                              7.94-r0                apk                           
 noaa-coops                        0.1.9                  python                        
-nodeenv                           1.8.0                  python                        
+nodeenv                           1.9.0                  python                        
 noiseprotocol                     0.3.1                  python                        
 nom                               7.1.3                  rust-crate                    
 noop_proc_macro                   0.3.0                  rust-crate                    
@@ -1023,6 +1023,7 @@ praw                              7.5.0                  python
 prawcore                          2.4.0                  python                        
 prayer_times_calculator_offline   1.0.3                  python                        
 pre-commit                        3.7.1                  python                        
+pre-commit-package                dev-1                  lua-rocks                     
 prettytable                       3.10.0                 python                        
 proc-macro-error                  1.0.4                  rust-crate                    
 proc-macro-error-attr             1.0.4                  rust-crate                    
@@ -1030,7 +1031,7 @@ proc-macro2                       1.0.57                 rust-crate
 procps-ng                         4.0.4-r0               apk                           
 proliphix                         0.4.1                  python                        
 prometheus-client                 0.17.1                 python                        
-prompt-toolkit                    3.0.43                 python                        
+prompt_toolkit                    3.0.45                 python                        
 proto-plus                        1.23.0                 python                        
 protobuf                          4.25.1                 python                        
 protobuf-c                        1.4.1-r7               apk                           
@@ -1058,7 +1059,7 @@ py-nextbusnext                    1.0.2                  python
 py-schluter                       0.1.7                  python                        
 py-sucks                          0.9.9                  python                        
 py-synologydsm-api                2.4.2                  python                        
-py-vapid                          1.9.0                  python                        
+py-vapid                          1.9.1                  python                        
 py-zabbix                         1.1.7                  python                        
 py17track                         2021.12.2              python                        
 py3rijndael                       0.3.3                  python                        
@@ -1420,7 +1421,7 @@ satel-integra                     0.3.7                  python
 scan_fmt                          0.2.6                  rust-crate                    
 scanelf                           1.3.7-r2               apk                           
 scapy                             2.5.0                  python                        
-schedule                          1.2.1                  python                        
+schedule                          1.2.2                  python                        
 scopeguard                        1.1.0                  rust-crate                    
 screenlogicpy                     0.10.0                 python                        
 scsgate                           0.1.0                  python                        
@@ -1572,7 +1573,7 @@ tuya-device-sharing-sdk           0.1.9                  python
 twentemilieu                      2.0.1                  python                        
 twilio                            6.32.0                 python                        
 twitchAPI                         4.0.0                  python                        
-typeguard                         4.2.1                  python                        
+typeguard                         4.3.0                  python                        
 typer                             0.12.3                 python                        
 types-python-dateutil             2.9.0.20240316         python                        
 typing-inspect                    0.9.0                  python                        
@@ -1611,7 +1612,7 @@ v4l-utils-libs                    1.24.1-r1              apk
 v_frame                           0.3.3                  rust-crate                    
 vacuum-map-parser-base            0.1.3                  python                        
 vacuum-map-parser-roborock        0.1.2                  python                        
-validators                        0.28.2                 python                        
+validators                        0.28.3                 python                        
 vallox_websocket_api              5.1.1                  python                        
 vehicle                           2.2.1                  python                        
 velbus-aio                        2024.4.1               python                        
