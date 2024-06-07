@@ -19,7 +19,7 @@ Js2Py                             0.74                   python
 Markdown                          3.6                    python                        
 MarkupSafe                        2.1.5                  python                        
 Mastodon.py                       1.8.1                  python                        
-Pint                              0.23                   python                        
+Pint                              0.24                   python                        
 PlexAPI                           4.15.13                python                        
 ProgettiHWSW                      0.1.3                  python                        
 PsychroLib                        2.5.0                  python                        
@@ -252,7 +252,7 @@ av1-grain                         0.2.2                  rust-crate
 avahi-libs                        0.8-r16                apk                           
 awesomeversion                    24.2.0                 python                        
 axis                              61                     python                        
-azure-core                        1.30.1                 python                        
+azure-core                        1.30.2                 python                        
 azure-eventhub                    5.11.1                 python                        
 azure-identity                    1.16.0                 python                        
 azure-kusto-data                  3.1.0                  python                        
@@ -328,7 +328,7 @@ cachetools                        5.3.3                  python
 caldav                            1.3.9                  python                        
 casttube                          0.2.1                  python                        
 catatonit                         0.2.0-r0               apk                           
-cbor2                             5.6.3                  python                        
+cbor2                             5.6.4                  python                        
 certifi                           2024.6.2               python                        
 cffi                              1.16.0                 python                        
 cfg-if                            1.0.0                  rust-crate                    
@@ -493,7 +493,9 @@ fitbit                            0.3.1                  python
 fivem-api                         0.1.2                  python                        
 fixerio                           1.0.0a0                python                        
 fjaraskupan                       2.3.0                  python                        
+flexcache                         0.3                    python                        
 flexit_bacnet                     2.2.1                  python                        
+flexparser                        0.3.1                  python                        
 flipr-api                         1.5.1                  python                        
 flux-led                          1.0.4                  python                        
 fnv-hash-fast                     0.5.0                  python                        
@@ -545,7 +547,7 @@ goodwe                            0.3.5                  python
 google-ai-generativelanguage      0.6.4                  python                        
 google-api-core                   2.19.0                 python                        
 google-api-python-client          2.71.0                 python                        
-google-auth                       2.29.0                 python                        
+google-auth                       2.30.0                 python                        
 google-auth-httplib2              0.2.0                  python                        
 google-auth-oauthlib              1.2.0                  python                        
 google-cloud-pubsub               2.13.11                python                        
@@ -602,12 +604,12 @@ hkavr                             0.0.5                  python
 hko                               0.3.2                  python                        
 hlk-sw16                          0.0.9                  python                        
 hole                              0.8.0                  python                        
-holidays                          0.49                   python                        
+holidays                          0.50                   python                        
 home-assistant-bluetooth          1.12.0                 python                        
 home-assistant-chip-clusters      2024.5.2               python                        
 home-assistant-frontend           20240605.0             python                        
 home-assistant-intents            2024.6.5               python                        
-homeassistant                     2024.6.0               python                        
+homeassistant                     2024.6.1               python                        
 homeconnect                       0.7.2                  python                        
 homematicip                       1.1.1                  python                        
 horimote                          0.4.1                  python                        
@@ -641,9 +643,9 @@ idna                              3.7                    python
 ifaddr                            0.2.0                  python                        
 iglo                              1.2.7                  python                        
 ihcsdk                            2.8.5                  python                        
-ijson                             3.2.3                  python                        
+ijson                             3.3.0                  python                        
 imageio                           2.34.1                 python                        
-imgw_pib                          1.0.1                  python                        
+imgw_pib                          1.0.4                  python                        
 imlib2                            1.12.1-r0              apk                           
 importlib_resources               6.4.0                  python                        
 imutils                           0.5.4                  python                        
@@ -848,7 +850,7 @@ lw12                              0.9.2                  python
 lxml                              5.1.0                  python                        
 mac-vendor-lookup                 0.1.12                 python                        
 mariadb-connector-c               3.3.8-r0               apk                           
-marshmallow                       3.21.2                 python                        
+marshmallow                       3.21.3                 python                        
 marshmallow_dataclass             8.6.1                  python                        
 mashumaro                         3.13                   python                        
 matrix-nio                        0.24.0                 python                        
@@ -983,7 +985,7 @@ opuslib                           3.0.1                  python
 oralb-ble                         0.17.6                 python                        
 orc                               0.4.34-r0              apk                           
 ordered-set                       4.1.0                  python                        
-orjson                            3.10.3                 python                        
+orjson                            3.9.15                 python                        
 oru                               0.1.11                 python                        
 orvibo                            1.1.2                  python                        
 os_str_bytes                      6.5.0                  rust-crate                    
@@ -1137,7 +1139,7 @@ pydelijn                          1.1.0                  python
 pydexcom                          0.2.3                  python                        
 pydiscovergy                      3.0.1                  python                        
 pydoods                           1.0.2                  python                        
-pydrawise                         2024.6.2               python                        
+pydrawise                         2024.6.3               python                        
 pydroid-ipcam                     2.0.0                  python                        
 pydub                             0.25.1                 python                        
 pyebox                            1.1.4                  python                        
@@ -1385,7 +1387,7 @@ rayon                             1.7.0                  rust-crate
 rayon-core                        1.11.0                 rust-crate                    
 readline                          8.2.1-r2               apk                           
 recurring-ical-events             2.2.1                  python                        
-redis                             5.0.4                  python                        
+redis                             5.0.5                  python                        
 referencing                       0.35.1                 python                        
 refoss-ha                         1.2.0                  python                        
 regenmaschine                     2024.3.0               python                        
@@ -1395,7 +1397,7 @@ renault-api                       0.2.3                  python
 renson-endura-delta               1.7.1                  python                        
 reolink_aio                       0.9.1                  python                        
 repoze.lru                        0.7                    python                        
-requests                          2.31.0                 python                        
+requests                          2.32.3                 python                        
 requests-file                     2.1.0                  python                        
 requests-futures                  1.0.1                  python                        
 requests-oauthlib                 1.4.1                  python                        
@@ -1591,7 +1593,7 @@ typer                             0.12.3                 python
 types-python-dateutil             2.9.0.20240316         python                        
 types-pytz                        2024.1.0.20240417      python                        
 typing-inspect                    0.9.0                  python                        
-typing_extensions                 4.12.1                 python                        
+typing_extensions                 4.12.2                 python                        
 tzdata                            2024.1                 python                        
 tzdata                            2024a-r0               apk                           
 tzlocal                           5.2                    python                        
@@ -1656,7 +1658,7 @@ waterfurnace                      1.1.0                  python
 wayland-libs-client               1.22.0-r4              apk                           
 wcwidth                           0.2.13                 python                        
 weatherflow4py                    0.2.20                 python                        
-webcolors                         1.13                   python                        
+webcolors                         24.6.0                 python                        
 webencodings                      0.5.1                  python                        
 webmin-xmlrpc                     0.0.2                  python                        
 webrtc-noise-gain                 1.2.3                  python                        
