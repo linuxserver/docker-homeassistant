@@ -268,7 +268,7 @@ bash                              5.2.21-r0              apk
 batinfo                           0.4.2                  python                        
 bcrypt                            4.1.2                  python                        
 beautifulsoup4                    4.12.3                 python                        
-bellows                           0.39.0                 python                        
+bellows                           0.39.1                 python                        
 bimmer_connected                  0.15.3                 python                        
 bind-libs                         9.18.24-r1             apk                           
 bind-tools                        9.18.24-r1             apk                           
@@ -315,9 +315,9 @@ bthome-ble                        3.8.1                  python
 bthomehub5-devicelist             0.1.1                  python                        
 btsmarthub-devicelist             0.2.3                  python                        
 btsocket                          0.3.0                  python                        
-buienradar                        1.0.5                  python                        
-busybox                           1.36.1-r18             apk                           
-busybox-binsh                     1.36.1-r18             apk                           
+buienradar                        1.0.6                  python                        
+busybox                           1.36.1-r19             apk                           
+busybox-binsh                     1.36.1-r19             apk                           
 bx_py_utils                       92                     python                        
 bytecode                          0.13.0.dev0            python                        
 c-ares                            1.27.0-r0              apk                           
@@ -485,7 +485,7 @@ ffmpeg-libpostproc                6.1.1-r0               apk
 ffmpeg-libswresample              6.1.1-r0               apk                           
 ffmpeg-libswscale                 6.1.1-r0               apk                           
 file-read-backwards               2.0.0                  python                        
-filelock                          3.14.0                 python                        
+filelock                          3.15.1                 python                        
 findutils                         4.9.0-r5               apk                           
 fints                             3.1.0                  python                        
 firebase-messaging                0.2.1                  python                        
@@ -543,7 +543,7 @@ glslang-libs                      1.3.261.1-r0           apk
 gmp                               6.3.0-r0               apk                           
 gnutls                            3.8.4-r0               apk                           
 goalzero                          0.2.2                  python                        
-goodwe                            0.3.5                  python                        
+goodwe                            0.3.6                  python                        
 google-ai-generativelanguage      0.6.4                  python                        
 google-api-core                   2.19.0                 python                        
 google-api-python-client          2.71.0                 python                        
@@ -607,9 +607,9 @@ hole                              0.8.0                  python
 holidays                          0.50                   python                        
 home-assistant-bluetooth          1.12.0                 python                        
 home-assistant-chip-clusters      2024.5.2               python                        
-home-assistant-frontend           20240610.0             python                        
+home-assistant-frontend           20240610.1             python                        
 home-assistant-intents            2024.6.5               python                        
-homeassistant                     2024.6.2               python                        
+homeassistant                     2024.6.3               python                        
 homeconnect                       0.7.2                  python                        
 homematicip                       1.1.1                  python                        
 horimote                          0.4.1                  python                        
@@ -852,7 +852,7 @@ mac-vendor-lookup                 0.1.12                 python
 mariadb-connector-c               3.3.8-r0               apk                           
 marshmallow                       3.21.3                 python                        
 marshmallow_dataclass             8.6.1                  python                        
-mashumaro                         3.13                   python                        
+mashumaro                         3.13.1                 python                        
 matrix-nio                        0.24.0                 python                        
 maxcube-api                       0.4.3                  python                        
 maybe-rayon                       0.1.1                  rust-crate                    
@@ -1386,7 +1386,7 @@ rayon                             1.7.0                  rust-crate
 rayon-core                        1.11.0                 rust-crate                    
 readline                          8.2.1-r2               apk                           
 recurring-ical-events             2.2.1                  python                        
-redis                             5.0.5                  python                        
+redis                             5.0.6                  python                        
 referencing                       0.35.1                 python                        
 refoss-ha                         1.2.0                  python                        
 regenmaschine                     2024.3.0               python                        
@@ -1509,7 +1509,7 @@ sqlparse                          0.5.0                  python
 sratom                            0.6.16-r0              apk                           
 srpenergy                         1.3.6                  python                        
 srptools                          1.0.1                  python                        
-ssl_client                        1.36.1-r18             apk                           
+ssl_client                        1.36.1-r19             apk                           
 starkbank-ecdsa                   2.2.0                  python                        
 starline                          0.1.5                  python                        
 starlingbank                      3.2                    python                        
@@ -1599,7 +1599,7 @@ tzlocal                           5.2                    python
 uModbus                           1.0.4                  python                        
 uart-devices                      0.1.0                  python                        
 uasiren                           0.0.1                  python                        
-uiprotect                         0.4.1                  python                        
+uiprotect                         1.7.2                  python                        
 ulid-transform                    0.9.0                  python                        
 ultraheat-api                     0.5.7                  python                        
 unasync                           0.6.0                  python                        
@@ -1708,7 +1708,7 @@ zeversolar                        0.3.1                  python
 zha-quirks                        0.0.116                python                        
 zhong-hong-hvac                   1.0.12                 python                        
 ziggo-mediabox-xl                 1.1.0                  python                        
-zigpy                             0.64.0                 python                        
+zigpy                             0.64.1                 python                        
 zigpy-deconz                      0.23.1                 python                        
 zigpy-xbee                        0.20.1                 python                        
 zigpy-zigate                      0.12.0                 python                        
