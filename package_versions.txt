@@ -465,7 +465,7 @@ eq3btsmart                        1.1.8                  python
 esphome-dashboard-api             1.2.3                  python                        
 esprima                           4.0.1                  python                        
 eternalegypt                      0.0.16                 python                        
-eudev-libs                        3.2.14-r0              apk                           
+eudev-libs                        3.2.14-r1              apk                           
 eufylife-ble-client               0.1.8                  python                        
 evohome-async                     0.4.19                 python                        
 exceptiongroup                    1.2.1                  python                        
