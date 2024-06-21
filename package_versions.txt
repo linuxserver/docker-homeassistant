@@ -1,9 +1,9 @@
 NAME                              VERSION                TYPE                         
-AEMET-OpenData                    0.5.1                  python                        
+AEMET-OpenData                    0.5.2                  python                        
 AIOSomecomfort                    0.0.25                 python                        
 Adax-local                        0.1.5                  python                        
 Authlib                           1.3.1                  python                        
-Babel                             2.13.1                 python                        
+Babel                             2.15.0                 python                        
 BlinkStick                        1.2.0                  python                        
 Brotli                            1.1.0                  python                        
 DTLSSocket                        0.1.18                 python                        
@@ -121,7 +121,7 @@ aiohttp-fast-zlib                 0.1.0                  python
 aiohttp-retry                     2.8.3                  python                        
 aiohttp-socks                     0.8.4                  python                        
 aiohue                            4.7.1                  python                        
-aioimaplib                        1.0.1                  python                        
+aioimaplib                        1.1.0                  python                        
 aioitertools                      0.11.0                 python                        
 aiokafka                          0.10.0                 python                        
 aiokef                            0.2.16                 python                        
@@ -178,7 +178,7 @@ aiowatttime                       0.1.1                  python
 aiowebostv                        0.4.0                  python                        
 aiowithings                       2.1.0                  python                        
 aioymaps                          1.2.2                  python                        
-aiozoneinfo                       0.1.0                  python                        
+aiozoneinfo                       0.2.0                  python                        
 airgradient                       0.4.3                  python                        
 airly                             1.1.0                  python                        
 airthings-ble                     0.9.0                  python                        
@@ -454,7 +454,7 @@ energyzero                        2.1.0                  python
 enocean                           0.50.0                 python                        
 enturclient                       0.2.4                  python                        
 enum-compat                       0.0.3                  python                        
-env_canada                        0.6.2                  python                        
+env_canada                        0.6.3                  python                        
 envoy-utils                       0.0.1                  python                        
 envs                              1.4                    python                        
 ephem                             4.1.5                  python                        
@@ -485,7 +485,7 @@ ffmpeg-libpostproc                6.1.1-r0               apk
 ffmpeg-libswresample              6.1.1-r0               apk                           
 ffmpeg-libswscale                 6.1.1-r0               apk                           
 file-read-backwards               2.0.0                  python                        
-filelock                          3.15.1                 python                        
+filelock                          3.15.3                 python                        
 findutils                         4.9.0-r5               apk                           
 fints                             3.1.0                  python                        
 firebase-messaging                0.2.1                  python                        
@@ -594,7 +594,7 @@ hass-splunk                       0.1.1                  python
 hassil                            1.7.1                  python                        
 haversine                         2.8.1                  python                        
 hbmqtt                            0.9.6                  python                        
-hdate                             0.10.8                 python                        
+hdate                             0.10.9                 python                        
 heatmiserV3                       1.1.18                 python                        
 heck                              0.4.1                  rust-crate                    
 here-routing                      0.2.0                  python                        
@@ -604,12 +604,12 @@ hkavr                             0.0.5                  python
 hko                               0.3.2                  python                        
 hlk-sw16                          0.0.9                  python                        
 hole                              0.8.0                  python                        
-holidays                          0.50                   python                        
+holidays                          0.51                   python                        
 home-assistant-bluetooth          1.12.0                 python                        
 home-assistant-chip-clusters      2024.5.2               python                        
 home-assistant-frontend           20240610.1             python                        
-home-assistant-intents            2024.6.5               python                        
-homeassistant                     2024.6.3               python                        
+home-assistant-intents            2024.6.21              python                        
+homeassistant                     2024.6.4               python                        
 homeconnect                       0.7.2                  python                        
 homematicip                       1.1.1                  python                        
 horimote                          0.4.1                  python                        
@@ -634,7 +634,7 @@ iaqualink                         0.5.0                  python
 ibeacon-ble                       1.2.0                  python                        
 ibmiotf                           0.3.4                  python                        
 ical                              8.0.1                  python                        
-icalendar                         5.0.12                 python                        
+icalendar                         5.0.13                 python                        
 icmplib                           3.0                    python                        
 idasen                            0.12.0                 python                        
 idasen-ha                         2.5.3                  python                        
@@ -651,7 +651,7 @@ importlib_resources               6.4.0                  python
 imutils                           0.5.4                  python                        
 incomfort-client                  0.5.0                  python                        
 incremental                       22.10.0                python                        
-inflect                           7.2.1                  python                        
+inflect                           7.3.0                  python                        
 inflection                        0.5.1                  python                        
 influxdb                          5.3.1                  python                        
 influxdb-client                   1.24.0                 python                        
@@ -696,7 +696,7 @@ josepy                            1.14.0                 python
 jq                                1.7.1-r0               apk                           
 json-c                            0.17-r0                apk                           
 jsonpath                          0.82.2                 python                        
-jsonpickle                        3.2.1                  python                        
+jsonpickle                        3.2.2                  python                        
 jsonrpc-async                     2.1.2                  python                        
 jsonrpc-base                      2.2.0                  python                        
 jsonrpc-websocket                 3.1.5                  python                        
@@ -1026,7 +1026,7 @@ platformdirs                      4.2.2                  python
 plexauth                          0.0.6                  python                        
 plexwebsocket                     0.0.14                 python                        
 pluggy                            1.5.0                  python                        
-plugwise                          0.37.3                 python                        
+plugwise                          0.37.4.1               python                        
 plumbum                           1.8.3                  python                        
 plumlightpad                      0.0.11                 python                        
 ply                               3.11                   python                        
@@ -1048,7 +1048,7 @@ procps-ng                         4.0.4-r0               apk
 proliphix                         0.4.1                  python                        
 prometheus-client                 0.17.1                 python                        
 prompt_toolkit                    3.0.47                 python                        
-proto-plus                        1.23.0                 python                        
+proto-plus                        1.24.0                 python                        
 protobuf                          4.25.1                 python                        
 protobuf-c                        1.4.1-r7               apk                           
 proxmoxer                         2.0.1                  python                        
@@ -1065,7 +1065,7 @@ pushbullet.py                     0.11.0                 python
 pushover-complete                 1.1.1                  python                        
 pvo                               2.1.1                  python                        
 py-aosmith                        1.0.8                  python                        
-py-canary                         0.5.3                  python                        
+py-canary                         0.5.4                  python                        
 py-ccm15                          0.0.9                  python                        
 py-cpuinfo                        9.0.0                  python                        
 py-dormakaba-dkey                 1.0.5                  python                        
@@ -1139,7 +1139,7 @@ pydelijn                          1.1.0                  python
 pydexcom                          0.2.3                  python                        
 pydiscovergy                      3.0.1                  python                        
 pydoods                           1.0.2                  python                        
-pydrawise                         2024.6.3               python                        
+pydrawise                         2024.6.4               python                        
 pydroid-ipcam                     2.0.0                  python                        
 pydub                             0.25.1                 python                        
 pyebox                            1.1.4                  python                        
@@ -1442,7 +1442,7 @@ sdl2                              2.28.5-r0              apk
 securesystemslib                  1.1.0                  python                        
 securetar                         2024.2.1               python                        
 segno                             1.6.1                  python                        
-selenium                          4.21.0                 python                        
+selenium                          4.22.0                 python                        
 semver                            3.0.2                  python                        
 sendgrid                          6.8.2                  python                        
 sense-energy                      0.12.2                 python                        
@@ -1549,7 +1549,7 @@ tellsticknet                      0.1.2                  python
 temescal                          0.5                    python                        
 temperusb                         1.6.1                  python                        
 tempora                           5.6.0                  python                        
-tenacity                          8.4.1                  python                        
+tenacity                          8.3.0                  python                        
 termcolor                         1.2.0                  rust-crate                    
 terminal_size                     0.2.6                  rust-crate                    
 tesla-wall-connector              1.0.2                  python                        
@@ -1657,7 +1657,7 @@ watchdog                          2.3.1                  python
 waterfurnace                      1.1.0                  python                        
 wayland-libs-client               1.22.0-r4              apk                           
 wcwidth                           0.2.13                 python                        
-weatherflow4py                    0.2.20                 python                        
+weatherflow4py                    0.2.21                 python                        
 webcolors                         24.6.0                 python                        
 webencodings                      0.5.1                  python                        
 webmin-xmlrpc                     0.0.2                  python                        
