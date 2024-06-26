@@ -100,8 +100,18 @@ RUN \
     | grep 'amd64: ' \
     | cut -d: -f3 \
     | sed 's|-alpine.*||') && \
-  HA_DOCKER_BASE=$(curl -sX GET https://api.github.com/repos/home-assistant/docker-base/releases/latest \
-      | jq -r .tag_name) && \
+  HASS_BASE_RELEASE=$(curl -sL https://api.github.com/repos/home-assistant/docker/releases) && \
+  HASS_BASE_TIME=$(date -d $(echo $HASS_BASE_RELEASE | \
+    jq -r ".[] | select(.tag_name | match(\"${HASS_BASE}\")) .published_at") +%s) && \
+  for i in 0 1 2 3 4 5 6; do \
+    HA_DOCKER_BASE_TIME=$(date -d $(curl -s "https://api.github.com/repos/home-assistant/docker-base/releases" | \
+      jq -r ".[${i}].published_at") +%s); \
+    if [ "${HASS_BASE_TIME}" -ge "${HA_DOCKER_BASE_TIME}" ]; then \
+      HA_DOCKER_BASE=$(curl -s "https://api.github.com/repos/home-assistant/docker-base/releases" | jq -r ".[${i}].tag_name"); \
+      echo "**** HA_DOCKER_BASE detected as version ${HA_DOCKER_BASE} ****"; \
+      break; \
+    fi; \
+  done && \
   git clone --branch "${HA_DOCKER_BASE}" \
     --depth 1 https://github.com/home-assistant/docker-base.git \
     /tmp/ha-docker-base && \
