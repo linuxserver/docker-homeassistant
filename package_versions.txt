@@ -19,7 +19,7 @@ Js2Py                             0.74                   python
 Markdown                          3.6                    python                        
 MarkupSafe                        2.1.5                  python                        
 Mastodon.py                       1.8.1                  python                        
-Pint                              0.24                   python                        
+Pint                              0.24.1                 python                        
 PlexAPI                           4.15.13                python                        
 ProgettiHWSW                      0.1.3                  python                        
 PsychroLib                        2.5.0                  python                        
@@ -94,7 +94,7 @@ aioazuredevops                    2.0.0                  python
 aiobafi6                          0.9.0                  python                        
 aiobotocore                       2.12.1                 python                        
 aiocache                          0.12.2                 python                        
-aiocoap                           0.4.9                  python                        
+aiocoap                           0.4.10                 python                        
 aiocomelit                        0.9.0                  python                        
 aioconsole                        0.7.1                  python                        
 aiodhcpwatcher                    1.0.0                  python                        
@@ -190,7 +190,7 @@ alpha-vantage                     2.3.1                  python
 alpine-baselayout                 3.4.3-r2               apk                           
 alpine-baselayout-data            3.4.3-r2               apk                           
 alpine-keys                       2.4-r1                 apk                           
-alpine-release                    3.19.1-r0              apk                           
+alpine-release                    3.19.2-r0              apk                           
 alsa-lib                          1.2.10-r0              apk                           
 amberelectric                     1.1.0                  python                        
 amcrest                           1.9.8                  python                        
@@ -239,7 +239,7 @@ asyncio-throttle                  1.0.2                  python
 asyncpysupla                      0.0.5                  python                        
 asyncsleepiq                      1.5.2                  python                        
 asyncssh                          2.14.2                 python                        
-asyncstdlib                       3.12.3                 python                        
+asyncstdlib                       3.12.4                 python                        
 asynctest                         0.13.0                 python                        
 atomicwrites-homeassistant        1.4.1                  python                        
 atpublic                          4.1.0                  python                        
@@ -254,7 +254,7 @@ awesomeversion                    24.2.0                 python
 axis                              61                     python                        
 azure-core                        1.30.2                 python                        
 azure-eventhub                    5.11.1                 python                        
-azure-identity                    1.17.0                 python                        
+azure-identity                    1.17.1                 python                        
 azure-kusto-data                  3.1.0                  python                        
 azure-kusto-ingest                3.1.0                  python                        
 azure-servicebus                  7.10.0                 python                        
@@ -294,7 +294,7 @@ bluemaestro-ble                   0.2.3                  python
 bluetooth-adapters                0.19.2                 python                        
 bluetooth-auto-recovery           1.4.2                  python                        
 bluetooth-data-tools              1.19.0                 python                        
-bluetooth-sensor-state-data       1.7.0                  python                        
+bluetooth-sensor-state-data       1.7.1                  python                        
 bluez                             5.70-r0                apk                           
 bluez-deprecated                  5.70-r0                apk                           
 bluez-libs                        5.70-r0                apk                           
@@ -371,7 +371,7 @@ coreutils                         9.4-r2                 apk
 coreutils-env                     9.4-r2                 apk                           
 coreutils-fmt                     9.4-r2                 apk                           
 coreutils-sha512sum               9.4-r2                 apk                           
-coverage                          7.5.3                  python                        
+coverage                          7.5.4                  python                        
 crc                               3.0.1                  rust-crate                    
 crc                               4.3.0                  python                        
 crc-catalog                       2.2.0                  rust-crate                    
@@ -485,7 +485,7 @@ ffmpeg-libpostproc                6.1.1-r0               apk
 ffmpeg-libswresample              6.1.1-r0               apk                           
 ffmpeg-libswscale                 6.1.1-r0               apk                           
 file-read-backwards               2.0.0                  python                        
-filelock                          3.15.3                 python                        
+filelock                          3.15.4                 python                        
 findutils                         4.9.0-r5               apk                           
 fints                             3.1.0                  python                        
 firebase-messaging                0.2.1                  python                        
@@ -545,7 +545,7 @@ gnutls                            3.8.4-r0               apk
 goalzero                          0.2.2                  python                        
 goodwe                            0.3.6                  python                        
 google-ai-generativelanguage      0.6.4                  python                        
-google-api-core                   2.19.0                 python                        
+google-api-core                   2.19.1                 python                        
 google-api-python-client          2.71.0                 python                        
 google-auth                       2.30.0                 python                        
 google-auth-httplib2              0.2.0                  python                        
@@ -554,7 +554,7 @@ google-cloud-pubsub               2.13.11                python
 google-cloud-texttospeech         2.12.3                 python                        
 google-generativeai               0.6.0                  python                        
 google_nest_sdm                   4.0.5                  python                        
-googleapis-common-protos          1.63.1                 python                        
+googleapis-common-protos          1.63.2                 python                        
 googlemaps                        2.5.1                  python                        
 goslide-api                       0.5.1                  python                        
 gotailwind                        0.2.3                  python                        
@@ -573,7 +573,7 @@ greenlet                          3.0.3                  python
 greenwavereality                  0.5.1                  python                        
 gridnet                           5.0.0                  python                        
 growattServer                     1.5.0                  python                        
-grpc-google-iam-v1                0.13.0                 python                        
+grpc-google-iam-v1                0.13.1                 python                        
 grpcio                            1.59.0                 python                        
 grpcio-reflection                 1.59.0                 python                        
 grpcio-status                     1.59.0                 python                        
@@ -644,7 +644,7 @@ ifaddr                            0.2.0                  python
 iglo                              1.2.7                  python                        
 ihcsdk                            2.8.5                  python                        
 ijson                             3.3.0                  python                        
-imageio                           2.34.1                 python                        
+imageio                           2.34.2                 python                        
 imgw_pib                          1.0.5                  python                        
 imlib2                            1.12.1-r0              apk                           
 importlib_resources               6.4.0                  python                        
@@ -706,7 +706,7 @@ justbackoff                       0.6.0                  python
 justnimbus                        0.7.3                  python                        
 jwcrypto                          1.5.6                  python                        
 kaiterra-async-client             1.0.0                  python                        
-kasa-crypt                        0.4.2                  python                        
+kasa-crypt                        0.4.4                  python                        
 keba-kecontact                    1.1.0                  python                        
 kegtron-ble                       0.4.0                  python                        
 keyring                           25.2.1                 python                        
@@ -851,7 +851,7 @@ lxml                              5.1.0                  python
 mac-vendor-lookup                 0.1.12                 python                        
 mariadb-connector-c               3.3.8-r0               apk                           
 marshmallow                       3.21.3                 python                        
-marshmallow_dataclass             8.6.1                  python                        
+marshmallow_dataclass             8.7.0                  python                        
 mashumaro                         3.13.1                 python                        
 matrix-nio                        0.24.0                 python                        
 maxcube-api                       0.4.3                  python                        
@@ -893,8 +893,8 @@ mozart_api                        3.4.1.8.5              python
 mpdecimal                         2.5.1-r2               apk                           
 mpg123-libs                       1.32.3-r0              apk                           
 ms-cv                             0.1.1                  python                        
-msal                              1.28.1                 python                        
-msal-extensions                   1.1.0                  python                        
+msal                              1.29.0                 python                        
+msal-extensions                   1.2.0                  python                        
 msgpack                           1.0.8                  python                        
 mt-940                            4.30.0                 python                        
 mullvad-api                       1.0.0                  python                        
@@ -1032,7 +1032,7 @@ plumlightpad                      0.0.11                 python
 ply                               3.11                   python                        
 pmsensor                          0.4                    python                        
 poolsense                         0.0.8                  python                        
-portalocker                       2.8.2                  python                        
+portalocker                       2.10.0                 python                        
 pprintpp                          0.4.0                  python                        
 ppv-lite86                        0.2.17                 rust-crate                    
 praw                              7.5.0                  python                        
@@ -1287,7 +1287,7 @@ pytest-mock                       3.14.0                 python
 pytest-rerunfailures              14.0                   python                        
 pytfiac                           0.4                    python                        
 pythinkingcleaner                 0.0.3                  python                        
-python                            3.12.2                 binary                        
+python                            3.12.4                 binary                        
 python-MotionMount                1.0.0                  python                        
 python-awair                      0.2.4                  python                        
 python-blockchain-api             0.0.2                  python                        
@@ -1328,7 +1328,7 @@ python-roborock                   2.3.0                  python
 python-slugify                    8.0.4                  python                        
 python-smarttub                   0.0.36                 python                        
 python-socketio                   4.6.1                  python                        
-python-socks                      2.4.4                  python                        
+python-socks                      2.5.0                  python                        
 python-songpal                    0.16.2                 python                        
 python-tado                       0.17.4                 python                        
 python-technove                   1.2.2                  python                        
@@ -1426,7 +1426,7 @@ rust_hawktracer_proc_macro        0.4.1                  rust-crate
 rustix                            0.37.19                rust-crate                    
 ruuvitag-ble                      0.1.2                  python                        
 rxv                               0.7.0                  python                        
-s3transfer                        0.10.1                 python                        
+s3transfer                        0.10.2                 python                        
 samsungctl                        0.7.1                  python                        
 samsungtvws                       2.6.0                  python                        
 sanix                             1.0.6                  python                        
@@ -1447,7 +1447,7 @@ semver                            3.0.2                  python
 sendgrid                          6.8.2                  python                        
 sense-energy                      0.12.2                 python                        
 sensirion-ble                     0.1.1                  python                        
-sensor-state-data                 2.18.0                 python                        
+sensor-state-data                 2.18.1                 python                        
 sensorpro-ble                     0.5.3                  python                        
 sensorpush-ble                    1.6.2                  python                        
 sentry-sdk                        1.40.3                 python                        
@@ -1456,7 +1456,7 @@ serd-libs                         0.32.0-r0              apk
 serde                             1.0.163                rust-crate                    
 serde_derive                      1.0.163                rust-crate                    
 serialio                          2.4.0                  python                        
-setuptools                        69.1.1                 python                        
+setuptools                        70.0.0                 python                        
 sfrbox-api                        0.0.8                  python                        
 sgmllib3k                         1.0.0                  python                        
 shaderc                           2023.7-r0              apk                           
@@ -1587,7 +1587,7 @@ tuya-device-sharing-sdk           0.1.9                  python
 twentemilieu                      2.0.1                  python                        
 twilio                            6.32.0                 python                        
 twitchAPI                         4.0.0                  python                        
-typeguard                         4.3.0                  python                        
+typeguard                         4.0.1                  python                        
 typer                             0.12.3                 python                        
 types-python-dateutil             2.9.0.20240316         python                        
 types-pytz                        2024.1.0.20240417      python                        
@@ -1636,7 +1636,7 @@ venstarcolortouch                 0.19                   python
 vidstab                           1.1.1-r0               apk                           
 vilfo-api-client                  0.5.0                  python                        
 vincenty                          0.1.4                  python                        
-virtualenv                        20.26.2                python                        
+virtualenv                        20.26.3                python                        
 vobject                           0.9.7                  python                        
 voip-utils                        0.1.0                  python                        
 vol                               0.1.1                  python                        
@@ -1664,7 +1664,7 @@ webmin-xmlrpc                     0.0.2                  python
 webrtc-noise-gain                 1.2.3                  python                        
 websocket-client                  1.8.0                  python                        
 websockets                        12.0                   python                        
-wheel                             0.42.0                 python                        
+wheel                             0.43.0                 python                        
 whirlpool_sixth_sense             0.18.8                 python                        
 whois                             0.9.27                 python                        
 wiffi                             1.1.2                  python                        
