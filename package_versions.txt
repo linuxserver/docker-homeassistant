@@ -6,7 +6,7 @@ Authlib                           1.3.1                  python
 Babel                             2.15.0                 python                        
 BlinkStick                        1.2.0                  python                        
 Brotli                            1.1.0                  python                        
-DTLSSocket                        0.1.18                 python                        
+DTLSSocket                        0.1.19                 python                        
 DateTime                          5.5                    python                        
 Deprecated                        1.2.14                 python                        
 DoorBirdPy                        2.1.0                  python                        
@@ -547,7 +547,7 @@ goodwe                            0.3.6                  python
 google-ai-generativelanguage      0.6.4                  python                        
 google-api-core                   2.19.1                 python                        
 google-api-python-client          2.71.0                 python                        
-google-auth                       2.30.0                 python                        
+google-auth                       2.31.0                 python                        
 google-auth-httplib2              0.2.0                  python                        
 google-auth-oauthlib              1.2.0                  python                        
 google-cloud-pubsub               2.13.11                python                        
@@ -651,7 +651,7 @@ importlib_resources               6.4.0                  python
 imutils                           0.5.4                  python                        
 incomfort-client                  0.5.0                  python                        
 incremental                       22.10.0                python                        
-inflect                           7.3.0                  python                        
+inflect                           7.3.1                  python                        
 inflection                        0.5.1                  python                        
 influxdb                          5.3.1                  python                        
 influxdb-client                   1.24.0                 python                        
@@ -717,7 +717,7 @@ knx_frontend                      2024.1.20.105944       python
 konnected                         1.2.0                  python                        
 krakenex                          2.1.0                  python                        
 krb5-conf                         1.0-r2                 apk                           
-krb5-libs                         1.21.2-r0              apk                           
+krb5-libs                         1.21.3-r0              apk                           
 lab                               0.11.0                 rust-crate                    
 lacrosse-view                     1.0.1                  python                        
 lakeside                          0.13                   python                        
@@ -748,7 +748,7 @@ libcap-setcap                     2.69-r1                apk
 libcap-utils                      2.69-r1                apk                           
 libcap2                           2.69-r1                apk                           
 libcom_err                        1.47.0-r5              apk                           
-libcrypto3                        3.1.5-r0               apk                           
+libcrypto3                        3.1.6-r0               apk                           
 libcurl                           8.5.0-r0               apk                           
 libdav1d                          1.3.0-r1               apk                           
 libdovi                           3.2.0-r1               apk                           
@@ -796,7 +796,7 @@ libsoundtouch                     0.8.0                  python
 libsrt                            1.5.3-r0               apk                           
 libssh                            0.10.6-r0              apk                           
 libssh2                           1.11.0-r1              apk                           
-libssl3                           3.1.5-r0               apk                           
+libssl3                           3.1.6-r0               apk                           
 libstdc++                         13.2.1_git20231014-r0  apk                           
 libtasn1                          4.19.0-r2              apk                           
 libtheora                         1.1.1-r18              apk                           
@@ -972,10 +972,10 @@ openerz-api                       0.3.0                  python
 openevsewifi                      1.1.2                  python                        
 openhomedevice                    2.2                    python                        
 opensensemap-api                  0.2.0                  python                        
-openssh-client-common             9.6_p1-r0              apk                           
-openssh-client-default            9.6_p1-r0              apk                           
-openssh-keygen                    9.6_p1-r0              apk                           
-openssl                           3.1.5-r0               apk                           
+openssh-client-common             9.6_p1-r1              apk                           
+openssh-client-default            9.6_p1-r1              apk                           
+openssh-keygen                    9.6_p1-r1              apk                           
+openssl                           3.1.6-r0               apk                           
 openwebifpy                       4.2.4                  python                        
 openwrt-luci-rpc                  1.1.17                 python                        
 openwrt-ubus-rpc                  0.0.2                  python                        
@@ -1628,7 +1628,7 @@ v4l-utils-libs                    1.24.1-r1              apk
 v_frame                           0.3.3                  rust-crate                    
 vacuum-map-parser-base            0.1.3                  python                        
 vacuum-map-parser-roborock        0.1.2                  python                        
-validators                        0.28.3                 python                        
+validators                        0.29.0                 python                        
 vallox_websocket_api              5.1.1                  python                        
 vehicle                           2.2.1                  python                        
 velbus-aio                        2024.5.1               python                        
