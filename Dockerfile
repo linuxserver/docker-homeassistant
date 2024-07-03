@@ -227,6 +227,7 @@ RUN \
   for cleanfiles in *.pyc *.pyo; do \
     find /usr/local/lib/python3.*  -iname "${cleanfiles}" -exec rm -f '{}' + ; \
   done && \
+  printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   apk del --purge \
     build-dependencies && \
