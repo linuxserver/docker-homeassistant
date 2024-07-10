@@ -204,7 +204,7 @@ android-backup                    0.2.0                  python
 androidtv                         0.0.73                 python                       
 androidtvremote2                  0.1.1                  python                       
 anel-pwrctrl-homeassistant        0.0.1.dev2             python                       
-anova-wifi                        0.15.0                 python                       
+anova-wifi                        0.17.0                 python                       
 anthemav                          1.4.1                  python                       
 anyio                             4.4.0                  python                       
 aom-libs                          3.9.0-r0               apk                          
@@ -584,9 +584,9 @@ hole                              0.8.0                  python
 holidays                          0.52                   python                       
 home-assistant-bluetooth          1.12.2                 python                       
 home-assistant-chip-clusters      2024.7.0               python                       
-home-assistant-frontend           20240705.0             python                       
+home-assistant-frontend           20240710.0             python                       
 home-assistant-intents            2024.7.3               python                       
-homeassistant                     2024.7.1               python                       
+homeassistant                     2024.7.2               python                       
 homeconnect                       0.7.2                  python                       
 homematicip                       1.1.1                  python                       
 horimote                          0.4.1                  python                       
@@ -652,7 +652,7 @@ iso4217                           1.11.20220401          python
 iso8601                           2.1.0                  python                       
 isodate                           0.6.1                  python                       
 itsdangerous                      2.2.0                  python                       
-jaraco.abode                      5.1.2                  python                       
+jaraco.abode                      5.2.1                  python                       
 jaraco.classes                    3.4.0                  python                       
 jaraco.collections                5.0.1                  python                       
 jaraco.context                    5.3.0                  python                       
@@ -1003,7 +1003,7 @@ proto-plus                        1.24.0                 python
 protobuf                          4.25.1                 python                       
 protobuf-c                        1.5.0-r0               apk                          
 proxmoxer                         2.0.1                  python                       
-psutil                            5.9.8                  python                       
+psutil                            6.0.0                  python                       
 psutil-home-assistant             0.0.1                  python                       
 psycopg2                          2.9.9                  python                       
 ptyprocess                        0.7.0                  python                       
@@ -1101,7 +1101,7 @@ pyedimax                          0.2.1                  python
 pyefergy                          22.5.0                 python                       
 pyeiscp                           0.0.7                  python                       
 pyemoncms                         0.0.7                  python                       
-pyenphase                         1.20.3                 python                       
+pyenphase                         1.20.6                 python                       
 pyenvisalink                      4.7                    python                       
 pyephember                        0.3.1                  python                       
 pyeverlights                      0.1.0                  python                       
@@ -1162,7 +1162,7 @@ pymelcloud                        2.5.9                  python
 pymeteoclimatic                   0.1.0                  python                       
 pymitv                            1.4.3                  python                       
 pymochad                          0.2.0                  python                       
-pymodbus                          3.6.8                  python                       
+pymodbus                          3.6.9                  python                       
 pymonoprice                       0.4                    python                       
 pymsteams                         0.1.12                 python                       
 pymysensors                       0.24.0                 python                       
@@ -1471,7 +1471,7 @@ systembridgeconnector             4.0.3                  python
 systembridgemodels                4.0.4                  python                       
 tabulate                          0.9.0                  python                       
 tailer                            0.4.1                  python                       
-tailscale                         0.6.0                  python                       
+tailscale                         0.6.1                  python                       
 tank-utility                      1.5.0                  python                       
 tapsaff                           0.2.1                  python                       
 tdb-libs                          1.4.9-r1               apk                          
@@ -1554,9 +1554,9 @@ uvcclient                         0.11.0                 python
 v4l-utils-libs                    1.24.1-r1              apk                          
 vacuum-map-parser-base            0.1.3                  python                       
 vacuum-map-parser-roborock        0.1.2                  python                       
-validators                        0.31.0                 python                       
+validators                        0.32.0                 python                       
 vallox_websocket_api              5.3.0                  python                       
-vehicle                           2.2.1                  python                       
+vehicle                           2.2.2                  python                       
 velbus-aio                        2024.7.5               python                       
 venstarcolortouch                 0.19                   python                       
 vidstab                           1.1.1-r0               apk                          
@@ -1603,7 +1603,7 @@ x-wr-timezone                     0.0.7                  python
 x264-libs                         0.164_git20231001-r0   apk                          
 x265-libs                         3.6-r0                 apk                          
 xbox-webapi                       2.0.11                 python                       
-xiaomi-ble                        0.30.0                 python                       
+xiaomi-ble                        0.30.2                 python                       
 xknx                              2.12.2                 python                       
 xknxproject                       3.7.1                  python                       
 xmlschema                         3.3.1                  python                       
@@ -1614,7 +1614,7 @@ xz                                5.6.1-r3               apk
 xz-libs                           5.6.1-r3               apk                          
 yagrc                             1.1.2                  python                       
 yalesmartalarmclient              0.3.9                  python                       
-yalexs                            6.4.1                  python                       
+yalexs                            6.4.2                  python                       
 yalexs-ble                        2.4.3                  python                       
 yarl                              1.9.4                  python                       
 yeelight                          0.7.14                 python                       
