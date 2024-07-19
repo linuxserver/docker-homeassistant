@@ -29,7 +29,7 @@ PyFlume                           0.6.5                  python
 PyFronius                         0.7.3                  python                       
 PyHamcrest                        2.1.0                  python                       
 PyJWT                             2.8.0                  python                       
-PyLoadAPI                         1.2.0                  python                       
+PyLoadAPI                         1.3.2                  python                       
 PyMVGLive                         1.1.4                  python                       
 PyMetEireann                      2021.8.0               python                       
 PyMetno                           0.12.0                 python                       
@@ -41,7 +41,7 @@ PyQRCode                          1.2.1                  python
 PyRIC                             0.1.6.3                python                       
 PyRMVtransport                    0.3.3                  python                       
 PySocks                           1.7.1                  python                       
-PySwitchbot                       0.48.0                 python                       
+PySwitchbot                       0.48.1                 python                       
 PySwitchmate                      0.5.1                  python                       
 PySyncThru                        0.7.10                 python                       
 PyTransportNSW                    0.1.1                  python                       
@@ -129,7 +129,7 @@ aioimaplib                        1.1.0                  python
 aioitertools                      0.11.0                 python                       
 aiokafka                          0.10.0                 python                       
 aiokef                            0.2.16                 python                       
-aiolifx                           1.0.2                  python                       
+aiolifx                           1.0.5                  python                       
 aiolifx-effects                   0.3.2                  python                       
 aiolifx-themes                    0.4.15                 python                       
 aiolimiter                        1.1.0                  python                       
@@ -153,7 +153,7 @@ aiopvapi                          3.1.1                  python
 aiopvpc                           4.2.2                  python                       
 aiopyarr                          23.4.0                 python                       
 aioqsw                            0.3.5                  python                       
-aioraven                          0.6.0                  python                       
+aioraven                          0.7.0                  python                       
 aiorecollect                      2023.9.0               python                       
 aioresponses                      0.7.6                  python                       
 aioridwell                        2024.1.0               python                       
@@ -259,8 +259,8 @@ azure-identity                    1.17.1                 python
 azure-kusto-data                  3.1.0                  python                       
 azure-kusto-ingest                3.1.0                  python                       
 azure-servicebus                  7.10.0                 python                       
-azure-storage-blob                12.20.0                python                       
-azure-storage-queue               12.10.0                python                       
+azure-storage-blob                12.21.0                python                       
+azure-storage-queue               12.11.0                python                       
 backoff                           2.2.1                  python                       
 backports.strenum                 1.2.8                  python                       
 baidu-aip                         1.6.6.0                python                       
@@ -581,12 +581,12 @@ hkavr                             0.0.5                  python
 hko                               0.3.2                  python                       
 hlk-sw16                          0.0.9                  python                       
 hole                              0.8.0                  python                       
-holidays                          0.52                   python                       
+holidays                          0.53                   python                       
 home-assistant-bluetooth          1.12.2                 python                       
 home-assistant-chip-clusters      2024.7.0               python                       
 home-assistant-frontend           20240710.0             python                       
 home-assistant-intents            2024.7.3               python                       
-homeassistant                     2024.7.2               python                       
+homeassistant                     2024.7.3               python                       
 homeconnect                       0.7.2                  python                       
 homematicip                       1.1.1                  python                       
 horimote                          0.4.1                  python                       
@@ -614,7 +614,7 @@ ical                              8.1.1                  python
 icalendar                         5.0.13                 python                       
 icmplib                           3.0                    python                       
 idasen                            0.12.0                 python                       
-idasen-ha                         2.6.1                  python                       
+idasen-ha                         2.6.2                  python                       
 identify                          2.6.0                  python                       
 idna                              3.7                    python                       
 ifaddr                            0.2.0                  python                       
@@ -686,7 +686,7 @@ keyring                           25.2.1                 python
 keyrings.alt                      5.0.1                  python                       
 keyutils-libs                     1.6.3-r3               apk                          
 kiwiki-client                     0.1.1                  python                       
-knocki                            0.2.0                  python                       
+knocki                            0.3.1                  python                       
 knx_frontend                      2024.1.20.105944       python                       
 konnected                         1.2.0                  python                       
 krakenex                          2.1.0                  python                       
@@ -859,7 +859,7 @@ mozart_api                        3.4.1.8.6              python
 mpdecimal                         4.0.0-r0               apk                          
 mpg123-libs                       1.32.6-r0              apk                          
 ms-cv                             0.1.1                  python                       
-msal                              1.29.0                 python                       
+msal                              1.30.0                 python                       
 msal-extensions                   1.2.0                  python                       
 msgpack                           1.0.8                  python                       
 mt-940                            4.30.0                 python                       
@@ -934,10 +934,10 @@ openssh-client-common             9.7_p1-r4              apk
 openssh-client-default            9.7_p1-r4              apk                          
 openssh-keygen                    9.7_p1-r4              apk                          
 openssl                           3.3.1-r3               apk                          
-openwebifpy                       4.2.4                  python                       
+openwebifpy                       4.2.5                  python                       
 openwrt-luci-rpc                  1.1.17                 python                       
 openwrt-ubus-rpc                  0.0.2                  python                       
-opower                            0.4.7                  python                       
+opower                            0.5.2                  python                       
 opus                              1.5.2-r0               apk                          
 opuslib                           3.0.1                  python                       
 oralb-ble                         0.17.6                 python                       
@@ -1234,7 +1234,7 @@ pystiebeleltron                   0.0.1.dev2             python
 pysuez                            0.2.0                  python                       
 pyswitchbee                       1.8.0                  python                       
 pytautulli                        23.1.1                 python                       
-pytedee_async                     0.2.17                 python                       
+pytedee_async                     0.2.20                 python                       
 pytest                            8.2.2                  python                       
 pytest-cov                        5.0.0                  python                       
 pytest-mock                       3.14.0                 python                       
@@ -1266,7 +1266,7 @@ python-join-api                   0.0.9                  python
 python-jose                       3.3.0                  python                       
 python-juicenet                   1.1.0                  python                       
 python-jwt                        4.1.0                  python                       
-python-kasa                       0.7.0.3                python                       
+python-kasa                       0.7.0.5                python                       
 python-magic                      0.4.27                 python                       
 python-matter-server              6.2.2                  python                       
 python-miio                       0.5.12                 python                       
@@ -1461,7 +1461,7 @@ streamlabswater                   1.0.1                  python
 stringcase                        1.2.0                  python                       
 striprtf                          0.0.26                 python                       
 subarulink                        0.7.11                 python                       
-sunweg                            3.0.1                  python                       
+sunweg                            3.0.2                  python                       
 surepy                            0.9.0                  python                       
 svg.py                            1.4.3                  python                       
 swisshydrodata                    0.1.0                  python                       
@@ -1540,7 +1540,7 @@ universal-silabs-flasher          0.0.20                 python
 unpaddedbase64                    2.1.0                  python                       
 untangle                          1.2.1                  python                       
 uonet-request-signer-hebe         0.1.1                  python                       
-upb-lib                           0.5.7                  python                       
+upb-lib                           0.5.8                  python                       
 upcloud-api                       2.5.1                  python                       
 update-checker                    0.18.0                 python                       
 uplink                            0.9.7                  python                       
@@ -1622,7 +1622,7 @@ yeelightsunflower                 0.0.10                 python
 yolink-api                        0.4.4                  python                       
 youless_api                       2.1.2                  python                       
 youtubeaio                        1.1.5                  python                       
-yt-dlp                            2024.7.1               python                       
+yt-dlp                            2024.7.16              python                       
 zamg                              0.3.6                  python                       
 zeep                              4.2.1                  python                       
 zengge                            0.2                    python                       
