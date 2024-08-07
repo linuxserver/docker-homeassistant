@@ -33,7 +33,7 @@ aioazuredevops                    2.1.1                  python
 aiobafi6                          0.9.0                  python                       
 aiobotocore                       2.13.0                 python                       
 aiocache                          0.12.2                 python                       
-aiocoap                           0.4.10                 python                       
+aiocoap                           0.4.11                 python                       
 aiocomelit                        0.9.0                  python                       
 aioconsole                        0.7.1                  python                       
 aiodhcpwatcher                    1.0.2                  python                       
@@ -51,7 +51,7 @@ aioflo                            2021.11.0              python
 aioftp                            0.21.3                 python                       
 aiogithubapi                      23.11.0                python                       
 aioguardian                       2022.7.0               python                       
-aiohappyeyeballs                  2.3.2                  python                       
+aiohappyeyeballs                  2.3.4                  python                       
 aioharmony                        0.2.10                 python                       
 aiohomekit                        3.1.5                  python                       
 aiohttp                           3.9.5                  python                       
@@ -95,7 +95,7 @@ aioresponses                      0.7.6                  python
 aioridwell                        2024.1.0               python                       
 aiortsp                           1.3.7                  python                       
 aioruckus                         0.34                   python                       
-aiorun                            2024.5.1               python                       
+aiorun                            2024.8.1               python                       
 aioruuvigateway                   0.1.0                  python                       
 aiosenz                           1.0.0                  python                       
 aioserial                         1.3.0                  python                       
@@ -144,7 +144,7 @@ anel-pwrctrl-homeassistant        0.0.1.dev2             python
 anova-wifi                        0.17.0                 python                       
 anthemav                          1.4.1                  python                       
 anyio                             4.4.0                  python                       
-aom-libs                          3.9.0-r0               apk                          
+aom-libs                          3.9.1-r0               apk                          
 apischema                         0.18.1                 python                       
 apk-tools                         2.14.4-r0              apk                          
 appdirs                           1.4.4                  python                       
@@ -156,7 +156,7 @@ aqipy-atmotech                    0.1.5                  python
 aqualogic                         2.6                    python                       
 aranet4                           2.3.4                  python                       
 arcam-fmj                         1.5.2                  python                       
-argcomplete                       3.4.0                  python                       
+argcomplete                       3.5.0                  python                       
 arris-tg2492lg                    2.2.0                  python                       
 arrow                             1.3.0                  python                       
 asgiref                           3.8.1                  python                       
@@ -197,7 +197,7 @@ azure-identity                    1.17.1                 python
 azure-kusto-data                  3.1.0                  python                       
 azure-kusto-ingest                3.1.0                  python                       
 azure-servicebus                  7.10.0                 python                       
-azure-storage-blob                12.21.0                python                       
+azure-storage-blob                12.22.0                python                       
 azure-storage-queue               12.11.0                python                       
 babel                             2.15.0                 python                       
 backoff                           2.2.1                  python                       
@@ -268,7 +268,7 @@ casttube                          0.2.1                  python
 catatonit                         0.2.0-r0               apk                          
 cbor2                             5.6.4                  python                       
 certifi                           2024.7.4               python                       
-cffi                              1.16.0                 python                       
+cffi                              1.17.0                 python                       
 cfgv                              3.4.0                  python                       
 chacha20poly1305                  0.0.3                  python                       
 chacha20poly1305-reuseable        0.12.2                 python                       
@@ -303,7 +303,7 @@ coreutils                         9.5-r1                 apk
 coreutils-env                     9.5-r1                 apk                          
 coreutils-fmt                     9.5-r1                 apk                          
 coreutils-sha512sum               9.5-r1                 apk                          
-coverage                          7.6.0                  python                       
+coverage                          7.6.1                  python                       
 crc                               4.3.0                  python                       
 crccheck                          1.3.0                  python                       
 crcmod                            1.7                    python                       
@@ -438,7 +438,7 @@ fribidi                           1.0.15-r0              apk
 fritzconnection                   1.13.2                 python                       
 frozenlist                        1.4.1                  python                       
 fstrm                             0.6.1-r4               apk                          
-ftfy                              6.2.0                  python                       
+ftfy                              6.2.3                  python                       
 future                            1.0.0                  python                       
 fyta-cli                          0.4.1                  python                       
 gardena-bluetooth                 1.4.2                  python                       
@@ -606,7 +606,7 @@ jaraco-classes                    3.4.0                  python
 jaraco-collections                5.0.1                  python                       
 jaraco-context                    5.3.0                  python                       
 jaraco-email                      3.1.1                  python                       
-jaraco-functools                  4.0.1                  python                       
+jaraco-functools                  4.0.2                  python                       
 jaraco-itertools                  6.4.1                  python                       
 jaraco-logging                    3.3.0                  python                       
 jaraco-net                        10.2.0                 python                       
@@ -633,7 +633,7 @@ kaiterra-async-client             1.0.0                  python
 kasa-crypt                        0.4.4                  python                       
 keba-kecontact                    1.1.0                  python                       
 kegtron-ble                       0.4.0                  python                       
-keyring                           25.2.1                 python                       
+keyring                           25.3.0                 python                       
 keyrings-alt                      5.0.1                  python                       
 keyutils-libs                     1.6.3-r3               apk                          
 kiwiki-client                     0.1.1                  python                       
@@ -1350,7 +1350,7 @@ romy                              0.0.10                 python
 roombapy                          1.8.1                  python                       
 roonapi                           0.1.6                  python                       
 rova                              0.4.1                  python                       
-rpds-py                           0.19.1                 python                       
+rpds-py                           0.20.0                 python                       
 rpi-bad-power                     0.1.0                  python                       
 rsa                               4.9                    python                       
 rtmapi                            0.7.2                  python                       
@@ -1493,17 +1493,17 @@ tilt-ble                          0.2.3                  python
 titlecase                         2.4.1                  python                       
 tmb                               0.0.4                  python                       
 todoist-api-python                2.1.2                  python                       
-tokenize-rt                       5.2.0                  python                       
+tokenize-rt                       6.0.0                  python                       
 tololib                           1.1.0                  python                       
 toonapi                           0.3.0                  python                       
 total-connect-client              2024.5                 python                       
 tp-connected                      0.0.4                  python                       
 tplink-omada-client               1.3.12                 python                       
-tqdm                              4.66.4                 python                       
+tqdm                              4.66.5                 python                       
 transitions                       0.8.11                 python                       
 transmission-rpc                  7.0.3                  python                       
 travispy                          0.3.5                  python                       
-trio                              0.26.0                 python                       
+trio                              0.26.1                 python                       
 trio-websocket                    0.11.1                 python                       
 ttls                              1.8.3                  python                       
 ttn-client                        1.0.0                  python                       
@@ -1610,8 +1610,8 @@ xmlschema                         3.3.2                  python
 xmltodict                         0.13.0                 python                       
 xs1-api-client                    3.0.0                  python                       
 xvidcore                          1.3.7-r2               apk                          
-xz                                5.6.1-r3               apk                          
-xz-libs                           5.6.1-r3               apk                          
+xz                                5.6.2-r0               apk                          
+xz-libs                           5.6.2-r0               apk                          
 yagrc                             1.1.2                  python                       
 yalesmartalarmclient              0.3.9                  python                       
 yalexs                            6.4.2                  python                       
@@ -1640,7 +1640,7 @@ zimg                              3.0.5-r2               apk
 zix-libs                          0.4.2-r0               apk                          
 zlib                              1.3.1-r1               apk                          
 zm-py                             0.5.4                  python                       
-zope-interface                    6.4.post2              python                       
+zope-interface                    7.0.1                  python                       
 zstd-libs                         1.5.6-r0               apk                          
 zwave-js-server-python            0.57.0                 python                       
 zwave-me-ws                       0.4.3                  python                       
