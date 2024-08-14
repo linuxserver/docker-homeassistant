@@ -575,7 +575,7 @@ ifaddr                            0.2.0                  python
 iglo                              1.2.7                  python                       
 ihcsdk                            2.8.5                  python                       
 ijson                             3.3.0                  python                       
-imageio                           2.34.2                 python                       
+imageio                           2.35.0                 python                       
 imath                             3.1.11-r2              apk                          
 imgw-pib                          1.0.5                  python                       
 imlib2                            1.12.2-r0              apk                          
@@ -641,7 +641,7 @@ kasa-crypt                        0.4.4                  python
 keba-kecontact                    1.1.0                  python                       
 kegtron-ble                       0.4.0                  python                       
 keyring                           25.3.0                 python                       
-keyrings-alt                      5.0.1                  python                       
+keyrings-alt                      5.0.2                  python                       
 keyutils-libs                     1.6.3-r3               apk                          
 kiwiki-client                     0.1.1                  python                       
 knocki                            0.3.1                  python                       
@@ -957,7 +957,7 @@ prawcore                          2.4.0                  python
 prayer-times-calculator-offline   1.0.3                  python                       
 pre-commit                        3.8.0                  python                       
 pre-commit-package                dev-1                  lua-rocks                    
-prettytable                       3.10.2                 python                       
+prettytable                       3.11.0                 python                       
 procps-ng                         4.0.4-r0               apk                          
 progettihwsw                      0.1.3                  python                       
 proliphix                         0.4.1                  python                       
@@ -1435,7 +1435,7 @@ somfy-mylink-synergy              1.0.6                  python
 sonos-websocket                   0.1.3                  python                       
 sord-libs                         0.16.16-r0             apk                          
 sortedcontainers                  2.4.0                  python                       
-soupsieve                         2.5                    python                       
+soupsieve                         2.6                    python                       
 soxr                              0.1.3-r7               apk                          
 speak2mary                        1.4.0                  python                       
 speechrecognition                 3.8.1                  python                       
