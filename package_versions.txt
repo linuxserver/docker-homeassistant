@@ -1161,7 +1161,7 @@ pyotgw                            2.2.0                  python
 pyotp                             2.8.0                  python                       
 pyoverkiz                         1.13.14                python                       
 pyownet                           0.10.0.post1           python                       
-pyparsing                         3.1.3                  python                       
+pyparsing                         3.1.4                  python                       
 pypasser                          0.0.5                  python                       
 pypca                             0.0.7                  python                       
 pypck                             0.7.20                 python                       
