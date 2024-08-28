@@ -178,7 +178,7 @@ asyncio-throttle                  1.0.2                  python
 asyncpysupla                      0.0.5                  python                       
 asyncsleepiq                      1.5.2                  python                       
 asyncssh                          2.16.0                 python                       
-asyncstdlib                       3.12.4                 python                       
+asyncstdlib                       3.12.5                 python                       
 asynctest                         0.13.0                 python                       
 atomicwrites-homeassistant        1.4.1                  python                       
 atpublic                          5.0                    python                       
@@ -187,7 +187,7 @@ attrs                             23.2.0                 python
 auroranoaa                        0.0.3                  python                       
 aurorapy                          0.2.7                  python                       
 autarco                           2.0.0                  python                       
-authlib                           1.3.1                  python                       
+authlib                           1.3.2                  python                       
 autocommand                       2.2.2                  python                       
 avahi-libs                        0.8-r17                apk                          
 awesomeversion                    24.6.0                 python                       
@@ -475,7 +475,7 @@ gnutls                            3.8.5-r0               apk
 goalzero                          0.2.2                  python                       
 goodwe                            0.3.6                  python                       
 google-ai-generativelanguage      0.6.4                  python                       
-google-api-core                   2.19.1                 python                       
+google-api-core                   2.19.2                 python                       
 google-api-python-client          2.71.0                 python                       
 google-auth                       2.34.0                 python                       
 google-auth-httplib2              0.2.0                  python                       
@@ -484,7 +484,7 @@ google-cloud-pubsub               2.13.11                python
 google-cloud-texttospeech         2.16.3                 python                       
 google-generativeai               0.6.0                  python                       
 google-nest-sdm                   4.0.7                  python                       
-googleapis-common-protos          1.63.2                 python                       
+googleapis-common-protos          1.65.0                 python                       
 googlemaps                        2.5.1                  python                       
 goslide-api                       0.5.1                  python                       
 gotailwind                        0.2.3                  python                       
@@ -611,7 +611,7 @@ israel-rail-api                   0.1.2                  python
 itsdangerous                      2.2.0                  python                       
 jaraco-abode                      5.2.1                  python                       
 jaraco-classes                    3.4.0                  python                       
-jaraco-collections                5.0.1                  python                       
+jaraco-collections                5.1.0                  python                       
 jaraco-context                    6.0.1                  python                       
 jaraco-email                      3.1.1                  python                       
 jaraco-functools                  4.0.2                  python                       
@@ -923,7 +923,7 @@ paramiko                          3.3.1                  python
 passlib                           1.7.4                  python                       
 path                              17.0.0                 python                       
 pathvalidate                      3.2.1                  python                       
-pbr                               6.0.0                  python                       
+pbr                               6.1.0                  python                       
 pcre2                             10.43-r0               apk                          
 pdunehd                           1.3.2                  python                       
 peco                              0.0.30                 python                       
@@ -1651,7 +1651,7 @@ zimg                              3.0.5-r2               apk
 zix-libs                          0.4.2-r0               apk                          
 zlib                              1.3.1-r1               apk                          
 zm-py                             0.5.4                  python                       
-zope-interface                    7.0.1                  python                       
+zope-interface                    7.0.3                  python                       
 zstd-libs                         1.5.6-r0               apk                          
 zwave-js-server-python            0.57.0                 python                       
 zwave-me-ws                       0.4.3                  python                       
