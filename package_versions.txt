@@ -18,7 +18,7 @@ aio-geojson-geonetnz-quakes       0.16                   python
 aio-geojson-geonetnz-volcano      0.9                    python                       
 aio-geojson-nsw-rfs-incidents     0.7                    python                       
 aio-geojson-usgs-earthquakes      0.3                    python                       
-aio-georss-client                 0.12                   python                       
+aio-georss-client                 0.13                   python                       
 aio-georss-gdacs                  0.9                    python                       
 aioairq                           0.3.2                  python                       
 aioairzone                        0.8.1                  python                       
@@ -35,7 +35,7 @@ aiobotocore                       2.13.1                 python
 aiocache                          0.12.2                 python                       
 aiocoap                           0.4.11                 python                       
 aiocomelit                        0.9.0                  python                       
-aioconsole                        0.7.1                  python                       
+aioconsole                        0.8.0                  python                       
 aiodhcpwatcher                    1.0.2                  python                       
 aiodiscover                       2.1.0                  python                       
 aiodns                            3.2.0                  python                       
@@ -61,7 +61,7 @@ aiohttp-retry                     2.8.3                  python
 aiohttp-socks                     0.8.4                  python                       
 aiohue                            4.7.3                  python                       
 aioimaplib                        1.1.0                  python                       
-aioitertools                      0.11.0                 python                       
+aioitertools                      0.12.0                 python                       
 aiokafka                          0.10.0                 python                       
 aiokef                            0.2.16                 python                       
 aiolifx                           1.0.6                  python                       
@@ -177,7 +177,7 @@ asyncio-dgram                     2.2.0                  python
 asyncio-throttle                  1.0.2                  python                       
 asyncpysupla                      0.0.5                  python                       
 asyncsleepiq                      1.5.2                  python                       
-asyncssh                          2.16.0                 python                       
+asyncssh                          2.17.0                 python                       
 asyncstdlib                       3.12.5                 python                       
 asynctest                         0.13.0                 python                       
 atomicwrites-homeassistant        1.4.1                  python                       
@@ -256,7 +256,7 @@ btsocket                          0.3.0                  python
 buienradar                        1.0.6                  python                       
 busybox                           1.36.1-r29             apk                          
 busybox-binsh                     1.36.1-r29             apk                          
-bx-py-utils                       98                     python                       
+bx-py-utils                       101                    python                       
 bytecode                          0.13.0.dev0            python                       
 c-ares                            1.28.1-r0              apk                          
 ca-certificates                   20240705-r0            apk                          
@@ -268,7 +268,7 @@ caldav                            1.3.9                  python
 casttube                          0.2.1                  python                       
 catatonit                         0.2.0-r0               apk                          
 cbor2                             5.6.4                  python                       
-certifi                           2024.7.4               python                       
+certifi                           2024.8.30              python                       
 cffi                              1.17.0                 python                       
 cfgv                              3.4.0                  python                       
 chacha20poly1305                  0.0.3                  python                       
@@ -317,7 +317,7 @@ crownstone-uart                   2.1.0                  python
 cryptography                      43.0.0                 python                       
 cssselect                         1.2.0                  python                       
 cups-libs                         2.4.9-r0               apk                          
-curl                              8.9.0-r0               apk                          
+curl                              8.9.1-r1               apk                          
 dacite                            1.8.1                  python                       
 dataclasses-json                  0.6.7                  python                       
 datadog                           0.15.0                 python                       
@@ -332,7 +332,7 @@ debugpy                           1.8.1                  python
 decorator                         5.1.1                  python                       
 deebot-client                     8.3.0                  python                       
 deepdiff                          6.7.1                  python                       
-deepmerge                         1.1.1                  python                       
+deepmerge                         2.0                    python                       
 defusedxml                        0.7.1                  python                       
 deluge-client                     1.10.2                 python                       
 demetriek                         0.4.0                  python                       
@@ -628,7 +628,7 @@ jq                                1.7.1-r0               apk
 js2py                             0.74                   python                       
 json-c                            0.17-r0                apk                          
 jsonpath                          0.82.2                 python                       
-jsonpickle                        3.2.2                  python                       
+jsonpickle                        3.3.0                  python                       
 jsonrpc-async                     2.1.2                  python                       
 jsonrpc-base                      2.2.0                  python                       
 jsonrpc-websocket                 3.1.5                  python                       
@@ -677,7 +677,7 @@ libcap-utils                      2.70-r0                apk
 libcap2                           2.70-r0                apk                          
 libcom_err                        1.47.0-r5              apk                          
 libcrypto3                        3.3.1-r3               apk                          
-libcurl                           8.9.0-r0               apk                          
+libcurl                           8.9.1-r1               apk                          
 libdav1d                          1.4.2-r0               apk                          
 libdovi                           3.3.0-r0               apk                          
 libdrm                            2.4.120-r0             apk                          
@@ -788,7 +788,7 @@ mastodon-py                       1.8.1                  python
 matrix-nio                        0.24.0                 python                       
 maxcube-api                       0.4.3                  python                       
 mbddns                            0.1.2                  python                       
-mbedtls                           3.6.0-r0               apk                          
+mbedtls                           3.6.1-r0               apk                          
 mcstatus                          11.1.1                 python                       
 meater-python                     0.0.8                  python                       
 mechanize                         0.4.10                 python                       
@@ -1040,7 +1040,7 @@ pycups                            1.9.73                 python
 pydaikin                          2.13.4                 python                       
 pydanfossair                      0.1.0                  python                       
 pydantic                          1.10.17                python                       
-pydantic-core                     2.23.0                 python                       
+pydantic-core                     2.23.1                 python                       
 pydeconz                          116                    python                       
 pydelijn                          1.1.0                  python                       
 pydexcom                          0.2.3                  python                       
@@ -1174,7 +1174,7 @@ pyprusalink                       2.1.1                  python
 pyps4-2ndscreen                   1.3.1                  python                       
 pypubsub                          4.0.3                  python                       
 pyqrcode                          1.2.1                  python                       
-pyquery                           2.0.0                  python                       
+pyquery                           2.0.1                  python                       
 pyqvrpro                          0.52                   python                       
 pyqwikswitch                      0.93                   python                       
 pyrail                            0.0.3                  python                       
@@ -1385,7 +1385,7 @@ secretstorage                     3.3.3                  python
 securesystemslib                  1.1.0                  python                       
 securetar                         2024.2.1               python                       
 segno                             1.6.1                  python                       
-selenium                          4.23.1                 python                       
+selenium                          4.24.0                 python                       
 semver                            3.0.2                  python                       
 sendgrid                          6.8.2                  python                       
 sense-energy                      0.12.4                 python                       
@@ -1555,14 +1555,14 @@ uplink                            0.9.7                  python
 uplink-protobuf                   0.1.0                  python                       
 uritemplate                       4.1.1                  python                       
 url-normalize                     1.4.3                  python                       
-urllib3                           1.26.19                python                       
+urllib3                           1.26.20                python                       
 usb-devices                       0.4.5                  python                       
 utmps-libs                        0.1.2.2-r1             apk                          
 uvcclient                         0.11.0                 python                       
 v4l-utils-libs                    1.24.1-r1              apk                          
 vacuum-map-parser-base            0.1.3                  python                       
 vacuum-map-parser-roborock        0.1.2                  python                       
-validators                        0.33.0                 python                       
+validators                        0.34.0                 python                       
 vallox-websocket-api              5.3.0                  python                       
 vehicle                           2.2.2                  python                       
 velbus-aio                        2024.7.6               python                       
@@ -1595,7 +1595,7 @@ webcolors                         24.8.0                 python
 webencodings                      0.5.1                  python                       
 webmin-xmlrpc                     0.0.2                  python                       
 websocket-client                  1.8.0                  python                       
-websockets                        13.0                   python                       
+websockets                        13.0.1                 python                       
 werkzeug                          3.0.4                  python                       
 wheel                             0.43.0                 python                       
 whirlpool-sixth-sense             0.18.8                 python                       
