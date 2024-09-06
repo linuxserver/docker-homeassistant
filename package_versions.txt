@@ -96,7 +96,7 @@ aioridwell                        2024.1.0               python
 aiortsp                           1.3.7                  python                       
 aioruckus                         0.41                   python                       
 aiorun                            2024.8.1               python                       
-aiorussound                       2.3.2                  python                       
+aiorussound                       3.0.4                  python                       
 aioruuvigateway                   0.1.0                  python                       
 aiosenz                           1.0.0                  python                       
 aioserial                         1.3.0                  python                       
@@ -272,7 +272,7 @@ casttube                          0.2.1                  python
 catatonit                         0.2.0-r0               apk                          
 cbor2                             5.6.4                  python                       
 certifi                           2024.8.30              python                       
-cffi                              1.17.0                 python                       
+cffi                              1.17.1                 python                       
 cfgv                              3.4.0                  python                       
 chacha20poly1305                  0.0.3                  python                       
 chacha20poly1305-reuseable        0.13.2                 python                       
@@ -472,7 +472,7 @@ git                               2.45.2-r0              apk
 git-init-template                 2.45.2-r0              apk                          
 gitterpy                          0.1.7                  python                       
 glances-api                       0.8.0                  python                       
-glib                              2.80.2-r0              apk                          
+glib                              2.80.4-r0              apk                          
 glslang-libs                      1.3.261.1-r0           apk                          
 gmp                               6.3.0-r1               apk                          
 gnutls                            3.8.5-r0               apk                          
@@ -499,7 +499,7 @@ gpiozero                          1.6.2                  python
 gps3                              0.33.3                 python                       
 gql                               3.5.0                  python                       
 graphite2                         1.3.14-r6              apk                          
-graphql-core                      3.2.3                  python                       
+graphql-core                      3.2.4                  python                       
 graphviz                          0.20.3                 python                       
 greeclimate                       2.1.0                  python                       
 greeneye-monitor                  3.0.3                  python                       
@@ -543,9 +543,9 @@ hole                              0.8.0                  python
 holidays                          0.56                   python                       
 home-assistant-bluetooth          1.12.2                 python                       
 home-assistant-chip-clusters      2024.7.0               python                       
-home-assistant-frontend           20240904.0             python                       
+home-assistant-frontend           20240906.0             python                       
 home-assistant-intents            2024.9.4               python                       
-homeassistant                     2024.9.0               python                       
+homeassistant                     2024.9.1               python                       
 homeconnect                       0.8.0                  python                       
 homematicip                       1.1.2                  python                       
 horimote                          0.4.1                  python                       
@@ -691,7 +691,7 @@ libdrm                            2.4.120-r0             apk
 libeconf                          0.6.3-r0               apk                          
 libecpg                           16.3-r0                apk                          
 libedit                           20240517.3.1-r0        apk                          
-libexpat                          2.6.2-r0               apk                          
+libexpat                          2.6.3-r0               apk                          
 libffi                            3.4.6-r0               apk                          
 libflac                           1.4.3-r1               apk                          
 libftdi1                          1.5-r3                 apk                          
@@ -819,7 +819,7 @@ mock                              5.1.0                  python
 moehlenhoff-alpha2                1.3.1                  python                       
 monzopy                           1.3.2                  python                       
 mopeka-iot-ble                    0.8.0                  python                       
-more-itertools                    10.4.0                 python                       
+more-itertools                    10.5.0                 python                       
 motionblinds                      0.6.24                 python                       
 motionblindsble                   0.1.1                  python                       
 motioneye-client                  0.3.14                 python                       
@@ -1016,7 +1016,7 @@ pyasuswrt                         0.1.21                 python
 pyatag                            0.3.5.3                python                       
 pyatmo                            8.1.0                  python                       
 pyatome                           0.1.1                  python                       
-pyatv                             0.15.0                 python                       
+pyatv                             0.15.1                 python                       
 pyaussiebb                        0.0.15                 python                       
 pybalboa                          1.0.2                  python                       
 pybbox                            0.0.5a0                python                       
@@ -1047,7 +1047,7 @@ pycups                            1.9.73                 python
 pydaikin                          2.13.6                 python                       
 pydanfossair                      0.1.0                  python                       
 pydantic                          1.10.17                python                       
-pydantic-core                     2.23.1                 python                       
+pydantic-core                     2.23.2                 python                       
 pydeconz                          116                    python                       
 pydelijn                          1.1.0                  python                       
 pydexcom                          0.2.3                  python                       
@@ -1171,7 +1171,7 @@ pyownet                           0.10.0.post1           python
 pyparsing                         3.1.4                  python                       
 pypasser                          0.0.5                  python                       
 pypca                             0.0.7                  python                       
-pypck                             0.7.21                 python                       
+pypck                             0.7.22                 python                       
 pypjlink2                         1.2.1                  python                       
 pyplaato                          0.0.18                 python                       
 pypoint                           2.3.2                  python                       
@@ -1217,7 +1217,7 @@ pysmartthings                     0.7.8                  python
 pysmb                             1.2.9.1                python                       
 pysmi                             1.5.0                  python                       
 pysml                             0.0.12                 python                       
-pysmlight                         0.0.13                 python                       
+pysmlight                         0.0.14                 python                       
 pysnmp                            6.2.5                  python                       
 pysnmpcrypto                      0.0.4                  python                       
 pysnooz                           0.8.6                  python                       
@@ -1410,7 +1410,7 @@ sepaxml                           2.6.1                  python
 serd-libs                         0.32.2-r0              apk                          
 serialio                          2.4.0                  python                       
 setuptools                        70.3.0                 python                       
-sfrbox-api                        0.0.8                  python                       
+sfrbox-api                        0.0.10                 python                       
 sgmllib3k                         1.0.0                  python                       
 shaderc                           2024.0-r0              apk                          
 shadow                            4.15.1-r0              apk                          
@@ -1540,7 +1540,7 @@ twitchapi                         4.2.1                  python
 twitterapi                        2.7.12                 python                       
 typeguard                         4.0.1                  python                       
 typer                             0.12.5                 python                       
-types-python-dateutil             2.9.0.20240821         python                       
+types-python-dateutil             2.9.0.20240906         python                       
 types-pytz                        2024.1.0.20240417      python                       
 types-requests                    2.31.0.6               python                       
 types-urllib3                     1.26.25.14             python                       
