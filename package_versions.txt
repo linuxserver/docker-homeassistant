@@ -134,7 +134,7 @@ alpha-vantage                     2.3.1                  python
 alpine-baselayout                 3.6.5-r0               apk                          
 alpine-baselayout-data            3.6.5-r0               apk                          
 alpine-keys                       2.4-r1                 apk                          
-alpine-release                    3.20.2-r0              apk                          
+alpine-release                    3.20.3-r0              apk                          
 alsa-lib                          1.2.11-r0              apk                          
 amberelectric                     1.1.1                  python                       
 amcrest                           1.9.8                  python                       
@@ -163,7 +163,7 @@ arris-tg2492lg                    2.2.0                  python
 arrow                             1.3.0                  python                       
 asgiref                           3.8.1                  python                       
 asmog                             0.0.6                  python                       
-asn1                              2.7.0                  python                       
+asn1                              2.7.1                  python                       
 asn1crypto                        1.5.1                  python                       
 astral                            2.2                    python                       
 async-interrupt                   1.2.0                  python                       
@@ -372,7 +372,7 @@ ebusdpy                           0.0.17                 python
 ecdsa                             0.19.0                 python                       
 ecoaliface                        0.4.0                  python                       
 electrickiwi-api                  0.8.5                  python                       
-elementpath                       4.4.0                  python                       
+elementpath                       4.5.0                  python                       
 elevenlabs                        1.6.1                  python                       
 elgato                            5.1.2                  python                       
 eliqonline                        1.2.2                  python                       
@@ -418,7 +418,7 @@ ffmpeg-libpostproc                6.1.1-r8               apk
 ffmpeg-libswresample              6.1.1-r8               apk                          
 ffmpeg-libswscale                 6.1.1-r8               apk                          
 file-read-backwards               2.0.0                  python                       
-filelock                          3.15.4                 python                       
+filelock                          3.16.0                 python                       
 findutils                         4.9.0-r5               apk                          
 fints                             3.1.0                  python                       
 firebase-messaging                0.3.0                  python                       
@@ -503,7 +503,7 @@ graphql-core                      3.2.4                  python
 graphviz                          0.20.3                 python                       
 greeclimate                       2.1.0                  python                       
 greeneye-monitor                  3.0.3                  python                       
-greenlet                          3.0.3                  python                       
+greenlet                          3.1.0                  python                       
 greenwavereality                  0.5.1                  python                       
 gridnet                           5.0.1                  python                       
 growattserver                     1.5.0                  python                       
@@ -582,14 +582,14 @@ iglo                              1.2.7                  python
 ihcsdk                            2.8.5                  python                       
 ijson                             3.3.0                  python                       
 imageio                           2.35.1                 python                       
-imath                             3.1.11-r2              apk                          
+imath                             3.1.12-r0              apk                          
 imgw-pib                          1.0.5                  python                       
 imlib2                            1.12.2-r0              apk                          
-importlib-resources               6.4.4                  python                       
+importlib-resources               6.4.5                  python                       
 imutils                           0.5.4                  python                       
 incomfort-client                  0.6.3.post1            python                       
 incremental                       24.7.2                 python                       
-inflect                           7.3.1                  python                       
+inflect                           7.4.0                  python                       
 inflection                        0.5.1                  python                       
 influxdb                          5.3.1                  python                       
 influxdb-client                   1.24.0                 python                       
@@ -827,12 +827,12 @@ mozart-api                        3.4.1.8.6              python
 mpdecimal                         4.0.0-r0               apk                          
 mpg123-libs                       1.32.6-r0              apk                          
 ms-cv                             0.1.1                  python                       
-msal                              1.30.0                 python                       
+msal                              1.31.0                 python                       
 msal-extensions                   1.2.0                  python                       
-msgpack                           1.0.8                  python                       
+msgpack                           1.1.0                  python                       
 mt-940                            4.30.0                 python                       
 mullvad-api                       1.0.0                  python                       
-multidict                         6.0.5                  python                       
+multidict                         6.1.0                  python                       
 munch                             4.0.0                  python                       
 musl                              1.2.5-r0               apk                          
 musl-utils                        1.2.5-r0               apk                          
@@ -910,7 +910,7 @@ opower                            0.7.0                  python
 opus                              1.5.2-r0               apk                          
 opuslib                           3.0.1                  python                       
 oralb-ble                         0.17.6                 python                       
-orc                               0.4.37-r0              apk                          
+orc                               0.4.39-r0              apk                          
 ordered-set                       4.1.0                  python                       
 orjson                            3.10.7                 python                       
 oru                               0.1.11                 python                       
@@ -947,7 +947,7 @@ pint                              0.24.3                 python
 pip                               24.1.2                 python                       
 pizzapi                           0.0.6                  python                       
 pkce                              1.0.3                  python                       
-platformdirs                      4.2.2                  python                       
+platformdirs                      4.3.2                  python                       
 plexapi                           4.15.16                python                       
 plexauth                          0.0.6                  python                       
 plexwebsocket                     0.0.14                 python                       
@@ -1047,7 +1047,7 @@ pycups                            1.9.73                 python
 pydaikin                          2.13.6                 python                       
 pydanfossair                      0.1.0                  python                       
 pydantic                          1.10.17                python                       
-pydantic-core                     2.23.2                 python                       
+pydantic-core                     2.23.3                 python                       
 pydeconz                          116                    python                       
 pydelijn                          1.1.0                  python                       
 pydexcom                          0.2.3                  python                       
@@ -1234,7 +1234,7 @@ pyswitchmate                      0.5.1                  python
 pysyncthru                        0.7.10                 python                       
 pytautulli                        23.1.1                 python                       
 pytedee-async                     0.2.20                 python                       
-pytest                            8.3.2                  python                       
+pytest                            8.3.3                  python                       
 pytest-cov                        5.0.0                  python                       
 pytest-mock                       3.14.0                 python                       
 pytest-rerunfailures              14.0                   python                       
@@ -1342,7 +1342,7 @@ raspyrfm-client                   1.2.8                  python
 ratelimit                         2.2.1                  python                       
 rav1e-libs                        0.7.1-r0               apk                          
 readline                          8.2.10-r0              apk                          
-recurring-ical-events             3.2.0                  python                       
+recurring-ical-events             3.3.0                  python                       
 redis                             5.0.8                  python                       
 referencing                       0.35.1                 python                       
 refoss-ha                         1.2.4                  python                       
@@ -1547,7 +1547,7 @@ types-urllib3                     1.26.25.14             python
 typing-extensions                 4.12.2                 python                       
 typing-inspect                    0.9.0                  python                       
 tzdata                            2024.1                 python                       
-tzdata                            2024a-r1               apk                          
+tzdata                            2024b-r0               apk                          
 tzlocal                           5.2                    python                       
 uart-devices                      0.1.0                  python                       
 uasiren                           0.0.1                  python                       
@@ -1587,7 +1587,7 @@ venstarcolortouch                 0.19                   python
 vidstab                           1.1.1-r0               apk                          
 vilfo-api-client                  0.5.0                  python                       
 vincenty                          0.1.4                  python                       
-virtualenv                        20.26.3                python                       
+virtualenv                        20.26.4                python                       
 vobject                           0.9.7                  python                       
 voip-utils                        0.1.0                  python                       
 volkszaehler                      0.4.0                  python                       
@@ -1633,7 +1633,7 @@ xiaomi-ble                        0.30.2                 python
 xknx                              3.1.1                  python                       
 xknxproject                       3.7.1                  python                       
 xlsxwriter                        3.2.0                  python                       
-xmlschema                         3.3.2                  python                       
+xmlschema                         3.4.0                  python                       
 xmltodict                         0.13.0                 python                       
 xs1-api-client                    3.0.0                  python                       
 xvidcore                          1.3.7-r2               apk                          
