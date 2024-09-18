@@ -201,8 +201,8 @@ azure-identity                    1.17.1                 python
 azure-kusto-data                  4.5.1                  python                       
 azure-kusto-ingest                4.5.1                  python                       
 azure-servicebus                  7.10.0                 python                       
-azure-storage-blob                12.22.0                python                       
-azure-storage-queue               12.11.0                python                       
+azure-storage-blob                12.23.0                python                       
+azure-storage-queue               12.12.0                python                       
 babel                             2.15.0                 python                       
 backoff                           2.2.1                  python                       
 backports-strenum                 1.2.8                  python                       
@@ -418,7 +418,7 @@ ffmpeg-libpostproc                6.1.1-r8               apk
 ffmpeg-libswresample              6.1.1-r8               apk                          
 ffmpeg-libswscale                 6.1.1-r8               apk                          
 file-read-backwards               2.0.0                  python                       
-filelock                          3.16.0                 python                       
+filelock                          3.16.1                 python                       
 findutils                         4.9.0-r5               apk                          
 fints                             3.1.0                  python                       
 firebase-messaging                0.3.0                  python                       
@@ -559,7 +559,7 @@ httplib2                          0.20.4                 python
 httpsig                           1.3.0                  python                       
 httpx                             0.27.0                 python                       
 huawei-lte-api                    1.7.3                  python                       
-huggingface-hub                   0.24.7                 python                       
+huggingface-hub                   0.25.0                 python                       
 humanfriendly                     10.0                   python                       
 huum                              0.7.10                 python                       
 hwdata-pci                        0.382-r0               apk                          
@@ -647,7 +647,7 @@ kaiterra-async-client             1.0.0                  python
 kasa-crypt                        0.4.4                  python                       
 keba-kecontact                    1.1.0                  python                       
 kegtron-ble                       0.4.0                  python                       
-keyring                           25.3.0                 python                       
+keyring                           25.4.0                 python                       
 keyrings-alt                      5.0.2                  python                       
 keyutils-libs                     1.6.3-r3               apk                          
 kiwiki-client                     0.1.1                  python                       
@@ -717,7 +717,7 @@ libpanelw                         6.4_p20240420-r1       apk
 libpcap                           1.10.4-r1              apk                          
 libpciaccess                      0.18.1-r0              apk                          
 libplacebo                        6.338.2-r1             apk                          
-libpng                            1.6.43-r0              apk                          
+libpng                            1.6.44-r0              apk                          
 libpq                             16.3-r0                apk                          
 libproc2                          4.0.4-r0               apk                          
 libpsl                            0.21.5-r1              apk                          
@@ -947,7 +947,7 @@ pint                              0.24.3                 python
 pip                               24.1.2                 python                       
 pizzapi                           0.0.6                  python                       
 pkce                              1.0.3                  python                       
-platformdirs                      4.3.3                  python                       
+platformdirs                      4.3.6                  python                       
 plexapi                           4.15.16                python                       
 plexauth                          0.0.6                  python                       
 plexwebsocket                     0.0.14                 python                       
@@ -1587,7 +1587,7 @@ venstarcolortouch                 0.19                   python
 vidstab                           1.1.1-r0               apk                          
 vilfo-api-client                  0.5.0                  python                       
 vincenty                          0.1.4                  python                       
-virtualenv                        20.26.4                python                       
+virtualenv                        20.26.5                python                       
 vobject                           0.9.7                  python                       
 voip-utils                        0.1.0                  python                       
 volkszaehler                      0.4.0                  python                       
