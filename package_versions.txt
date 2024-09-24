@@ -259,7 +259,7 @@ btsocket                          0.3.0                  python
 buienradar                        1.0.6                  python                       
 busybox                           1.36.1-r29             apk                          
 busybox-binsh                     1.36.1-r29             apk                          
-bx-py-utils                       103                    python                       
+bx-py-utils                       104                    python                       
 bytecode                          0.13.0.dev0            python                       
 c-ares                            1.28.1-r0              apk                          
 ca-certificates                   20240705-r0            apk                          
