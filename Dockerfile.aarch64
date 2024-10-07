@@ -10,7 +10,9 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="saarg, roxedus"
 
 ENV \
-  S6_SERVICES_GRACETIME=240000
+  S6_SERVICES_GRACETIME=240000 \
+  UV_SYSTEM_PYTHON=true \
+  UV_EXTRA_INDEX_URL="https://wheels.home-assistant.io/musllinux-index/"
 
 COPY root/etc/pip.conf /etc/
 
@@ -133,6 +135,7 @@ RUN \
   HA_PIP_VERSION=$(cat /tmp/ha-docker-base/python/${HA_PY_MAJOR}/build.yaml \
     | grep 'PIP_VERSION: ' \
     | sed 's|.*PIP_VERSION: ||') && \
+  HA_UV_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/Dockerfile" | grep 'install uv==' | sed 's|RUN pip3 install uv==||') && \
   echo "**** install jemalloc ****" && \
   git clone --branch ${HA_JEMALLOC_VER} \
     --depth 1 "https://github.com/jemalloc/jemalloc" \
@@ -211,18 +214,17 @@ RUN \
   fi && \
   echo "**** install homeassistant ****" && \
   cd /tmp/core && \
-  pip3 install --only-binary=:all: \
+  pip3 install uv==${HA_UV_VERSION} && \
+  uv pip install --no-build \
     -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
-  pip3 install --only-binary=:all: \
+  uv pip install --no-build \
     -r requirements.txt && \
   PYCUPS_VER=$(grep "pycups" requirements_all.txt | sed 's|.*==||') && \
-  LD_PRELOAD="/usr/local/lib/libjemalloc.so.2" \
-    MALLOC_CONF="background_thread:true,metadata_thp:auto,dirty_decay_ms:20000,muzzy_decay_ms:20000" \
-    pip3 install --only-binary=:all: \
+  uv pip install --no-build \
       -r requirements_all.txt \
       isal \
       pycups==${PYCUPS_VER} && \
-  pip3 install \
+  uv pip install \
     homeassistant==${HASS_RELEASE} && \
   for cleanfiles in *.pyc *.pyo; do \
     find /usr/local/lib/python3.*  -iname "${cleanfiles}" -exec rm -f '{}' + ; \
