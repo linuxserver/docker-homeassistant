@@ -46,7 +46,7 @@ aioecowitt                        2024.2.1               python
 aioelectricitymaps                0.4.0                  python                       
 aioemonitor                       1.0.5                  python                       
 aioesphomeapi                     27.0.0                 python                       
-aiofile                           3.8.8                  python                       
+aiofile                           3.9.0                  python                       
 aiofiles                          24.1.0                 python                       
 aioflo                            2021.11.0              python                       
 aioftp                            0.21.3                 python                       
@@ -161,7 +161,7 @@ aqipy-atmotech                    0.1.5                  python
 aqualogic                         2.6                    python                       
 aranet4                           2.4.0                  python                       
 arcam-fmj                         1.5.2                  python                       
-argcomplete                       3.5.0                  python                       
+argcomplete                       3.5.1                  python                       
 arris-tg2492lg                    2.2.0                  python                       
 arrow                             1.3.0                  python                       
 asgiref                           3.8.1                  python                       
@@ -356,7 +356,7 @@ discovery30303                    0.3.2                  python
 distlib                           0.3.8                  python                       
 distro                            1.9.0                  python                       
 dlms-cosem                        21.3.2                 python                       
-dnspython                         2.6.1                  python                       
+dnspython                         2.7.0                  python                       
 docopt                            0.6.2                  python                       
 doorbirdpy                        3.0.2                  python                       
 dpkt                              1.9.8                  python                       
@@ -423,7 +423,7 @@ file-read-backwards               2.0.0                  python
 filelock                          3.16.1                 python                       
 findutils                         4.9.0-r5               apk                          
 fints                             3.1.0                  python                       
-firebase-messaging                0.4.4                  python                       
+firebase-messaging                0.4.0                  python                       
 fitbit                            0.3.1                  python                       
 fivem-api                         0.1.2                  python                       
 fixerio                           1.0.0a0                python                       
@@ -446,7 +446,7 @@ freesms                           0.2.0                  python
 freetype                          2.13.2-r0              apk                          
 fribidi                           1.0.15-r0              apk                          
 fritzconnection                   1.13.2                 python                       
-frozendict                        2.4.4                  python                       
+frozendict                        2.4.5                  python                       
 frozenlist                        1.4.1                  python                       
 fsspec                            2024.9.0               python                       
 fstrm                             0.6.1-r4               apk                          
@@ -555,7 +555,7 @@ hpack                             4.0.0                  python
 html-table-parser-python3         0.1.5                  python                       
 html5lib                          1.1                    python     (+1 duplicate)    
 httmock                           1.4.0                  python                       
-http-ece                          1.1.0                  python                       
+http-ece                          1.2.1                  python                       
 httpcore                          1.0.5                  python                       
 httplib2                          0.20.4                 python                       
 httpsig                           1.3.0                  python                       
@@ -613,7 +613,7 @@ isal                              1.7.1                  python
 ismartgate                        5.0.1                  python                       
 iso4217                           1.12.20240625          python                       
 iso8601                           2.1.0                  python                       
-isodate                           0.6.1                  python                       
+isodate                           0.7.0                  python                       
 israel-rail-api                   0.1.2                  python                       
 itsdangerous                      2.2.0                  python                       
 jaraco-abode                      6.2.1                  python                       
@@ -629,7 +629,7 @@ jaraco-text                       4.0.0                  python
 jeepney                           0.8.0                  python                       
 jellyfin-apiclient-python         1.9.2                  python                       
 jinja2                            3.1.4                  python                       
-jiter                             0.5.0                  python                       
+jiter                             0.6.1                  python                       
 jmespath                          1.0.1                  python                       
 josepy                            1.14.0                 python                       
 jq                                1.7.1-r0               apk                          
@@ -788,7 +788,7 @@ lxml                              5.3.0                  python
 mac-vendor-lookup                 0.1.12                 python                       
 mariadb-connector-c               3.3.10-r0              apk                          
 markdown                          3.7                    python                       
-markupsafe                        2.1.5                  python                       
+markupsafe                        3.0.0                  python                       
 marshmallow                       3.22.0                 python                       
 marshmallow-dataclass             8.7.1                  python                       
 mashumaro                         3.13.1                 python                       
@@ -957,7 +957,7 @@ plexauth                          0.0.6                  python
 plexwebsocket                     0.0.14                 python                       
 pluggy                            1.5.0                  python                       
 plugwise                          1.4.0                  python                       
-plumbum                           1.8.3                  python                       
+plumbum                           1.9.0                  python                       
 plumlightpad                      0.0.11                 python                       
 ply                               3.11                   python                       
 pmsensor                          0.4                    python                       
@@ -967,7 +967,7 @@ pprintpp                          0.4.0                  python
 praw                              7.5.0                  python                       
 prawcore                          2.4.0                  python                       
 prayer-times-calculator-offline   1.0.3                  python                       
-pre-commit                        3.8.0                  python                       
+pre-commit                        4.0.0                  python                       
 pre-commit-package                dev-1                  lua-rocks                    
 prettytable                       3.11.0                 python                       
 procps-ng                         4.0.4-r0               apk                          
@@ -1288,7 +1288,7 @@ python-slugify                    8.0.4                  python
 python-smarttub                   0.0.36                 python                       
 python-socketio                   5.11.4                 python                       
 python-socketio-v4                4.6.1                  python                       
-python-socks                      2.5.2                  python                       
+python-socks                      2.5.3                  python                       
 python-songpal                    0.16.2                 python                       
 python-tado                       0.17.6                 python                       
 python-technove                   1.3.1                  python                       
