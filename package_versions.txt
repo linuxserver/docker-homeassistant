@@ -641,7 +641,7 @@ jsonrpc-async                     2.1.2                  python
 jsonrpc-base                      2.2.0                  python                       
 jsonrpc-websocket                 3.1.5                  python                       
 jsonschema                        4.23.0                 python                       
-jsonschema-specifications         2023.12.1              python                       
+jsonschema-specifications         2024.10.1              python                       
 justbackoff                       0.6.0                  python                       
 justnimbus                        0.7.4                  python                       
 kaiterra-async-client             1.0.0                  python                       
