@@ -229,6 +229,10 @@ RUN \
   for cleanfiles in *.pyc *.pyo; do \
     find /usr/local/lib/python3.*  -iname "${cleanfiles}" -exec rm -f '{}' + ; \
   done && \
+  chown -R root:7310  /usr/local && \
+  chmod -R g+w /usr/local && \
+  groupadd lsio && \
+  groupmod -g 7310 lsio && \
   printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   apk del --purge \

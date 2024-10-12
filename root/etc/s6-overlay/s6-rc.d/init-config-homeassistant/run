@@ -4,6 +4,11 @@
 # migration
 rm -rf /config/lsiopy
 
+# Add abc user to python system install owner group, lsio (7310)
+if ! id -G abc | grep -qw "7310"; then
+    usermod -a -G lsio abc
+fi
+
 # set permissions
 echo "Setting permissions"
 lsiown -R abc:abc \
