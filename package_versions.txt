@@ -446,7 +446,7 @@ freesms                           0.2.0                  python
 freetype                          2.13.2-r0              apk                          
 fribidi                           1.0.15-r0              apk                          
 fritzconnection                   1.13.2                 python                       
-frozendict                        2.4.5                  python                       
+frozendict                        2.4.6                  python                       
 frozenlist                        1.4.1                  python                       
 fsspec                            2024.9.0               python                       
 fstrm                             0.6.1-r4               apk                          
@@ -1174,7 +1174,7 @@ pyotgw                            2.2.1                  python
 pyotp                             2.8.0                  python                       
 pyoverkiz                         1.14.1                 python                       
 pyownet                           0.10.0.post1           python                       
-pyparsing                         3.1.4                  python                       
+pyparsing                         3.2.0                  python                       
 pypasser                          0.0.5                  python                       
 pypca                             0.0.7                  python                       
 pypck                             0.7.23                 python                       
@@ -1656,7 +1656,7 @@ youless-api                       2.1.2                  python
 youtubeaio                        1.1.5                  python                       
 yt-dlp                            2024.9.27              python                       
 zamg                              0.3.6                  python                       
-zeep                              4.2.1                  python                       
+zeep                              4.3.0                  python                       
 zengge                            0.2                    python                       
 zeroconf                          0.135.0                python                       
 zeversolar                        0.3.1                  python                       
