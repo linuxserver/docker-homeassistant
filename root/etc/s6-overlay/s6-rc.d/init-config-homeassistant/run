@@ -10,7 +10,12 @@ rm -rf \
 if ! id -G abc | grep -qw "7310"; then
     usermod -a -G lsio abc
 fi
-
+PUID=${PUID:-911}
+PY_LOCAL_PATH=$(find /usr/local/lib -maxdepth 1 -name python* -type d)
+if [[ ! "$(stat -c %u ${PY_LOCAL_PATH}/site-packages)" == "${PUID}" ]]; then
+    echo "**** New container detected, fixing python package permissions. This may take a while. ****"
+    chown -R abc:abc "${PY_LOCAL_PATH}/site-packages"
+fi
 # set permissions
 echo "Setting permissions"
 lsiown -R abc:abc \
