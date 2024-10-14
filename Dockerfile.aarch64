@@ -233,6 +233,7 @@ RUN \
   chmod -R g+w /usr/local && \
   groupadd lsio && \
   groupmod -g 7310 lsio && \
+  mv /usr/local/lib/python3.12 /usr/local/lib/python3.12.bak && \
   printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   apk del --purge \
