@@ -796,7 +796,7 @@ mastodon-py                       1.8.1                  python
 matrix-nio                        0.25.2                 python                       
 maxcube-api                       0.4.3                  python                       
 mbddns                            0.1.2                  python                       
-mbedtls                           3.6.1-r0               apk                          
+mbedtls                           3.6.2-r0               apk                          
 mcstatus                          11.1.1                 python                       
 meater-python                     0.0.8                  python                       
 mechanize                         0.4.10                 python                       
@@ -1051,7 +1051,7 @@ pycups                            1.9.73                 python
 pydaikin                          2.13.7                 python                       
 pydanfossair                      0.1.0                  python                       
 pydantic                          1.10.17                python                       
-pydantic-core                     2.24.1                 python                       
+pydantic-core                     2.24.2                 python                       
 pydeako                           0.4.0                  python                       
 pydeconz                          116                    python                       
 pydelijn                          1.1.0                  python                       
@@ -1254,7 +1254,7 @@ python-dateutil                   2.9.0.post0            python
 python-didl-lite                  1.4.0                  python                       
 python-digitalocean               1.13.2                 python                       
 python-ecobee-api                 0.2.18                 python                       
-python-engineio                   4.10.0                 python                       
+python-engineio                   4.10.1                 python                       
 python-engineio-v3                3.14.2                 python                       
 python-etherscan-api              0.0.3                  python                       
 python-family-hub-local           0.0.2                  python                       
