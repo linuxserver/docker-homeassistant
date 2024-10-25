@@ -182,7 +182,7 @@ asyncio-throttle                  1.0.2                  python
 asyncpysupla                      0.0.5                  python                       
 asyncsleepiq                      1.5.2                  python                       
 asyncssh                          2.17.0                 python                       
-asyncstdlib                       3.12.5                 python                       
+asyncstdlib                       3.13.0                 python                       
 asynctest                         0.13.0                 python                       
 atomicwrites-homeassistant        1.4.1                  python                       
 atpublic                          5.0                    python                       
@@ -447,7 +447,7 @@ freetype                          2.13.2-r0              apk
 fribidi                           1.0.15-r0              apk                          
 fritzconnection                   1.13.2                 python                       
 frozendict                        2.4.6                  python                       
-frozenlist                        1.4.1                  python                       
+frozenlist                        1.5.0                  python                       
 fsspec                            2024.10.0              python                       
 fstrm                             0.6.1-r4               apk                          
 ftfy                              6.3.0                  python                       
@@ -791,7 +791,7 @@ markdown                          3.7                    python
 markupsafe                        3.0.2                  python                       
 marshmallow                       3.23.0                 python                       
 marshmallow-dataclass             8.7.1                  python                       
-mashumaro                         3.13.1                 python                       
+mashumaro                         3.14                   python                       
 mastodon-py                       1.8.1                  python                       
 matrix-nio                        0.25.2                 python                       
 maxcube-api                       0.4.3                  python                       
@@ -975,7 +975,7 @@ progettihwsw                      0.1.3                  python
 proliphix                         0.4.1                  python                       
 prometheus-client                 0.21.0                 python                       
 prompt-toolkit                    3.0.48                 python                       
-proto-plus                        1.24.0                 python                       
+proto-plus                        1.25.0                 python                       
 protobuf                          4.25.4                 python                       
 protobuf-c                        1.5.0-r0               apk                          
 proxmoxer                         2.0.1                  python                       
@@ -1051,7 +1051,7 @@ pycups                            1.9.73                 python
 pydaikin                          2.13.7                 python                       
 pydanfossair                      0.1.0                  python                       
 pydantic                          1.10.17                python                       
-pydantic-core                     2.24.2                 python                       
+pydantic-core                     2.25.0                 python                       
 pydeako                           0.4.0                  python                       
 pydeconz                          116                    python                       
 pydelijn                          1.1.0                  python                       
@@ -1348,7 +1348,7 @@ ratelimit                         2.2.1                  python
 rav1e-libs                        0.7.1-r0               apk                          
 readline                          8.2.10-r0              apk                          
 recurring-ical-events             3.3.3                  python                       
-redis                             5.1.1                  python                       
+redis                             5.2.0                  python                       
 referencing                       0.35.1                 python                       
 refoss-ha                         1.2.4                  python                       
 regenmaschine                     2024.3.0               python                       
@@ -1618,7 +1618,7 @@ webmin-xmlrpc                     0.0.2                  python
 websocket-client                  1.8.0                  python                       
 websockets                        13.1                   python                       
 weheat                            2024.9.23              python                       
-werkzeug                          3.0.4                  python                       
+werkzeug                          3.0.6                  python                       
 wheel                             0.43.0                 python                       
 whirlpool-sixth-sense             0.18.8                 python                       
 whois                             0.9.27                 python                       
@@ -1673,7 +1673,7 @@ zimg                              3.0.5-r2               apk
 zix-libs                          0.4.2-r0               apk                          
 zlib                              1.3.1-r1               apk                          
 zm-py                             0.5.4                  python                       
-zope-interface                    7.1.0                  python                       
+zope-interface                    7.1.1                  python                       
 zstd-libs                         1.5.6-r0               apk                          
 zwave-js-server-python            0.58.1                 python                       
 zwave-me-ws                       0.4.3                  python                       
