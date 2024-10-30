@@ -59,7 +59,7 @@ aiohomekit                        3.2.3                  python
 aiohttp                           3.10.8                 python                       
 aiohttp-cors                      0.7.0                  python                       
 aiohttp-fast-zlib                 0.1.1                  python                       
-aiohttp-retry                     2.8.3                  python                       
+aiohttp-retry                     2.9.0                  python                       
 aiohttp-socks                     0.9.0                  python                       
 aiohttp-sse-client2               0.3.0                  python                       
 aiohue                            4.7.3                  python                       
@@ -181,7 +181,7 @@ asyncio-dgram                     2.2.0                  python
 asyncio-throttle                  1.0.2                  python                       
 asyncpysupla                      0.0.5                  python                       
 asyncsleepiq                      1.5.2                  python                       
-asyncssh                          2.17.0                 python                       
+asyncssh                          2.18.0                 python                       
 asyncstdlib                       3.13.0                 python                       
 asynctest                         0.13.0                 python                       
 atomicwrites-homeassistant        1.4.1                  python                       
@@ -223,7 +223,7 @@ bitarray                          2.9.3                  python
 bitstring                         4.2.3                  python                       
 bitstruct                         8.19.0                 python                       
 bizkaibus                         0.1.1                  python                       
-bleach                            6.1.0                  python                       
+bleach                            6.2.0                  python                       
 bleak                             0.22.2                 python                       
 bleak-esphome                     1.0.0                  python                       
 bleak-retry-connector             3.5.0                  python                       
@@ -261,7 +261,7 @@ btsocket                          0.3.0                  python
 buienradar                        1.0.6                  python                       
 busybox                           1.36.1-r29             apk                          
 busybox-binsh                     1.36.1-r29             apk                          
-bx-py-utils                       104                    python                       
+bx-py-utils                       105                    python                       
 bytecode                          0.13.0.dev0            python                       
 c-ares                            1.33.1-r0              apk                          
 ca-certificates                   20240705-r0            apk                          
@@ -374,7 +374,7 @@ ebusdpy                           0.0.17                 python
 ecdsa                             0.19.0                 python                       
 ecoaliface                        0.4.0                  python                       
 electrickiwi-api                  0.8.5                  python                       
-elementpath                       4.5.0                  python                       
+elementpath                       4.6.0                  python                       
 elevenlabs                        1.6.1                  python                       
 elgato                            5.1.2                  python                       
 eliqonline                        1.2.2                  python                       
@@ -450,7 +450,7 @@ frozendict                        2.4.6                  python
 frozenlist                        1.5.0                  python                       
 fsspec                            2024.10.0              python                       
 fstrm                             0.6.1-r4               apk                          
-ftfy                              6.3.0                  python                       
+ftfy                              6.3.1                  python                       
 future                            1.0.0                  python                       
 fyta-cli                          0.6.7                  python                       
 gardena-bluetooth                 1.4.3                  python                       
@@ -480,7 +480,7 @@ gnutls                            3.8.5-r0               apk
 goalzero                          0.2.2                  python                       
 goodwe                            0.3.6                  python                       
 google-ai-generativelanguage      0.6.10                 python                       
-google-api-core                   2.21.0                 python                       
+google-api-core                   2.22.0                 python                       
 google-api-python-client          2.71.0                 python                       
 google-auth                       2.35.0                 python                       
 google-auth-httplib2              0.2.0                  python                       
@@ -561,7 +561,7 @@ httplib2                          0.20.4                 python
 httpsig                           1.3.0                  python                       
 httpx                             0.27.2                 python                       
 huawei-lte-api                    1.7.3                  python                       
-huggingface-hub                   0.26.1                 python                       
+huggingface-hub                   0.26.2                 python                       
 humanfriendly                     10.0                   python                       
 huum                              0.7.10                 python                       
 hwdata-pci                        0.382-r0               apk                          
@@ -648,7 +648,7 @@ kaiterra-async-client             1.0.0                  python
 kasa-crypt                        0.4.4                  python                       
 keba-kecontact                    1.1.0                  python                       
 kegtron-ble                       0.4.0                  python                       
-keyring                           25.4.1                 python                       
+keyring                           25.5.0                 python                       
 keyrings-alt                      5.0.2                  python                       
 keyutils-libs                     1.6.3-r3               apk                          
 kiwiki-client                     0.1.1                  python                       
@@ -828,7 +828,7 @@ motionblindsble                   0.1.2                  python
 motioneye-client                  0.3.14                 python                       
 mozart-api                        3.4.1.8.8              python                       
 mpdecimal                         4.0.0-r0               apk                          
-mpg123-libs                       1.32.6-r0              apk                          
+mpg123-libs                       1.32.8-r0              apk                          
 ms-cv                             0.1.1                  python                       
 msal                              1.31.0                 python                       
 msal-extensions                   1.2.0                  python                       
@@ -1241,7 +1241,7 @@ pysyncthru                        0.7.10                 python
 pytautulli                        23.1.1                 python                       
 pytedee-async                     0.2.20                 python                       
 pytest                            8.3.3                  python                       
-pytest-cov                        5.0.0                  python                       
+pytest-cov                        6.0.0                  python                       
 pytest-mock                       3.14.0                 python                       
 pytest-rerunfailures              14.0                   python                       
 pythinkingcleaner                 0.0.3                  python                       
@@ -1526,7 +1526,7 @@ toonapi                           0.3.0                  python
 total-connect-client              2024.5                 python                       
 tp-connected                      0.0.4                  python                       
 tplink-omada-client               1.4.2                  python                       
-tqdm                              4.66.5                 python                       
+tqdm                              4.66.6                 python                       
 transitions                       0.8.11                 python                       
 transmission-rpc                  7.0.3                  python                       
 travispy                          0.3.5                  python                       
@@ -1541,7 +1541,7 @@ twilio                            6.32.0                 python
 twitchapi                         4.2.1                  python                       
 twitterapi                        2.7.12                 python                       
 typedmonarchmoney                 0.3.1                  python                       
-typeguard                         4.3.0                  python                       
+typeguard                         4.4.0                  python                       
 typer                             0.12.5                 python                       
 types-python-dateutil             2.9.0.20241003         python                       
 types-pytz                        2024.2.0.20241003      python                       
@@ -1591,7 +1591,7 @@ venstarcolortouch                 0.19                   python
 vidstab                           1.1.1-r0               apk                          
 vilfo-api-client                  0.5.0                  python                       
 vincenty                          0.1.4                  python                       
-virtualenv                        20.27.0                python                       
+virtualenv                        20.27.1                python                       
 vobject                           0.9.8                  python                       
 voip-utils                        0.1.0                  python                       
 volkszaehler                      0.4.0                  python                       
