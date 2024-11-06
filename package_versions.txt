@@ -35,7 +35,7 @@ aiobotocore                       2.13.1                 python
 aiocache                          0.12.3                 python                       
 aiocoap                           0.4.11                 python                       
 aiocomelit                        0.9.0                  python                       
-aioconsole                        0.8.0                  python                       
+aioconsole                        0.8.1                  python                       
 aiodhcpwatcher                    1.0.2                  python                       
 aiodiscover                       2.1.0                  python                       
 aiodns                            3.2.0                  python                       
@@ -198,7 +198,7 @@ awesomeversion                    24.6.0                 python
 aws-request-signer                1.2.0                  python                       
 axis                              62                     python                       
 ayla-iot-unofficial               1.4.2                  python                       
-azure-core                        1.31.0                 python                       
+azure-core                        1.32.0                 python                       
 azure-eventhub                    5.11.1                 python                       
 azure-identity                    1.19.0                 python                       
 azure-kusto-data                  4.5.1                  python                       
@@ -421,6 +421,7 @@ ffmpeg-libswresample              6.1.1-r8               apk
 ffmpeg-libswscale                 6.1.1-r8               apk                          
 file-read-backwards               2.0.0                  python                       
 filelock                          3.16.1                 python                       
+filetype                          1.2.0                  python                       
 findutils                         4.9.0-r5               apk                          
 fints                             3.1.0                  python                       
 firebase-messaging                0.4.0                  python                       
@@ -629,14 +630,14 @@ jaraco-text                       4.0.0                  python
 jeepney                           0.8.0                  python                       
 jellyfin-apiclient-python         1.9.2                  python                       
 jinja2                            3.1.4                  python                       
-jiter                             0.6.1                  python                       
+jiter                             0.7.0                  python                       
 jmespath                          1.0.1                  python                       
 josepy                            1.14.0                 python                       
 jq                                1.7.1-r0               apk                          
 js2py                             0.74                   python                       
 json-c                            0.17-r0                apk                          
 jsonpath                          0.82.2                 python                       
-jsonpickle                        3.3.0                  python                       
+jsonpickle                        3.4.1                  python                       
 jsonrpc-async                     2.1.2                  python                       
 jsonrpc-base                      2.2.0                  python                       
 jsonrpc-websocket                 3.1.5                  python                       
@@ -691,7 +692,7 @@ libdav1d                          1.4.2-r0               apk
 libdovi                           3.3.0-r0               apk                          
 libdrm                            2.4.120-r0             apk                          
 libeconf                          0.6.3-r0               apk                          
-libecpg                           16.3-r0                apk                          
+libecpg                           16.4-r0                apk                          
 libedit                           20240517.3.1-r0        apk                          
 libexpat                          2.6.3-r0               apk                          
 libffi                            3.4.6-r0               apk                          
@@ -720,7 +721,7 @@ libpcap                           1.10.4-r1              apk
 libpciaccess                      0.18.1-r0              apk                          
 libplacebo                        6.338.2-r1             apk                          
 libpng                            1.6.44-r0              apk                          
-libpq                             16.3-r0                apk                          
+libpq                             16.4-r0                apk                          
 libproc2                          4.0.4-r0               apk                          
 libpsl                            0.21.5-r1              apk                          
 libpulse                          17.0-r0                apk                          
@@ -789,7 +790,7 @@ mac-vendor-lookup                 0.1.12                 python
 mariadb-connector-c               3.3.10-r0              apk                          
 markdown                          3.7                    python                       
 markupsafe                        3.0.2                  python                       
-marshmallow                       3.23.0                 python                       
+marshmallow                       3.23.1                 python                       
 marshmallow-dataclass             8.7.1                  python                       
 mashumaro                         3.14                   python                       
 mastodon-py                       1.8.1                  python                       
@@ -801,7 +802,7 @@ mcstatus                          11.1.1                 python
 meater-python                     0.0.8                  python                       
 mechanize                         0.4.10                 python                       
 medcom-ble                        0.1.1                  python                       
-mediafile                         0.12.0                 python                       
+mediafile                         0.13.0                 python                       
 melnor-bluetooth                  0.0.25                 python                       
 messagebird                       1.2.0                  python                       
 metar                             1.11.0                 python                       
@@ -969,7 +970,7 @@ prawcore                          2.4.0                  python
 prayer-times-calculator-offline   1.0.3                  python                       
 pre-commit                        4.0.1                  python                       
 pre-commit-package                dev-1                  lua-rocks                    
-prettytable                       3.11.0                 python                       
+prettytable                       3.12.0                 python                       
 procps-ng                         4.0.4-r0               apk                          
 progettihwsw                      0.1.3                  python                       
 proliphix                         0.4.1                  python                       
@@ -1051,7 +1052,7 @@ pycups                            1.9.73                 python
 pydaikin                          2.13.7                 python                       
 pydanfossair                      0.1.0                  python                       
 pydantic                          1.10.17                python                       
-pydantic-core                     2.25.0                 python                       
+pydantic-core                     2.26.0                 python                       
 pydeako                           0.4.0                  python                       
 pydeconz                          116                    python                       
 pydelijn                          1.1.0                  python                       
@@ -1194,7 +1195,7 @@ pyrail                            0.0.3                  python
 pyrainbird                        6.0.1                  python                       
 pyrecswitch                       1.0.2                  python                       
 pyrepetierng                      0.1.0                  python                       
-pyrfc3339                         1.1                    python                       
+pyrfc3339                         2.0.1                  python                       
 pyrfxtrx                          0.31.1                 python                       
 pyric                             0.1.6.3                python                       
 pyrisco                           0.6.4                  python                       
@@ -1221,7 +1222,7 @@ pysmartapp                        0.3.5                  python
 pysmartthings                     0.7.8                  python                       
 pysmarty2                         0.10.1                 python                       
 pysmb                             1.2.10                 python                       
-pysmi                             1.5.5                  python                       
+pysmi                             1.5.9                  python                       
 pysml                             0.0.12                 python                       
 pysmlight                         0.1.3                  python                       
 pysnmp                            6.2.6                  python                       
@@ -1251,7 +1252,7 @@ python-blockchain-api             0.0.2                  python
 python-bsblan                     0.6.2                  python                       
 python-clementine-remote          1.0.1                  python                       
 python-dateutil                   2.9.0.post0            python                       
-python-didl-lite                  1.4.0                  python                       
+python-didl-lite                  1.4.1                  python                       
 python-digitalocean               1.13.2                 python                       
 python-ecobee-api                 0.2.18                 python                       
 python-engineio                   4.10.1                 python                       
@@ -1378,7 +1379,7 @@ romy                              0.0.10                 python
 roombapy                          1.8.1                  python                       
 roonapi                           0.1.6                  python                       
 rova                              0.4.1                  python                       
-rpds-py                           0.20.0                 python                       
+rpds-py                           0.20.1                 python                       
 rpi-bad-power                     0.1.0                  python                       
 rsa                               4.9                    python                       
 rtmapi                            0.7.2                  python                       
@@ -1393,7 +1394,7 @@ samsungtvws                       2.6.0                  python
 sanix                             1.0.6                  python                       
 satel-integra                     0.3.7                  python                       
 scanelf                           1.3.7-r2               apk                          
-scapy                             2.6.0                  python                       
+scapy                             2.6.1                  python                       
 schedule                          1.2.2                  python                       
 screenlogicpy                     0.10.0                 python                       
 scsgate                           0.1.0                  python                       
@@ -1401,7 +1402,7 @@ sdl2                              2.28.5-r1              apk
 secretstorage                     3.3.3                  python                       
 securetar                         2024.2.1               python                       
 segno                             1.6.1                  python                       
-selenium                          4.25.0                 python                       
+selenium                          4.26.1                 python                       
 semver                            3.0.2                  python                       
 sendgrid                          6.8.2                  python                       
 sense-energy                      0.12.4                 python                       
@@ -1520,7 +1521,7 @@ titlecase                         2.4.1                  python
 tmb                               0.0.4                  python                       
 todoist-api-python                2.1.2                  python                       
 tokenize-rt                       6.1.0                  python                       
-tokenizers                        0.20.1                 python                       
+tokenizers                        0.20.3                 python                       
 tololib                           1.1.0                  python                       
 toonapi                           0.3.0                  python                       
 total-connect-client              2024.5                 python                       
@@ -1541,7 +1542,7 @@ twilio                            6.32.0                 python
 twitchapi                         4.2.1                  python                       
 twitterapi                        2.7.12                 python                       
 typedmonarchmoney                 0.3.1                  python                       
-typeguard                         4.4.0                  python                       
+typeguard                         4.4.1                  python                       
 typer                             0.12.5                 python                       
 types-python-dateutil             2.9.0.20241003         python                       
 types-pytz                        2024.2.0.20241003      python                       
@@ -1618,7 +1619,7 @@ webmin-xmlrpc                     0.0.2                  python
 websocket-client                  1.8.0                  python                       
 websockets                        13.1                   python                       
 weheat                            2024.9.23              python                       
-werkzeug                          3.0.6                  python                       
+werkzeug                          3.1.2                  python                       
 wheel                             0.43.0                 python                       
 whirlpool-sixth-sense             0.18.8                 python                       
 whois                             0.9.27                 python                       
@@ -1638,7 +1639,7 @@ xiaomi-ble                        0.32.0                 python
 xknx                              3.2.0                  python                       
 xknxproject                       3.8.1                  python                       
 xlsxwriter                        3.2.0                  python                       
-xmlschema                         3.4.2                  python                       
+xmlschema                         3.4.3                  python                       
 xmltodict                         0.13.0                 python                       
 xs1-api-client                    3.0.0                  python                       
 xvidcore                          1.3.7-r2               apk                          
