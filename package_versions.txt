@@ -432,7 +432,7 @@ fjaraskupan                       2.3.0                  python
 flask                             3.0.3                  python                       
 flexcache                         0.3                    python                       
 flexit-bacnet                     2.2.1                  python                       
-flexparser                        0.3.1                  python                       
+flexparser                        0.4                    python                       
 flipr-api                         1.6.1                  python                       
 flux-led                          1.0.4                  python                       
 fnv-hash-fast                     1.0.2                  python                       
@@ -484,7 +484,7 @@ goodwe                            0.3.6                  python
 google-ai-generativelanguage      0.6.10                 python                       
 google-api-core                   2.22.0                 python                       
 google-api-python-client          2.71.0                 python                       
-google-auth                       2.35.0                 python                       
+google-auth                       2.36.0                 python                       
 google-auth-httplib2              0.2.0                  python                       
 google-auth-oauthlib              1.2.1                  python                       
 google-cloud-pubsub               2.23.0                 python                       
@@ -1354,7 +1354,7 @@ recurring-ical-events             3.3.3                  python
 referencing                       0.35.1                 python                       
 refoss-ha                         1.2.4                  python                       
 regenmaschine                     2024.3.0               python                       
-regex                             2024.9.11              python                       
+regex                             2024.11.6              python                       
 related-without-future            0.7.4                  python                       
 renault-api                       0.2.7                  python                       
 renson-endura-delta               1.7.1                  python                       
