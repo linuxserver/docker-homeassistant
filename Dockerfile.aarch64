@@ -12,6 +12,7 @@ LABEL maintainer="saarg, roxedus"
 ENV \
   S6_SERVICES_GRACETIME=240000 \
   UV_SYSTEM_PYTHON=true \
+  UV_NO_CACHE=true \
   UV_EXTRA_INDEX_URL="https://wheels.home-assistant.io/musllinux-index/"
 
 COPY root/etc/pip.conf /etc/
@@ -136,6 +137,13 @@ RUN \
     | grep 'PIP_VERSION: ' \
     | sed 's|.*PIP_VERSION: ||') && \
   HA_UV_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/Dockerfile" | grep 'install uv==' | sed 's|RUN pip3 install uv==||') && \
+  HA_GO2RTC_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/Dockerfile" | grep 'AlexxIT/go2rtc/releases/download' | sed -r 's|^.*AlexxIT/go2rtc/releases/download/(.*)/go2rtc_linux.*$|\1|') && \
+  curl -o \
+    /bin/go2rtc -fL \
+    "https://github.com/AlexxIT/go2rtc/releases/download/${HA_GO2RTC_VERSION}/go2rtc_linux_arm64" && \
+  chmod +x /bin/go2rtc && \
+  echo "**** Quick test go2rtc binary: ****" && \
+  /bin/go2rtc --version && \
   echo "**** install jemalloc ****" && \
   git clone --branch ${HA_JEMALLOC_VER} \
     --depth 1 "https://github.com/jemalloc/jemalloc" \
