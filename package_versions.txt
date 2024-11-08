@@ -11,7 +11,7 @@ advantage-air                     0.4.4                  python
 aemet-opendata                    0.5.4                  python                       
 aenum                             3.1.15                 python                       
 afsapi                            0.2.7                  python                       
-agent-py                          0.0.23                 python                       
+agent-py                          0.0.24                 python                       
 aio-geojson-client                0.20                   python                       
 aio-geojson-generic-client        0.4                    python                       
 aio-geojson-geonetnz-quakes       0.16                   python                       
@@ -230,7 +230,7 @@ bleak                             0.22.3                 python
 bleak-esphome                     1.1.0                  python                       
 bleak-retry-connector             3.6.0                  python                       
 blebox-uniapi                     2.5.0                  python                       
-blinker                           1.8.2                  python                       
+blinker                           1.9.0                  python                       
 blinkpy                           0.23.0                 python                       
 blockchain                        1.4.4                  python                       
 bluecurrent-api                   1.2.3                  python                       
@@ -491,7 +491,7 @@ google-cloud-pubsub               2.23.0                 python
 google-cloud-speech               2.27.0                 python                       
 google-cloud-texttospeech         2.17.2                 python                       
 google-generativeai               0.8.2                  python                       
-google-nest-sdm                   6.1.3                  python                       
+google-nest-sdm                   6.1.4                  python                       
 google-photos-library-api         0.12.1                 python                       
 googleapis-common-protos          1.65.0                 python                       
 googlemaps                        2.5.1                  python                       
@@ -523,7 +523,7 @@ guppy3                            3.1.4.post1            python
 h11                               0.14.0                 python                       
 h2                                4.1.0                  python                       
 ha-av                             10.1.1                 python                       
-ha-ffmpeg                         3.2.1                  python                       
+ha-ffmpeg                         3.2.2                  python                       
 ha-iotawattpy                     0.1.2                  python                       
 ha-philipsjs                      3.2.2                  python                       
 habitipy                          0.3.3                  python                       
@@ -547,9 +547,9 @@ hole                              0.8.0                  python
 holidays                          0.60                   python                       
 home-assistant-bluetooth          1.13.0                 python                       
 home-assistant-chip-clusters      2024.9.0               python                       
-home-assistant-frontend           20241106.0             python                       
-home-assistant-intents            2024.11.4              python                       
-homeassistant                     2024.11.0              python                       
+home-assistant-frontend           20241106.2             python                       
+home-assistant-intents            2024.11.6              python                       
+homeassistant                     2024.11.1              python                       
 homeconnect                       0.8.0                  python                       
 homematicip                       1.1.2                  python                       
 horimote                          0.4.1                  python                       
@@ -695,7 +695,7 @@ libdrm                            2.4.120-r0             apk
 libeconf                          0.6.3-r0               apk                          
 libecpg                           16.4-r0                apk                          
 libedit                           20240517.3.1-r0        apk                          
-libexpat                          2.6.3-r0               apk                          
+libexpat                          2.6.4-r0               apk                          
 libffi                            3.4.6-r0               apk                          
 libflac                           1.4.3-r1               apk                          
 libftdi1                          1.5-r3                 apk                          
@@ -927,7 +927,7 @@ ovoenergy                         2.0.0                  python
 oyaml                             1.0                    python                       
 p11-kit                           0.25.3-r0              apk                          
 p1monitor                         3.1.0                  python                       
-packaging                         24.1                   python                       
+packaging                         24.2                   python                       
 paho-mqtt                         1.6.1                  python                       
 panacotta                         0.2                    python                       
 panasonic-viera                   0.4.2                  python                       
@@ -948,7 +948,7 @@ pianobar                          2022.04.01-r1          apk
 pigpio                            1.78                   python                       
 pilight                           0.1.1                  python                       
 pillow                            10.4.0                 python                       
-pint                              0.24.3                 python                       
+pint                              0.24.4                 python                       
 pip                               24.1.2                 python                       
 pizzapi                           0.0.6                  python                       
 pkce                              1.0.3                  python                       
@@ -1286,7 +1286,7 @@ python-otbr-api                   2.6.0                  python
 python-picnic-api                 1.1.0                  python                       
 python-rabbitair                  0.0.8                  python                       
 python-ripple-api                 0.0.3                  python                       
-python-roborock                   2.6.1                  python                       
+python-roborock                   2.7.2                  python                       
 python-slugify                    8.0.4                  python                       
 python-smarttub                   0.0.36                 python                       
 python-socketio                   5.11.4                 python                       
@@ -1406,7 +1406,7 @@ segno                             1.6.1                  python
 selenium                          4.26.1                 python                       
 semver                            3.0.2                  python                       
 sendgrid                          6.8.2                  python                       
-sense-energy                      0.13.2                 python                       
+sense-energy                      0.13.3                 python                       
 sensirion-ble                     0.1.1                  python                       
 sensor-state-data                 2.18.1                 python                       
 sensorpro-ble                     0.5.3                  python                       
@@ -1462,7 +1462,7 @@ speechrecognition                 3.8.1                  python
 speedtest-cli                     2.1.3                  python                       
 speexdsp                          1.2.1-r2               apk                          
 spirv-tools                       1.3.261.1-r0           apk                          
-spotifyaio                        0.8.5                  python                       
+spotifyaio                        0.8.7                  python                       
 sqlalchemy                        2.0.31                 python                       
 sqlite-libs                       3.45.3-r1              apk                          
 sqlparse                          0.5.0                  python                       
@@ -1482,7 +1482,7 @@ stookalert                        0.1.4                  python
 stookwijzer                       1.3.0                  python                       
 streamlabswater                   1.0.1                  python                       
 stringcase                        1.2.0                  python                       
-striprtf                          0.0.26                 python                       
+striprtf                          0.0.27                 python                       
 subarulink                        0.7.11                 python                       
 sunweg                            3.0.2                  python                       
 surepy                            0.9.0                  python                       
@@ -1621,7 +1621,7 @@ webrtc-models                     0.2.0                  python
 websocket-client                  1.8.0                  python                       
 websockets                        13.1                   python                       
 weheat                            2024.9.23              python                       
-werkzeug                          3.1.2                  python                       
+werkzeug                          3.1.3                  python                       
 wheel                             0.43.0                 python                       
 whirlpool-sixth-sense             0.18.8                 python                       
 whois                             0.9.27                 python                       
