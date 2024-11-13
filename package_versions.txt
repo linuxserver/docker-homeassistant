@@ -482,7 +482,7 @@ go2rtc-client                     0.1.0                  python
 goalzero                          0.2.2                  python                       
 goodwe                            0.3.6                  python                       
 google-ai-generativelanguage      0.6.10                 python                       
-google-api-core                   2.22.0                 python                       
+google-api-core                   2.23.0                 python                       
 google-api-python-client          2.71.0                 python                       
 google-auth                       2.36.0                 python                       
 google-auth-httplib2              0.2.0                  python                       
@@ -579,7 +579,7 @@ icalendar                         6.0.1                  python
 icmplib                           3.0                    python                       
 idasen                            0.12.0                 python                       
 idasen-ha                         2.6.2                  python                       
-identify                          2.6.1                  python                       
+identify                          2.6.2                  python                       
 idna                              3.10                   python                       
 ifaddr                            0.2.0                  python                       
 iglo                              1.2.7                  python                       
@@ -638,7 +638,7 @@ jq                                1.7.1-r0               apk
 js2py                             0.74                   python                       
 json-c                            0.17-r0                apk                          
 jsonpath                          0.82.2                 python                       
-jsonpickle                        3.4.2                  python                       
+jsonpickle                        4.0.0                  python                       
 jsonrpc-async                     2.1.2                  python                       
 jsonrpc-base                      2.2.0                  python                       
 jsonrpc-websocket                 3.1.5                  python                       
@@ -1613,7 +1613,7 @@ waterfurnace                      1.1.0                  python
 wayland-libs-client               1.22.0-r4              apk                          
 wcwidth                           0.2.13                 python                       
 weatherflow4py                    1.0.6                  python                       
-webcolors                         24.8.0                 python                       
+webcolors                         24.11.1                python                       
 webencodings                      0.5.1                  python                       
 webexpythonsdk                    2.0.1                  python                       
 webmin-xmlrpc                     0.0.2                  python                       
