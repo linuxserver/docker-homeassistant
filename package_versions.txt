@@ -693,7 +693,7 @@ libdav1d                          1.4.2-r0               apk
 libdovi                           3.3.0-r0               apk                          
 libdrm                            2.4.120-r0             apk                          
 libeconf                          0.6.3-r0               apk                          
-libecpg                           16.4-r0                apk                          
+libecpg                           16.5-r0                apk                          
 libedit                           20240517.3.1-r0        apk                          
 libexpat                          2.6.4-r0               apk                          
 libffi                            3.4.6-r0               apk                          
@@ -722,7 +722,7 @@ libpcap                           1.10.4-r1              apk
 libpciaccess                      0.18.1-r0              apk                          
 libplacebo                        6.338.2-r1             apk                          
 libpng                            1.6.44-r0              apk                          
-libpq                             16.4-r0                apk                          
+libpq                             16.5-r0                apk                          
 libproc2                          4.0.4-r0               apk                          
 libpsl                            0.21.5-r1              apk                          
 libpulse                          17.0-r0                apk                          
@@ -831,7 +831,7 @@ mozart-api                        4.1.1.116.0            python
 mpdecimal                         4.0.0-r0               apk                          
 mpg123-libs                       1.32.8-r0              apk                          
 ms-cv                             0.1.1                  python                       
-msal                              1.31.0                 python                       
+msal                              1.31.1                 python                       
 msal-extensions                   1.2.0                  python                       
 msgpack                           1.1.0                  python                       
 mt-940                            4.30.0                 python                       
@@ -1006,7 +1006,7 @@ py-nightscout                     1.2.2                  python
 py-schluter                       0.1.7                  python                       
 py-sucks                          0.9.10                 python                       
 py-synologydsm-api                2.5.3                  python                       
-py-vapid                          1.9.1                  python                       
+py-vapid                          1.9.2                  python                       
 py-zabbix                         1.1.7                  python                       
 py3rijndael                       0.3.3                  python                       
 pyads                             3.4.0                  python                       
@@ -1363,7 +1363,7 @@ repoze-lru                        0.7                    python
 requests                          2.32.3                 python                       
 requests-aws4auth                 1.3.1                  python                       
 requests-file                     2.1.0                  python                       
-requests-futures                  1.0.1                  python                       
+requests-futures                  1.0.2                  python                       
 requests-oauthlib                 2.0.0                  python                       
 requests-toolbelt                 1.0.0                  python                       
 restrictedpython                  7.4                    python                       
@@ -1413,7 +1413,7 @@ sensorpro-ble                     0.5.3                  python
 sensorpush-ble                    1.7.1                  python                       
 sensoterra                        2.0.1                  python                       
 sentry-sdk                        1.40.3                 python                       
-sepaxml                           2.6.1                  python                       
+sepaxml                           2.6.2                  python                       
 serd-libs                         0.32.2-r0              apk                          
 serialio                          2.4.0                  python                       
 setuptools                        70.3.0                 python                       
