@@ -20,8 +20,8 @@ aio-geojson-nsw-rfs-incidents     0.7                    python
 aio-geojson-usgs-earthquakes      0.3                    python                       
 aio-georss-client                 0.13                   python                       
 aio-georss-gdacs                  0.10                   python                       
-aioairq                           0.3.2                  python                       
-aioairzone                        0.9.5                  python                       
+aioairq                           0.4.3                  python                       
+aioairzone                        0.9.7                  python                       
 aioairzone-cloud                  0.6.10                 python                       
 aioambient                        2024.8.0               python                       
 aioapcaccess                      0.4.2                  python                       
@@ -60,7 +60,7 @@ aiohttp                           3.10.11                python
 aiohttp-cors                      0.7.0                  python                       
 aiohttp-fast-zlib                 0.1.1                  python                       
 aiohttp-retry                     2.9.1                  python                       
-aiohttp-socks                     0.9.0                  python                       
+aiohttp-socks                     0.9.1                  python                       
 aiohttp-sse-client2               0.3.0                  python                       
 aiohue                            4.7.3                  python                       
 aioimaplib                        1.1.0                  python                       
@@ -156,7 +156,7 @@ appdirs                           1.4.4                  python
 apple-weatherkit                  1.1.3                  python                       
 apprise                           1.9.0                  python                       
 aprslib                           0.7.2                  python                       
-apsystems-ez1                     2.2.1                  python                       
+apsystems-ez1                     2.4.0                  python                       
 aqipy-atmotech                    0.1.5                  python                       
 aqualogic                         2.6                    python                       
 aranet4                           2.4.0                  python                       
@@ -235,7 +235,7 @@ blinkpy                           0.23.0                 python
 blockchain                        1.4.4                  python                       
 bluecurrent-api                   1.2.3                  python                       
 bluemaestro-ble                   0.2.3                  python                       
-bluetooth-adapters                0.20.0                 python                       
+bluetooth-adapters                0.20.2                 python                       
 bluetooth-auto-recovery           1.4.2                  python                       
 bluetooth-data-tools              1.20.0                 python                       
 bluetooth-sensor-state-data       1.7.1                  python                       
@@ -379,7 +379,7 @@ elevenlabs                        1.6.1                  python
 elgato                            5.1.2                  python                       
 eliqonline                        1.2.2                  python                       
 elkm1-lib                         2.2.10                 python                       
-elmax-api                         0.0.5                  python                       
+elmax-api                         0.0.6.1                python                       
 elvia                             0.1.0                  python                       
 emoji                             2.8.0                  python                       
 emulated-roku                     0.3.0                  python                       
@@ -544,14 +544,14 @@ hkavr                             0.0.5                  python
 hko                               0.3.2                  python                       
 hlk-sw16                          0.0.9                  python                       
 hole                              0.8.0                  python                       
-holidays                          0.60                   python                       
+holidays                          0.61                   python                       
 home-assistant-bluetooth          1.13.0                 python                       
 home-assistant-chip-clusters      2024.9.0               python                       
 home-assistant-frontend           20241106.2             python                       
 home-assistant-intents            2024.11.6              python                       
-homeassistant                     2024.11.2              python                       
+homeassistant                     2024.11.3              python                       
 homeconnect                       0.8.0                  python                       
-homematicip                       1.1.2                  python                       
+homematicip                       1.1.3                  python                       
 horimote                          0.4.1                  python                       
 hpack                             4.0.0                  python                       
 html-table-parser-python3         0.1.5                  python                       
@@ -1053,7 +1053,7 @@ pycups                            1.9.73                 python
 pydaikin                          2.13.7                 python                       
 pydanfossair                      0.1.0                  python                       
 pydantic                          1.10.18                python                       
-pydantic-core                     2.27.0                 python                       
+pydantic-core                     2.27.1                 python                       
 pydeako                           0.5.4                  python                       
 pydeconz                          118                    python                       
 pydelijn                          1.1.0                  python                       
@@ -1246,7 +1246,7 @@ pytedee-async                     0.2.20                 python
 pytest                            8.3.3                  python                       
 pytest-cov                        6.0.0                  python                       
 pytest-mock                       3.14.0                 python                       
-pytest-rerunfailures              14.0                   python                       
+pytest-rerunfailures              15.0                   python                       
 pythinkingcleaner                 0.0.3                  python                       
 python                            3.12.4                 binary                       
 python-awair                      0.2.4                  python                       
@@ -1358,7 +1358,7 @@ regex                             2024.11.6              python
 related-without-future            0.7.4                  python                       
 renault-api                       0.2.7                  python                       
 renson-endura-delta               1.7.1                  python                       
-reolink-aio                       0.11.1                 python                       
+reolink-aio                       0.11.2                 python                       
 repoze-lru                        0.7                    python                       
 requests                          2.32.3                 python                       
 requests-aws4auth                 1.3.1                  python                       
@@ -1389,7 +1389,7 @@ russound                          0.2.0                  python
 ruuvitag-ble                      0.1.2                  python                       
 rx                                3.2.0                  python                       
 rxv                               0.7.0                  python                       
-s3transfer                        0.10.3                 python                       
+s3transfer                        0.10.4                 python                       
 samsungctl                        0.7.1                  python                       
 samsungtvws                       2.6.0                  python                       
 sanix                             1.0.6                  python                       
@@ -1477,7 +1477,7 @@ starlink-grpc-core                1.1.3                  python
 statsd                            3.2.1                  python                       
 stdiomask                         0.0.6                  python                       
 steamodd                          4.21                   python                       
-stevedore                         5.3.0                  python                       
+stevedore                         5.4.0                  python                       
 stookalert                        0.1.4                  python                       
 stookwijzer                       1.3.0                  python                       
 streamlabswater                   1.0.1                  python                       
@@ -1539,7 +1539,7 @@ trio-websocket                    0.11.1                 python
 ttls                              1.8.3                  python                       
 ttn-client                        1.2.0                  python                       
 tuya-device-sharing-sdk           0.1.9                  python                       
-twentemilieu                      2.0.1                  python                       
+twentemilieu                      2.1.0                  python                       
 twilio                            6.32.0                 python                       
 twitchapi                         4.2.1                  python                       
 twitterapi                        2.7.12                 python                       
@@ -1629,7 +1629,7 @@ wiffi                             1.1.2                  python
 wirelesstagpy                     0.8.1                  python                       
 wled                              0.20.2                 python                       
 wolf-comm                         0.0.15                 python                       
-wrapt                             1.16.0                 python                       
+wrapt                             1.17.0                 python                       
 wsdiscovery                       2.0.0                  python                       
 wsproto                           1.2.0                  python                       
 wyoming                           1.5.4                  python                       
