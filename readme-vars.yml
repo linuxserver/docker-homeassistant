@@ -115,6 +115,7 @@ init_diagram: |
   "homeassistant:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "04.12.24:", desc: "Make setcap target dynamic."}
   - {date: "07.11.24:", desc: "Add go2rtc binary."}
   - {date: "12.10.24:", desc: "Allow uv to modify system python packages."}
   - {date: "07.10.24:", desc: "Switch to `uv` instead of `pip`."}
