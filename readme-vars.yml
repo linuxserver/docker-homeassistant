@@ -4,7 +4,7 @@
 project_name: homeassistant
 project_url: "https://www.home-assistant.io/"
 project_logo: "https://github.com/home-assistant/home-assistant.io/raw/next/source/images/favicon-192x192-full.png"
-project_blurb: "[Home Assistant Core]({{ project_url }}) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. \n"
+project_blurb: "[Home Assistant Core]({{ project_url }}) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server"
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
 # supported architectures
 available_architectures:
@@ -14,10 +14,7 @@ available_architectures:
 param_container_name: "{{ project_name }}"
 param_usage_include_vols: true
 param_volumes:
-  - {vol_path: "/config", vol_host_path: "/path/to/data", desc: "Home Assistant config storage path."}
-param_usage_include_env: true
-param_env_vars:
-  - {env_var: "TZ", env_value: "Europe/London", desc: "Specify your TimeZone e.g. Europe/London."}
+  - {vol_path: "/config", vol_host_path: "/path/to/{{ project_name }}/data", desc: "Home Assistant config storage path."}
 param_usage_include_ports: false
 param_usage_include_net: true
 param_net: "host"
