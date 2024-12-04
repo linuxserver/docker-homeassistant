@@ -319,6 +319,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **04.12.24:** - Make setcap target dynamic.
 * **07.11.24:** - Add go2rtc binary.
 * **12.10.24:** - Allow uv to modify system python packages.
 * **07.10.24:** - Switch to `uv` instead of `pip`.

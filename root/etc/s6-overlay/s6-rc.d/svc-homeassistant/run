@@ -1,7 +1,8 @@
 #!/usr/bin/with-contenv bash
 # shellcheck shell=bash
 
-setcap 'cap_net_bind_service=+ep' /usr/local/bin/python3.12
+PY_LOCAL_PATH=$(find /usr/local/lib -maxdepth 1 -name python* -type d)
+setcap 'cap_net_bind_service=+ep' ${PY_LOCAL_PATH}
 
 if [[ -z "${DISABLE_JEMALLOC+x}" ]]; then
   export LD_PRELOAD="/usr/local/lib/libjemalloc.so.2"
