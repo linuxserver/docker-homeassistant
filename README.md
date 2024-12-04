@@ -39,7 +39,7 @@ Find us at:
 [![Jenkins Build](https://img.shields.io/jenkins/build?labelColor=555555&logoColor=ffffff&style=for-the-badge&jobUrl=https%3A%2F%2Fci.linuxserver.io%2Fjob%2FDocker-Pipeline-Builders%2Fjob%2Fdocker-homeassistant%2Fjob%2Fmain%2F&logo=jenkins)](https://ci.linuxserver.io/job/Docker-Pipeline-Builders/job/docker-homeassistant/job/main/)
 [![LSIO CI](https://img.shields.io/badge/dynamic/yaml?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=CI&query=CI&url=https%3A%2F%2Fci-tests.linuxserver.io%2Flinuxserver%2Fhomeassistant%2Flatest%2Fci-status.yml)](https://ci-tests.linuxserver.io/linuxserver/homeassistant/latest/index.html)
 
-[Home Assistant Core](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
+[Home Assistant Core](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server
 
 [![homeassistant](https://github.com/home-assistant/home-assistant.io/raw/next/source/images/favicon-192x192-full.png)](https://www.home-assistant.io/)
 
@@ -119,7 +119,7 @@ services:
       - PGID=1000
       - TZ=Etc/UTC
     volumes:
-      - /path/to/data:/config
+      - /path/to/homeassistant/data:/config
     ports:
       - 8123:8123 #optional
     devices:
@@ -137,7 +137,7 @@ docker run -d \
   -e PGID=1000 \
   -e TZ=Etc/UTC \
   -p 8123:8123 `#optional` \
-  -v /path/to/data:/config \
+  -v /path/to/homeassistant/data:/config \
   --device /path/to/device:/path/to/device `#optional` \
   --restart unless-stopped \
   lscr.io/linuxserver/homeassistant:latest
