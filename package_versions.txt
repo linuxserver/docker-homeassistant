@@ -33,7 +33,7 @@ aioazuredevops                    2.2.1                  python
 aiobafi6                          0.9.0                  python                       
 aiobotocore                       2.13.1                 python                       
 aiocache                          0.12.3                 python                       
-aiocoap                           0.4.11                 python                       
+aiocoap                           0.4.12                 python                       
 aiocomelit                        0.9.1                  python                       
 aioconsole                        0.8.1                  python                       
 aiodhcpwatcher                    1.0.2                  python                       
@@ -52,7 +52,7 @@ aioflo                            2021.11.0              python
 aioftp                            0.21.3                 python                       
 aiogithubapi                      24.6.0                 python                       
 aioguardian                       2022.7.0               python                       
-aiohappyeyeballs                  2.4.3                  python                       
+aiohappyeyeballs                  2.4.4                  python                       
 aioharmony                        0.2.10                 python                       
 aiohasupervisor                   0.2.1                  python                       
 aiohomekit                        3.2.6                  python                       
@@ -70,7 +70,7 @@ aiokef                            0.2.16                 python
 aiolifx                           1.1.1                  python                       
 aiolifx-effects                   0.3.2                  python                       
 aiolifx-themes                    0.5.5                  python                       
-aiolimiter                        1.1.0                  python                       
+aiolimiter                        1.2.0                  python                       
 aiolivisi                         0.0.19                 python                       
 aiolookin                         1.0.0                  python                       
 aiolyric                          2.0.1                  python                       
@@ -219,8 +219,8 @@ beautifulsoup4                    4.12.3                 python
 bellows                           0.42.0                 python                       
 bidict                            0.23.1                 python                       
 bimmer-connected                  0.16.4                 python                       
-bind-libs                         9.18.27-r0             apk                          
-bind-tools                        9.18.27-r0             apk                          
+bind-libs                         9.18.31-r0             apk                          
+bind-tools                        9.18.31-r0             apk                          
 bitarray                          2.9.3                  python                       
 bitstring                         4.2.3                  python                       
 bitstruct                         8.19.0                 python                       
@@ -534,7 +534,7 @@ hass-nabucasa                     0.83.0                 python
 hass-splunk                       0.1.1                  python                       
 hassil                            1.7.4                  python                       
 hatasmota                         0.9.2                  python                       
-haversine                         2.8.1                  python                       
+haversine                         2.9.0                  python                       
 hdate                             0.10.9                 python                       
 heatmiserv3                       2.0.3                  python                       
 here-routing                      1.0.1                  python                       
@@ -563,7 +563,7 @@ httplib2                          0.20.4                 python
 httpsig                           1.3.0                  python                       
 httpx                             0.27.2                 python                       
 huawei-lte-api                    1.9.3                  python                       
-huggingface-hub                   0.26.2                 python                       
+huggingface-hub                   0.26.3                 python                       
 humanfriendly                     10.0                   python                       
 huum                              0.7.10                 python                       
 hwdata-pci                        0.382-r0               apk                          
@@ -585,7 +585,7 @@ ifaddr                            0.2.0                  python
 iglo                              1.2.7                  python                       
 ihcsdk                            2.8.5                  python                       
 ijson                             3.3.0                  python                       
-imageio                           2.36.0                 python                       
+imageio                           2.36.1                 python                       
 imath                             3.1.12-r0              apk                          
 imgw-pib                          1.0.6                  python                       
 imlib2                            1.12.2-r0              apk                          
@@ -1243,7 +1243,7 @@ pyswitchmate                      0.5.1                  python
 pysyncthru                        0.7.10                 python                       
 pytautulli                        23.1.1                 python                       
 pytedee-async                     0.2.20                 python                       
-pytest                            8.3.3                  python                       
+pytest                            8.3.4                  python                       
 pytest-cov                        6.0.0                  python                       
 pytest-mock                       3.14.0                 python                       
 pytest-rerunfailures              15.0                   python                       
@@ -1380,7 +1380,7 @@ romy                              0.0.10                 python
 roombapy                          1.8.1                  python                       
 roonapi                           0.1.6                  python                       
 rova                              0.4.1                  python                       
-rpds-py                           0.21.0                 python                       
+rpds-py                           0.22.0                 python                       
 rpi-bad-power                     0.1.0                  python                       
 rsa                               4.9                    python                       
 rtmapi                            0.7.2                  python                       
@@ -1482,7 +1482,7 @@ stookalert                        0.1.4                  python
 stookwijzer                       1.3.0                  python                       
 streamlabswater                   1.0.1                  python                       
 stringcase                        1.2.0                  python                       
-striprtf                          0.0.27                 python                       
+striprtf                          0.0.28                 python                       
 subarulink                        0.7.11                 python                       
 sunweg                            3.0.2                  python                       
 surepy                            0.9.0                  python                       
@@ -1523,7 +1523,7 @@ titlecase                         2.4.1                  python
 tmb                               0.0.4                  python                       
 todoist-api-python                2.1.2                  python                       
 tokenize-rt                       6.1.0                  python                       
-tokenizers                        0.20.4                 python                       
+tokenizers                        0.21.0                 python                       
 tololib                           1.1.0                  python                       
 toonapi                           0.3.0                  python                       
 total-connect-client              2024.5                 python                       
