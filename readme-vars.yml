@@ -70,8 +70,52 @@ app_setup_block: |
   For the [Ping][ping0] integration to work, the capability `NET_RAW` must be added to the container. See above for instructions.
 
   [ping0]: https://www.home-assistant.io/integrations/ping
-
 unraid_template_sync: false
+# init diagram
+init_diagram: |
+  "homeassistant:latest": {
+    docker-mods
+    base {
+      fix-attr +\nlegacy cont-init
+    }
+    docker-mods -> base
+    legacy-services
+    custom services
+    init-services -> legacy-services
+    init-services -> custom services
+    custom services -> legacy-services
+    legacy-services -> ci-service-check
+    init-migrations -> init-adduser
+    init-os-end -> init-config
+    init-config -> init-config-end
+    init-usb-homeassistant -> init-config-end
+    init-config -> init-config-homeassistant
+    init-os-end -> init-crontab-config
+    init-mods-end -> init-custom-files
+    base -> init-envfile
+    base -> init-migrations
+    base -> init-mods
+    init-config-end -> init-mods
+    init-mods -> init-mods-end
+    init-mods-package-install -> init-mods-end
+    init-mods -> init-mods-package-install
+    base -> init-os-end
+    init-adduser -> init-os-end
+    init-envfile -> init-os-end
+    init-migrations -> init-os-end
+    init-custom-files -> init-services
+    init-mods-end -> init-services
+    init-config-homeassistant -> init-usb-homeassistant
+    init-services -> svc-cron
+    svc-cron -> legacy-services
+    init-services -> svc-homeassistant
+    init-usb-homeassistant -> svc-homeassistant
+    svc-homeassistant -> legacy-services
+  }
+  Base Images: {
+    "baseimage-alpine:3.20"
+  }
+  "homeassistant:latest" <- Base Images
 # changelog
 changelogs:
   - {date: "07.11.24:", desc: "Add go2rtc binary."}
