@@ -412,7 +412,7 @@ evohome-async                     0.4.20                 python
 evolutionhttp                     0.0.18                 python                       
 exceptiongroup                    1.2.2                  python                       
 faadelays                         2023.9.1               python                       
-fake-useragent                    1.5.1                  python                       
+fake-useragent                    2.0.0                  python                       
 fastdotcom                        0.0.3                  python                       
 faust-cchardet                    2.1.19                 python                       
 feedparser                        6.0.11                 python                       
