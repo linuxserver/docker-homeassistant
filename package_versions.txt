@@ -20,7 +20,7 @@ aio-geojson-nsw-rfs-incidents     0.7                    python
 aio-geojson-usgs-earthquakes      0.3                    python                       
 aio-georss-client                 0.13                   python                       
 aio-georss-gdacs                  0.10                   python                       
-aioacaia                          0.1.10                 python                       
+aioacaia                          0.1.11                 python                       
 aioairq                           0.4.3                  python                       
 aioairzone                        0.9.7                  python                       
 aioairzone-cloud                  0.6.10                 python                       
@@ -71,7 +71,7 @@ aiokef                            0.2.16                 python
 aiolifx                           1.1.1                  python                       
 aiolifx-effects                   0.3.2                  python                       
 aiolifx-themes                    0.5.5                  python                       
-aiolimiter                        1.2.0                  python                       
+aiolimiter                        1.2.1                  python                       
 aiolivisi                         0.0.19                 python                       
 aiolookin                         1.0.0                  python                       
 aiolyric                          2.0.1                  python                       
@@ -119,7 +119,7 @@ aiosyncthing                      0.5.1                  python
 aiotankerkoenig                   0.4.2                  python                       
 aiotedee                          0.2.20                 python                       
 aiotractive                       0.6.0                  python                       
-aiounifi                          80                     python                       
+aiounifi                          81                     python                       
 aiovlc                            0.5.1                  python                       
 aiovodafone                       0.6.1                  python                       
 aiowaqi                           3.1.0                  python                       
@@ -221,7 +221,7 @@ bash                              5.2.26-r0              apk
 batinfo                           0.4.2                  python                       
 bcrypt                            4.2.0                  python                       
 beautifulsoup4                    4.12.3                 python                       
-bellows                           0.42.2                 python                       
+bellows                           0.42.5                 python                       
 bidict                            0.23.1                 python                       
 bimmer-connected                  0.17.2                 python                       
 bind-libs                         9.18.31-r0             apk                          
@@ -269,6 +269,7 @@ buienradar                        1.0.6                  python
 busybox                           1.36.1-r29             apk                          
 busybox-binsh                     1.36.1-r29             apk                          
 bx-py-utils                       106                    python                       
+bytecode                          0.13.0.dev0            python                       
 c-ares                            1.33.1-r0              apk                          
 ca-certificates                   20240705-r0            apk                          
 ca-certificates-bundle            20240705-r0            apk                          
@@ -339,9 +340,9 @@ dbus                              1.14.10-r1             apk
 dbus-daemon-launch-helper         1.14.10-r1             apk                          
 dbus-fast                         2.24.3                 python                       
 dbus-libs                         1.14.10-r1             apk                          
-debugpy                           1.8.6                  python                       
+debugpy                           1.8.8                  python                       
 decorator                         5.1.1                  python                       
-deebot-client                     9.2.0                  python                       
+deebot-client                     9.3.0                  python                       
 deepdiff                          6.7.1                  python                       
 deepmerge                         2.0                    python                       
 defusedxml                        0.7.1                  python                       
@@ -412,7 +413,7 @@ evohome-async                     0.4.20                 python
 evolutionhttp                     0.0.18                 python                       
 exceptiongroup                    1.2.2                  python                       
 faadelays                         2023.9.1               python                       
-fake-useragent                    2.0.0                  python                       
+fake-useragent                    2.0.3                  python                       
 fastdotcom                        0.0.3                  python                       
 faust-cchardet                    2.1.19                 python                       
 feedparser                        6.0.11                 python                       
@@ -487,7 +488,7 @@ go2rtc-client                     0.1.1                  python
 goalzero                          0.2.2                  python                       
 goodwe                            0.3.6                  python                       
 google-ai-generativelanguage      0.6.10                 python                       
-google-api-core                   2.23.0                 python                       
+google-api-core                   2.24.0                 python                       
 google-api-python-client          2.71.0                 python                       
 google-auth                       2.36.0                 python                       
 google-auth-httplib2              0.2.0                  python                       
@@ -549,9 +550,9 @@ hole                              0.8.0                  python
 holidays                          0.62                   python                       
 home-assistant-bluetooth          1.13.0                 python                       
 home-assistant-chip-clusters      2024.9.0               python                       
-home-assistant-frontend           20241127.6             python                       
-home-assistant-intents            2024.12.4              python                       
-homeassistant                     2024.12.1              python                       
+home-assistant-frontend           20241127.7             python                       
+home-assistant-intents            2024.12.9              python                       
+homeassistant                     2024.12.2              python                       
 homeconnect                       0.8.0                  python                       
 homematicip                       1.1.3                  python                       
 horimote                          0.4.1                  python                       
@@ -638,7 +639,7 @@ jaraco-text                       4.0.0                  python
 jeepney                           0.8.0                  python                       
 jellyfin-apiclient-python         1.9.2                  python                       
 jinja2                            3.1.4                  python                       
-jiter                             0.8.0                  python                       
+jiter                             0.8.2                  python                       
 jmespath                          1.0.1                  python                       
 josepy                            1.14.0                 python                       
 jq                                1.7.1-r0               apk                          
@@ -964,7 +965,7 @@ plexapi                           4.15.16                python
 plexauth                          0.0.6                  python                       
 plexwebsocket                     0.0.14                 python                       
 pluggy                            1.5.0                  python                       
-plugwise                          1.6.0                  python                       
+plugwise                          1.6.3                  python                       
 plumbum                           1.9.0                  python                       
 plumlightpad                      0.0.11                 python                       
 ply                               3.11                   python                       
@@ -1056,7 +1057,7 @@ pycrc16                           0.1.2                  python
 pycryptodome                      3.21.0                 python                       
 pycryptodomex                     3.21.0                 python                       
 pycsspeechtts                     1.0.8                  python                       
-pycups                            1.9.73                 python                       
+pycups                            2.0.4                  python                       
 pydaikin                          2.13.7                 python                       
 pydanfossair                      0.1.0                  python                       
 pydantic                          1.10.19                python                       
@@ -1067,7 +1068,7 @@ pydelijn                          1.1.0                  python
 pydexcom                          0.2.3                  python                       
 pydiscovergy                      3.0.2                  python                       
 pydoods                           1.0.2                  python                       
-pydrawise                         2024.9.0               python                       
+pydrawise                         2024.12.0              python                       
 pydroid-ipcam                     2.0.0                  python                       
 pydub                             0.25.1                 python                       
 pyduotecno                        2024.10.1              python                       
@@ -1087,7 +1088,7 @@ pyenvisalink                      4.7                    python
 pyephember                        0.3.1                  python                       
 pyeverlights                      0.1.0                  python                       
 pyevilgenius                      2.0.0                  python                       
-pyezviz                           0.2.2.3                python                       
+pyezviz                           0.2.1.2                python                       
 pyfibaro                          0.8.0                  python                       
 pyfido                            2.1.2                  python                       
 pyfireservicerota                 0.0.43                 python                       
@@ -1209,7 +1210,7 @@ pyrepetierng                      0.1.0                  python
 pyrfc3339                         2.0.1                  python                       
 pyrfxtrx                          0.31.1                 python                       
 pyric                             0.1.6.3                python                       
-pyrisco                           0.6.4                  python                       
+pyrisco                           0.6.5                  python                       
 pyrituals                         0.0.6                  python                       
 pyrmvtransport                    0.3.3                  python                       
 pyroute2                          0.7.5                  python                       
@@ -1301,7 +1302,7 @@ python-socketio                   5.11.4                 python
 python-socketio-v4                4.6.1                  python                       
 python-socks                      2.5.3                  python                       
 python-songpal                    0.16.2                 python                       
-python-tado                       0.17.7                 python                       
+python-tado                       0.17.6                 python                       
 python-technove                   1.3.1                  python                       
 python-telegram-bot               21.5                   python                       
 python-vlc                        3.0.18122              python                       
@@ -1366,7 +1367,7 @@ regex                             2024.11.6              python
 related-without-future            0.7.4                  python                       
 renault-api                       0.2.7                  python                       
 renson-endura-delta               1.7.1                  python                       
-reolink-aio                       0.11.4                 python                       
+reolink-aio                       0.11.5                 python                       
 repoze-lru                        0.7                    python                       
 requests                          2.32.3                 python                       
 requests-aws4auth                 1.3.1                  python                       
@@ -1540,7 +1541,7 @@ tokenizers                        0.21.0                 python
 tololib                           1.1.0                  python                       
 tomli                             2.0.1                  python                       
 toonapi                           0.3.0                  python                       
-total-connect-client              2024.5                 python                       
+total-connect-client              2024.12                python                       
 tp-connected                      0.0.4                  python                       
 tplink-omada-client               1.4.3                  python                       
 tqdm                              4.67.1                 python                       
@@ -1553,7 +1554,7 @@ trio-websocket                    0.11.1                 python
 ttls                              1.8.3                  python                       
 ttn-client                        1.2.0                  python                       
 tuya-device-sharing-sdk           0.2.1                  python                       
-twentemilieu                      2.1.0                  python                       
+twentemilieu                      2.2.0                  python                       
 twilio                            6.32.0                 python                       
 twitchapi                         4.2.1                  python                       
 twitterapi                        2.7.12                 python                       
@@ -1667,20 +1668,20 @@ xz-libs                           5.6.2-r0               apk
 yagrc                             1.1.2                  python                       
 yalesmartalarmclient              0.4.3                  python                       
 yalexs                            8.10.0                 python                       
-yalexs-ble                        2.5.1                  python                       
+yalexs-ble                        2.5.2                  python                       
 yarl                              1.18.3                 python                       
 yeelight                          0.7.14                 python                       
 yeelightsunflower                 0.0.10                 python                       
 yolink-api                        0.4.7                  python                       
 youless-api                       2.1.2                  python                       
 youtubeaio                        1.1.5                  python                       
-yt-dlp                            2024.12.3              python                       
+yt-dlp                            2024.12.6              python                       
 zamg                              0.3.6                  python                       
 zeep                              4.3.1                  python                       
 zengge                            0.2                    python                       
 zeroconf                          0.136.2                python                       
 zeversolar                        0.3.2                  python                       
-zha                               0.0.41                 python                       
+zha                               0.0.42                 python                       
 zha-quirks                        0.0.125                python                       
 zhong-hong-hvac                   1.0.13                 python                       
 ziggo-mediabox-xl                 1.1.0                  python                       
