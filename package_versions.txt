@@ -321,7 +321,7 @@ coverage                          7.6.9                  python
 crc                               4.3.0                  python                       
 crccheck                          1.3.0                  python                       
 crcmod                            1.7                    python                       
-croniter                          5.0.1                  python                       
+croniter                          6.0.0                  python                       
 cronsim                           2.6                    python                       
 crownstone-cloud                  1.4.11                 python                       
 crownstone-core                   3.2.1                  python                       
@@ -1266,7 +1266,7 @@ python-dateutil                   2.9.0.post0            python
 python-didl-lite                  1.4.1                  python                       
 python-digitalocean               1.13.2                 python                       
 python-ecobee-api                 0.2.20                 python                       
-python-engineio                   4.10.1                 python                       
+python-engineio                   4.11.0                 python                       
 python-engineio-v3                3.14.2                 python                       
 python-etherscan-api              0.0.3                  python                       
 python-family-hub-local           0.0.2                  python                       
