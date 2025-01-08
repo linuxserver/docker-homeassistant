@@ -799,7 +799,7 @@ mac-vendor-lookup                 0.1.12             python
 mariadb-connector-c               3.3.10-r0          apk                          
 markdown                          3.7                python                       
 markupsafe                        3.0.2              python                       
-marshmallow                       3.24.0             python                       
+marshmallow                       3.24.1             python                       
 marshmallow-dataclass             8.7.1              python                       
 mashumaro                         3.15               python                       
 mastodon-py                       1.8.1              python                       
