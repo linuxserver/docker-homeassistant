@@ -30,7 +30,7 @@ aioapcaccess                      0.4.2              python
 aioaquacell                       0.2.0              python                       
 aioaseko                          1.0.0              python                       
 aioasuswrt                        1.4.0              python                       
-aioautomower                      2024.12.0          python                       
+aioautomower                      2025.1.0           python                       
 aioazuredevops                    2.2.1              python                       
 aiobafi6                          0.9.0              python                       
 aiobotocore                       2.13.1             python                       
@@ -275,7 +275,7 @@ ca-certificates                   20241121-r0        apk
 ca-certificates-bundle            20241121-r0        apk                          
 cached-ipaddress                  0.8.0              python                       
 cachetools                        5.5.0              python                       
-caio                              0.9.17             python                       
+caio                              0.9.19             python                       
 caldav                            1.3.9              python                       
 casttube                          0.2.1              python                       
 catatonit                         0.2.0-r0           apk                          
@@ -313,7 +313,7 @@ connio                            0.2.0              python
 construct                         2.10.68            python                       
 construct-typing                  0.6.2              python                       
 convertertools                    0.5.0              python                       
-cookidoo-api                      0.11.2             python                       
+cookidoo-api                      0.12.2             python                       
 coreutils                         9.5-r1             apk                          
 coreutils-env                     9.5-r1             apk                          
 coreutils-fmt                     9.5-r1             apk                          
@@ -552,9 +552,9 @@ hole                              0.8.0              python
 holidays                          0.64               python                       
 home-assistant-bluetooth          1.13.0             python                       
 home-assistant-chip-clusters      2024.9.0           python                       
-home-assistant-frontend           20250106.0         python                       
+home-assistant-frontend           20250109.0         python                       
 home-assistant-intents            2025.1.1           python                       
-homeassistant                     2025.1.1           python                       
+homeassistant                     2025.1.2           python                       
 homeconnect                       0.8.0              python                       
 homematicip                       1.1.5              python                       
 horimote                          0.4.1              python                       
@@ -799,7 +799,7 @@ mac-vendor-lookup                 0.1.12             python
 mariadb-connector-c               3.3.10-r0          apk                          
 markdown                          3.7                python                       
 markupsafe                        3.0.2              python                       
-marshmallow                       3.24.1             python                       
+marshmallow                       3.25.0             python                       
 marshmallow-dataclass             8.7.1              python                       
 mashumaro                         3.15               python                       
 mastodon-py                       1.8.1              python                       
@@ -1101,7 +1101,7 @@ pyfibaro                          0.8.0              python
 pyfido                            2.1.2              python                       
 pyfireservicerota                 0.0.43             python                       
 pyflic                            2.0.4              python                       
-pyflick                           1.1.2              python                       
+pyflick                           1.1.3              python                       
 pyflume                           0.6.5              python                       
 pyfnip                            0.2                python                       
 pyforked-daapd                    0.1.14             python                       
@@ -1255,7 +1255,7 @@ pyspcwebgw                        0.7.0              python
 pyspeex-noise                     1.0.2              python                       
 pysqueezebox                      0.10.0             python                       
 pystiebeleltron                   0.0.1.dev2         python                       
-pysuezv2                          2.0.1              python                       
+pysuezv2                          2.0.3              python                       
 pyswitchbee                       1.8.3              python                       
 pyswitchbot                       0.55.4             python                       
 pyswitchmate                      0.5.1              python                       
@@ -1331,7 +1331,7 @@ pyturbojpeg                       1.7.5              python
 pytz                              2024.2             python                       
 pyudev                            0.24.1             python                       
 pyuptimerobot                     22.2.0             python                       
-pyusb                             1.3.0              python                       
+pyusb                             1.3.1              python                       
 pyvera                            0.3.15             python                       
 pyversasense                      0.0.6              python                       
 pyvesync                          2.1.12             python                       
@@ -1435,7 +1435,7 @@ sentry-sdk                        1.40.3             python
 sepaxml                           2.6.2              python                       
 serd-libs                         0.32.2-r0          apk                          
 serialio                          2.4.0              python                       
-setuptools                        75.7.0             python                       
+setuptools                        75.8.0             python                       
 sfrbox-api                        0.0.11             python                       
 sgmllib3k                         1.0.0              python                       
 shaderc                           2024.0-r2          apk                          
