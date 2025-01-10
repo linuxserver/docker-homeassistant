@@ -139,7 +139,7 @@ alpha-vantage                     2.3.1              python
 alpine-baselayout                 3.6.8-r1           apk                          
 alpine-baselayout-data            3.6.8-r1           apk                          
 alpine-keys                       2.5-r0             apk                          
-alpine-release                    3.21.0-r0          apk                          
+alpine-release                    3.21.2-r0          apk                          
 alsa-lib                          1.2.12-r0          apk                          
 amberelectric                     2.0.12             python                       
 amcrest                           1.9.8              python                       
@@ -271,8 +271,8 @@ busybox                           1.37.0-r9          apk
 busybox-binsh                     1.37.0-r9          apk                          
 bx-py-utils                       106                python                       
 c-ares                            1.34.3-r0          apk                          
-ca-certificates                   20241121-r0        apk                          
-ca-certificates-bundle            20241121-r0        apk                          
+ca-certificates                   20241121-r1        apk                          
+ca-certificates-bundle            20241121-r1        apk                          
 cached-ipaddress                  0.8.0              python                       
 cachetools                        5.5.0              python                       
 caio                              0.9.19             python                       
@@ -314,10 +314,10 @@ construct                         2.10.68            python
 construct-typing                  0.6.2              python                       
 convertertools                    0.5.0              python                       
 cookidoo-api                      0.12.2             python                       
-coreutils                         9.5-r1             apk                          
-coreutils-env                     9.5-r1             apk                          
-coreutils-fmt                     9.5-r1             apk                          
-coreutils-sha512sum               9.5-r1             apk                          
+coreutils                         9.5-r2             apk                          
+coreutils-env                     9.5-r2             apk                          
+coreutils-fmt                     9.5-r2             apk                          
+coreutils-sha512sum               9.5-r2             apk                          
 coverage                          7.6.10             python                       
 crc                               4.3.0              python                       
 crccheck                          1.3.0              python                       
