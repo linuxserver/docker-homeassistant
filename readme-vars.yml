@@ -6,6 +6,7 @@ project_url: "https://www.home-assistant.io/"
 project_logo: "https://github.com/home-assistant/home-assistant.io/raw/next/source/images/favicon-192x192-full.png"
 project_blurb: "[Home Assistant Core]({{ project_url }}) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server"
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
+project_categories: "Home Automation"
 # supported architectures
 available_architectures:
   - {arch: "{{ arch_x86_64 }}", tag: "amd64-latest"}
