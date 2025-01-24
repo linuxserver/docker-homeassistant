@@ -125,7 +125,7 @@ aiovodafone                       0.6.1              python
 aiowaqi                           3.1.0              python                       
 aiowatttime                       0.1.1              python                       
 aiowebostv                        0.4.2              python                       
-aiowithings                       3.1.4              python                       
+aiowithings                       3.1.5              python                       
 aioymaps                          1.2.5              python                       
 aiozoneinfo                       0.2.1              python                       
 airgradient                       0.9.1              python                       
@@ -187,7 +187,7 @@ asyncssh                          2.19.0             python
 asyncstdlib                       3.13.0             python                       
 asynctest                         0.13.0             python                       
 atomicwrites-homeassistant        1.4.1              python                       
-atpublic                          5.0                python                       
+atpublic                          5.1                python                       
 attr                              0.3.2              python                       
 attrs                             24.2.0             python                       
 audioop-lts                       0.2.1              python                       
@@ -211,7 +211,7 @@ azure-identity                    1.19.0             python
 azure-kusto-data                  4.5.1              python                       
 azure-kusto-ingest                4.5.1              python                       
 azure-servicebus                  7.10.0             python                       
-azure-storage-blob                12.24.0            python                       
+azure-storage-blob                12.24.1            python                       
 azure-storage-queue               12.12.0            python                       
 babel                             2.15.0             python                       
 backoff                           2.2.1              python                       
@@ -492,7 +492,7 @@ goodwe                            0.3.6              python
 google-ai-generativelanguage      0.6.10             python                       
 google-api-core                   2.24.0             python                       
 google-api-python-client          2.71.0             python                       
-google-auth                       2.37.0             python                       
+google-auth                       2.38.0             python                       
 google-auth-httplib2              0.2.0              python                       
 google-auth-oauthlib              1.2.1              python                       
 google-cloud-pubsub               2.23.0             python                       
@@ -549,16 +549,16 @@ hkavr                             0.0.5              python
 hko                               0.3.2              python                       
 hlk-sw16                          0.0.9              python                       
 hole                              0.8.0              python                       
-holidays                          0.64               python                       
+holidays                          0.65               python                       
 home-assistant-bluetooth          1.13.0             python                       
 home-assistant-chip-clusters      2024.9.0           python                       
-home-assistant-frontend           20250109.0         python                       
+home-assistant-frontend           20250109.2         python                       
 home-assistant-intents            2025.1.1           python                       
-homeassistant                     2025.1.3           python                       
+homeassistant                     2025.1.4           python                       
 homeconnect                       0.8.0              python                       
 homematicip                       1.1.5              python                       
 horimote                          0.4.1              python                       
-hpack                             4.0.0              python                       
+hpack                             4.1.0              python                       
 html-table-parser-python3         0.1.5              python                       
 html5lib                          1.1                python     (+1 duplicate)    
 httmock                           1.4.0              python                       
@@ -573,7 +573,7 @@ humanfriendly                     10.0               python
 huum                              0.7.12             python                       
 hwdata-pci                        0.390-r0           apk                          
 hwdata-usb                        0.390-r0           apk                          
-hyperframe                        6.0.1              python                       
+hyperframe                        6.1.0              python                       
 hyperion-py                       0.7.5              python                       
 iammeter                          0.2.1              python                       
 iaqualink                         0.5.0              python                       
@@ -643,7 +643,7 @@ jellyfin-apiclient-python         1.9.2              python
 jinja2                            3.1.5              python                       
 jiter                             0.8.2              python                       
 jmespath                          1.0.1              python                       
-josepy                            1.14.0             python                       
+josepy                            1.15.0             python                       
 jq                                1.7.1-r0           apk                          
 js2py                             0.74               python                       
 json-api-doc                      0.15.0             python                       
@@ -799,7 +799,7 @@ mac-vendor-lookup                 0.1.12             python
 mariadb-connector-c               3.3.10-r0          apk                          
 markdown                          3.7                python                       
 markupsafe                        3.0.2              python                       
-marshmallow                       3.25.1             python                       
+marshmallow                       3.26.0             python                       
 marshmallow-dataclass             8.7.1              python                       
 mashumaro                         3.15               python                       
 mastodon-py                       1.8.1              python                       
@@ -951,7 +951,7 @@ pathvalidate                      3.2.3              python
 pbr                               6.1.0              python                       
 pcre2                             10.43-r0           apk                          
 pdunehd                           1.3.2              python                       
-peblar                            0.3.3              python                       
+peblar                            0.4.0              python                       
 peco                              0.0.30             python                       
 pencompy                          0.0.3              python                       
 pescea                            1.0.12             python                       
@@ -979,7 +979,7 @@ ply                               3.11               python
 pmsensor                          0.4                python                       
 poolsense                         0.0.8              python                       
 portalocker                       2.10.1             python                       
-powerfox                          1.2.0              python                       
+powerfox                          1.2.1              python                       
 pprintpp                          0.4.0              python                       
 praw                              7.5.0              python                       
 prawcore                          2.4.0              python                       
@@ -1422,7 +1422,7 @@ sdl2                              2.30.9-r0          apk
 secretstorage                     3.3.3              python                       
 securetar                         2024.11.0          python                       
 segno                             1.6.1              python                       
-selenium                          4.28.0             python                       
+selenium                          4.28.1             python                       
 semver                            3.0.3              python                       
 sendgrid                          6.8.2              python                       
 sense-energy                      0.13.4             python                       
@@ -1668,7 +1668,7 @@ xbox-webapi                       2.1.0              python
 xiaomi-ble                        0.33.0             python                       
 xknx                              3.4.0              python                       
 xknxproject                       3.8.1              python                       
-xlsxwriter                        3.2.0              python                       
+xlsxwriter                        3.2.1              python                       
 xmlschema                         3.4.3              python                       
 xmltodict                         0.13.0             python                       
 xs1-api-client                    3.0.0              python                       
