@@ -111,7 +111,7 @@ aioslimproto                      3.0.0              python
 aiosmtpd                          1.4.6              python                       
 aiosolaredge                      0.2.0              python                       
 aiosomecomfort                    0.0.28             python                       
-aiosqlite                         0.20.0             python                       
+aiosqlite                         0.21.0             python                       
 aiosteamist                       1.0.0              python                       
 aiostreammagic                    2.10.0             python                       
 aioswitcher                       5.1.0              python                       
@@ -225,8 +225,8 @@ beautifulsoup4                    4.12.3             python
 bellows                           0.42.6             python                       
 bidict                            0.23.1             python                       
 bimmer-connected                  0.17.2             python                       
-bind-libs                         9.18.32-r0         apk                          
-bind-tools                        9.18.32-r0         apk                          
+bind-libs                         9.18.33-r0         apk                          
+bind-tools                        9.18.33-r0         apk                          
 bitarray                          2.9.3              python                       
 bitstring                         4.2.3              python                       
 bitstruct                         8.19.0             python                       
@@ -244,7 +244,7 @@ bluemaestro-ble                   0.2.3              python
 bluetooth-adapters                0.20.2             python                       
 bluetooth-auto-recovery           1.4.2              python                       
 bluetooth-data-tools              1.20.0             python                       
-bluetooth-sensor-state-data       1.7.1              python                       
+bluetooth-sensor-state-data       1.7.2              python                       
 bluez                             5.79-r0            apk                          
 bluez-deprecated                  5.79-r0            apk                          
 bluez-libs                        5.79-r0            apk                          
@@ -280,7 +280,7 @@ caldav                            1.3.9              python
 casttube                          0.2.1              python                       
 catatonit                         0.2.0-r0           apk                          
 cbor2                             5.6.5              python                       
-certifi                           2024.12.14         python                       
+certifi                           2025.1.31          python                       
 cffi                              1.17.1             python                       
 cfgv                              3.4.0              python                       
 chacha20poly1305                  0.0.3              python                       
@@ -332,7 +332,7 @@ cryptography                      44.0.0             python
 cssselect                         1.2.0              python                       
 cups-libs                         2.4.11-r0          apk                          
 curl                              8.11.1-r0          apk                          
-dacite                            1.8.1              python                       
+dacite                            1.9.1              python                       
 dataclasses-json                  0.6.7              python                       
 datadog                           0.15.0             python                       
 datapoint                         0.9.9              python                       
@@ -714,7 +714,7 @@ libgcc                            14.2.0-r4          apk
 libgcrypt                         1.10.3-r1          apk                          
 libgomp                           14.2.0-r4          apk                          
 libgpg-error                      1.51-r0            apk                          
-libgpiod                          2.2-r0             apk                          
+libgpiod                          2.2-r1             apk                          
 libhwy                            1.0.7-r0           apk                          
 libid3tag                         0.16.3-r0          apk                          
 libidn2                           2.3.7-r0           apk                          
@@ -799,7 +799,7 @@ mac-vendor-lookup                 0.1.12             python
 mariadb-connector-c               3.3.10-r0          apk                          
 markdown                          3.7                python                       
 markupsafe                        3.0.2              python                       
-marshmallow                       3.26.0             python                       
+marshmallow                       3.26.1             python                       
 marshmallow-dataclass             8.7.1              python                       
 mashumaro                         3.15               python                       
 mastodon-py                       1.8.1              python                       
@@ -827,7 +827,7 @@ miniaudio                         1.61               python
 minio                             7.1.12             python                       
 moat-ble                          0.1.1              python                       
 moehlenhoff-alpha2                1.3.1              python                       
-monarchmoney                      0.1.14             python                       
+monarchmoney                      0.1.15             python                       
 monzopy                           1.4.2              python                       
 mopeka-iot-ble                    0.8.0              python                       
 more-itertools                    10.3.0             python                       
@@ -948,7 +948,7 @@ pandas                            2.2.3              python
 paramiko                          3.5.0              python                       
 path                              17.1.0             python                       
 pathvalidate                      3.2.3              python                       
-pbr                               6.1.0              python                       
+pbr                               6.1.1              python                       
 pcre2                             10.43-r0           apk                          
 pdunehd                           1.3.2              python                       
 peblar                            0.4.0              python                       
@@ -986,7 +986,7 @@ prawcore                          2.4.0              python
 prayer-times-calculator-offline   1.0.3              python                       
 pre-commit                        4.1.0              python                       
 pre-commit-package                dev-1              lua-rocks                    
-prettytable                       3.13.0             python                       
+prettytable                       3.14.0             python                       
 procps-ng                         4.0.4-r2           apk                          
 progettihwsw                      0.1.3              python                       
 proliphix                         0.4.1              python                       
@@ -1310,7 +1310,7 @@ python-slugify                    8.0.4              python
 python-smarttub                   0.0.38             python                       
 python-socketio                   5.12.1             python                       
 python-socketio-v4                4.6.1              python                       
-python-socks                      2.7.0              python                       
+python-socks                      2.7.1              python                       
 python-songpal                    0.16.2             python                       
 python-tado                       0.17.6             python                       
 python-technove                   1.3.1              python                       
@@ -1328,7 +1328,7 @@ pytrafikverket                    1.1.1              python
 pytransportnsw                    0.1.1              python                       
 pytrydan                          0.8.0              python                       
 pyturbojpeg                       1.7.5              python                       
-pytz                              2024.2             python                       
+pytz                              2025.1             python                       
 pyudev                            0.24.1             python                       
 pyuptimerobot                     22.2.0             python                       
 pyusb                             1.3.1              python                       
@@ -1572,7 +1572,7 @@ typeguard                         4.3.0              python
 typeguard                         4.4.1              python                       
 typer                             0.12.5             python                       
 types-python-dateutil             2.9.0.20241206     python                       
-types-pytz                        2024.2.0.20241221  python                       
+types-pytz                        2025.1.0.20250204  python                       
 typing-extensions                 4.12.2             python     (+1 duplicate)    
 typing-inspect                    0.9.0              python                       
 tzdata                            2024b-r1           apk                          
