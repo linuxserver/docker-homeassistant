@@ -104,7 +104,7 @@ aiorussound                       4.4.0              python
 aioruuvigateway                   0.1.0              python                       
 aiosenz                           1.0.0              python                       
 aioserial                         1.3.0              python                       
-aioshelly                         12.4.1             python                       
+aioshelly                         12.4.2             python                       
 aioshutil                         1.5                python                       
 aiosignal                         1.3.2              python                       
 aioskybell                        22.7.0             python                       
@@ -320,7 +320,7 @@ coreutils                         9.5-r2             apk
 coreutils-env                     9.5-r2             apk                          
 coreutils-fmt                     9.5-r2             apk                          
 coreutils-sha512sum               9.5-r2             apk                          
-coverage                          7.6.10             python                       
+coverage                          7.6.11             python                       
 crc                               4.3.0              python                       
 crccheck                          1.3.0              python                       
 crcmod                            1.7                python                       
@@ -333,7 +333,7 @@ crownstone-uart                   2.1.0              python
 cryptography                      44.0.0             python                       
 cssselect                         1.2.0              python                       
 cups-libs                         2.4.11-r0          apk                          
-curl                              8.11.1-r0          apk                          
+curl                              8.12.0-r0          apk                          
 dacite                            1.8.1              python                       
 dataclasses-json                  0.6.7              python                       
 datadog                           0.15.0             python                       
@@ -534,7 +534,7 @@ h2                                4.1.0              python
 ha-ffmpeg                         3.2.2              python                       
 ha-iotawattpy                     0.1.2              python                       
 ha-philipsjs                      3.2.2              python                       
-habiticalib                       0.3.5              python                       
+habiticalib                       0.3.7              python                       
 habitipy                          0.3.3              python                       
 habluetooth                       3.21.1             python                       
 hap-python                        4.9.2              python                       
@@ -556,9 +556,9 @@ hole                              0.8.0              python
 holidays                          0.66               python                       
 home-assistant-bluetooth          1.13.0             python                       
 home-assistant-chip-clusters      2024.11.4          python                       
-home-assistant-frontend           20250205.0         python                       
+home-assistant-frontend           20250210.0         python                       
 home-assistant-intents            2025.2.5           python                       
-homeassistant                     2025.2.1           python                       
+homeassistant                     2025.2.2           python                       
 homeconnect                       0.8.0              python                       
 homematicip                       1.1.7              python                       
 horimote                          0.4.1              python                       
@@ -588,7 +588,7 @@ icalendar                         6.1.0              python
 icmplib                           3.0                python                       
 idasen                            0.12.0             python                       
 idasen-ha                         2.6.3              python                       
-identify                          2.6.6              python                       
+identify                          2.6.7              python                       
 idna                              3.10               python                       
 ifaddr                            0.2.0              python                       
 iglo                              1.2.7              python                       
@@ -676,7 +676,7 @@ konnected                         1.2.0              python
 krakenex                          2.2.2              python                       
 krb5-conf                         1.0-r2             apk                          
 krb5-libs                         1.21.3-r0          apk                          
-lacrosse-view                     1.0.4              python                       
+lacrosse-view                     1.1.1              python                       
 lakeside                          0.13               python                       
 lame-libs                         3.100-r5           apk                          
 lark-parser                       0.7.8              python                       
@@ -703,8 +703,8 @@ libcap-setcap                     2.71-r0            apk
 libcap-utils                      2.71-r0            apk                          
 libcap2                           2.71-r0            apk                          
 libcom_err                        1.47.1-r1          apk                          
-libcrypto3                        3.3.2-r5           apk                          
-libcurl                           8.11.1-r0          apk                          
+libcrypto3                        3.3.2-r6           apk                          
+libcurl                           8.12.0-r0          apk                          
 libdav1d                          1.5.0-r0           apk                          
 libdeflate                        1.22-r0            apk                          
 libdovi                           3.3.1-r0           apk                          
@@ -753,9 +753,9 @@ libsoundtouch                     0.8.0              python
 libsrt                            1.5.3-r0           apk                          
 libssh                            0.11.1-r0          apk                          
 libssh2                           1.11.1-r0          apk                          
-libssl3                           3.3.2-r5           apk                          
+libssl3                           3.3.2-r6           apk                          
 libstdc++                         14.2.0-r4          apk                          
-libtasn1                          4.19.0-r2          apk                          
+libtasn1                          4.20.0-r0          apk                          
 libtheora                         1.1.1-r18          apk                          
 libturbojpeg                      3.0.4-r0           apk                          
 libunibreak                       6.1-r0             apk                          
@@ -907,11 +907,11 @@ oauthlib                          3.2.2              python
 objgraph                          3.5.0              python                       
 odp-amsterdam                     6.0.2              python                       
 oemthermostat                     1.1.1              python                       
-ohme                              1.2.8              python                       
+ohme                              1.2.9              python                       
 ollama                            0.4.7              python                       
 omnilogic                         0.4.5              python                       
 ondilo                            0.5.0              python                       
-onedrive-personal-sdk             0.0.8              python                       
+onedrive-personal-sdk             0.0.10             python                       
 onevpl-libs                       2023.3.1-r2        apk                          
 oniguruma                         6.9.9-r0           apk                          
 onvif-zeep-async                  3.2.5              python                       
@@ -929,7 +929,7 @@ opensensemap-api                  0.2.0              python
 openssh-client-common             9.9_p1-r2          apk                          
 openssh-client-default            9.9_p1-r2          apk                          
 openssh-keygen                    9.9_p1-r2          apk                          
-openssl                           3.3.2-r5           apk                          
+openssl                           3.3.2-r6           apk                          
 openwebifpy                       4.3.1              python                       
 openwrt-luci-rpc                  1.1.17             python                       
 openwrt-ubus-rpc                  0.0.2              python                       
@@ -1029,7 +1029,7 @@ py-nextbusnext                    2.0.5              python
 py-nightscout                     1.2.2              python                       
 py-schluter                       0.1.7              python                       
 py-sucks                          0.9.10             python                       
-py-synologydsm-api                2.6.0              python                       
+py-synologydsm-api                2.6.2              python                       
 py-vapid                          1.9.2              python                       
 py3rijndael                       0.3.3              python                       
 pyads                             3.4.0              python                       
@@ -1084,7 +1084,7 @@ pydelijn                          1.1.0              python
 pydexcom                          0.2.3              python                       
 pydiscovergy                      3.0.2              python                       
 pydoods                           1.0.2              python                       
-pydrawise                         2025.1.0           python                       
+pydrawise                         2025.2.0           python                       
 pydroid-ipcam                     2.0.0              python                       
 pydub                             0.25.1             python                       
 pyduotecno                        2024.10.1          python                       
@@ -1123,7 +1123,7 @@ pygtfs                            0.1.9              python
 pygti                             0.9.4              python                       
 pyhamcrest                        2.1.0              python                       
 pyhaversion                       22.8.0             python                       
-pyheos                            1.0.1              python                       
+pyheos                            1.0.2              python                       
 pyhik                             0.3.2              python                       
 pyhive-integration                1.0.1              python                       
 pyhomee                           1.2.5              python                       
@@ -1292,7 +1292,7 @@ python-family-hub-local           0.0.2              python
 python-fullykiosk                 0.0.14             python                       
 python-gc100                      1.0.3a0            python                       
 python-gitlab                     1.6.0              python                       
-python-google-drive-api           0.0.2              python                       
+python-google-drive-api           0.1.0              python                       
 python-homeassistant-analytics    0.8.1              python                       
 python-homewizard-energy          8.3.2              python                       
 python-hpilo                      4.4.3              python                       
@@ -1628,7 +1628,7 @@ venstarcolortouch                 0.19               python
 vidstab                           1.1.1-r0           apk                          
 vilfo-api-client                  0.5.0              python                       
 vincenty                          0.1.4              python                       
-virtualenv                        20.29.1            python                       
+virtualenv                        20.29.2            python                       
 vobject                           0.9.9              python                       
 voip-utils                        0.3.1              python                       
 volkszaehler                      0.4.0              python                       
