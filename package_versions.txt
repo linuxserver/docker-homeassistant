@@ -54,7 +54,7 @@ aioflo                              2021.11.0          python
 aioftp                              0.21.3             python                       
 aiogithubapi                        24.6.0             python                       
 aioguardian                         2022.7.0           python                       
-aiohappyeyeballs                    2.4.8              python                       
+aiohappyeyeballs                    2.5.0              python                       
 aioharmony                          0.4.1              python                       
 aiohasupervisor                     0.3.0              python                       
 aiohomeconnect                      0.16.2             python                       
@@ -169,7 +169,7 @@ aqipy-atmotech                      0.1.5              python
 aqualogic                           2.6                python                       
 aranet4                             2.5.1              python                       
 arcam-fmj                           1.8.1              python                       
-argcomplete                         3.5.3              python                       
+argcomplete                         3.6.0              python                       
 arris-tg2492lg                      2.2.0              python                       
 arrow                               1.3.0              python                       
 asgiref                             3.8.1              python                       
@@ -349,7 +349,7 @@ dbus-libs                           1.14.10-r4         apk
 debugpy                             1.8.11             python                       
 decorator                           5.2.1              python                       
 deebot-client                       12.3.1             python                       
-deepdiff                            8.2.0              python                       
+deepdiff                            8.3.0              python                       
 deepmerge                           2.0                python                       
 defusedxml                          0.7.1              python                       
 deluge-client                       1.10.2             python                       
@@ -513,9 +513,9 @@ govee-local-api                     2.0.1              python
 gpiod                               2.3.0              python                       
 gpiozero                            1.6.2              python                       
 gps3                                0.33.3             python                       
-gql                                 3.5.1              python                       
+gql                                 3.5.2              python                       
 graphite2                           1.3.14-r6          apk                          
-graphql-core                        3.2.3              python                       
+graphql-core                        3.2.4              python                       
 graphviz                            0.20.3             python                       
 greeclimate                         2.1.0              python                       
 greeneye-monitor                    3.0.3              python                       
@@ -1595,7 +1595,7 @@ typing-extensions                   4.12.2             python     (+1 duplicate)
 typing-inspect                      0.9.0              python                       
 tzdata                              2025.1             python                       
 tzdata                              2025a-r0           apk                          
-tzlocal                             5.3                python                       
+tzlocal                             5.3.1              python                       
 uart-devices                        0.1.1              python                       
 uasiren                             0.0.1              python                       
 uiprotect                           7.5.1              python                       
