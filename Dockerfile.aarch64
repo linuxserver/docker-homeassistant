@@ -154,8 +154,9 @@ RUN \
   make -j "$(nproc)" && \
   make install_lib_shared install_bin && \
   echo "**** install python ****" && \
+  PY_HA_ALPINE_VER=$(echo "${HA_ALPINE_VER}" | sed 's|\.||') && \
   PY_RELEASE_TAG=$(curl -s https://api.github.com/repos/linuxserver/docker-python/releases \
-    | jq -r "first(.[] | select(.tag_name | startswith(\"alpine320-${HA_PY_VERSION}\"))) | .tag_name") && \
+    | jq -r "first(.[] | select(.tag_name | startswith(\"alpine${PY_HA_ALPINE_VER}-${HA_PY_VERSION}\"))) | .tag_name") && \
   if [ -n "${PY_RELEASE_TAG}" ]; then \
     echo "**** Installing python from the linuxserver python repo release ${PY_RELEASE_TAG} ****" && \
     curl -o \
