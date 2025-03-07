@@ -57,7 +57,7 @@ aioguardian                         2022.7.0           python
 aiohappyeyeballs                    2.5.0              python                       
 aioharmony                          0.4.1              python                       
 aiohasupervisor                     0.3.0              python                       
-aiohomeconnect                      0.16.2             python                       
+aiohomeconnect                      0.16.3             python                       
 aiohomekit                          3.2.8              python                       
 aiohttp                             3.11.13            python                       
 aiohttp-asyncmdnsresolver           0.1.1              python                       
@@ -128,7 +128,7 @@ aiovlc                              0.5.1              python
 aiovodafone                         0.6.1              python                       
 aiowaqi                             3.1.0              python                       
 aiowatttime                         0.1.1              python                       
-aiowebdav2                          0.3.1              python                       
+aiowebdav2                          0.4.1              python                       
 aiowebostv                          0.7.3              python                       
 aiowithings                         3.1.6              python                       
 aioymaps                            1.2.5              python                       
@@ -504,7 +504,7 @@ google-cloud-texttospeech           2.17.2             python
 google-genai                        1.1.0              python                       
 google-nest-sdm                     7.1.4              python                       
 google-photos-library-api           0.12.1             python                       
-googleapis-common-protos            1.69.0             python                       
+googleapis-common-protos            1.69.1             python                       
 googlemaps                          2.5.1              python                       
 goslide-api                         0.7.0              python                       
 gotailwind                          0.3.0              python                       
@@ -558,9 +558,9 @@ hole                                0.8.0              python
 holidays                            0.68               python                       
 home-assistant-bluetooth            1.13.1             python                       
 home-assistant-chip-clusters        2024.11.4          python                       
-home-assistant-frontend             20250305.0         python                       
+home-assistant-frontend             20250306.0         python                       
 home-assistant-intents              2025.3.5           python                       
-homeassistant                       2025.3.0           python                       
+homeassistant                       2025.3.1           python                       
 homematicip                         1.1.7              python                       
 horimote                            0.4.1              python                       
 hpack                               4.1.0              python                       
@@ -575,8 +575,8 @@ httpx-sse                           0.4.0              python
 huawei-lte-api                      1.10.0             python                       
 humanfriendly                       10.0               python                       
 huum                                0.7.12             python                       
-hwdata-pci                          0.390-r0           apk                          
-hwdata-usb                          0.390-r0           apk                          
+hwdata-pci                          0.393-r0           apk                          
+hwdata-usb                          0.393-r0           apk                          
 hyperframe                          6.1.0              python                       
 hyperion-py                         0.7.5              python                       
 iammeter                            0.2.1              python                       
@@ -779,7 +779,7 @@ libxcb                              1.16.1-r0          apk
 libxdmcp                            1.1.5-r1           apk                          
 libxext                             1.3.6-r2           apk                          
 libxfixes                           6.0.1-r4           apk                          
-libxml2                             2.13.4-r3          apk                          
+libxml2                             2.13.4-r4          apk                          
 libxslt                             1.1.42-r1          apk                          
 libxv                               1.0.12-r5          apk                          
 libzbar                             0.23.93-r1         apk                          
@@ -879,7 +879,7 @@ netmap                              0.7.0.2            python
 nettigo-air-monitor                 4.0.0              python                       
 nettle                              3.10-r1            apk                          
 neurio                              0.3.1              python                       
-nexia                               2.2.1              python                       
+nexia                               2.2.2              python                       
 nextcloudmonitor                    1.5.1              python                       
 nextcord                            2.6.0              python                       
 nextdns                             4.0.0              python                       
@@ -1033,7 +1033,7 @@ py-nextbusnext                      2.0.5              python
 py-nightscout                       1.2.2              python                       
 py-schluter                         0.1.7              python                       
 py-sucks                            0.9.10             python                       
-py-synologydsm-api                  2.7.0              python                       
+py-synologydsm-api                  2.7.1              python                       
 py-vapid                            1.9.2              python                       
 py3rijndael                         0.3.3              python                       
 pyads                               3.4.0              python                       
@@ -1253,7 +1253,7 @@ pysignalclirestapi                  0.3.24             python
 pyskyqhub                           0.1.4              python                       
 pysma                               0.7.5              python                       
 pysmappee                           0.2.29             python                       
-pysmartthings                       2.5.0              python                       
+pysmartthings                       2.7.0              python                       
 pysmarty2                           0.10.2             python                       
 pysmb                               1.2.10             python                       
 pysmhi                              1.0.0              python                       
@@ -1324,7 +1324,7 @@ python-ripple-api                   0.0.3              python
 python-roborock                     2.11.1             python                       
 python-slugify                      8.0.4              python                       
 python-smarttub                     0.0.39             python                       
-python-snoo                         0.6.0              python                       
+python-snoo                         0.6.1              python                       
 python-socketio                     5.12.1             python                       
 python-socketio-v4                  4.6.1              python                       
 python-socks                        2.7.1              python                       
@@ -1553,7 +1553,7 @@ tesla-wall-connector                1.0.2              python
 teslemetry-stream                   0.6.10             python                       
 tessie-api                          0.1.1              python                       
 text-unidecode                      1.3                python                       
-thermobeacon-ble                    0.8.0              python                       
+thermobeacon-ble                    0.8.1              python                       
 thermopro-ble                       0.11.0             python                       
 thingspeak                          1.0.0              python                       
 thinqconnect                        1.0.4              python                       
@@ -1635,7 +1635,7 @@ venstarcolortouch                   0.19               python
 vidstab                             1.1.1-r0           apk                          
 vilfo-api-client                    0.5.0              python                       
 vincenty                            0.1.4              python                       
-virtualenv                          20.29.2            python                       
+virtualenv                          20.29.3            python                       
 vobject                             0.9.9              python                       
 voip-utils                          0.3.1              python                       
 volkszaehler                        0.4.0              python                       
