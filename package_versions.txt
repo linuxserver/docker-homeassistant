@@ -54,7 +54,7 @@ aioflo                              2021.11.0          python
 aioftp                              0.21.3             python                       
 aiogithubapi                        24.6.0             python                       
 aioguardian                         2022.7.0           python                       
-aiohappyeyeballs                    2.5.0              python                       
+aiohappyeyeballs                    2.6.0              python                       
 aioharmony                          0.4.1              python                       
 aiohasupervisor                     0.3.0              python                       
 aiohomeconnect                      0.16.3             python                       
