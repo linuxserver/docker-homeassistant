@@ -35,7 +35,7 @@ aioazuredevops                      2.2.1              python
 aiobafi6                            0.9.0              python                       
 aiobotocore                         2.13.1             python                       
 aiocache                            0.12.3             python                       
-aiocoap                             0.4.12             python                       
+aiocoap                             0.4.14             python                       
 aiocomelit                          0.10.1             python                       
 aioconsole                          0.8.1              python                       
 aiodhcpwatcher                      1.1.1              python                       
@@ -229,8 +229,8 @@ beautifulsoup4                      4.12.3             python
 bellows                             0.43.0             python                       
 bidict                              0.23.1             python                       
 bimmer-connected                    0.17.2             python                       
-bind-libs                           9.18.34-r0         apk                          
-bind-tools                          9.18.34-r0         apk                          
+bind-libs                           9.18.35-r0         apk                          
+bind-tools                          9.18.35-r0         apk                          
 bitarray                            2.9.3              python                       
 bitstring                           4.2.3              python                       
 bitstruct                           8.20.0             python                       
@@ -322,7 +322,7 @@ coreutils                           9.5-r2             apk
 coreutils-env                       9.5-r2             apk                          
 coreutils-fmt                       9.5-r2             apk                          
 coreutils-sha512sum                 9.5-r2             apk                          
-coverage                            7.7.0              python                       
+coverage                            7.7.1              python                       
 crc                                 4.3.0              python                       
 crccheck                            1.3.0              python                       
 crcmod                              1.7                python                       
@@ -559,7 +559,7 @@ home-assistant-bluetooth            1.13.1             python
 home-assistant-chip-clusters        2024.11.4          python                       
 home-assistant-frontend             20250306.0         python                       
 home-assistant-intents              2025.3.5           python                       
-homeassistant                       2025.3.3           python                       
+homeassistant                       2025.3.4           python                       
 homematicip                         1.1.7              python                       
 horimote                            0.4.1              python                       
 hpack                               4.1.0              python                       
@@ -609,7 +609,7 @@ inflect                             7.5.0              python
 inflection                          0.5.1              python                       
 influxdb                            5.3.1              python                       
 influxdb-client                     1.24.0             python                       
-iniconfig                           2.0.0              python                       
+iniconfig                           2.1.0              python                       
 inkbird-ble                         0.7.1              python                       
 inquirerpy                          0.3.4              python                       
 insteon-frontend-home-assistant     0.5.0              python                       
@@ -930,9 +930,9 @@ openssh-client-common               9.9_p2-r0          apk
 openssh-client-default              9.9_p2-r0          apk                          
 openssh-keygen                      9.9_p2-r0          apk                          
 openssl                             3.3.3-r0           apk                          
-opentelemetry-api                   1.31.0             python                       
-opentelemetry-sdk                   1.31.0             python                       
-opentelemetry-semantic-conventions  0.52b0             python                       
+opentelemetry-api                   1.31.1             python                       
+opentelemetry-sdk                   1.31.1             python                       
+opentelemetry-semantic-conventions  0.52b1             python                       
 openwebifpy                         4.3.1              python                       
 openwrt-luci-rpc                    1.1.17             python                       
 openwrt-ubus-rpc                    0.0.2              python                       
@@ -978,7 +978,7 @@ pip                                 25.0.1             python
 pizzapi                             0.0.6              python                       
 pkce                                1.0.3              python                       
 platformdirs                        4.2.2              python                       
-platformdirs                        4.3.6              python                       
+platformdirs                        4.3.7              python                       
 plexapi                             4.15.16            python                       
 plexauth                            0.0.6              python                       
 plexwebsocket                       0.0.14             python                       
@@ -994,7 +994,7 @@ pprintpp                            0.4.0              python
 praw                                7.5.0              python                       
 prawcore                            2.4.0              python                       
 prayer-times-calculator-offline     1.0.3              python                       
-pre-commit                          4.1.0              python                       
+pre-commit                          4.2.0              python                       
 pre-commit-package                  dev-1              lua-rocks                    
 prettytable                         3.15.1             python                       
 procps-ng                           4.0.4-r2           apk                          
@@ -1157,7 +1157,7 @@ pykrakenapi                         0.1.8              python
 pykulersky                          0.5.2              python                       
 pykwb                               0.0.8              python                       
 pylacrosse                          0.4                python                       
-pylamarzocco                        1.4.7              python                       
+pylamarzocco                        1.4.9              python                       
 pylast                              5.1.0              python                       
 pylaunches                          2.0.0              python                       
 pylgnetcast                         0.3.9              python                       
@@ -1251,7 +1251,7 @@ pysignalclirestapi                  0.3.24             python
 pyskyqhub                           0.1.4              python                       
 pysma                               0.7.5              python                       
 pysmappee                           0.2.29             python                       
-pysmartthings                       2.7.2              python                       
+pysmartthings                       2.7.4              python                       
 pysmarty2                           0.10.2             python                       
 pysmb                               1.2.10             python                       
 pysmhi                              1.0.0              python                       
@@ -1269,7 +1269,7 @@ pysqueezebox                        0.12.0             python
 pystiebeleltron                     0.0.1.dev2         python                       
 pysuezv2                            2.0.4              python                       
 pyswitchbee                         1.8.3              python                       
-pyswitchbot                         0.56.1             python                       
+pyswitchbot                         0.57.1             python                       
 pyswitchmate                        0.5.1              python                       
 pysyncthru                          0.8.0              python                       
 pytautulli                          23.1.1             python                       
@@ -1322,7 +1322,7 @@ python-ripple-api                   0.0.3              python
 python-roborock                     2.12.2             python                       
 python-slugify                      8.0.4              python                       
 python-smarttub                     0.0.39             python                       
-python-snoo                         0.6.1              python                       
+python-snoo                         0.6.4              python                       
 python-socketio                     5.12.1             python                       
 python-socketio-v4                  4.6.1              python                       
 python-socks                        2.7.1              python                       
@@ -1452,7 +1452,7 @@ sentry-sdk                          1.45.1             python
 sepaxml                             2.6.2              python                       
 serd-libs                           0.32.2-r0          apk                          
 serialio                            2.4.0              python                       
-setuptools                          76.1.0             python                       
+setuptools                          77.0.3             python                       
 sfrbox-api                          0.0.11             python                       
 sgmllib3k                           1.0.0              python                       
 shaderc                             2024.0-r2          apk                          
@@ -1665,8 +1665,7 @@ websocket-client                    1.8.0              python
 websockets                          14.2               python                       
 weheat                              2025.2.26          python                       
 werkzeug                            3.1.3              python                       
-wheel                               0.43.0             python                       
-wheel                               0.45.1             python                       
+wheel                               0.45.1             python     (+1 duplicate)    
 whirlpool-sixth-sense               0.18.12            python                       
 whois                               0.9.27             python                       
 wiffi                               1.1.2              python                       
@@ -1708,7 +1707,7 @@ zeep                                4.3.1              python
 zengge                              0.2                python                       
 zeroconf                            0.145.1            python                       
 zeversolar                          0.3.2              python                       
-zha                                 0.0.52             python                       
+zha                                 0.0.53             python                       
 zha-quirks                          0.0.134            python                       
 zhong-hong-hvac                     1.0.13             python                       
 ziggo-mediabox-xl                   1.1.0              python                       
