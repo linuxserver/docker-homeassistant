@@ -168,7 +168,7 @@ aqipy-atmotech                      0.1.5              python
 aqualogic                           2.6                python                       
 aranet4                             2.5.1              python                       
 arcam-fmj                           1.8.1              python                       
-argcomplete                         3.6.0              python                       
+argcomplete                         3.6.1              python                       
 arris-tg2492lg                      2.2.0              python                       
 arrow                               1.3.0              python                       
 asgiref                             3.8.1              python                       
@@ -335,7 +335,7 @@ crownstone-uart                     2.1.0              python
 cryptography                        44.0.1             python                       
 cssselect                           1.3.0              python                       
 cups-libs                           2.4.11-r0          apk                          
-curl                                8.12.1-r0          apk                          
+curl                                8.12.1-r1          apk                          
 dacite                              1.8.1              python                       
 dataclasses-json                    0.6.7              python                       
 datadog                             0.15.0             python                       
@@ -705,7 +705,7 @@ libcap-utils                        2.71-r0            apk
 libcap2                             2.71-r0            apk                          
 libcom_err                          1.47.1-r1          apk                          
 libcrypto3                          3.3.3-r0           apk                          
-libcurl                             8.12.1-r0          apk                          
+libcurl                             8.12.1-r1          apk                          
 libdav1d                            1.5.0-r0           apk                          
 libdeflate                          1.22-r0            apk                          
 libdovi                             3.3.1-r0           apk                          
@@ -996,7 +996,7 @@ prawcore                            2.4.0              python
 prayer-times-calculator-offline     1.0.3              python                       
 pre-commit                          4.2.0              python                       
 pre-commit-package                  dev-1              lua-rocks                    
-prettytable                         3.15.1             python                       
+prettytable                         3.16.0             python                       
 procps-ng                           4.0.4-r2           apk                          
 progettihwsw                        0.1.3              python                       
 proliphix                           0.4.1              python                       
@@ -1207,7 +1207,7 @@ pyotp                               2.8.0              python
 pyoverkiz                           1.16.0             python                       
 pyownet                             0.10.0.post1       python                       
 pypalazzetti                        0.1.19             python                       
-pyparsing                           3.2.1              python                       
+pyparsing                           3.2.3              python                       
 pypasser                            0.0.5              python                       
 pypca                               0.0.7              python                       
 pypck                               0.8.5              python                       
@@ -1253,7 +1253,7 @@ pysma                               0.7.5              python
 pysmappee                           0.2.29             python                       
 pysmartthings                       2.7.4              python                       
 pysmarty2                           0.10.2             python                       
-pysmb                               1.2.10             python                       
+pysmb                               1.2.11             python                       
 pysmhi                              1.0.0              python                       
 pysmi                               1.5.11             python                       
 pysml                               0.0.12             python                       
@@ -1286,7 +1286,7 @@ python-clementine-remote            1.0.1              python
 python-dateutil                     2.9.0.post0        python                       
 python-didl-lite                    1.4.1              python                       
 python-digitalocean                 1.13.2             python                       
-python-dotenv                       1.0.1              python                       
+python-dotenv                       1.1.0              python                       
 python-ecobee-api                   0.2.20             python                       
 python-engineio                     4.11.2             python                       
 python-engineio-v3                  3.14.2             python                       
@@ -1343,7 +1343,7 @@ pytrafikverket                      1.1.1              python
 pytransportnsw                      0.1.1              python                       
 pytrydan                            0.8.0              python                       
 pyturbojpeg                         1.7.5              python                       
-pytz                                2025.1             python                       
+pytz                                2025.2             python                       
 pyuptimerobot                       22.2.0             python                       
 pyusb                               1.3.1              python                       
 pyvera                              0.3.15             python                       
@@ -1437,7 +1437,7 @@ sdl2                                2.30.9-r0          apk
 secretstorage                       3.3.3              python                       
 securetar                           2025.2.1           python                       
 segno                               1.6.6              python                       
-selenium                            4.29.0             python                       
+selenium                            4.30.0             python                       
 semver                              3.0.4              python                       
 sendgrid                            6.8.2              python                       
 sense-energy                        0.13.7             python                       
@@ -1452,7 +1452,7 @@ sentry-sdk                          1.45.1             python
 sepaxml                             2.6.2              python                       
 serd-libs                           0.32.2-r0          apk                          
 serialio                            2.4.0              python                       
-setuptools                          77.0.3             python                       
+setuptools                          78.1.0             python                       
 sfrbox-api                          0.0.11             python                       
 sgmllib3k                           1.0.0              python                       
 shaderc                             2024.0-r2          apk                          
@@ -1591,7 +1591,7 @@ types-python-dateutil               2.9.0.20241206     python
 types-pytz                          2025.1.0.20250318  python                       
 typing-extensions                   4.12.2             python     (+1 duplicate)    
 typing-inspect                      0.9.0              python                       
-tzdata                              2025.1             python                       
+tzdata                              2025.2             python                       
 tzdata                              2025a-r0           apk                          
 tzlocal                             5.3.1              python                       
 uart-devices                        0.1.1              python                       
@@ -1684,7 +1684,7 @@ xiaomi-ble                          0.33.0             python
 xknx                                3.6.0              python                       
 xknxproject                         3.8.2              python                       
 xlsxwriter                          3.2.2              python                       
-xmlschema                           3.4.4              python                       
+xmlschema                           3.4.5              python                       
 xmltodict                           0.13.0             python                       
 xs1-api-client                      3.0.0              python                       
 xvidcore                            1.3.7-r2           apk                          
