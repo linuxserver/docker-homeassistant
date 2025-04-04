@@ -168,7 +168,7 @@ aqipy-atmotech                      0.1.5              python
 aqualogic                           2.6                python                     
 aranet4                             2.5.1              python                     
 arcam-fmj                           1.8.1              python                     
-argcomplete                         3.6.1              python                     
+argcomplete                         3.6.2              python                     
 arris-tg2492lg                      2.2.0              python                     
 arrow                               1.3.0              python                     
 asgiref                             3.8.1              python                     
@@ -209,7 +209,7 @@ awscrt                              0.24.1             python
 awsiotsdk                           1.22.2             python                     
 axis                                64                 python                     
 ayla-iot-unofficial                 1.4.7              python                     
-azure-core                          1.32.0             python                     
+azure-core                          1.33.0             python                     
 azure-eventhub                      5.11.1             python                     
 azure-identity                      1.21.0             python                     
 azure-kusto-data                    4.5.1              python                     
@@ -416,7 +416,7 @@ eternalegypt                        0.0.16             python
 eudev-libs                          3.2.14-r5          apk                        
 eufylife-ble-client                 0.1.8              python                     
 events                              0.4                python                     
-evohome-async                       1.0.4              python                     
+evohome-async                       1.0.5              python                     
 evolutionhttp                       0.0.18             python                     
 exceptiongroup                      1.2.2              python                     
 faadelays                           2023.9.1           python                     
@@ -452,7 +452,7 @@ fnv-hash-fast                       1.4.0              python
 fnvhash                             0.1.0              python                     
 fontconfig                          2.15.0-r1          apk                        
 foobot-async                        1.0.0              python                     
-forecast-solar                      4.0.0              python                     
+forecast-solar                      4.1.0              python                     
 fortiosapi                          1.0.5              python                     
 freebox-api                         1.2.2              python                     
 freenub                             0.1.0              python                     
@@ -559,9 +559,9 @@ hole                                0.8.0              python
 holidays                            0.69               python                     
 home-assistant-bluetooth            1.13.1             python                     
 home-assistant-chip-clusters        2024.11.4          python                     
-home-assistant-frontend             20250401.0         python                     
+home-assistant-frontend             20250404.0         python                     
 home-assistant-intents              2025.3.28          python                     
-homeassistant                       2025.4.0           python                     
+homeassistant                       2025.4.1           python                     
 homematicip                         1.1.7              python                     
 horimote                            0.4.1              python                     
 hpack                               4.1.0              python                     
@@ -815,7 +815,7 @@ mastodon-py                         2.0.1              python
 matrix-nio                          0.25.2             python                     
 maxcube-api                         0.4.3              python                     
 mbddns                              0.1.2              python                     
-mbedtls                             3.6.2-r0           apk                        
+mbedtls                             3.6.3-r0           apk                        
 mcp                                 1.5.0              python                     
 mcstatus                            11.1.1             python                     
 meater-python                       0.0.8              python                     
@@ -854,7 +854,7 @@ msal-extensions                     1.3.1              python
 msgpack                             1.1.0              python                     
 mt-940                              4.30.0             python                     
 mullvad-api                         1.0.0              python                     
-multidict                           6.3.1              python                     
+multidict                           6.3.2              python                     
 munch                               4.0.0              python                     
 music-assistant-client              1.2.0              python                     
 music-assistant-models              1.1.43             python                     
@@ -1058,7 +1058,7 @@ pyblackbird                         0.6                python
 pyblu                               2.0.0              python                     
 pybotvac                            0.0.26             python                     
 pybravia                            0.3.4              python                     
-pycares                             4.5.0              python                     
+pycares                             4.6.0              python                     
 pycarwings2                         2.14               python                     
 pycec                               0.5.2              python                     
 pycfdns                             3.0.0              python                     
@@ -1078,7 +1078,7 @@ pycryptodome                        3.22.0             python
 pycryptodomex                       3.22.0             python                     
 pycsspeechtts                       1.0.8              python                     
 pycups                              2.0.4              python                     
-pydaikin                            2.14.1             python                     
+pydaikin                            2.15.0             python                     
 pydanfossair                        0.1.0              python                     
 pydantic                            2.10.6             python                     
 pydantic-core                       2.27.2             python                     
@@ -1105,7 +1105,7 @@ pyeiscp                             0.0.7              python
 pyelectra                           1.2.4              python                     
 pyemby                              1.10               python                     
 pyemoncms                           0.1.1              python                     
-pyenphase                           1.25.1             python                     
+pyenphase                           1.25.5             python                     
 pyenvisalink                        4.7                python                     
 pyephember                          0.3.1              python                     
 pyeverlights                        0.1.0              python                     
@@ -1255,10 +1255,10 @@ pysignalclirestapi                  0.3.24             python
 pyskyqhub                           0.1.4              python                     
 pysma                               0.7.5              python                     
 pysmappee                           0.2.29             python                     
-pysmartthings                       3.0.1              python                     
+pysmartthings                       3.0.2              python                     
 pysmarty2                           0.10.2             python                     
 pysmb                               1.2.11             python                     
-pysmhi                              1.0.0              python                     
+pysmhi                              1.0.1              python                     
 pysmi                               1.5.11             python                     
 pysml                               0.0.12             python                     
 pysmlight                           0.2.4              python                     
@@ -1331,7 +1331,7 @@ python-socketio                     5.12.1             python
 python-socketio-v4                  4.6.1              python                     
 python-socks                        2.7.1              python                     
 python-songpal                      0.16.2             python                     
-python-tado                         0.18.9             python                     
+python-tado                         0.18.11            python                     
 python-technove                     2.0.0              python                     
 python-telegram-bot                 21.5               python                     
 python-vlc                          3.0.18122          python                     
@@ -1550,7 +1550,7 @@ temescal                            0.5                python
 temperusb                           1.6.1              python                     
 tempora                             5.8.0              python                     
 tenacity                            8.5.0              python                     
-tesla-fleet-api                     1.0.16             python                     
+tesla-fleet-api                     1.0.17             python                     
 tesla-powerwall                     0.5.2              python                     
 tesla-wall-connector                1.0.2              python                     
 teslemetry-stream                   0.6.12             python                     
@@ -1595,7 +1595,7 @@ typer                               0.12.5             python
 types-python-dateutil               2.9.0.20241206     python                     
 types-pytz                          2025.2.0.20250326  python                     
 typing-extensions                   4.12.2             python                     
-typing-extensions                   4.13.0             python                     
+typing-extensions                   4.13.1             python                     
 typing-inspect                      0.9.0              python                     
 tzdata                              2025.2             python                     
 tzdata                              2025b-r0           apk                        
@@ -1672,7 +1672,8 @@ websocket-client                    1.8.0              python
 websockets                          15.0.1             python                     
 weheat                              2025.2.26          python                     
 werkzeug                            3.1.3              python                     
-wheel                               0.45.1             python     (+1 duplicate)  
+wheel                               0.45.1             python                     
+wheel                               0.46.0             python                     
 whirlpool-sixth-sense               0.19.1             python                     
 whois                               0.9.27             python                     
 wiffi                               1.1.2              python                     
@@ -1695,8 +1696,8 @@ xmlschema                           3.4.5              python
 xmltodict                           0.13.0             python                     
 xs1-api-client                      3.0.0              python                     
 xvidcore                            1.3.7-r2           apk                        
-xz                                  5.6.3-r0           apk                        
-xz-libs                             5.6.3-r0           apk                        
+xz                                  5.6.3-r1           apk                        
+xz-libs                             5.6.3-r1           apk                        
 yagrc                               1.1.2              python                     
 yalesmartalarmclient                0.4.3              python                     
 yalexs                              8.10.0             python                     
