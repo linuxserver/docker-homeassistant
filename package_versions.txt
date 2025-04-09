@@ -79,7 +79,7 @@ aiolookin                           1.0.0              python
 aiolyric                            2.0.1              python                     
 aiomealie                           0.9.5              python                     
 aiomodernforms                      0.1.8              python                     
-aiomqtt                             2.3.1              python                     
+aiomqtt                             2.3.2              python                     
 aiomusiccast                        0.14.8             python                     
 aionanoleaf                         0.2.1              python                     
 aionotion                           2024.3.0           python                     
@@ -641,7 +641,7 @@ jaraco-context                      6.0.1              python
 jaraco-email                        3.1.1              python                     
 jaraco-functools                    4.0.1              python                     
 jaraco-functools                    4.1.0              python                     
-jaraco-itertools                    6.4.1              python                     
+jaraco-itertools                    6.4.2              python                     
 jaraco-logging                      3.3.0              python                     
 jaraco-net                          10.2.3             python                     
 jaraco-text                         3.12.1             python                     
@@ -944,7 +944,7 @@ opus                                1.5.2-r1           apk
 opuslib                             3.0.1              python                     
 oralb-ble                           0.17.6             python                     
 orc                                 0.4.40-r1          apk                        
-orderly-set                         5.3.0              python                     
+orderly-set                         5.3.1              python                     
 orjson                              3.10.16            python                     
 oru                                 0.1.11             python                     
 orvibo                              1.1.2              python                     
@@ -1278,7 +1278,7 @@ pyswitchmate                        0.5.1              python
 pysyncthru                          0.8.0              python                     
 pytautulli                          23.1.1             python                     
 pytest                              8.3.5              python                     
-pytest-cov                          6.1.0              python                     
+pytest-cov                          6.1.1              python                     
 pytest-mock                         3.14.0             python                     
 pytest-rerunfailures                15.0               python                     
 pythinkingcleaner                   0.0.3              python                     
@@ -1443,7 +1443,7 @@ sdl2                                2.30.9-r0          apk
 secretstorage                       3.3.3              python                     
 securetar                           2025.2.1           python                     
 segno                               1.6.6              python                     
-selenium                            4.30.0             python                     
+selenium                            4.31.0             python                     
 semver                              3.0.4              python                     
 sendgrid                            6.8.2              python                     
 sense-energy                        0.13.7             python                     
@@ -1673,7 +1673,7 @@ websockets                          15.0.1             python
 weheat                              2025.2.26          python                     
 werkzeug                            3.1.3              python                     
 wheel                               0.45.1             python                     
-wheel                               0.46.0             python                     
+wheel                               0.46.1             python                     
 whirlpool-sixth-sense               0.19.1             python                     
 whois                               0.9.27             python                     
 wiffi                               1.1.2              python                     
