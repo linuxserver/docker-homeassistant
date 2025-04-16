@@ -933,9 +933,9 @@ openssh-client-common               9.9_p2-r0          apk
 openssh-client-default              9.9_p2-r0          apk                        
 openssh-keygen                      9.9_p2-r0          apk                        
 openssl                             3.3.3-r0           apk                        
-opentelemetry-api                   1.32.0             python                     
-opentelemetry-sdk                   1.32.0             python                     
-opentelemetry-semantic-conventions  0.53b0             python                     
+opentelemetry-api                   1.32.1             python                     
+opentelemetry-sdk                   1.32.1             python                     
+opentelemetry-semantic-conventions  0.53b1             python                     
 openwebifpy                         4.3.1              python                     
 openwrt-luci-rpc                    1.1.17             python                     
 openwrt-ubus-rpc                    0.0.2              python                     
