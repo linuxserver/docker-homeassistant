@@ -39,7 +39,7 @@ aiocomelit                          0.12.0             python
 aioconsole                          0.8.1              python                     
 aiodhcpwatcher                      1.1.1              python                     
 aiodiscover                         2.6.1              python                     
-aiodns                              3.3.0              python                     
+aiodns                              3.4.0              python                     
 aiodukeenergy                       0.3.0              python                     
 aioeafm                             0.1.2              python                     
 aioeagle                            1.1.0              python                     
@@ -454,7 +454,7 @@ fnv-hash-fast                       1.5.0              python
 fnvhash                             0.1.0              python                     
 fontconfig                          2.15.0-r1          apk                        
 foobot-async                        1.0.0              python                     
-forecast-solar                      4.1.0              python                     
+forecast-solar                      4.2.0              python                     
 fortiosapi                          1.0.5              python                     
 freebox-api                         1.2.2              python                     
 freenub                             0.1.0              python                     
@@ -562,9 +562,9 @@ hole                                0.8.0              python
 holidays                            0.70               python                     
 home-assistant-bluetooth            1.13.1             python                     
 home-assistant-chip-clusters        2024.11.4          python                     
-home-assistant-frontend             20250507.0         python                     
+home-assistant-frontend             20250509.0         python                     
 home-assistant-intents              2025.5.7           python                     
-homeassistant                       2025.5.0           python                     
+homeassistant                       2025.5.1           python                     
 homematicip                         2.0.1.1            python                     
 horimote                            0.4.1              python                     
 hpack                               4.1.0              python                     
@@ -598,7 +598,7 @@ ifaddr                              0.2.0              python
 iglo                                1.2.7              python                     
 igloohome-api                       0.1.0              python                     
 ihcsdk                              2.8.5              python                     
-ijson                               3.3.0              python                     
+ijson                               3.4.0              python                     
 imageio                             2.37.0             python                     
 imath                               3.1.12-r0          apk                        
 imeon-inverter-api                  0.3.12             python                     
@@ -986,7 +986,7 @@ pip                                 25.0.1             python
 pizzapi                             0.0.6              python                     
 pkce                                1.0.3              python                     
 platformdirs                        4.2.2              python                     
-platformdirs                        4.3.7              python                     
+platformdirs                        4.3.8              python                     
 plexapi                             4.15.16            python                     
 plexauth                            0.0.6              python                     
 plexwebsocket                       0.0.14             python                     
@@ -1166,7 +1166,7 @@ pykrakenapi                         0.1.8              python
 pykulersky                          0.5.8              python                     
 pykwb                               0.0.8              python                     
 pylacrosse                          0.4                python                     
-pylamarzocco                        2.0.0              python                     
+pylamarzocco                        2.0.1              python                     
 pylast                              5.1.0              python                     
 pylaunches                          2.0.0              python                     
 pylgnetcast                         0.3.9              python                     
@@ -1286,7 +1286,7 @@ pytautulli                          23.1.1             python
 pytest                              8.3.5              python                     
 pytest-cov                          6.1.1              python                     
 pytest-mock                         3.14.0             python                     
-pytest-rerunfailures                15.0               python                     
+pytest-rerunfailures                15.1               python                     
 pythinkingcleaner                   0.0.3              python                     
 python                              3.13.3             binary                     
 python-awair                        0.2.4              python                     
@@ -1443,7 +1443,7 @@ satel-integra                       0.3.7              python
 scanelf                             1.3.8-r1           apk                        
 scapy                               2.6.1              python                     
 schedule                            1.2.2              python                     
-scipy                               1.15.2             python                     
+scipy                               1.15.3             python                     
 screenlogicpy                       0.10.0             python                     
 scsgate                             0.1.0              python                     
 sdl2                                2.30.9-r0          apk                        
@@ -1648,7 +1648,7 @@ venstarcolortouch                   0.19               python
 vidstab                             1.1.1-r0           apk                        
 vilfo-api-client                    0.5.0              python                     
 vincenty                            0.1.4              python                     
-virtualenv                          20.31.1            python                     
+virtualenv                          20.31.2            python                     
 vobject                             0.9.9              python                     
 voip-utils                          0.3.2              python                     
 volkszaehler                        0.4.0              python                     
