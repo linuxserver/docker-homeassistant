@@ -471,7 +471,7 @@ freetype                            2.13.3-r0          apk
 fribidi                             1.0.16-r0          apk                          
 fritzconnection                     1.14.0             python                       
 frozendict                          2.4.6              python                       
-frozenlist                          1.6.0              python                       
+frozenlist                          1.6.2              python                       
 fstrm                               0.6.1-r4           apk                          
 ftfy                                6.3.1              python                       
 future                              1.0.0              python                       
@@ -503,7 +503,7 @@ gnutls                              3.8.8-r0           apk
 go2rtc-client                       0.1.2              python                       
 goalzero                            0.2.2              python                       
 goodwe                              0.3.6              python                       
-google-api-core                     2.24.2             python                       
+google-api-core                     2.25.0             python                       
 google-api-python-client            2.71.0             python                       
 google-auth                         2.40.2             python                       
 google-auth-httplib2                0.2.0              python                       
@@ -646,7 +646,7 @@ iputils-ping                        20240905-r0        apk
 iputils-tracepath                   20240905-r0        apk                          
 isal                                1.7.1              python                       
 ismartgate                          5.0.2              python                       
-iso4217                             1.12.20240625      python                       
+iso4217                             1.13.20250512      python                       
 iso8601                             2.1.0              python                       
 isodate                             0.7.2              python                       
 israel-rail-api                     0.1.2              python                       
@@ -1103,7 +1103,7 @@ pydaikin                            2.15.0             python
 pydanfossair                        0.1.0              python                       
 pydantic                            2.11.3             python                       
 pydantic-core                       2.33.1             python                       
-pydantic-extra-types                2.10.4             python                       
+pydantic-extra-types                2.10.5             python                       
 pydantic-settings                   2.9.1              python                       
 pydeako                             0.6.0              python                       
 pydeconz                            120                python                       
@@ -1251,7 +1251,7 @@ pyqvrpro                            0.52               python
 pyqwikswitch                        0.93               python                       
 pyrail                              0.4.1              python                       
 pyrainbird                          6.0.1              python                       
-pyrate-limiter                      3.7.0              python                       
+pyrate-limiter                      3.7.1              python                       
 pyrecswitch                         1.0.2              python                       
 pyrepetierng                        0.1.0              python                       
 pyrfc3339                           2.0.1              python                       
@@ -1281,7 +1281,7 @@ pysmartthings                       3.2.3              python
 pysmarty2                           0.10.2             python                       
 pysmb                               1.2.11             python                       
 pysmhi                              1.0.2              python                       
-pysmi                               1.6.1              python                       
+pysmi                               1.6.2              python                       
 pysml                               0.0.12             python                       
 pysmlight                           0.2.4              python                       
 pysnmp                              6.2.6              python                       
@@ -1299,7 +1299,7 @@ pyswitchbot                         0.60.1             python
 pyswitchmate                        0.5.1              python                       
 pysyncthru                          0.8.0              python                       
 pytautulli                          23.1.1             python                       
-pytest                              8.3.5              python                       
+pytest                              8.4.0              python                       
 pytest-cov                          6.1.1              python                       
 pytest-mock                         3.14.0             python                       
 pytest-rerunfailures                15.1               python                       
@@ -1328,7 +1328,7 @@ python-hpilo                        4.4.3              python
 python-http-client                  3.3.7              python                       
 python-izone                        1.2.9              python                       
 python-join-api                     0.0.9              python                       
-python-jose                         3.3.0              python                       
+python-jose                         3.5.0              python                       
 python-juicenet                     1.1.0              python                       
 python-kasa                         0.10.2             python                       
 python-linkplay                     0.2.5              python                       
@@ -1537,13 +1537,13 @@ sqlparse                            0.5.0              python
 sratom                              0.6.16-r0          apk                          
 srpenergy                           1.3.6              python                       
 srptools                            1.0.1              python                       
-sse-starlette                       2.3.5              python                       
+sse-starlette                       2.3.6              python                       
 ssl_client                          1.37.0-r12         apk                          
 standard-aifc                       3.13.0             python                       
 standard-chunk                      3.13.0             python                       
 standard-telnetlib                  3.13.0             python                       
 starkbank-ecdsa                     2.2.0              python                       
-starlette                           0.46.2             python                       
+starlette                           0.47.0             python                       
 starline                            0.1.5              python                       
 starlingbank                        3.2                python                       
 starlink-grpc-core                  1.2.2              python                       
@@ -1621,7 +1621,7 @@ typer                               0.12.5             python
 types-python-dateutil               2.9.0.20250516     python                       
 types-pytz                          2025.2.0.20250516  python                       
 typing-extensions                   4.12.2             python                       
-typing-extensions                   4.13.2             python                       
+typing-extensions                   4.14.0             python                       
 typing-inspect                      0.9.0              python                       
 typing-inspection                   0.4.1              python                       
 tzdata                              2025.2             python                       
@@ -1648,14 +1648,14 @@ upcloud-api                         2.6.0              python
 update-checker                      0.18.0             python                       
 uplink                              0.9.7              python                       
 uplink-protobuf                     0.1.0              python                       
-uritemplate                         4.1.1              python                       
+uritemplate                         4.2.0              python                       
 url-normalize                       2.2.1              python                       
 urllib3                             1.26.20            python                       
 usb-devices                         0.4.5              python                       
 utmps-libs                          0.1.2.3-r2         apk                          
 uv                                  0.7.1              python                       
 uvcclient                           0.12.1             python                       
-uvicorn                             0.34.2             python                       
+uvicorn                             0.34.3             python                       
 v4l-utils-libs                      1.28.1-r1          apk                          
 vacuum-map-parser-base              0.1.5              python                       
 vacuum-map-parser-roborock          0.1.4              python                       
