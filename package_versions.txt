@@ -279,7 +279,7 @@ btsocket                            0.3.0              python
 buienradar                          1.0.6              python                       
 busybox                             1.37.0-r12         apk                          
 busybox-binsh                       1.37.0-r12         apk                          
-bx-py-utils                         108                python                       
+bx-py-utils                         109                python                       
 c-ares                              1.34.5-r0          apk                          
 ca-certificates                     20241121-r1        apk                          
 ca-certificates-bundle              20241121-r1        apk                          
@@ -471,7 +471,7 @@ freetype                            2.13.3-r0          apk
 fribidi                             1.0.16-r0          apk                          
 fritzconnection                     1.14.0             python                       
 frozendict                          2.4.6              python                       
-frozenlist                          1.6.2              python                       
+frozenlist                          1.7.0              python                       
 fstrm                               0.6.1-r4           apk                          
 ftfy                                6.3.1              python                       
 future                              1.0.0              python                       
@@ -505,7 +505,7 @@ goalzero                            0.2.2              python
 goodwe                              0.3.6              python                       
 google-api-core                     2.25.0             python                       
 google-api-python-client            2.71.0             python                       
-google-auth                         2.40.2             python                       
+google-auth                         2.40.3             python                       
 google-auth-httplib2                0.2.0              python                       
 google-auth-oauthlib                1.2.2              python                       
 google-cloud-pubsub                 2.29.0             python                       
@@ -530,7 +530,7 @@ graphql-core                        3.2.6              python
 graphviz                            0.20.3             python                       
 greeclimate                         2.1.0              python                       
 greeneye-monitor                    3.0.3              python                       
-greenlet                            3.2.2              python                       
+greenlet                            3.2.3              python                       
 greenwavereality                    0.5.1              python                       
 gridnet                             5.0.1              python                       
 growattserver                       1.6.0              python                       
@@ -617,7 +617,7 @@ imeon-inverter-api                  0.3.12             python
 imgw-pib                            1.0.10             python                       
 imlib2                              1.12.3-r1          apk                          
 importlib-metadata                  8.0.0              python                       
-importlib-metadata                  8.6.1              python                       
+importlib-metadata                  8.7.0              python                       
 importlib-resources                 6.5.2              python                       
 imutils                             0.5.4              python                       
 incomfort-client                    0.6.8              python                       
@@ -953,9 +953,9 @@ openssh-client-common               9.9_p2-r0          apk
 openssh-client-default              9.9_p2-r0          apk                          
 openssh-keygen                      9.9_p2-r0          apk                          
 openssl                             3.3.3-r0           apk                          
-opentelemetry-api                   1.33.1             python                       
-opentelemetry-sdk                   1.33.1             python                       
-opentelemetry-semantic-conventions  0.54b1             python                       
+opentelemetry-api                   1.34.1             python                       
+opentelemetry-sdk                   1.34.1             python                       
+opentelemetry-semantic-conventions  0.55b1             python                       
 openwebifpy                         4.3.1              python                       
 openwrt-luci-rpc                    1.1.17             python                       
 openwrt-ubus-rpc                    0.0.2              python                       
@@ -1314,7 +1314,7 @@ python-didl-lite                    1.4.1              python
 python-digitalocean                 1.13.2             python                       
 python-dotenv                       1.1.0              python                       
 python-ecobee-api                   0.2.20             python                       
-python-engineio                     4.12.1             python                       
+python-engineio                     4.12.2             python                       
 python-engineio-v3                  3.14.2             python                       
 python-etherscan-api                0.0.3              python                       
 python-family-hub-local             0.0.2              python                       
@@ -1411,7 +1411,7 @@ raspyrfm-client                     1.2.8              python
 ratelimit                           2.2.1              python                       
 rav1e-libs                          0.7.1-r0           apk                          
 readline                            8.2.13-r0          apk                          
-recurring-ical-events               3.7.0              python                       
+recurring-ical-events               3.8.0              python                       
 referencing                         0.36.2             python                       
 refoss-ha                           1.2.5              python                       
 regenmaschine                       2024.3.0           python                       
@@ -1616,7 +1616,7 @@ twitchapi                           4.2.1              python
 twitterapi                          2.7.12             python                       
 typedmonarchmoney                   0.4.4              python                       
 typeguard                           4.3.0              python                       
-typeguard                           4.4.2              python                       
+typeguard                           4.4.3              python                       
 typer                               0.12.5             python                       
 types-python-dateutil               2.9.0.20250516     python                       
 types-pytz                          2025.2.0.20250516  python                       
@@ -1719,7 +1719,7 @@ xiaomi-ble                          0.38.0             python
 xknx                                3.6.0              python                       
 xknxproject                         3.8.2              python                       
 xlsxwriter                          3.2.3              python                       
-xmlschema                           4.0.1              python                       
+xmlschema                           4.1.0              python                       
 xmltodict                           0.13.0             python                       
 xs1-api-client                      3.0.0              python                       
 xvidcore                            1.3.7-r2           apk                          
@@ -1752,7 +1752,7 @@ zigpy-zigate                        0.13.2             python
 zigpy-znp                           0.14.0             python                       
 zimg                                3.0.5-r2           apk                          
 zipp                                3.19.2             python                       
-zipp                                3.22.0             python                       
+zipp                                3.23.0             python                       
 zix-libs                            0.4.2-r0           apk                          
 zlib                                1.3.1-r2           apk                          
 zm-py                               0.5.4              python                       
