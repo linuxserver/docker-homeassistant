@@ -1313,7 +1313,7 @@ python-clementine-remote            1.0.1              python
 python-dateutil                     2.9.0.post0        python                       
 python-didl-lite                    1.4.1              python                       
 python-digitalocean                 1.13.2             python                       
-python-dotenv                       1.1.0              python                       
+python-dotenv                       1.1.1              python                       
 python-ecobee-api                   0.2.20             python                       
 python-engineio                     4.12.2             python                       
 python-engineio-v3                  3.14.2             python                       
