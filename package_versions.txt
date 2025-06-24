@@ -575,9 +575,9 @@ hole                                0.8.0              python
 holidays                            0.75               python                       
 home-assistant-bluetooth            1.13.1             python                       
 home-assistant-chip-clusters        2024.11.4          python                       
-home-assistant-frontend             20250531.3         python                       
+home-assistant-frontend             20250531.4         python                       
 home-assistant-intents              2025.6.10          python                       
-homeassistant                       2025.6.2           python                       
+homeassistant                       2025.6.3           python                       
 homematicip                         2.0.6              python                       
 horimote                            0.4.1              python                       
 hpack                               4.1.0              python                       
