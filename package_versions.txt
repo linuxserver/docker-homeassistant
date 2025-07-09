@@ -177,7 +177,7 @@ arcam-fmj                           1.8.1              python
 argcomplete                         3.6.2              python                       
 arris-tg2492lg                      2.2.0              python                       
 arrow                               1.3.0              python                       
-asgiref                             3.9.0              python                       
+asgiref                             3.9.1              python                       
 asmog                               0.0.6              python                       
 asn1                                3.1.0              python                       
 asn1crypto                          1.5.1              python                       
@@ -239,7 +239,7 @@ bidict                              0.23.1             python
 bimmer-connected                    0.17.2             python                       
 bind-libs                           9.18.37-r0         apk                          
 bind-tools                          9.18.37-r0         apk                          
-bitarray                            3.4.3              python                       
+bitarray                            3.5.0              python                       
 bitstring                           4.3.1              python                       
 bitstruct                           8.21.0             python                       
 bizkaibus                           0.1.1              python                       
@@ -672,7 +672,7 @@ jellyfin-apiclient-python           1.11.0             python
 jinja2                              3.1.6              python                       
 jiter                               0.10.0             python                       
 jmespath                            1.0.1              python                       
-josepy                              2.0.0              python                       
+josepy                              2.1.0              python                       
 jq                                  1.7.1-r0           apk                          
 js2py                               0.74               python                       
 json-api-doc                        0.15.0             python                       
@@ -1471,7 +1471,7 @@ sdl2                                2.30.9-r0          apk
 secretstorage                       3.3.3              python                       
 securetar                           2025.2.1           python                       
 segno                               1.6.6              python                       
-selenium                            4.32.0             python                       
+selenium                            4.34.2             python                       
 selenium-manager                    UNKNOWN            binary                       
 semver                              3.0.4              python                       
 sendgrid                            6.8.2              python                       
@@ -1540,7 +1540,7 @@ sqlparse                            0.5.0              python
 sratom                              0.6.16-r0          apk                          
 srpenergy                           1.3.6              python                       
 srptools                            1.0.1              python                       
-sse-starlette                       2.3.6              python                       
+sse-starlette                       2.4.1              python                       
 ssl_client                          1.37.0-r12         apk                          
 standard-aifc                       3.13.0             python                       
 standard-chunk                      3.13.0             python                       
@@ -1622,7 +1622,7 @@ typedmonarchmoney                   0.4.4              python
 typeguard                           4.3.0              python                       
 typeguard                           4.4.4              python                       
 typer                               0.12.5             python                       
-types-python-dateutil               2.9.0.20250516     python                       
+types-python-dateutil               2.9.0.20250708     python                       
 types-pytz                          2025.2.0.20250516  python                       
 typing-extensions                   4.12.2             python                       
 typing-extensions                   4.14.1             python                       
