@@ -219,7 +219,7 @@ axis                                64                 python
 ayla-iot-unofficial                 1.4.7              python                       
 azure-core                          1.35.0             python                       
 azure-eventhub                      5.11.1             python                       
-azure-identity                      1.23.0             python                       
+azure-identity                      1.23.1             python                       
 azure-kusto-data                    4.5.1              python                       
 azure-kusto-ingest                  4.5.1              python                       
 azure-servicebus                    7.10.0             python                       
@@ -239,7 +239,7 @@ bidict                              0.23.1             python
 bimmer-connected                    0.17.2             python                       
 bind-libs                           9.18.37-r0         apk                          
 bind-tools                          9.18.37-r0         apk                          
-bitarray                            3.5.0              python                       
+bitarray                            3.5.1              python                       
 bitstring                           4.3.1              python                       
 bitstruct                           8.21.0             python                       
 bizkaibus                           0.1.1              python                       
