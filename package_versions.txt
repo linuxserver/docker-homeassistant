@@ -25,7 +25,7 @@ aioacaia                            0.1.14             python
 aioairq                             0.4.6              python                       
 aioairzone                          1.0.0              python                       
 aioairzone-cloud                    0.6.12             python                       
-aioamazondevices                    3.2.10             python                       
+aioamazondevices                    3.5.0              python                       
 aioambient                          2024.8.0           python                       
 aioapcaccess                        0.4.2              python                       
 aioaquacell                         0.2.0              python                       
@@ -147,7 +147,7 @@ alpha-vantage                       2.3.1              python
 alpine-baselayout                   3.6.8-r1           apk                          
 alpine-baselayout-data              3.6.8-r1           apk                          
 alpine-keys                         2.5-r0             apk                          
-alpine-release                      3.21.3-r0          apk                          
+alpine-release                      3.21.4-r0          apk                          
 alsa-lib                            1.2.12-r0          apk                          
 altruistclient                      0.1.1              python                       
 amberelectric                       2.0.12             python                       
@@ -185,7 +185,7 @@ astral                              2.2                python
 async-interrupt                     1.2.2              python                       
 async-modbus                        0.2.2              python                       
 async-timeout                       4.0.3              python                       
-async-upnp-client                   0.44.0             python                       
+async-upnp-client                   0.45.0             python                       
 asyncarve                           0.1.1              python                       
 asyncclick                          8.1.8.0            python                       
 asyncinotify                        4.2.0              python                       
@@ -206,7 +206,7 @@ audioop-lts                         0.2.1              python
 auroranoaa                          0.0.5              python                       
 aurorapy                            0.2.7              python                       
 autarco                             3.1.0              python                       
-authlib                             1.6.0              python                       
+authlib                             1.6.1              python                       
 autocommand                         2.2.2              python     (+1 duplicate)    
 automower-ble                       0.2.1              python                       
 av                                  13.1.0             python                       
@@ -224,7 +224,7 @@ azure-kusto-data                    4.5.1              python
 azure-kusto-ingest                  4.5.1              python                       
 azure-servicebus                    7.10.0             python                       
 azure-storage-blob                  12.24.0            python                       
-azure-storage-queue                 12.12.0            python                       
+azure-storage-queue                 12.13.0            python                       
 babel                               2.15.0             python                       
 backoff                             2.2.1              python                       
 backports-tarfile                   1.2.0              python                       
@@ -239,7 +239,7 @@ bidict                              0.23.1             python
 bimmer-connected                    0.17.2             python                       
 bind-libs                           9.18.37-r0         apk                          
 bind-tools                          9.18.37-r0         apk                          
-bitarray                            3.5.1              python                       
+bitarray                            3.5.2              python                       
 bitstring                           4.3.1              python                       
 bitstruct                           8.21.0             python                       
 bizkaibus                           0.1.1              python                       
@@ -284,8 +284,8 @@ busybox                             1.37.0-r12         apk
 busybox-binsh                       1.37.0-r12         apk                          
 bx-py-utils                         109                python                       
 c-ares                              1.34.5-r0          apk                          
-ca-certificates                     20241121-r1        apk                          
-ca-certificates-bundle              20241121-r1        apk                          
+ca-certificates                     20250619-r0        apk                          
+ca-certificates-bundle              20250619-r0        apk                          
 cached-ipaddress                    0.10.0             python                       
 cachetools                          5.5.2              python                       
 caio                                0.9.24             python                       
@@ -379,7 +379,7 @@ dio-chacon-wifi-api                 1.2.2              python
 directv                             0.4.0              python                       
 discogs-client                      2.3.0              python                       
 discovery30303                      0.3.3              python                       
-distlib                             0.3.9              python                       
+distlib                             0.4.0              python                       
 distro                              1.9.0              python                       
 dlms-cosem                          21.3.2             python                       
 dnspython                           2.7.0              python                       
@@ -494,7 +494,7 @@ georss-ign-sismologia-client        0.8                python
 georss-qld-bushfire-alert-client    0.8                python                       
 getmac                              0.9.5              python                       
 giflib                              5.2.2-r1           apk                          
-gios                                6.1.0              python                       
+gios                                6.1.2              python                       
 git                                 2.47.3-r0          apk                          
 git-init-template                   2.47.3-r0          apk                          
 gitterpy                            0.1.7              python                       
@@ -576,10 +576,10 @@ hole                                0.8.0              python
 holidays                            0.75               python                       
 home-assistant-bluetooth            1.13.1             python                       
 home-assistant-chip-clusters        2024.11.4          python                       
-home-assistant-frontend             20250702.2         python                       
+home-assistant-frontend             20250702.3         python                       
 home-assistant-intents              2025.6.23          python                       
-homeassistant                       2025.7.2           python                       
-homematicip                         2.0.6              python                       
+homeassistant                       2025.7.3           python                       
+homematicip                         2.0.7              python                       
 horimote                            0.4.1              python                       
 hpack                               4.1.0              python                       
 html-table-parser-python3           0.1.5              python                       
@@ -682,7 +682,7 @@ jsonpickle                          4.0.5              python
 jsonrpc-async                       2.1.2              python                       
 jsonrpc-base                        2.2.0              python                       
 jsonrpc-websocket                   3.1.5              python                       
-jsonschema                          4.24.0             python                       
+jsonschema                          4.25.0             python                       
 jsonschema-specifications           2025.4.1           python                       
 justbackoff                         0.6.0              python                       
 justnimbus                          0.7.4              python                       
@@ -1130,7 +1130,7 @@ pyeiscp                             0.0.7              python
 pyelectra                           1.2.4              python                       
 pyemby                              1.10               python                       
 pyemoncms                           0.1.1              python                       
-pyenphase                           2.2.1              python                       
+pyenphase                           2.2.2              python                       
 pyenvisalink                        4.7                python                       
 pyephember2                         0.4.12             python                       
 pyeverlights                        0.1.0              python                       
@@ -1285,7 +1285,7 @@ pyskyqhub                           0.1.4              python
 pysma                               0.7.5              python                       
 pysmappee                           0.2.29             python                       
 pysmarlaapi                         0.9.0              python                       
-pysmartthings                       3.2.7              python                       
+pysmartthings                       3.2.8              python                       
 pysmarty2                           0.10.2             python                       
 pysmb                               1.2.11             python                       
 pysmhi                              1.0.2              python                       
@@ -1303,7 +1303,7 @@ pysqueezebox                        0.12.1             python
 pystiebeleltron                     0.1.0              python                       
 pysuezv2                            2.0.5              python                       
 pyswitchbee                         1.8.3              python                       
-pyswitchbot                         0.68.1             python                       
+pyswitchbot                         0.68.2             python                       
 pyswitchmate                        0.5.1              python                       
 pysyncthru                          0.8.0              python                       
 pytautulli                          23.1.1             python                       
@@ -1546,7 +1546,7 @@ standard-aifc                       3.13.0             python
 standard-chunk                      3.13.0             python                       
 standard-telnetlib                  3.13.0             python                       
 starkbank-ecdsa                     2.2.0              python                       
-starlette                           0.47.1             python                       
+starlette                           0.47.2             python                       
 starline                            0.1.5              python                       
 starlingbank                        3.2                python                       
 starlink-grpc-core                  1.2.3              python                       
@@ -1579,7 +1579,7 @@ temescal                            0.5                python
 temperusb                           1.6.1              python                       
 tempora                             5.8.1              python                       
 tenacity                            8.5.0              python                       
-tesla-fleet-api                     1.2.0              python                       
+tesla-fleet-api                     1.2.2              python                       
 tesla-powerwall                     0.5.2              python                       
 tesla-wall-connector                1.0.2              python                       
 teslemetry-stream                   0.7.9              python                       
@@ -1672,7 +1672,7 @@ venstarcolortouch                   0.21               python
 vidstab                             1.1.1-r0           apk                          
 vilfo-api-client                    0.5.0              python                       
 vincenty                            0.1.4              python                       
-virtualenv                          20.31.2            python                       
+virtualenv                          20.32.0            python                       
 vobject                             0.9.9              python                       
 voip-utils                          0.3.3              python                       
 volkszaehler                        0.4.0              python                       
