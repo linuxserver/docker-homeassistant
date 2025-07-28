@@ -25,7 +25,7 @@ aioacaia                            0.1.14             python
 aioairq                             0.4.6              python                       
 aioairzone                          1.0.0              python                       
 aioairzone-cloud                    0.6.12             python                       
-aioamazondevices                    3.5.0              python                       
+aioamazondevices                    3.5.1              python                       
 aioambient                          2024.8.0           python                       
 aioapcaccess                        0.4.2              python                       
 aioaquacell                         0.2.0              python                       
@@ -335,7 +335,7 @@ coreutils                           9.5-r2             apk
 coreutils-env                       9.5-r2             apk                          
 coreutils-fmt                       9.5-r2             apk                          
 coreutils-sha512sum                 9.5-r2             apk                          
-coverage                            7.9.2              python                       
+coverage                            7.10.1             python                       
 crc                                 7.1.0              python                       
 crccheck                            1.3.1              python                       
 crcmod                              1.7                python                       
@@ -555,7 +555,7 @@ ha-ffmpeg                           3.2.2              python
 ha-iotawattpy                       0.1.2              python                       
 ha-philipsjs                        3.2.2              python                       
 ha-silabs-firmware-client           0.2.0              python                       
-habiticalib                         0.4.0              python                       
+habiticalib                         0.4.1              python                       
 habluetooth                         3.49.0             python                       
 hap-python                          4.9.2              python                       
 harfbuzz                            9.0.0-r1           apk                          
@@ -578,7 +578,7 @@ home-assistant-bluetooth            1.13.1             python
 home-assistant-chip-clusters        2024.11.4          python                       
 home-assistant-frontend             20250702.3         python                       
 home-assistant-intents              2025.6.23          python                       
-homeassistant                       2025.7.3           python                       
+homeassistant                       2025.7.4           python                       
 homematicip                         2.0.7              python                       
 horimote                            0.4.1              python                       
 hpack                               4.1.0              python                       
@@ -987,7 +987,7 @@ panacotta                           0.2                python
 panasonic-viera                     0.4.2              python                       
 pandas                              2.3.0              python                       
 paramiko                            3.5.0              python                       
-path                                17.1.0             python                       
+path                                17.1.1             python                       
 pathvalidate                        3.3.1              python                       
 pbr                                 6.1.1              python                       
 pcre2                               10.43-r0           apk                          
@@ -1270,7 +1270,7 @@ pyroute2                            0.7.5              python
 pyrympro                            0.0.9              python                       
 pysabnzbd                           1.1.1              python                       
 pysaj                               0.0.16             python                       
-pyschlage                           2025.4.0           python                       
+pyschlage                           2025.7.2           python                       
 pysdcp                              1                  python                       
 pysensibo                           1.2.1              python                       
 pyserial                            3.5                python                       
@@ -1301,7 +1301,7 @@ pyspcwebgw                          0.7.0              python
 pyspeex-noise                       1.0.2              python                       
 pysqueezebox                        0.12.1             python                       
 pystiebeleltron                     0.1.0              python                       
-pysuezv2                            2.0.5              python                       
+pysuezv2                            2.0.7              python                       
 pyswitchbee                         1.8.3              python                       
 pyswitchbot                         0.68.2             python                       
 pyswitchmate                        0.5.1              python                       
@@ -1393,7 +1393,7 @@ pywebpush                           1.14.1             python
 pywemo                              1.4.0              python                       
 pywilight                           0.0.74             python                       
 pywizlight                          0.6.3              python                       
-pywmspro                            0.3.0              python                       
+pywmspro                            0.3.2              python                       
 pyws66i                             1.1                python                       
 pyxeoma                             1.4.2              python                       
 pyxiaomigateway                     0.14.3             python                       
@@ -1464,7 +1464,7 @@ satel-integra                       0.3.7              python
 scanelf                             1.3.8-r1           apk                          
 scapy                               2.6.1              python                       
 schedule                            1.2.2              python                       
-scipy                               1.16.0             python                       
+scipy                               1.16.1             python                       
 screenlogicpy                       0.10.0             python                       
 scsgate                             0.1.0              python                       
 sdl2                                2.30.9-r0          apk                          
@@ -1477,7 +1477,7 @@ semver                              3.0.4              python
 sendgrid                            6.8.2              python                       
 sense-energy                        0.13.8             python                       
 sensirion-ble                       0.1.1              python                       
-sensor-state-data                   2.18.1             python                       
+sensor-state-data                   2.19.0             python                       
 sensorpro-ble                       0.7.1              python                       
 sensorpush-api                      2.1.3              python                       
 sensorpush-ble                      1.9.0              python                       
@@ -1510,7 +1510,7 @@ skalibs-libs                        2.14.3.0-r0        apk
 skyboxremote                        0.0.6              python                       
 slack-sdk                           3.33.4             python                       
 sleekxmppfs                         1.4.1              python                       
-slixmpp                             1.8.5              python                       
+slixmpp                             1.10.0             python                       
 smart-meter-texas                   0.5.5              python                       
 snapcast                            2.3.6              python                       
 sniffio                             1.3.1              python                       
@@ -1540,7 +1540,7 @@ sqlparse                            0.5.0              python
 sratom                              0.6.16-r0          apk                          
 srpenergy                           1.3.6              python                       
 srptools                            1.0.1              python                       
-sse-starlette                       2.4.1              python                       
+sse-starlette                       3.0.2              python                       
 ssl_client                          1.37.0-r12         apk                          
 standard-aifc                       3.13.0             python                       
 standard-chunk                      3.13.0             python                       
