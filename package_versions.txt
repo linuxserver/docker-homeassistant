@@ -241,7 +241,7 @@ bidict                              0.23.1             python
 bimmer-connected                    0.17.2             python                       
 bind-libs                           9.18.37-r0         apk                          
 bind-tools                          9.18.37-r0         apk                          
-bitarray                            3.6.0              python                       
+bitarray                            3.6.1              python                       
 bitstring                           4.3.1              python                       
 bitstruct                           8.21.0             python                       
 bizkaibus                           0.1.1              python                       
@@ -1471,7 +1471,7 @@ sdl2                                2.30.9-r0          apk
 secretstorage                       3.3.3              python                       
 securetar                           2025.2.1           python                       
 segno                               1.6.6              python                       
-selenium                            4.34.2             python                       
+selenium                            4.35.0             python                       
 selenium-manager                    UNKNOWN            binary                       
 semver                              3.0.4              python                       
 sendgrid                            6.8.2              python                       
@@ -1713,7 +1713,7 @@ wiffi                               1.1.2              python
 wirelesstagpy                       0.8.1              python                       
 wled                                0.21.0             python                       
 wolf-comm                           0.0.23             python                       
-wrapt                               1.17.2             python                       
+wrapt                               1.17.3             python                       
 wsdiscovery                         2.1.2              python                       
 wsdot                               0.0.1              python                       
 wsproto                             1.2.0              python                       
