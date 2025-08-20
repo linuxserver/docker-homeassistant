@@ -262,7 +262,7 @@ bluetooth-sensor-state-data         1.9.0              python
 bluez                               5.79-r0            apk                          
 bluez-deprecated                    5.79-r0            apk                          
 bluez-libs                          5.79-r0            apk                          
-blurhash                            1.1.4              python                       
+blurhash                            1.1.5              python                       
 bond-async                          0.2.1              python                       
 bosch-alarm-mode2                   0.4.6              python                       
 boschshcpy                          0.2.91             python                       
@@ -337,7 +337,7 @@ coreutils                           9.5-r2             apk
 coreutils-env                       9.5-r2             apk                          
 coreutils-fmt                       9.5-r2             apk                          
 coreutils-sha512sum                 9.5-r2             apk                          
-coverage                            7.10.3             python                       
+coverage                            7.10.4             python                       
 crc                                 7.1.0              python                       
 crccheck                            1.3.1              python                       
 crcmod                              1.7                python                       
@@ -402,7 +402,7 @@ ecdsa                               0.19.1             python
 ecoaliface                          0.4.0              python                       
 eheimdigital                        1.3.0              python                       
 electrickiwi-api                    0.9.14             python                       
-elementpath                         5.0.3              python                       
+elementpath                         5.0.4              python                       
 elevenlabs                          2.3.0              python                       
 elgato                              5.1.2              python                       
 eliqonline                          1.2.2              python                       
@@ -529,7 +529,7 @@ govee-local-api                     2.1.0              python
 gpiod                               2.3.0              python                       
 gpiozero                            1.6.2              python                       
 gps3                                0.33.3             python                       
-gql                                 3.5.3              python                       
+gql                                 4.0.0              python                       
 graphite2                           1.3.14-r6          apk                          
 graphql-core                        3.2.6              python                       
 graphviz                            0.21               python                       
@@ -663,7 +663,7 @@ jaraco-context                      5.3.0              python
 jaraco-context                      6.0.1              python                       
 jaraco-email                        3.1.1              python                       
 jaraco-functools                    4.0.1              python                       
-jaraco-functools                    4.2.1              python                       
+jaraco-functools                    4.3.0              python                       
 jaraco-itertools                    6.4.3              python                       
 jaraco-logging                      3.4.0              python                       
 jaraco-net                          10.2.3             python                       
@@ -684,7 +684,7 @@ jsonpickle                          4.1.1              python
 jsonrpc-async                       2.1.2              python                       
 jsonrpc-base                        2.2.0              python                       
 jsonrpc-websocket                   3.1.5              python                       
-jsonschema                          4.25.0             python                       
+jsonschema                          4.25.1             python                       
 jsonschema-specifications           2025.4.1           python                       
 justbackoff                         0.6.0              python                       
 justnimbus                          0.7.4              python                       
@@ -833,7 +833,7 @@ lw12                                0.9.2              python
 lxml                                6.0.0              python                       
 mac-vendor-lookup                   0.1.12             python                       
 mariadb-connector-c                 3.3.10-r0          apk                          
-marisa-trie                         1.2.1              python                       
+marisa-trie                         1.3.0              python                       
 markdown                            3.8.2              python                       
 markupsafe                          3.0.2              python                       
 marshmallow                         3.26.1             python                       
@@ -1005,7 +1005,7 @@ pianobar                            2022.04.01-r1      apk
 pigpio                              1.78               python                       
 pilight                             0.1.1              python                       
 pillow                              11.3.0             python                       
-pint                                0.24.4             python                       
+pint                                0.25               python                       
 pip                                 25.0.1             python                       
 pizzapi                             0.0.6              python                       
 pkce                                1.0.3              python                       
