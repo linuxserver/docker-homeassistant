@@ -120,10 +120,12 @@ RUN \
     /tmp/ha-docker-base && \
   HA_PY_VERSION=$(cat /tmp/ha-docker-base/python/${HA_PY_MAJOR}/build.yaml \
     | grep 'PYTHON_VERSION: ' \
-    | sed 's|.*PYTHON_VERSION: ||') && \
+    | sed 's|.*PYTHON_VERSION: ||' \
+    | sed 's|"||g') && \
   HA_JEMALLOC_VER=$(cat /tmp/ha-docker-base/alpine/build.yaml \
     | grep 'JEMALLOC_VERSION: ' \
-    | sed 's|.*JEMALLOC_VERSION: ||') && \
+    | sed 's|.*JEMALLOC_VERSION: ||' \
+    | sed 's|"||g') && \
   HA_ALPINE_VER=$(curl -fsL https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/build.yaml \
     | grep 'amd64: ' \
     | cut -d: -f3 \
@@ -135,7 +137,8 @@ RUN \
   fi && \
   HA_PIP_VERSION=$(cat /tmp/ha-docker-base/python/${HA_PY_MAJOR}/build.yaml \
     | grep 'PIP_VERSION: ' \
-    | sed 's|.*PIP_VERSION: ||') && \
+    | sed 's|.*PIP_VERSION: ||' \
+    | sed 's|"||g') && \
   HA_UV_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/Dockerfile" | grep 'install uv==' | sed 's|RUN pip3 install uv==||') && \
   HA_GO2RTC_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/Dockerfile" | grep 'AlexxIT/go2rtc/releases/download' | sed -r 's|^.*AlexxIT/go2rtc/releases/download/(.*)/go2rtc_linux.*$|\1|') && \
   curl -o \
