@@ -285,7 +285,7 @@ btsocket                            0.3.0              python
 buienradar                          1.0.6              python                       
 busybox                             1.37.0-r13         apk                          
 busybox-binsh                       1.37.0-r13         apk                          
-bx-py-utils                         111                python                       
+bx-py-utils                         113                python                       
 c-ares                              1.34.5-r0          apk                          
 ca-certificates                     20250619-r0        apk                          
 ca-certificates-bundle              20250619-r0        apk                          
@@ -297,7 +297,7 @@ casttube                            0.2.1              python
 catatonit                           0.2.0-r0           apk                          
 cbor2                               5.7.0              python                       
 certifi                             2025.8.3           python                       
-cffi                                1.17.1             python                       
+cffi                                2.0.0              python                       
 cfgv                                3.4.0              python                       
 chacha20poly1305                    0.0.3              python                       
 chacha20poly1305-reuseable          0.13.2             python                       
@@ -384,7 +384,7 @@ discovery30303                      0.3.3              python
 distlib                             0.4.0              python                       
 distro                              1.9.0              python                       
 dlms-cosem                          21.3.2             python                       
-dnspython                           2.7.0              python                       
+dnspython                           2.8.0              python                       
 docopt                              0.6.2              python                       
 doorbirdpy                          3.0.8              python                       
 dpkt                                1.9.8              python                       
@@ -609,7 +609,7 @@ icalendar                           6.3.1              python
 icmplib                             3.0                python                       
 idasen                              0.12.0             python                       
 idasen-ha                           2.6.3              python                       
-identify                            2.6.13             python                       
+identify                            2.6.14             python                       
 idna                                3.10               python                       
 ifaddr                              0.2.0              python                       
 iglo                                1.2.7              python                       
@@ -685,7 +685,7 @@ jsonrpc-async                       2.1.3              python
 jsonrpc-base                        2.2.0              python                       
 jsonrpc-websocket                   3.1.5              python                       
 jsonschema                          4.25.1             python                       
-jsonschema-specifications           2025.4.1           python                       
+jsonschema-specifications           2025.9.1           python                       
 justbackoff                         0.6.0              python                       
 justnimbus                          0.7.4              python                       
 kaiterra-async-client               1.0.0              python                       
@@ -1083,7 +1083,7 @@ pyblackbird                         0.6                python
 pyblu                               2.0.4              python                       
 pybotvac                            0.0.28             python                       
 pybravia                            0.3.4              python                       
-pycares                             4.10.0             python                       
+pycares                             4.11.0             python                       
 pycarwings2                         2.14               python                       
 pycec                               0.5.2              python                       
 pycfdns                             3.0.0              python                       
@@ -1096,7 +1096,7 @@ pycomfoconnect                      0.5.1              python
 pycontrol4                          1.2.0              python                       
 pycoolmasternet-async               0.2.2              python                       
 pycountry                           24.6.1             python                       
-pycparser                           2.22               python                       
+pycparser                           2.23               python                       
 pycrc16                             0.1.2              python                       
 pycryptodome                        3.23.0             python                       
 pycryptodomex                       3.23.0             python                       
@@ -1466,7 +1466,7 @@ scipy                               1.16.1             python
 screenlogicpy                       0.10.2             python                       
 scsgate                             0.1.0              python                       
 sdl2                                2.30.9-r0          apk                          
-secretstorage                       3.3.3              python                       
+secretstorage                       3.4.0              python                       
 securetar                           2025.2.1           python                       
 segno                               1.6.6              python                       
 selenium                            4.32.0             python                       
@@ -1609,7 +1609,7 @@ transitions                         0.8.11             python
 transmission-rpc                    7.0.3              python                       
 travispy                            0.3.5              python                       
 triggercmd                          0.0.36             python                       
-trio                                0.30.0             python                       
+trio                                0.31.0             python                       
 trio-websocket                      0.12.2             python                       
 ttls                                1.8.3              python                       
 ttn-client                          1.2.0              python                       
