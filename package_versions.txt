@@ -560,7 +560,7 @@ ha-iotawattpy                       0.1.2              python
 ha-philipsjs                        3.2.2              python                       
 ha-silabs-firmware-client           0.2.0              python                       
 habiticalib                         0.4.3              python                       
-habluetooth                         5.6.2              python                       
+habluetooth                         5.6.4              python                       
 hap-python                          5.0.0              python                       
 harfbuzz                            9.0.0-r1           apk                          
 hass-nabucasa                       1.1.1              python                       
@@ -582,7 +582,7 @@ home-assistant-bluetooth            1.13.1             python
 home-assistant-chip-clusters        2025.7.0           python                       
 home-assistant-frontend             20250903.5         python                       
 home-assistant-intents              2025.9.3           python                       
-homeassistant                       2025.9.2           python                       
+homeassistant                       2025.9.3           python                       
 homematicip                         2.3.0              python                       
 horimote                            0.4.1              python                       
 hpack                               4.1.0              python                       
