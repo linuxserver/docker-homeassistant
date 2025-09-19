@@ -3,7 +3,7 @@
 
 PY_LOCAL_PATH=$(find /usr/local/lib -maxdepth 1 -name python* -type d)
 PY_LOCAL_BIN=$(basename "${PY_LOCAL_PATH}")
-setcap 'cap_net_bind_service=+ep' "/usr/local/bin/${PY_LOCAL_BIN}"
+setcap 'cap_net_raw,cap_net_admin,cap_net_bind_service=+ep' "/usr/local/bin/${PY_LOCAL_BIN}"
 
 if [[ -z "${DISABLE_JEMALLOC+x}" ]]; then
   export LD_PRELOAD="/usr/local/lib/libjemalloc.so.2"

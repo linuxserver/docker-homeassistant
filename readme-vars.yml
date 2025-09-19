@@ -51,7 +51,7 @@ app_setup_block: |
 
   #### Docker Cli:
   ```bash
-  --cap-add=NET_ADMIN --cap-add=NET_RAW -v /var/run/dbus:/var/run/dbus:ro
+  --cap-add=NET_ADMIN --cap-add=NET_RAW -v /run/dbus:/run/dbus:ro
   ```
 
   #### Docker Compose:
@@ -60,8 +60,10 @@ app_setup_block: |
         - NET_ADMIN
         - NET_RAW
       volumes:
-        - /var/run/dbus:/var/run/dbus:ro
+        - /run/dbus:/run/dbus:ro
   ```
+
+  If the dbus path on host differs, such as `/var/run/dbus`, then you can map it as `/var/run/dbus:/run/dbus:ro`.
 
   ### Using the Ping integration
 
@@ -114,6 +116,7 @@ init_diagram: |
   "homeassistant:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "19.09.25:", desc: "Add the necessary capabilities in the container to allow the unprivileged user access to bluetooth stack."}
   - {date: "03.01.25:", desc: "Rebase to alpine 3.21."}
   - {date: "04.12.24:", desc: "Make setcap target dynamic."}
   - {date: "07.11.24:", desc: "Add go2rtc binary."}
