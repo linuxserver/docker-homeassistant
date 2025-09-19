@@ -59,7 +59,7 @@ aiohappyeyeballs                    2.6.1              python
 aioharmony                          0.5.3              python                       
 aiohasupervisor                     0.3.2              python                       
 aiohomeconnect                      0.19.0             python                       
-aiohomekit                          3.2.15             python                       
+aiohomekit                          3.2.17             python                       
 aiohttp                             3.12.15            python                       
 aiohttp-asyncmdnsresolver           0.1.1              python                       
 aiohttp-cors                        0.8.1              python                       
@@ -184,7 +184,7 @@ asmog                               0.0.6              python
 asn1                                3.1.0              python                       
 asn1crypto                          1.5.1              python                       
 astral                              2.2                python                       
-asusrouter                          1.20.1             python                       
+asusrouter                          1.21.0             python                       
 async-interrupt                     1.2.2              python                       
 async-modbus                        0.2.2              python                       
 async-timeout                       4.0.3              python                       
@@ -258,7 +258,7 @@ blockchain                          1.4.4              python
 bluecurrent-api                     1.3.1              python                       
 bluemaestro-ble                     0.4.1              python                       
 bluetooth-adapters                  2.1.0              python                       
-bluetooth-auto-recovery             1.5.2              python                       
+bluetooth-auto-recovery             1.5.3              python                       
 bluetooth-data-tools                1.28.2             python                       
 bluetooth-sensor-state-data         1.9.0              python                       
 bluez                               5.79-r0            apk                          
@@ -559,7 +559,7 @@ ha-ffmpeg                           3.2.2              python
 ha-iotawattpy                       0.1.2              python                       
 ha-philipsjs                        3.2.2              python                       
 ha-silabs-firmware-client           0.2.0              python                       
-habiticalib                         0.4.3              python                       
+habiticalib                         0.4.5              python                       
 habluetooth                         5.6.4              python                       
 hap-python                          5.0.0              python                       
 harfbuzz                            9.0.0-r1           apk                          
@@ -577,12 +577,12 @@ hkavr                               0.0.5              python
 hko                                 0.3.2              python                       
 hlk-sw16                            0.0.9              python                       
 hole                                0.9.0              python                       
-holidays                            0.79               python                       
+holidays                            0.81               python                       
 home-assistant-bluetooth            1.13.1             python                       
 home-assistant-chip-clusters        2025.7.0           python                       
 home-assistant-frontend             20250903.5         python                       
 home-assistant-intents              2025.9.3           python                       
-homeassistant                       2025.9.3           python                       
+homeassistant                       2025.9.4           python                       
 homematicip                         2.3.0              python                       
 horimote                            0.4.1              python                       
 hpack                               4.1.0              python                       
@@ -619,7 +619,7 @@ ihcsdk                              2.8.5              python
 ijson                               3.4.0              python                       
 imageio                             2.37.0             python                       
 imath                               3.1.12-r0          apk                          
-imeon-inverter-api                  0.3.16             python                       
+imeon-inverter-api                  0.4.0              python                       
 imgw-pib                            1.5.4              python                       
 imlib2                              1.12.3-r1          apk                          
 importlib-metadata                  8.0.0              python                       
@@ -967,7 +967,7 @@ opentelemetry-semantic-conventions  0.58b0             python
 openwebifpy                         4.3.1              python                       
 openwrt-luci-rpc                    1.1.17             python                       
 openwrt-ubus-rpc                    0.0.2              python                       
-opower                              0.15.4             python                       
+opower                              0.15.5             python                       
 opus                                1.5.2-r1           apk                          
 opuslib                             3.0.1              python                       
 oralb-ble                           0.17.6             python                       
@@ -1128,7 +1128,7 @@ pyefergy                            22.5.0             python
 pyegps                              0.2.5              python                       
 pyelectra                           1.2.4              python                       
 pyemby                              1.10               python                       
-pyemoncms                           0.1.2              python                       
+pyemoncms                           0.1.3              python                       
 pyenphase                           2.3.0              python                       
 pyenvisalink                        4.7                python                       
 pyephember2                         0.4.12             python                       
@@ -1185,7 +1185,7 @@ pykrakenapi                         0.1.8              python
 pykulersky                          0.5.8              python                       
 pykwb                               0.0.8              python                       
 pylacrosse                          0.4                python                       
-pylamarzocco                        2.0.11             python                       
+pylamarzocco                        2.1.0              python                       
 pylast                              5.1.0              python                       
 pylaunches                          2.0.0              python                       
 pylgnetcast                         0.3.9              python                       
@@ -1689,7 +1689,7 @@ wakeonlan                           3.1.0              python
 wallbox                             0.9.0              python                       
 warrant-lite                        1.0.4              python                       
 watchdog                            6.0.0              python                       
-waterfurnace                        1.1.0              python                       
+waterfurnace                        1.2.0              python                       
 watergate-local-api                 2024.4.1           python                       
 wayland-libs-client                 1.23.1-r0          apk                          
 wcwidth                             0.2.13             python                       
