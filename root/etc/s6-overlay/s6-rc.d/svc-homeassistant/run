@@ -3,7 +3,12 @@
 
 PY_LOCAL_PATH=$(find /usr/local/lib -maxdepth 1 -name python* -type d)
 PY_LOCAL_BIN=$(basename "${PY_LOCAL_PATH}")
-setcap 'cap_net_bind_service=+ep' "/usr/local/bin/${PY_LOCAL_BIN}"
+if capsh --has-p=cap_net_admin 2>/dev/null && capsh --has-p=cap_net_raw 2>/dev/null; then
+  echo "Adding cap_net_admin and cap_net_raw to python binary for bt access"
+  setcap 'cap_net_bind_service,cap_net_raw,cap_net_admin=+ep' "/usr/local/bin/${PY_LOCAL_BIN}"
+else
+  setcap 'cap_net_bind_service=+ep' "/usr/local/bin/${PY_LOCAL_BIN}"
+fi
 
 if [[ -z "${DISABLE_JEMALLOC+x}" ]]; then
   export LD_PRELOAD="/usr/local/lib/libjemalloc.so.2"
