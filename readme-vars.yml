@@ -116,6 +116,7 @@ init_diagram: |
   "homeassistant:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "02.10.25:", desc: "Rebase to alpine 3.22, rely on baseimage service for usb device permission fixing."}
   - {date: "19.09.25:", desc: "Add the necessary capabilities in the container to allow the unprivileged user access to bluetooth stack."}
   - {date: "03.01.25:", desc: "Rebase to alpine 3.21."}
   - {date: "04.12.24:", desc: "Make setcap target dynamic."}

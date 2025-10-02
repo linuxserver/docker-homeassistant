@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-alpine:3.21
+FROM ghcr.io/linuxserver/baseimage-alpine:3.22
 
 # set version label
 ARG BUILD_DATE
@@ -13,7 +13,8 @@ ENV \
   S6_SERVICES_GRACETIME=240000 \
   UV_SYSTEM_PYTHON=true \
   UV_NO_CACHE=true \
-  UV_EXTRA_INDEX_URL="https://wheels.home-assistant.io/musllinux-index/"
+  UV_EXTRA_INDEX_URL="https://wheels.home-assistant.io/musllinux-index/" \
+  ATTACHED_DEVICES_PERMS="/dev/ttyACM* /dev/ttyUSB* -type c"
 
 COPY root/etc/pip.conf /etc/
 
