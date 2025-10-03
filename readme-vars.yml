@@ -88,8 +88,8 @@ init_diagram: |
     init-migrations -> init-adduser
     init-os-end -> init-config
     init-config -> init-config-end
+    init-config-homeassistant -> init-config-end
     init-crontab-config -> init-config-end
-    init-usb-homeassistant -> init-config-end
     init-config -> init-config-homeassistant
     init-config -> init-crontab-config
     init-mods-end -> init-custom-files
@@ -103,15 +103,13 @@ init_diagram: |
     init-device-perms -> init-os-end
     init-envfile -> init-os-end
     init-custom-files -> init-services
-    init-config-homeassistant -> init-usb-homeassistant
     init-services -> svc-cron
     svc-cron -> legacy-services
     init-services -> svc-homeassistant
-    init-usb-homeassistant -> svc-homeassistant
     svc-homeassistant -> legacy-services
   }
   Base Images: {
-    "baseimage-alpine:3.21"
+    "baseimage-alpine:3.22"
   }
   "homeassistant:latest" <- Base Images
 # changelog
