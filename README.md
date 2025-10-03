@@ -318,6 +318,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **02.10.25:** - Rebase to alpine 3.22, rely on baseimage service for usb device permission fixing.
 * **19.09.25:** - Add the necessary capabilities in the container to allow the unprivileged user access to bluetooth stack.
 * **03.01.25:** - Rebase to alpine 3.21.
 * **04.12.24:** - Make setcap target dynamic.
