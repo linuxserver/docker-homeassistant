@@ -38,7 +38,7 @@ aiobotocore                         2.21.1             python
 aiocache                            0.12.3             python                        
 aiocoap                             0.4.16             python                        
 aiocomelit                          1.1.1              python                        
-aioconsole                          0.8.1              python                        
+aioconsole                          0.8.2              python                        
 aiodhcpwatcher                      1.2.1              python                        
 aiodiscover                         2.7.1              python                        
 aiodns                              3.5.0              python                        
@@ -148,7 +148,7 @@ alpha-vantage                       2.3.1              python
 alpine-baselayout                   3.7.0-r0           apk                           
 alpine-baselayout-data              3.7.0-r0           apk                           
 alpine-keys                         2.5-r0             apk                           
-alpine-release                      3.22.1-r0          apk                           
+alpine-release                      3.22.2-r0          apk                           
 alsa-lib                            1.2.14-r0          apk                           
 altruistclient                      0.1.1              python                        
 amberelectric                       2.0.12             python                        
@@ -197,7 +197,7 @@ async-modbus                        0.2.2              python
 async-timeout                       4.0.3              python                        
 async-upnp-client                   0.45.0             python                        
 asyncarve                           0.1.1              python                        
-asyncclick                          8.3.0.5            python                        
+asyncclick                          8.3.0.7            python                        
 asyncinotify                        4.2.0              python                        
 asyncio-dgram                       2.2.0              python                        
 asyncio-throttle                    1.0.2              python                        
@@ -305,7 +305,7 @@ c-ares                              1.34.5-r0          apk
 ca-certificates                     20250911-r0        apk                           
 ca-certificates-bundle              20250911-r0        apk                           
 cached-ipaddress                    0.10.0             python                        
-cachetools                          6.2.0              python                        
+cachetools                          6.2.1              python                        
 caio                                0.9.24             python                        
 caldav                              1.6.0              python                        
 casttube                            0.2.1              python                        
@@ -635,7 +635,7 @@ http-ece                            1.1.0              python
 httpcore                            1.0.9              python                        
 httplib2                            0.20.4             python                        
 httpx                               0.28.1             python                        
-httpx-sse                           0.4.2              python                        
+httpx-sse                           0.4.3              python                        
 huawei-lte-api                      1.11.0             python                        
 humanfriendly                       10.0               python                        
 huum                                0.8.1              python                        
@@ -653,7 +653,7 @@ icmplib                             3.0                python
 idasen                              0.12.0             python                        
 idasen-ha                           2.6.3              python                        
 identify                            2.6.15             python                        
-idna                                3.10               python                        
+idna                                3.11               python                        
 ifaddr                              0.2.0              python                        
 iglo                                1.2.7              python                        
 igloohome-api                       0.1.1              python                        
@@ -722,7 +722,7 @@ jellyfin-apiclient-python           1.11.0             python
 jinja2                              3.1.6              python                        
 jiter                               0.11.0             python                        
 jmespath                            1.0.1              python                        
-josepy                              2.1.0              python                        
+josepy                              2.2.0              python                        
 jq                                  1.8.0-r0           apk                           
 js2py                               0.74               python                        
 json-api-doc                        0.15.0             python                        
@@ -1506,7 +1506,7 @@ rayon-core                          1.12.0             rust-crate
 reactivex                           4.0.4              python                        
 readline                            8.2.13-r1          apk                           
 recurring-ical-events               3.8.0              python                        
-referencing                         0.36.2             python                        
+referencing                         0.37.0             python                        
 refoss-ha                           1.2.5              python                        
 regenmaschine                       2024.3.0           python                        
 regex                               2024.11.6          python                        
@@ -1780,7 +1780,7 @@ victron-vrm                         0.1.8              python
 vidstab                             1.1.1-r0           apk                           
 vilfo-api-client                    0.5.0              python                        
 vincenty                            0.1.4              python                        
-virtualenv                          20.35.2            python                        
+virtualenv                          20.35.3            python                        
 vobject                             0.9.9              python                        
 voip-utils                          0.3.4              python                        
 volkszaehler                        0.4.0              python                        
@@ -1832,7 +1832,7 @@ xiaomi-ble                          1.2.0              python
 xknx                                3.9.0              python                        
 xknxproject                         3.8.2              python                        
 xlsxwriter                          3.2.9              python                        
-xmlschema                           4.1.0              python                        
+xmlschema                           4.2.0              python                        
 xmltodict                           0.13.0             python                        
 xs1-api-client                      3.0.0              python                        
 xvidcore                            1.3.7-r2           apk                           
