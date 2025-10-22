@@ -110,7 +110,7 @@ aioruuvigateway                     0.1.0              python
 aiosenz                             1.0.0              python                        
 aioserial                           1.3.0              python                        
 aioshelly                           13.10.0            python                        
-aioshutil                           1.5                python                        
+aioshutil                           1.6                python                        
 aiosignal                           1.4.0              python                        
 aioskybell                          22.7.0             python                        
 aioslimproto                        3.0.0              python                        
@@ -182,10 +182,10 @@ aqualogic                           2.6                python
 aranet4                             2.5.1              python                        
 arcam-fmj                           1.8.2              python                        
 arg_enum_proc_macro                 0.3.4              rust-crate                    
-argcomplete                         3.6.2              python                        
+argcomplete                         3.6.3              python                        
 arrayvec                            0.7.4              rust-crate                    
 arris-tg2492lg                      2.2.0              python                        
-arrow                               1.3.0              python                        
+arrow                               1.4.0              python                        
 asgiref                             3.10.0             python                        
 asmog                               0.0.6              python                        
 asn1                                3.1.0              python                        
@@ -560,11 +560,11 @@ google-cloud-pubsub                 2.29.0             python
 google-cloud-speech                 2.31.1             python                        
 google-cloud-texttospeech           2.25.1             python                        
 google-genai                        1.38.0             python                        
-google-geo-type                     0.3.13             python                        
+google-geo-type                     0.4.0              python                        
 google-maps-routing                 0.6.15             python                        
 google-nest-sdm                     7.1.4              python                        
 google-photos-library-api           0.12.1             python                        
-googleapis-common-protos            1.70.0             python                        
+googleapis-common-protos            1.71.0             python                        
 goslide-api                         0.7.0              python                        
 gotailwind                          0.3.0              python                        
 govee-ble                           0.44.0             python                        
@@ -674,7 +674,7 @@ inflect                             7.5.0              python
 inflection                          0.5.1              python                        
 influxdb                            5.3.1              python                        
 influxdb-client                     1.48.0             python                        
-iniconfig                           2.1.0              python                        
+iniconfig                           2.3.0              python                        
 inject_dll_amd64                    UNKNOWN            binary                        
 inject_dll_x86                      UNKNOWN            binary                        
 inkbird-ble                         1.1.0              python                        
@@ -1063,7 +1063,7 @@ paste                               1.0.14             rust-crate
 path                                17.1.1             python                        
 pathvalidate                        3.3.1              python                        
 pbr                                 7.0.1              python                        
-pcre2                               10.43-r1           apk                           
+pcre2                               10.46-r0           apk                           
 pdunehd                             1.3.2              python                        
 peblar                              0.4.0              python                        
 peco                                0.1.2              python                        
@@ -1515,7 +1515,7 @@ renson-endura-delta                 1.7.2              python
 reolink-aio                         0.16.1             python                        
 requests                            2.32.5             python                        
 requests-aws4auth                   1.3.1              python                        
-requests-file                       3.0.0              python                        
+requests-file                       3.0.1              python                        
 requests-futures                    1.0.2              python                        
 requests-oauthlib                   2.0.0              python                        
 requests-toolbelt                   1.0.0              python                        
@@ -1725,7 +1725,6 @@ typedmonarchmoney                   0.4.4              python
 typeguard                           4.3.0              python                        
 typeguard                           4.4.4              python                        
 typer                               0.12.5             python                        
-types-python-dateutil               2.9.0.20251008     python                        
 types-pytz                          2025.2.0.20250809  python                        
 typing-extensions                   4.12.2             python                        
 typing-extensions                   4.15.0             python                        
@@ -1765,7 +1764,7 @@ utf8parse                           0.2.1              rust-crate
 utmps-libs                          0.1.3.1-r0         apk                           
 uv                                  0.8.9              python                        
 uvcclient                           0.12.1             python                        
-uvicorn                             0.37.0             python                        
+uvicorn                             0.38.0             python                        
 v4l-utils-libs                      1.28.1-r1          apk                           
 v_frame                             0.3.7              rust-crate                    
 vacuum-map-parser-base              0.1.5              python                        
