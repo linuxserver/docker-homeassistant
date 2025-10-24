@@ -23,15 +23,15 @@ aio-georss-client                   0.13               python
 aio-georss-gdacs                    0.10               python                        
 aioacaia                            0.1.17             python                        
 aioairq                             0.4.7              python                        
-aioairzone                          1.0.1              python                        
+aioairzone                          1.0.2              python                        
 aioairzone-cloud                    0.7.2              python                        
-aioamazondevices                    6.4.4              python                        
+aioamazondevices                    6.4.6              python                        
 aioambient                          2024.8.0           python                        
 aioapcaccess                        1.0.0              python                        
 aioaquacell                         0.2.0              python                        
 aioaseko                            1.0.0              python                        
 aioasuswrt                          1.5.1              python                        
-aioautomower                        2.2.1              python                        
+aioautomower                        2.3.1              python                        
 aioazuredevops                      2.2.2              python                        
 aiobafi6                            0.9.0              python                        
 aiobotocore                         2.21.1             python                        
@@ -193,7 +193,7 @@ asn1crypto                          1.5.1              python
 astral                              2.2                python                        
 asusrouter                          1.21.0             python                        
 async-interrupt                     1.2.2              python                        
-async-modbus                        0.2.2              python                        
+async-modbus                        0.2.3              python                        
 async-timeout                       4.0.3              python                        
 async-upnp-client                   0.45.0             python                        
 asyncarve                           0.1.1              python                        
@@ -250,8 +250,8 @@ beautifulsoup4                      4.13.3             python
 bellows                             0.46.1             python                        
 bidict                              0.23.1             python                        
 bimmer-connected                    0.17.3             python                        
-bind-libs                           9.20.13-r0         apk                           
-bind-tools                          9.20.13-r0         apk                           
+bind-libs                           9.20.15-r0         apk                           
+bind-tools                          9.20.15-r0         apk                           
 bitarray                            3.7.2              python                        
 bitflags                            2.4.1              rust-crate                    
 bitstream-io                        2.2.0              rust-crate                    
@@ -284,7 +284,7 @@ bosch-alarm-mode2                   0.4.6              python
 boschshcpy                          0.2.107            python                        
 boto3                               1.37.1             python                        
 botocore                            1.37.1             python                        
-bring-api                           1.1.0              python                        
+bring-api                           1.1.1              python                        
 broadlink                           0.19.0             python                        
 brother                             5.1.1              python                        
 brotli                              1.1.0              python                        
@@ -310,7 +310,7 @@ caio                                0.9.24             python
 caldav                              1.6.0              python                        
 casttube                            0.2.1              python                        
 catatonit                           0.2.1-r0           apk                           
-cbor2                               5.7.0              python                        
+cbor2                               5.7.1              python                        
 certifi                             2025.10.5          python                        
 cffi                                2.0.0              python                        
 cfg-if                              1.0.0              rust-crate                    
@@ -551,7 +551,7 @@ gnutls                              3.8.8-r0           apk
 go2rtc-client                       0.2.1              python                        
 goalzero                            0.2.2              python                        
 goodwe                              0.4.8              python                        
-google-api-core                     2.26.0             python                        
+google-api-core                     2.27.0             python                        
 google-api-python-client            2.71.0             python                        
 google-auth                         2.41.1             python                        
 google-auth-httplib2                0.2.0              python                        
@@ -569,7 +569,7 @@ goslide-api                         0.7.0              python
 gotailwind                          0.3.0              python                        
 govee-ble                           0.44.0             python                        
 govee-local-api                     2.2.0              python                        
-gpiod                               2.3.0              python                        
+gpiod                               2.4.0              python                        
 gpiozero                            1.6.2              python                        
 gps3                                0.33.3             python                        
 gql                                 3.5.3              python                        
@@ -619,12 +619,12 @@ hkavr                               0.0.5              python
 hko                                 0.3.2              python                        
 hlk-sw16                            0.0.9              python                        
 hole                                0.9.0              python                        
-holidays                            0.82               python                        
+holidays                            0.83               python                        
 home-assistant-bluetooth            1.13.1             python                        
 home-assistant-chip-clusters        2025.7.0           python                        
 home-assistant-frontend             20251001.4         python                        
 home-assistant-intents              2025.10.1          python                        
-homeassistant                       2025.10.3          python                        
+homeassistant                       2025.10.4          python                        
 homematicip                         2.3.0              python                        
 horimote                            0.4.1              python                        
 hpack                               4.1.0              python                        
@@ -1036,7 +1036,7 @@ opentelemetry-semantic-conventions  0.59b0             python
 openwebifpy                         4.3.1              python                        
 openwrt-luci-rpc                    1.1.17             python                        
 openwrt-ubus-rpc                    0.0.2              python                        
-opower                              0.15.7             python                        
+opower                              0.15.8             python                        
 opus                                1.5.2-r1           apk                           
 opuslib                             3.0.1              python                        
 oralb-ble                           0.17.6             python                        
@@ -1179,7 +1179,7 @@ pycryptodome                        3.23.0             python
 pycryptodomex                       3.23.0             python                        
 pycsspeechtts                       1.0.8              python                        
 pycups                              2.0.4              python                        
-pycync                              0.4.1              python                        
+pycync                              0.4.2              python                        
 pydaikin                            2.17.1             python                        
 pydanfossair                        0.1.0              python                        
 pydantic                            2.11.9             python                        
@@ -1194,7 +1194,7 @@ pydiscovergy                        3.0.2              python
 pydoods                             1.0.2              python                        
 pydrawise                           2025.9.0           python                        
 pydroid-ipcam                       3.0.0              python                        
-pydroplet                           2.3.3              python                        
+pydroplet                           2.3.4              python                        
 pydub                               0.25.1             python                        
 pyduotecno                          2024.10.1          python                        
 pyebox                              1.1.4              python                        
@@ -1323,7 +1323,7 @@ pypjlink2                           1.2.1              python
 pyplaato                            0.0.19             python                        
 pypoint                             3.0.0              python                        
 pyportainer                         1.0.3              python                        
-pyprobeplus                         1.1.0              python                        
+pyprobeplus                         1.1.2              python                        
 pyprof2calltree                     1.4.5              python                        
 pyprosegur                          0.0.14             python                        
 pyprusalink                         2.1.1              python                        
