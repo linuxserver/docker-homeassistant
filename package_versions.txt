@@ -261,7 +261,7 @@ bitstruct                           8.21.0             python
 bitvec                              1.0.1              rust-crate                    
 bitvec_helpers                      3.1.6              rust-crate                    
 bizkaibus                           0.1.1              python                        
-bleach                              6.2.0              python                        
+bleach                              6.3.0              python                        
 bleak                               1.0.1              python                        
 bleak-esphome                       3.3.0              python                        
 bleak-retry-connector               4.4.3              python                        
@@ -320,7 +320,7 @@ chacha20poly1305-reuseable          0.13.2             python
 charset-normalizer                  3.4.3              python                        
 ciscomobilityexpress                0.3.9              python                        
 ciso8601                            2.3.3              python                        
-cjson                               1.7.18-r1          apk                           
+cjson                               1.7.19-r0          apk                           
 clap                                4.4.14             rust-crate                    
 clap_builder                        4.4.14             rust-crate                    
 clap_complete                       4.4.6              rust-crate                    
@@ -551,9 +551,9 @@ gnutls                              3.8.8-r0           apk
 go2rtc-client                       0.2.1              python                        
 goalzero                            0.2.2              python                        
 goodwe                              0.4.8              python                        
-google-api-core                     2.27.0             python                        
+google-api-core                     2.28.1             python                        
 google-api-python-client            2.71.0             python                        
-google-auth                         2.41.1             python                        
+google-auth                         2.42.0             python                        
 google-auth-httplib2                0.2.0              python                        
 google-auth-oauthlib                1.2.2              python                        
 google-cloud-pubsub                 2.29.0             python                        
@@ -1394,7 +1394,7 @@ python-clementine-remote            1.0.1              python
 python-dateutil                     2.9.0.post0        python                        
 python-didl-lite                    1.4.1              python                        
 python-digitalocean                 1.13.2             python                        
-python-dotenv                       1.1.1              python                        
+python-dotenv                       1.2.1              python                        
 python-ecobee-api                   0.2.20             python                        
 python-engineio                     4.12.3             python                        
 python-engineio-v3                  3.14.2             python                        
@@ -1553,7 +1553,7 @@ scan_fmt                            0.2.6              rust-crate
 scanelf                             1.3.8-r1           apk                           
 scapy                               2.6.1              python                        
 schedule                            1.2.2              python                        
-scipy                               1.16.2             python                        
+scipy                               1.16.3             python                        
 screenlogicpy                       0.10.2             python                        
 scsgate                             0.1.0              python                        
 sdl2-compat                         2.32.56-r0         apk                           
@@ -1561,7 +1561,7 @@ sdl3                                3.2.16-r0          apk
 secretstorage                       3.4.0              python                        
 securetar                           2025.2.1           python                        
 segno                               1.6.6              python                        
-selenium                            4.37.0             python                        
+selenium                            4.38.0             python                        
 selenium-manager                    UNKNOWN            binary                        
 semver                              3.0.4              python                        
 sendgrid                            6.8.2              python                        
@@ -1641,7 +1641,7 @@ standard-aifc                       3.13.0             python
 standard-chunk                      3.13.0             python                        
 standard-telnetlib                  3.13.0             python                        
 starkbank-ecdsa                     2.2.0              python                        
-starlette                           0.48.0             python                        
+starlette                           0.49.1             python                        
 starline                            0.1.5              python                        
 starlingbank                        3.2                python                        
 starlink-grpc-core                  1.2.3              python                        
