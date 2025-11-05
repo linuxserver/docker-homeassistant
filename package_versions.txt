@@ -237,7 +237,7 @@ azure-kusto-data                    4.5.1              python
 azure-kusto-ingest                  4.5.1              python                        
 azure-servicebus                    7.10.0             python                        
 azure-storage-blob                  12.24.0            python                        
-azure-storage-queue                 12.14.0            python                        
+azure-storage-queue                 12.14.1            python                        
 babel                               2.15.0             python                        
 backoff                             2.2.1              python                        
 backports-tarfile                   1.2.0              python                        
@@ -252,7 +252,7 @@ bidict                              0.23.1             python
 bimmer-connected                    0.17.3             python                        
 bind-libs                           9.20.15-r0         apk                           
 bind-tools                          9.20.15-r0         apk                           
-bitarray                            3.7.2              python                        
+bitarray                            3.8.0              python                        
 bitflags                            2.4.1              rust-crate                    
 bitstream-io                        2.2.0              rust-crate                    
 bitstream-io                        2.6.0              rust-crate                    
@@ -404,7 +404,7 @@ deluge-client                       1.10.2             python
 demetriek                           1.3.0              python                        
 demjson3                            3.0.6              python                        
 denonavr                            1.1.2              python                        
-deprecated                          1.2.18             python                        
+deprecated                          1.3.1              python                        
 devialet                            1.5.7              python                        
 devolo-home-control-api             0.19.0             python                        
 devolo-plc-api                      1.5.1              python                        
@@ -553,8 +553,8 @@ goalzero                            0.2.2              python
 goodwe                              0.4.8              python                        
 google-api-core                     2.28.1             python                        
 google-api-python-client            2.71.0             python                        
-google-auth                         2.42.0             python                        
-google-auth-httplib2                0.2.0              python                        
+google-auth                         2.42.1             python                        
+google-auth-httplib2                0.2.1              python                        
 google-auth-oauthlib                1.2.2              python                        
 google-cloud-pubsub                 2.29.0             python                        
 google-cloud-speech                 2.31.1             python                        
@@ -659,7 +659,7 @@ iglo                                1.2.7              python
 igloohome-api                       0.1.1              python                        
 ihcsdk                              2.8.5              python                        
 ijson                               3.4.0.post0        python                        
-imageio                             2.37.0             python                        
+imageio                             2.37.2             python                        
 imath                               3.1.12-r0          apk                           
 imeon-inverter-api                  0.4.0              python                        
 imgw-pib                            1.5.6              python                        
@@ -886,10 +886,10 @@ luftdaten                           0.7.4              python
 lupupy                              0.3.2              python                        
 lw12                                0.9.2              python                        
 lxml                                6.0.1              python                        
-mac-vendor-lookup                   0.1.12             python                        
+mac-vendor-lookup                   0.1.13             python                        
 mariadb-connector-c                 3.3.10-r0          apk                           
 marisa-trie                         1.3.1              python                        
-markdown                            3.9                python                        
+markdown                            3.10               python                        
 markupsafe                          3.0.3              python                        
 marshmallow                         3.26.1             python                        
 marshmallow-dataclass               8.7.1              python                        
@@ -1062,7 +1062,7 @@ paramiko                            3.5.0              python
 paste                               1.0.14             rust-crate                    
 path                                17.1.1             python                        
 pathvalidate                        3.3.1              python                        
-pbr                                 7.0.1              python                        
+pbr                                 7.0.3              python                        
 pcre2                               10.46-r0           apk                           
 pdunehd                             1.3.2              python                        
 peblar                              0.4.0              python                        
@@ -1076,7 +1076,7 @@ pianobar                            2024.12.21-r0      apk
 pigpio                              1.78               python                        
 pilight                             0.1.1              python                        
 pillow                              11.3.0             python                        
-pint                                0.25               python                        
+pint                                0.25.1             python                        
 pip                                 25.2               python                        
 pizzapi                             0.0.6              python                        
 pkce                                1.0.3              python                        
@@ -1434,7 +1434,7 @@ python-roborock                     2.50.2             python
 python-slugify                      8.0.4              python                        
 python-smarttub                     0.0.44             python                        
 python-snoo                         0.8.3              python                        
-python-socketio                     5.14.2             python                        
+python-socketio                     5.14.3             python                        
 python-socketio-v4                  4.6.1              python                        
 python-socks                        2.7.2              python                        
 python-songpal                      0.16.2             python                        
@@ -1567,7 +1567,7 @@ semver                              3.0.4              python
 sendgrid                            6.8.2              python                        
 sense-energy                        0.13.8             python                        
 sensirion-ble                       0.1.1              python                        
-sensor-state-data                   2.19.0             python                        
+sensor-state-data                   2.20.0             python                        
 sensorpro-ble                       0.7.1              python                        
 sensorpush-api                      2.1.3              python                        
 sensorpush-ble                      1.9.0              python                        
@@ -1635,13 +1635,13 @@ sratom                              0.6.18-r0          apk
 srp                                 1.0.22             python                        
 srpenergy                           1.3.6              python                        
 srptools                            1.0.1              python                        
-sse-starlette                       3.0.2              python                        
+sse-starlette                       3.0.3              python                        
 ssl_client                          1.37.0-r19         apk                           
 standard-aifc                       3.13.0             python                        
 standard-chunk                      3.13.0             python                        
 standard-telnetlib                  3.13.0             python                        
 starkbank-ecdsa                     2.2.0              python                        
-starlette                           0.49.1             python                        
+starlette                           0.50.0             python                        
 starline                            0.1.5              python                        
 starlingbank                        3.2                python                        
 starlink-grpc-core                  1.2.3              python                        
@@ -1712,7 +1712,7 @@ transitions                         0.8.11             python
 transmission-rpc                    7.0.3              python                        
 travispy                            0.3.5              python                        
 triggercmd                          0.0.36             python                        
-trio                                0.31.0             python                        
+trio                                0.32.0             python                        
 trio-websocket                      0.12.2             python                        
 ttls                                1.8.3              python                        
 ttn-client                          1.2.0              python                        
@@ -1779,7 +1779,7 @@ victron-vrm                         0.1.8              python
 vidstab                             1.1.1-r0           apk                           
 vilfo-api-client                    0.5.0              python                        
 vincenty                            0.1.4              python                        
-virtualenv                          20.35.3            python                        
+virtualenv                          20.35.4            python                        
 vobject                             0.9.9              python                        
 voip-utils                          0.3.4              python                        
 volkszaehler                        0.4.0              python                        
@@ -1800,7 +1800,7 @@ watergate-local-api                 2024.4.1           python
 wayland-libs-client                 1.23.1-r3          apk                           
 wcwidth                             0.2.14             python                        
 weatherflow4py                      1.4.1              python                        
-webcolors                           24.11.1            python                        
+webcolors                           25.10.0            python                        
 webencodings                        0.5.1              python                        
 webexpythonsdk                      2.0.1              python                        
 webio-api                           0.1.11             python                        
