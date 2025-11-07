@@ -27,7 +27,7 @@ aioacaia                            0.1.17             python
 aioairq                             0.4.7              python                        
 aioairzone                          1.0.2              python                        
 aioairzone-cloud                    0.7.2              python                        
-aioamazondevices                    6.5.6              python                        
+aioamazondevices                    8.0.1              python                        
 aioambient                          2024.8.0           python                        
 aioapcaccess                        1.0.0              python                        
 aioaquacell                         0.2.0              python                        
@@ -73,7 +73,7 @@ aiohttp-sse-client2                 0.3.0              python
 aiohue                              4.8.0              python                        
 aioimaplib                          2.0.1              python                        
 aioimmich                           0.11.1             python                        
-aioitertools                        0.12.0             python                        
+aioitertools                        0.13.0             python                        
 aiokafka                            0.10.0             python                        
 aiokef                              0.2.16             python                        
 aiokem                              1.0.1              python                        
@@ -366,7 +366,7 @@ coreutils                           9.7-r1             apk
 coreutils-env                       9.7-r1             apk                           
 coreutils-fmt                       9.7-r1             apk                           
 coreutils-sha512sum                 9.7-r1             apk                           
-coverage                            7.11.0             python                        
+coverage                            7.11.1             python                        
 crc                                 3.3.0              rust-crate                    
 crc                                 7.1.0              python                        
 crc-catalog                         2.4.0              rust-crate                    
@@ -572,7 +572,7 @@ google-geo-type                     0.4.0              python
 google-maps-routing                 0.6.15             python                        
 google-nest-sdm                     7.1.4              python                        
 google-photos-library-api           0.12.1             python                        
-googleapis-common-protos            1.71.0             python                        
+googleapis-common-protos            1.72.0             python                        
 goslide-api                         0.7.0              python                        
 gotailwind                          0.3.0              python                        
 govee-ble                           0.44.0             python                        
@@ -631,8 +631,8 @@ holidays                            0.84               python
 home-assistant-bluetooth            1.13.1             python                        
 home-assistant-chip-clusters        2025.7.0           python                        
 home-assistant-frontend             20251105.0         python                        
-home-assistant-intents              2025.10.28         python                        
-homeassistant                       2025.11.0          python                        
+home-assistant-intents              2025.11.7          python                        
+homeassistant                       2025.11.1          python                        
 homematicip                         2.3.1              python                        
 horimote                            0.4.1              python                        
 hpack                               4.1.0              python                        
@@ -1027,7 +1027,7 @@ ollama                              0.5.1              python
 omnilogic                           0.4.5              python                        
 once_cell                           1.19.0             rust-crate                    
 ondilo                              0.5.0              python                        
-onedrive-personal-sdk               0.0.15             python                        
+onedrive-personal-sdk               0.0.16             python                        
 onevpl-libs                         2023.3.1-r2        apk                           
 oniguruma                           6.9.10-r0          apk                           
 onvif-zeep-async                    4.0.4              python                        
@@ -1095,7 +1095,7 @@ pianobar                            2024.12.21-r0      apk
 pigpio                              1.78               python                        
 pilight                             0.1.1              python                        
 pillow                              12.0.0             python                        
-pint                                0.25.1             python                        
+pint                                0.25.2             python                        
 pip                                 25.2               python                        
 pizzapi                             0.0.6              python                        
 pkce                                1.0.3              python                        
@@ -1526,7 +1526,7 @@ rav1e                               0.7.1              rust-crate
 rav1e-libs                          0.7.1-r2           apk                           
 rayon                               1.8.0              rust-crate                    
 rayon-core                          1.12.0             rust-crate                    
-reactivex                           4.0.4              python                        
+reactivex                           4.1.0              python                        
 readline                            8.2.13-r1          apk                           
 recurring-ical-events               3.8.0              python                        
 referencing                         0.37.0             python                        
@@ -1739,7 +1739,7 @@ trio                                0.32.0             python
 trio-websocket                      0.12.2             python                        
 ttls                                1.8.3              python                        
 ttn-client                          1.2.3              python                        
-tuya-device-sharing-sdk             0.2.4              python                        
+tuya-device-sharing-sdk             0.2.5              python                        
 twentemilieu                        2.2.1              python                        
 twilio                              6.32.0             python                        
 twitchapi                           4.2.1              python                        
