@@ -67,7 +67,7 @@ aiohttp-asyncmdnsresolver           0.1.1              python
 aiohttp-cors                        0.8.1              python                        
 aiohttp-fast-zlib                   0.3.0              python                        
 aiohttp-retry                       2.9.1              python                        
-aiohttp-socks                       0.10.1             python                        
+aiohttp-socks                       0.10.2             python                        
 aiohttp-sse                         2.2.0              python                        
 aiohttp-sse-client2                 0.3.0              python                        
 aiohue                              4.8.0              python                        
@@ -366,7 +366,7 @@ coreutils                           9.7-r1             apk
 coreutils-env                       9.7-r1             apk                           
 coreutils-fmt                       9.7-r1             apk                           
 coreutils-sha512sum                 9.7-r1             apk                           
-coverage                            7.11.1             python                        
+coverage                            7.11.3             python                        
 crc                                 3.3.0              rust-crate                    
 crc                                 7.1.0              python                        
 crc-catalog                         2.4.0              rust-crate                    
@@ -727,7 +727,7 @@ jaraco-text                         4.0.0              python
 jeepney                             0.9.0              python                        
 jellyfin-apiclient-python           1.11.0             python                        
 jinja2                              3.1.6              python                        
-jiter                               0.11.1             python                        
+jiter                               0.12.0             python                        
 jmespath                            1.0.1              python                        
 josepy                              2.2.0              python                        
 jq                                  1.8.0-r0           apk                           
@@ -1113,7 +1113,7 @@ ppv-lite86                          0.2.17             rust-crate
 praw                                7.5.0              python                        
 prawcore                            2.4.0              python                        
 prayer-times-calculator-offline     1.0.3              python                        
-pre-commit                          4.3.0              python                        
+pre-commit                          4.4.0              python                        
 pre-commit-package                  dev-1              lua-rocks                     
 prettytable                         3.16.0             python                        
 proc-macro2                         1.0.76             rust-crate                    
@@ -1203,7 +1203,7 @@ pydanfossair                        0.1.0              python
 pydantic                            2.12.2             python                        
 pydantic-core                       2.41.4             python                        
 pydantic-extra-types                2.10.6             python                        
-pydantic-settings                   2.11.0             python                        
+pydantic-settings                   2.12.0             python                        
 pydeako                             0.6.0              python                        
 pydeconz                            120                python                        
 pydelijn                            1.1.0              python                        
@@ -1404,7 +1404,7 @@ pyswitchbot                         0.72.1             python
 pyswitchmate                        0.5.1              python                        
 pysyncthru                          0.8.0              python                        
 pytautulli                          23.1.1             python                        
-pytest                              8.4.2              python                        
+pytest                              9.0.0              python                        
 pytest-rerunfailures                16.0.1             python                        
 pythinkingcleaner                   0.0.3              python                        
 python                              3.13.9             binary                        
@@ -1458,7 +1458,7 @@ python-smarttub                     0.0.45             python
 python-snoo                         0.8.3              python                        
 python-socketio                     5.14.3             python                        
 python-socketio-v4                  4.6.1              python                        
-python-socks                        2.7.2              python                        
+python-socks                        2.7.3              python                        
 python-songpal                      0.16.2             python                        
 python-tado                         0.18.15            python                        
 python-technove                     2.0.0              python                        
@@ -1748,7 +1748,7 @@ typedmonarchmoney                   0.4.4              python
 typeguard                           4.3.0              python                        
 typeguard                           4.4.4              python                        
 typer                               0.12.5             python                        
-types-pytz                          2025.2.0.20250809  python                        
+types-pytz                          2025.2.0.20251108  python                        
 typing-extensions                   4.12.2             python                        
 typing-extensions                   4.15.0             python                        
 typing-inspect                      0.9.0              python                        
