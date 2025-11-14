@@ -22,7 +22,7 @@ aio-geojson-nsw-rfs-incidents       0.7                python
 aio-geojson-usgs-earthquakes        0.3                python                        
 aio-georss-client                   0.13               python                        
 aio-georss-gdacs                    0.10               python                        
-aio-ownet                           0.0.4              python                        
+aio-ownet                           0.0.5              python                        
 aioacaia                            0.1.17             python                        
 aioairq                             0.4.7              python                        
 aioairzone                          1.0.2              python                        
@@ -244,7 +244,6 @@ babel                               2.15.0             python
 backoff                             2.2.1              python                        
 backports-tarfile                   1.2.0              python                        
 backports-zstd                      1.0.0              python                        
-backrefs                            5.9                python                        
 baidu-aip                           1.6.6.0            python                        
 base36                              0.1.1              python                        
 bash                                5.2.37-r0          apk                           
@@ -291,7 +290,7 @@ botocore                            1.37.1             python
 bring-api                           1.1.1              python                        
 broadlink                           0.19.0             python                        
 brother                             5.1.1              python                        
-brotli                              1.1.0              python                        
+brotli                              1.2.0              python                        
 brotli-libs                         1.1.0-r2           apk                           
 brottsplatskartan                   1.0.5              python                        
 brunt                               1.2.0              python                        
@@ -309,13 +308,13 @@ c-ares                              1.34.5-r0          apk
 ca-certificates                     20250911-r0        apk                           
 ca-certificates-bundle              20250911-r0        apk                           
 cached-ipaddress                    1.0.1              python                        
-cachetools                          6.2.1              python                        
+cachetools                          6.2.2              python                        
 caio                                0.9.24             python                        
 caldav                              1.6.0              python                        
 casttube                            0.2.1              python                        
 catatonit                           0.2.1-r0           apk                           
 cbor2                               5.7.1              python                        
-certifi                             2025.10.5          python                        
+certifi                             2025.11.12         python                        
 cffi                                2.0.0              python                        
 cfg-if                              1.0.0              rust-crate                    
 cfgv                                3.4.0              python                        
@@ -373,7 +372,7 @@ crc-catalog                         2.4.0              rust-crate
 crccheck                            1.3.1              python                        
 crcmod                              1.7                python                        
 croniter                            6.0.0              python                        
-cronsim                             2.6                python                        
+cronsim                             2.7                python                        
 crossbeam                           0.8.4              rust-crate                    
 crossbeam-channel                   0.5.14             rust-crate                    
 crossbeam-deque                     0.8.5              rust-crate                    
@@ -521,7 +520,7 @@ freesms                             0.2.0              python
 freetype                            2.13.3-r0          apk                           
 fribidi                             1.0.16-r1          apk                           
 fritzconnection                     1.15.0             python                        
-frozendict                          2.4.6              python                        
+frozendict                          2.4.7              python                        
 frozenlist                          1.8.0              python                        
 fstrm                               0.6.1-r4           apk                           
 ftfy                                6.3.1              python                        
@@ -545,7 +544,6 @@ georss-ign-sismologia-client        0.8                python
 georss-qld-bushfire-alert-client    0.8                python                        
 getmac                              0.9.5              python                        
 getrandom                           0.2.12             rust-crate                    
-ghp-import                          2.1.0              python                        
 giflib                              5.2.2-r1           apk                           
 gios                                6.1.2              python                        
 git                                 2.49.1-r0          apk                           
@@ -632,7 +630,7 @@ home-assistant-bluetooth            1.13.1             python
 home-assistant-chip-clusters        2025.7.0           python                        
 home-assistant-frontend             20251105.0         python                        
 home-assistant-intents              2025.11.7          python                        
-homeassistant                       2025.11.1          python                        
+homeassistant                       2025.11.2          python                        
 homematicip                         2.3.1              python                        
 horimote                            0.4.1              python                        
 hpack                               4.1.0              python                        
@@ -915,7 +913,6 @@ mechanize                           0.4.10             python
 medcom-ble                          0.1.1              python                        
 melnor-bluetooth                    0.0.25             python                        
 memchr                              2.7.1              rust-crate                    
-mergedeep                           1.3.4              python                        
 messagebird                         1.2.0              python                        
 metar                               1.11.0             python                        
 meteo-lt-pkg                        0.2.4              python                        
@@ -927,16 +924,10 @@ micloud                             0.5                python
 microbeespy                         0.3.5              python                        
 mii-tool                            2.10-r3            apk                           
 mill-local                          0.3.0              python                        
-millheater                          0.14.0             python                        
+millheater                          0.14.1             python                        
 miniaudio                           1.61               python                        
 minimal-lexical                     0.2.1              rust-crate                    
 minio                               7.1.12             python                        
-mkdocs                              1.6.1              python                        
-mkdocs-autorefs                     1.4.3              python                        
-mkdocs-get-deps                     0.2.0              python                        
-mkdocs-material                     9.6.23             python                        
-mkdocs-material-extensions          1.3.1              python                        
-mkdocstrings                        0.30.1             python                        
 moat-ble                            0.1.1              python                        
 moehlenhoff-alpha2                  1.4.0              python                        
 momonga                             0.2.0              python                        
@@ -1071,7 +1062,6 @@ p11-kit                             0.25.5-r2          apk
 p1monitor                           3.2.0              python                        
 packaging                           24.2               python                        
 packaging                           25.0               python                        
-paginate                            0.5.7              python                        
 paho-mqtt                           2.1.0              python                        
 panacotta                           0.2                python                        
 panasonic-viera                     0.4.2              python                        
@@ -1079,7 +1069,6 @@ pandas                              2.3.3              python
 paramiko                            3.5.0              python                        
 paste                               1.0.14             rust-crate                    
 path                                17.1.1             python                        
-pathspec                            0.12.1             python                        
 pathvalidate                        3.3.1              python                        
 pbr                                 7.0.3              python                        
 pcre2                               10.46-r0           apk                           
@@ -1115,7 +1104,7 @@ prawcore                            2.4.0              python
 prayer-times-calculator-offline     1.0.3              python                        
 pre-commit                          4.4.0              python                        
 pre-commit-package                  dev-1              lua-rocks                     
-prettytable                         3.16.0             python                        
+prettytable                         3.17.0             python                        
 proc-macro2                         1.0.76             rust-crate                    
 procps-ng                           4.0.4-r3           apk                           
 profiling                           1.0.13             rust-crate                    
@@ -1294,7 +1283,6 @@ pylutron                            0.2.18             python
 pylutron-caseta                     0.25.0             python                        
 pymailgunner                        1.4                python                        
 pymata-express                      1.19               python                        
-pymdown-extensions                  10.16.1            python                        
 pymediaroom                         0.6.5.4            python                        
 pymeteireann                        2024.11.0          python                        
 pymeteoclimatic                     0.1.0              python                        
@@ -1332,7 +1320,7 @@ pyosoenergyapi                      1.2.4              python
 pyotgw                              2.2.2              python                        
 pyotp                               2.9.0              python                        
 pyoverkiz                           1.19.0             python                        
-pypalazzetti                        0.1.19             python                        
+pypalazzetti                        0.1.20             python                        
 pypaperless                         4.1.1              python                        
 pyparsing                           3.2.5              python                        
 pypasser                            0.0.5              python                        
@@ -1342,7 +1330,7 @@ pypglab                             0.0.5              python
 pypjlink2                           1.2.1              python                        
 pyplaato                            0.0.19             python                        
 pypoint                             3.0.0              python                        
-pyportainer                         1.0.12             python                        
+pyportainer                         1.0.14             python                        
 pyprobeplus                         1.1.2              python                        
 pyprof2calltree                     1.4.5              python                        
 pyprosegur                          0.0.14             python                        
@@ -1383,7 +1371,7 @@ pyskyqhub                           0.1.4              python
 pysma                               1.0.2              python                        
 pysmappee                           0.2.29             python                        
 pysmarlaapi                         0.9.2              python                        
-pysmartthings                       3.3.1              python                        
+pysmartthings                       3.3.3              python                        
 pysmarty2                           0.10.3             python                        
 pysmb                               1.2.13             python                        
 pysmhi                              1.1.0              python                        
@@ -1404,13 +1392,13 @@ pyswitchbot                         0.72.1             python
 pyswitchmate                        0.5.1              python                        
 pysyncthru                          0.8.0              python                        
 pytautulli                          23.1.1             python                        
-pytest                              9.0.0              python                        
+pytest                              9.0.1              python                        
 pytest-rerunfailures                16.0.1             python                        
 pythinkingcleaner                   0.0.3              python                        
 python                              3.13.9             binary                        
 python-awair                        0.2.4              python                        
 python-blockchain-api               0.0.2              python                        
-python-bsblan                       3.1.0              python                        
+python-bsblan                       3.1.1              python                        
 python-citybikes                    0.3.3              python                        
 python-clementine-remote            1.0.1              python                        
 python-dateutil                     2.9.0.post0        python                        
@@ -1443,7 +1431,7 @@ python-motionmount                  2.3.0              python
 python-mpd2                         3.1.1              python                        
 python-multipart                    0.0.20             python                        
 python-mystrom                      2.5.0              python                        
-python-open-router                  0.3.2              python                        
+python-open-router                  0.3.3              python                        
 python-opendata-transport           0.5.0              python                        
 python-opensky                      1.0.1              python                        
 python-otbr-api                     2.7.0              python                        
@@ -1482,7 +1470,7 @@ pyuptimerobot                       22.2.0             python
 pyusb                               1.3.1              python                        
 pyvera                              0.3.16             python                        
 pyversasense                        0.0.6              python                        
-pyvesync                            3.1.4              python                        
+pyvesync                            3.2.2              python                        
 pyvicare                            2.54.0             python                        
 pyvizio                             0.1.61             python                        
 pyvlx                               0.2.26             python                        
@@ -1500,7 +1488,6 @@ pyws66i                             1.1                python
 pyxeoma                             1.4.2              python                        
 pyxiaomigateway                     0.14.3             python                        
 pyyaml                              6.0.3              python                        
-pyyaml-env-tag                      1.1                python                        
 pyyardian                           1.1.1              python                        
 pyzbar                              0.1.7              python                        
 pyzerproc                           0.4.8              python                        
@@ -1535,7 +1522,7 @@ regenmaschine                       2024.3.0           python
 regex                               2024.11.6          python                        
 renault-api                         0.5.0              python                        
 renson-endura-delta                 1.7.2              python                        
-reolink-aio                         0.16.4             python                        
+reolink-aio                         0.16.5             python                        
 requests                            2.32.5             python                        
 requests-aws4auth                   1.3.1              python                        
 requests-file                       3.0.1              python                        
@@ -1580,7 +1567,7 @@ screenlogicpy                       0.10.2             python
 scsgate                             0.1.0              python                        
 sdl2-compat                         2.32.56-r0         apk                           
 sdl3                                3.2.16-r0          apk                           
-secretstorage                       3.4.0              python                        
+secretstorage                       3.4.1              python                        
 securetar                           2025.2.1           python                        
 segno                               1.6.6              python                        
 selenium                            4.38.0             python                        
@@ -1842,7 +1829,7 @@ wolf-comm                           0.0.23             python
 wrapt                               1.17.3             python                        
 wsdiscovery                         2.1.2              python                        
 wsdot                               0.0.1              python                        
-wsproto                             1.2.0              python                        
+wsproto                             1.3.1              python                        
 wyoming                             1.7.2              python                        
 wyz                                 0.5.1              rust-crate                    
 x-wr-timezone                       2.0.1              python                        
@@ -1850,7 +1837,7 @@ x264-libs                           0.164.3108-r0      apk
 x265-libs                           3.6-r0             apk                           
 xbox-webapi                         2.1.0              python                        
 xiaomi-ble                          1.2.0              python                        
-xknx                                3.10.0             python                        
+xknx                                3.10.1             python                        
 xknxproject                         3.8.2              python                        
 xlsxwriter                          3.2.9              python                        
 xmlschema                           4.2.0              python                        
@@ -1877,8 +1864,8 @@ zcc-helper                          3.7                python
 zeep                                4.3.2              python                        
 zeroconf                            0.148.0            python                        
 zeversolar                          0.3.2              python                        
-zha                                 0.0.77             python                        
-zha-quirks                          0.0.148            python                        
+zha                                 0.0.79             python                        
+zha-quirks                          0.0.149            python                        
 zhong-hong-hvac                     1.0.13             python                        
 ziggo-mediabox-xl                   1.1.0              python                        
 zigpy                               0.86.0             python                        
