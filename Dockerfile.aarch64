@@ -91,20 +91,23 @@ RUN \
     HASS_RELEASE=$(curl -sX GET https://api.github.com/repos/home-assistant/core/releases/latest \
       | jq -r .tag_name); \
   fi && \
+  echo "HASS_RELEASE retrieved as ${HASS_RELEASE}" && \
   curl -o \
     /tmp/core.tar.gz -L \
     "https://github.com/home-assistant/core/archive/${HASS_RELEASE}.tar.gz" && \
   tar xf \
     /tmp/core.tar.gz -C \
     /tmp/core --strip-components=1 && \
-  HASS_BASE=$(cat /tmp/core/build.yaml \
-    | grep 'amd64: ' \
-    | cut -d: -f3) && \
+  HASS_BASE=$(cat /tmp/core/.github/workflows/builder.yml \
+    | grep 'BASE_IMAGE_VERSION: ' \
+    | sed 's|.*: "||' | sed 's|".*||') && \
+  echo "HASS_BASE retrieved as ${HASS_BASE}" && \
   HA_PY_MAJOR=$(curl -fsL https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/build.yaml \
     | grep 'amd64: ' \
     | cut -d: -f3 \
     | sed 's|-alpine.*||') && \
-  HASS_BASE_RELEASE=$(curl -sL https://api.github.com/repos/home-assistant/docker/releases) && \
+  echo "HA_PY_MAJOR retrieved as ${HA_PY_MAJOR}" && \
+  HASS_BASE_RELEASE=$(curl -fSsL https://api.github.com/repos/home-assistant/docker/releases) && \
   HASS_BASE_TIME=$(date -d $(echo $HASS_BASE_RELEASE | \
     jq -r ".[] | select(.tag_name | match(\"${HASS_BASE}\")) .published_at") +%s) && \
   for i in 0 1 2 3 4 5 6; do \
@@ -130,7 +133,8 @@ RUN \
   HA_ALPINE_VER=$(curl -fsL https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/build.yaml \
     | grep 'amd64: ' \
     | cut -d: -f3 \
-    | sed 's|.*-alpine||') && \
+    | sed 's|.*-alpine||' \
+    | sed 's|-.*||') && \
   IMAGE_ALPINE_VER=$(cat /etc/os-release | grep PRETTY_NAME | sed 's|.*Linux v||' | sed 's|"||') && \
   if [[ "${HA_ALPINE_VER}" != "${IMAGE_ALPINE_VER}" ]]; then \
     echo -e "**** Incorrect OS version detected, canceling build ****\n**** Upstream expected OS: ${HA_ALPINE_VER} ****\n**** Detected OS: ${IMAGE_ALPINE_VER}****"; \
@@ -140,11 +144,11 @@ RUN \
     | grep 'PIP_VERSION: ' \
     | sed 's|.*PIP_VERSION: ||' \
     | sed 's|"||g') && \
-  HA_UV_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/Dockerfile" | grep 'install uv==' | sed 's|RUN pip3 install uv==||') && \
-  HA_GO2RTC_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/Dockerfile" | grep 'AlexxIT/go2rtc/releases/download' | sed -r 's|^.*AlexxIT/go2rtc/releases/download/(.*)/go2rtc_linux.*$|\1|') && \
+  HA_UV_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/Dockerfile" | grep 'install uv==' | sed 's|.*install uv==||') && \
+  HA_GO2RTC_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/homeassistant/components/go2rtc/const.py" | grep 'RECOMMENDED_VERSION' | sed 's|.*RECOMMENDED_VERSION = "||' | sed 's|".*||') && \
   curl -o \
     /bin/go2rtc -fL \
-    "https://github.com/AlexxIT/go2rtc/releases/download/${HA_GO2RTC_VERSION}/go2rtc_linux_arm64" && \
+    "https://github.com/AlexxIT/go2rtc/releases/download/v${HA_GO2RTC_VERSION}/go2rtc_linux_arm64" && \
   chmod +x /bin/go2rtc && \
   echo "**** Quick test go2rtc binary: ****" && \
   /bin/go2rtc --version && \
@@ -232,11 +236,10 @@ RUN \
     -r https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/requirements.txt && \
   uv pip install --no-build \
     -r requirements.txt && \
-  PYCUPS_VER=$(grep "pycups" requirements_all.txt | sed 's|.*==||') && \
   uv pip install --no-build \
       -r requirements_all.txt \
       isal \
-      pycups==${PYCUPS_VER} && \
+      pycups && \
   uv pip install \
     homeassistant==${HASS_RELEASE} && \
   for cleanfiles in *.pyc *.pyo; do \
