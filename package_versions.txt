@@ -475,7 +475,7 @@ eternalegypt                        0.0.16             python
 eudev-libs                          3.2.14-r5          apk                           
 eufylife-ble-client                 0.1.8              python                        
 events                              0.4                python                        
-evohome-async                       1.0.5              python                        
+evohome-async                       1.0.6              python                        
 evolutionhttp                       0.0.18             python                        
 exceptiongroup                      1.3.1              python                        
 faadelays                           2023.9.1           python                        
@@ -590,7 +590,7 @@ graphql-core                        3.2.6              python
 graphviz                            0.21               python                        
 greeclimate                         2.1.0              python                        
 greeneye-monitor                    3.0.3              python                        
-greenlet                            3.2.4              python                        
+greenlet                            3.3.0              python                        
 greenwavereality                    0.5.1              python                        
 gridnet                             5.0.1              python                        
 growattserver                       1.7.1              python                        
@@ -635,9 +635,9 @@ hole                                0.9.0              python
 holidays                            0.84               python                        
 home-assistant-bluetooth            1.13.1             python                        
 home-assistant-chip-clusters        2025.7.0           python                        
-home-assistant-frontend             20251203.0         python                        
+home-assistant-frontend             20251203.1         python                        
 home-assistant-intents              2025.12.2          python                        
-homeassistant                       2025.12.0          python                        
+homeassistant                       2025.12.1          python                        
 homematicip                         2.4.0              python                        
 horimote                            0.4.1              python                        
 hpack                               4.1.0              python                        
@@ -651,7 +651,7 @@ httpx                               0.28.1             python
 httpx-sse                           0.4.3              python                        
 huawei-lte-api                      1.11.0             python                        
 hueble                              1.0.8              python                        
-huggingface-hub                     1.1.7              python                        
+huggingface-hub                     1.2.1              python                        
 humanfriendly                       10.0               python                        
 huum                                0.8.1              python                        
 hwdata-pci                          0.395-r0           apk                           
@@ -1055,7 +1055,7 @@ openwrt-ubus-rpc                    0.0.2              python
 opower                              0.15.9             python                        
 opus                                1.5.2-r1           apk                           
 opuslib                             3.0.1              python                        
-oralb-ble                           0.17.6             python                        
+oralb-ble                           1.0.2              python                        
 orc                                 0.4.40-r1          apk                           
 orderedmultidict                    1.0.2              python                        
 orderly-set                         5.5.0              python                        
@@ -1096,7 +1096,7 @@ pint                                0.25.2             python
 pip                                 25.3               python                        
 pkce                                1.0.3              python                        
 platformdirs                        4.2.2              python                        
-platformdirs                        4.5.0              python                        
+platformdirs                        4.5.1              python                        
 plexapi                             4.15.16            python                        
 plexauth                            0.0.6              python                        
 plexwebsocket                       0.0.14             python                        
@@ -1357,7 +1357,7 @@ pyrfc3339                           2.1.0              python
 pyrfxtrx                            0.31.1             python                        
 pyric                               0.1.6.3            python                        
 pyrisco                             0.6.7              python                        
-pyrituals                           0.0.6              python                        
+pyrituals                           0.0.7              python                        
 pyrmvtransport                      0.3.3              python                        
 pyroute2                            0.7.5              python                        
 pyrympro                            0.0.9              python                        
@@ -1449,7 +1449,7 @@ python-picnic-api2                  1.3.1              python
 python-pooldose                     0.7.8              python                        
 python-rabbitair                    0.0.8              python                        
 python-ripple-api                   0.0.3              python                        
-python-roborock                     3.9.3              python                        
+python-roborock                     3.10.2             python                        
 python-slugify                      8.0.4              python                        
 python-smarttub                     0.0.45             python                        
 python-snoo                         0.8.3              python                        
@@ -1532,7 +1532,7 @@ regenmaschine                       2024.3.0           python
 regex                               2024.11.6          python                        
 renault-api                         0.5.1              python                        
 renson-endura-delta                 1.7.2              python                        
-reolink-aio                         0.17.0             python                        
+reolink-aio                         0.17.1             python                        
 requests                            2.32.5             python                        
 requests-aws4auth                   1.3.1              python                        
 requests-file                       3.0.1              python                        
@@ -1602,7 +1602,7 @@ sfrbox-api                          0.1.0              python
 sgmllib3k                           1.0.0              python                        
 shaderc                             2024.4-r0          apk                           
 shadow                              4.17.3-r0          apk                           
-sharkiq                             1.4.2              python                        
+sharkiq                             1.5.0              python                        
 sharp-aquos-rc                      0.3.2              python                        
 shellingham                         1.5.4              python                        
 shodan                              1.28.0             python                        
@@ -1756,7 +1756,7 @@ tzdata                              2025b-r0           apk
 tzlocal                             5.3.1              python                        
 uart-devices                        0.1.1              python                        
 uasiren                             0.0.1              python                        
-uiprotect                           7.31.0             python                        
+uiprotect                           7.33.2             python                        
 ujson                               5.11.0             python                        
 ulid-transform                      1.5.2              python                        
 ultraheat-api                       0.5.7              python                        
@@ -1777,7 +1777,7 @@ uplink                              0.10.0             python
 uplink-protobuf                     0.1.0              python                        
 uritemplate                         4.2.0              python                        
 url-normalize                       2.2.1              python                        
-urllib3                             2.5.0              python                        
+urllib3                             2.6.0              python                        
 usb-devices                         0.4.5              python                        
 userspace-rcu                       0.15.2-r0          apk                           
 utf8parse                           0.2.1              rust-crate                    
