@@ -193,7 +193,7 @@ asmog                               0.0.6              python
 asn1                                3.1.0              python                        
 asn1crypto                          1.5.1              python                        
 astral                              2.2                python                        
-asusrouter                          1.21.0             python                        
+asusrouter                          1.21.1             python                        
 async-interrupt                     1.2.2              python                        
 async-modbus                        0.2.3              python                        
 async-timeout                       4.0.3              python                        
@@ -245,7 +245,7 @@ b2sdk                               2.8.1              python
 babel                               2.15.0             python                        
 backoff                             2.2.1              python                        
 backports-tarfile                   1.2.0              python                        
-backports-zstd                      1.1.0              python                        
+backports-zstd                      1.2.0              python                        
 baidu-aip                           1.6.6.0            python                        
 base36                              0.1.1              python                        
 bash                                5.2.37-r0          apk                           
@@ -366,7 +366,7 @@ coreutils                           9.7-r1             apk
 coreutils-env                       9.7-r1             apk                           
 coreutils-fmt                       9.7-r1             apk                           
 coreutils-sha512sum                 9.7-r1             apk                           
-coverage                            7.12.0             python                        
+coverage                            7.13.0             python                        
 crc                                 3.3.0              rust-crate                    
 crc                                 7.1.0              python                        
 crc-catalog                         2.4.0              rust-crate                    
@@ -562,7 +562,7 @@ gnutls                              3.8.8-r0           apk
 go2rtc-client                       0.3.0              python                        
 goalzero                            0.2.2              python                        
 goodwe                              0.4.8              python                        
-google-air-quality-api              1.1.3              python                        
+google-air-quality-api              2.0.0              python                        
 google-api-core                     2.28.1             python                        
 google-api-python-client            2.71.0             python                        
 google-auth                         2.42.1             python                        
@@ -635,9 +635,9 @@ hole                                0.9.0              python
 holidays                            0.84               python                        
 home-assistant-bluetooth            1.13.1             python                        
 home-assistant-chip-clusters        2025.7.0           python                        
-home-assistant-frontend             20251203.1         python                        
+home-assistant-frontend             20251203.2         python                        
 home-assistant-intents              2025.12.2          python                        
-homeassistant                       2025.12.1          python                        
+homeassistant                       2025.12.2          python                        
 homematicip                         2.4.0              python                        
 horimote                            0.4.1              python                        
 hpack                               4.1.0              python                        
@@ -650,7 +650,7 @@ httplib2                            0.20.4             python
 httpx                               0.28.1             python                        
 httpx-sse                           0.4.3              python                        
 huawei-lte-api                      1.11.0             python                        
-hueble                              1.0.8              python                        
+hueble                              2.1.0              python                        
 huggingface-hub                     1.2.1              python                        
 humanfriendly                       10.0               python                        
 huum                                0.8.1              python                        
@@ -832,7 +832,7 @@ libpanelw                           6.5_p20250503-r0   apk
 libpcap                             1.10.5-r1          apk                           
 libpciaccess                        0.18.1-r0          apk                           
 libplacebo                          6.338.2-r3         apk                           
-libpng                              1.6.51-r0          apk                           
+libpng                              1.6.53-r0          apk                           
 libpq                               17.7-r0            apk                           
 libproc2                            4.0.4-r3           apk                           
 libpsl                              0.21.5-r3          apk                           
@@ -1296,7 +1296,7 @@ pymeteoclimatic                     0.1.0              python
 pymetno                             0.13.0             python                        
 pymicro-vad                         1.0.1              python                        
 pymicrobot                          0.0.23             python                        
-pymiele                             0.6.0              python                        
+pymiele                             0.6.1              python                        
 pymitv                              1.4.3              python                        
 pymochad                            0.2.0              python                        
 pymodbus                            3.11.2             python                        
@@ -1343,7 +1343,7 @@ pyprof2calltree                     1.4.5              python
 pyprosegur                          0.0.14             python                        
 pyprusalink                         2.1.1              python                        
 pyps4-2ndscreen                     1.3.1              python                        
-pypubsub                            4.0.3              python                        
+pypubsub                            4.0.7              python                        
 pyqrcode                            1.2.1              python                        
 pyquery                             2.0.1              python                        
 pyqvrpro                            0.52               python                        
@@ -1400,7 +1400,7 @@ pyswitchbot                         0.74.0             python
 pyswitchmate                        0.5.1              python                        
 pysyncthru                          0.8.0              python                        
 pytautulli                          23.1.1             python                        
-pytest                              9.0.1              python                        
+pytest                              9.0.2              python                        
 pytest-rerunfailures                16.0.1             python                        
 pythinkingcleaner                   0.0.3              python                        
 python                              3.13.9             binary                        
@@ -1449,7 +1449,7 @@ python-picnic-api2                  1.3.1              python
 python-pooldose                     0.7.8              python                        
 python-rabbitair                    0.0.8              python                        
 python-ripple-api                   0.0.3              python                        
-python-roborock                     3.10.2             python                        
+python-roborock                     3.10.10            python                        
 python-slugify                      8.0.4              python                        
 python-smarttub                     0.0.45             python                        
 python-snoo                         0.8.3              python                        
@@ -1580,7 +1580,7 @@ sdl3                                3.2.16-r0          apk
 secretstorage                       3.5.0              python                        
 securetar                           2025.2.1           python                        
 segno                               1.6.6              python                        
-selenium                            4.38.0             python                        
+selenium                            4.39.0             python                        
 selenium-manager                    UNKNOWN            binary                        
 semver                              3.0.4              python                        
 sendgrid                            6.8.2              python                        
@@ -1777,7 +1777,7 @@ uplink                              0.10.0             python
 uplink-protobuf                     0.1.0              python                        
 uritemplate                         4.2.0              python                        
 url-normalize                       2.2.1              python                        
-urllib3                             2.6.0              python                        
+urllib3                             2.6.1              python                        
 usb-devices                         0.4.5              python                        
 userspace-rcu                       0.15.2-r0          apk                           
 utf8parse                           0.2.1              rust-crate                    
@@ -1868,8 +1868,8 @@ yeelightsunflower                   0.0.10             python
 yolink-api                          0.5.8              python                        
 youless-api                         2.2.0              python                        
 youtubeaio                          2.1.1              python                        
-yt-dlp                              2025.11.12         python                        
-yt-dlp-ejs                          0.3.1              python                        
+yt-dlp                              2025.12.8          python                        
+yt-dlp-ejs                          0.3.2              python                        
 zabbix-utils                        2.0.3              python                        
 zamg                                0.3.6              python                        
 zcc-helper                          3.7                python                        
