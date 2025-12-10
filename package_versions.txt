@@ -67,7 +67,7 @@ aiohttp-asyncmdnsresolver           0.1.1              python
 aiohttp-cors                        0.8.1              python                        
 aiohttp-fast-zlib                   0.3.0              python                        
 aiohttp-retry                       2.9.1              python                        
-aiohttp-socks                       0.10.2             python                        
+aiohttp-socks                       0.11.0             python                        
 aiohttp-sse                         2.2.0              python                        
 aiohttp-sse-client2                 0.3.0              python                        
 aiohue                              4.8.0              python                        
@@ -1455,7 +1455,7 @@ python-smarttub                     0.0.45             python
 python-snoo                         0.8.3              python                        
 python-socketio                     5.15.0             python                        
 python-socketio-v4                  4.6.1              python                        
-python-socks                        2.7.3              python                        
+python-socks                        2.8.0              python                        
 python-songpal                      0.16.2             python                        
 python-tado                         0.18.15            python                        
 python-technove                     2.0.0              python                        
