@@ -119,7 +119,7 @@ aioslimproto                        3.0.0              python
 aiosmtpd                            1.4.6              python                        
 aiosolaredge                        0.2.0              python                        
 aiosomecomfort                      0.0.35             python                        
-aiosqlite                           0.21.0             python                        
+aiosqlite                           0.22.0             python                        
 aiosteamist                         1.0.1              python                        
 aiostreammagic                      2.11.0             python                        
 aioswitcher                         6.0.0              python                        
@@ -305,11 +305,11 @@ buienradar                          1.0.6              python
 busybox                             1.37.0-r20         apk                           
 busybox-binsh                       1.37.0-r20         apk                           
 bx-py-utils                         114                python                        
-c-ares                              1.34.5-r0          apk                           
+c-ares                              1.34.6-r0          apk                           
 ca-certificates                     20250911-r0        apk                           
 ca-certificates-bundle              20250911-r0        apk                           
 cached-ipaddress                    1.0.1              python                        
-cachetools                          6.2.2              python                        
+cachetools                          6.2.4              python                        
 caio                                0.9.24             python                        
 caldav                              2.1.0              python                        
 casttube                            0.2.1              python                        
@@ -496,7 +496,7 @@ ffmpeg-libswresample                6.1.2-r2           apk
 ffmpeg-libswscale                   6.1.2-r2           apk                           
 fido2                               2.0.0              python                        
 file-read-backwards                 2.0.0              python                        
-filelock                            3.20.0             python                        
+filelock                            3.20.1             python                        
 findutils                           4.10.0-r0          apk                           
 fing-agent-api                      1.0.3              python                        
 fints                               3.1.0              python                        
@@ -566,7 +566,7 @@ google-air-quality-api              2.0.2              python
 google-api-core                     2.28.1             python                        
 google-api-python-client            2.71.0             python                        
 google-auth                         2.42.1             python                        
-google-auth-httplib2                0.2.1              python                        
+google-auth-httplib2                0.3.0              python                        
 google-auth-oauthlib                1.2.2              python                        
 google-cloud-pubsub                 2.29.0             python                        
 google-cloud-speech                 2.31.1             python                        
@@ -651,7 +651,7 @@ httpx                               0.28.1             python
 httpx-sse                           0.4.3              python                        
 huawei-lte-api                      1.11.0             python                        
 hueble                              2.1.0              python                        
-huggingface-hub                     1.2.2              python                        
+huggingface-hub                     1.2.3              python                        
 humanfriendly                       10.0               python                        
 huum                                0.8.1              python                        
 hwdata-pci                          0.395-r0           apk                           
@@ -1121,7 +1121,7 @@ proliphix                           0.4.1              python
 prometheus-client                   0.21.0             python                        
 prompt-toolkit                      3.0.52             python                        
 propcache                           0.4.1              python                        
-proto-plus                          1.26.1             python                        
+proto-plus                          1.27.0             python                        
 protobuf                            6.32.0             python                        
 protobuf-c                          1.5.2-r0           apk                           
 prowlpy                             1.1.1              python                        
@@ -1655,7 +1655,7 @@ sratom                              0.6.18-r0          apk
 srp                                 1.0.22             python                        
 srpenergy                           1.3.6              python                        
 srptools                            1.0.1              python                        
-sse-starlette                       3.0.3              python                        
+sse-starlette                       3.0.4              python                        
 ssl_client                          1.37.0-r20         apk                           
 standard-aifc                       3.13.0             python                        
 standard-chunk                      3.13.0             python                        
@@ -1714,7 +1714,7 @@ tikteck                             0.4                python
 tiktoken                            0.12.0             python                        
 tilt-ble                            1.0.1              python                        
 tilt-pi                             0.2.1              python                        
-tinytag                             2.1.2              python                        
+tinytag                             2.2.0              python                        
 tinyvec                             1.9.0              rust-crate                    
 titlecase                           2.4.1              python                        
 tmb                                 0.0.4              python                        
@@ -1751,8 +1751,8 @@ typing-extensions                   4.12.2             python
 typing-extensions                   4.15.0             python                        
 typing-inspect                      0.9.0              python                        
 typing-inspection                   0.4.2              python                        
-tzdata                              2025.2             python                        
-tzdata                              2025b-r0           apk                           
+tzdata                              2025.3             python                        
+tzdata                              2025c-r0           apk                           
 tzlocal                             5.3.1              python                        
 uart-devices                        0.1.1              python                        
 uasiren                             0.0.1              python                        
