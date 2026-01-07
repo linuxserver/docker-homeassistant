@@ -85,7 +85,7 @@ aiolookin                           1.0.0              python
 aiolyric                            2.0.2              python                        
 aiomealie                           1.1.1              python                        
 aiomodernforms                      0.1.8              python                        
-aiomqtt                             2.4.0              python                        
+aiomqtt                             2.5.0              python                        
 aiomusiccast                        0.15.0             python                        
 aionanoleaf                         0.2.1              python                        
 aionotion                           2024.3.0           python                        
@@ -314,7 +314,7 @@ caldav                              2.1.0              python
 casttube                            0.2.1              python                        
 catatonit                           0.2.1-r0           apk                           
 cbor2                               5.8.0              python                        
-certifi                             2025.11.12         python                        
+certifi                             2026.1.4           python                        
 cffi                                2.0.0              python                        
 cfg-if                              1.0.0              rust-crate                    
 cfgv                                3.5.0              python                        
@@ -495,7 +495,7 @@ ffmpeg-libswresample                6.1.2-r2           apk
 ffmpeg-libswscale                   6.1.2-r2           apk                           
 fido2                               2.0.0              python                        
 file-read-backwards                 2.0.0              python                        
-filelock                            3.20.1             python                        
+filelock                            3.20.2             python                        
 findutils                           4.10.0-r0          apk                           
 fing-agent-api                      1.0.3              python                        
 fints                               3.1.0              python                        
@@ -564,7 +564,7 @@ goodwe                              0.4.8              python
 google-air-quality-api              2.0.2              python                        
 google-api-core                     2.28.1             python                        
 google-api-python-client            2.71.0             python                        
-google-auth                         2.42.1             python                        
+google-auth                         2.47.0             python                        
 google-auth-httplib2                0.3.0              python                        
 google-auth-oauthlib                1.2.2              python                        
 google-cloud-pubsub                 2.29.0             python                        
@@ -843,7 +843,7 @@ librist                             0.2.10-r1          apk
 librouteros                         3.2.0              python                        
 libsharpyuv                         1.5.0-r0           apk                           
 libsndfile                          1.2.2-r2           apk                           
-libsodium                           1.0.20-r0          apk                           
+libsodium                           1.0.20-r1          apk                           
 libsoundtouch                       0.8.0              python                        
 libsrt                              1.5.3-r1           apk                           
 libssh                              0.11.2-r0          apk                           
@@ -1151,7 +1151,7 @@ py-nightscout                       1.2.2              python
 py-schluter                         0.1.7              python                        
 py-sucks                            0.9.11             python                        
 py-synologydsm-api                  2.7.3              python                        
-py-vapid                            1.9.2              python                        
+py-vapid                            1.9.4              python                        
 py3rijndael                         0.3.3              python                        
 pyads                               3.4.0              python                        
 pyaehw4a1                           0.3.9              python                        
@@ -1199,7 +1199,7 @@ pydaikin                            2.17.1             python
 pydanfossair                        0.1.0              python                        
 pydantic                            2.12.2             python                        
 pydantic-core                       2.41.4             python                        
-pydantic-extra-types                2.10.6             python                        
+pydantic-extra-types                2.11.0             python                        
 pydantic-settings                   2.12.0             python                        
 pydeako                             0.6.0              python                        
 pydeconz                            120                python                        
@@ -1656,7 +1656,7 @@ sratom                              0.6.18-r0          apk
 srp                                 1.0.22             python                        
 srpenergy                           1.3.6              python                        
 srptools                            1.0.1              python                        
-sse-starlette                       3.1.1              python                        
+sse-starlette                       3.1.2              python                        
 ssl_client                          1.37.0-r20         apk                           
 standard-aifc                       3.13.0             python                        
 standard-chunk                      3.13.0             python                        
@@ -1720,7 +1720,7 @@ titlecase                           2.4.1              python
 tmb                                 0.0.4              python                        
 todoist-api-python                  2.1.7              python                        
 togrill-bluetooth                   0.8.0              python                        
-tokenizers                          0.22.1             python                        
+tokenizers                          0.22.2             python                        
 tololib                             1.2.2              python                        
 tomli                               2.0.1              python                        
 toonapi                             0.3.0              python                        
@@ -1851,7 +1851,7 @@ xiaomi-ble                          1.2.0              python
 xknx                                3.11.0             python                        
 xknxproject                         3.8.2              python                        
 xlsxwriter                          3.2.9              python                        
-xmlschema                           4.2.0              python                        
+xmlschema                           4.3.0              python                        
 xmltodict                           1.0.2              python                        
 xs1-api-client                      3.0.0              python                        
 xvidcore                            1.3.7-r2           apk                           
