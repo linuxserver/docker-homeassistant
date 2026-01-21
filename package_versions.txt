@@ -194,6 +194,7 @@ asn1                                3.1.0              python
 asn1crypto                          1.5.1              python                        
 astral                              2.2                python                        
 asusrouter                          1.21.3             python                        
+async-generator                     1.10               python                        
 async-interrupt                     1.2.2              python                        
 async-modbus                        0.2.3              python                        
 async-timeout                       4.0.3              python                        
@@ -444,7 +445,7 @@ eheimdigital                        1.5.0              python
 either                              1.9.0              rust-crate                    
 ekey-bionyxpy                       1.0.1              python                        
 electrickiwi-api                    0.9.14             python                        
-elementpath                         5.1.0              python                        
+elementpath                         5.1.1              python                        
 elevenlabs                          2.3.0              python                        
 elgato                              5.1.2              python                        
 eliqonline                          1.2.2              python                        
@@ -495,7 +496,7 @@ ffmpeg-libavutil                    6.1.2-r2           apk
 ffmpeg-libpostproc                  6.1.2-r2           apk                           
 ffmpeg-libswresample                6.1.2-r2           apk                           
 ffmpeg-libswscale                   6.1.2-r2           apk                           
-fido2                               2.1.0              python                        
+fido2                               2.1.1              python                        
 file-read-backwards                 2.0.0              python                        
 filelock                            3.20.3             python                        
 findutils                           4.10.0-r0          apk                           
@@ -716,7 +717,7 @@ iputils-tracepath                   20240905-r0        apk
 irm-kmi-api                         1.1.0              python                        
 isal                                1.8.0              python                        
 ismartgate                          5.0.2              python                        
-iso4217                             1.14.20250512      python                        
+iso4217                             1.15.20260101      python                        
 iso8601                             2.1.0              python                        
 isodate                             0.7.2              python                        
 israel-rail-api                     0.1.4              python                        
@@ -892,7 +893,7 @@ limitlessled                        1.1.3              python
 linode-api                          4.1.9b1            python                        
 linux-pam                           1.7.0-r4           apk                           
 linux-raw-sys                       0.4.12             rust-crate                    
-litellm                             1.80.16            python                        
+litellm                             1.81.0             python                        
 livisi                              0.0.25             python                        
 locationsharinglib                  5.0.1              python                        
 log                                 0.4.20             rust-crate                    
@@ -1067,7 +1068,7 @@ orc                                 0.4.40-r1          apk
 orderedmultidict                    1.0.2              python                        
 orderly-set                         5.5.0              python                        
 orjson                              3.11.3             python                        
-ormsgpack                           1.12.1             python                        
+ormsgpack                           1.12.2             python                        
 oru                                 0.1.11             python                        
 orvibo                              1.1.2              python                        
 ourgroceries                        1.5.4              python                        
@@ -1591,7 +1592,7 @@ sdl3                                3.2.16-r0          apk
 secretstorage                       3.5.0              python                        
 securetar                           2025.2.1           python                        
 segno                               1.6.6              python                        
-selenium                            4.39.0             python                        
+selenium                            4.40.0             python                        
 selenium-manager                    UNKNOWN            binary                        
 semver                              3.0.4              python                        
 sendgrid                            6.8.2              python                        
@@ -1652,7 +1653,7 @@ somfy-mylink-synergy                1.0.6              python
 sonos-websocket                     0.1.3              python                        
 sord-libs                           0.16.18-r0         apk                           
 sortedcontainers                    2.4.0              python                        
-soupsieve                           2.8.1              python                        
+soupsieve                           2.8.3              python                        
 soxr                                0.1.3-r7           apk                           
 speak2mary                          1.4.0              python                        
 speechrecognition                   3.8.1              python                        
@@ -1667,13 +1668,13 @@ sratom                              0.6.18-r0          apk
 srp                                 1.0.22             python                        
 srpenergy                           1.3.6              python                        
 srptools                            1.0.1              python                        
-sse-starlette                       3.1.2              python                        
+sse-starlette                       3.2.0              python                        
 ssl_client                          1.37.0-r20         apk                           
 standard-aifc                       3.13.0             python                        
 standard-chunk                      3.13.0             python                        
 standard-telnetlib                  3.13.0             python                        
 starkbank-ecdsa                     2.2.0              python                        
-starlette                           0.51.0             python                        
+starlette                           0.52.1             python                        
 starline                            0.1.5              python                        
 starlingbank                        3.2                python                        
 starlink-grpc-core                  1.2.3              python                        
@@ -1744,6 +1745,7 @@ transmission-rpc                    7.0.3              python
 travispy                            0.3.5              python                        
 triggercmd                          0.0.36             python                        
 trio                                0.32.0             python                        
+trio-typing                         0.10.0             python                        
 trio-websocket                      0.12.2             python                        
 ttls                                1.8.3              python                        
 ttn-client                          1.2.3              python                        
@@ -1757,7 +1759,9 @@ typeguard                           4.3.0              python
 typeguard                           4.4.4              python                        
 typer                               0.12.5             python                        
 typer-slim                          0.21.1             python                        
+types-certifi                       2021.10.8.3        python                        
 types-pytz                          2025.2.0.20251108  python                        
+types-urllib3                       1.26.25.14         python                        
 typing-extensions                   4.12.2             python                        
 typing-extensions                   4.15.0             python                        
 typing-inspect                      0.9.0              python                        
@@ -1863,7 +1867,7 @@ xiaomi-ble                          1.4.1              python
 xknx                                3.13.0             python                        
 xknxproject                         3.8.2              python                        
 xlsxwriter                          3.2.9              python                        
-xmlschema                           4.3.0              python                        
+xmlschema                           4.3.1              python                        
 xmltodict                           1.0.2              python                        
 xs1-api-client                      3.0.0              python                        
 xvidcore                            1.3.7-r2           apk                           
