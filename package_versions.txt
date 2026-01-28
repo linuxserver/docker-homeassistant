@@ -310,7 +310,7 @@ c-ares                              1.34.6-r0          apk
 ca-certificates                     20250911-r0        apk                           
 ca-certificates-bundle              20250911-r0        apk                           
 cached-ipaddress                    1.0.1              python                        
-cachetools                          6.2.4              python                        
+cachetools                          6.2.6              python                        
 caio                                0.9.25             python                        
 caldav                              2.1.0              python                        
 casttube                            0.2.1              python                        
@@ -367,7 +367,7 @@ coreutils                           9.7-r1             apk
 coreutils-env                       9.7-r1             apk                           
 coreutils-fmt                       9.7-r1             apk                           
 coreutils-sha512sum                 9.7-r1             apk                           
-coverage                            7.13.1             python                        
+coverage                            7.13.2             python                        
 crc                                 3.3.0              rust-crate                    
 crc                                 7.1.0              python                        
 crc-catalog                         2.4.0              rust-crate                    
@@ -387,7 +387,7 @@ crownstone-sse                      2.0.5              python
 crownstone-uart                     2.1.0              python                        
 cryptography                        46.0.2             python                        
 cssselect                           1.3.0              python                        
-cups-libs                           2.4.11-r0          apk                           
+cups-libs                           2.4.16-r0          apk                           
 curl                                8.14.1-r2          apk                           
 dacite                              1.9.2              python                        
 dataclasses-json                    0.6.7              python                        
@@ -571,7 +571,7 @@ goodwe                              0.4.8              python
 google-air-quality-api              2.1.2              python                        
 google-api-core                     2.29.0             python                        
 google-api-python-client            2.71.0             python                        
-google-auth                         2.47.0             python                        
+google-auth                         2.48.0             python                        
 google-auth-httplib2                0.3.0              python                        
 google-auth-oauthlib                1.2.4              python                        
 google-cloud-pubsub                 2.29.0             python                        
@@ -659,7 +659,7 @@ httpx-sse                           0.4.3              python
 httpx-ws                            0.8.2              python                        
 huawei-lte-api                      1.11.0             python                        
 hueble                              2.1.0              python                        
-huggingface-hub                     1.3.3              python                        
+huggingface-hub                     1.3.4              python                        
 humanfriendly                       10.0               python                        
 huum                                0.8.1              python                        
 hwdata-pci                          0.395-r0           apk                           
@@ -798,7 +798,7 @@ libcap-setcap                       2.76-r0            apk
 libcap-utils                        2.76-r0            apk                           
 libcap2                             2.76-r0            apk                           
 libcom_err                          1.47.2-r2          apk                           
-libcrypto3                          3.5.4-r0           apk                           
+libcrypto3                          3.5.5-r0           apk                           
 libcurl                             8.14.1-r2          apk                           
 libdav1d                            1.5.1-r0           apk                           
 libdeflate                          1.23-r0            apk                           
@@ -851,7 +851,7 @@ libsoundtouch                       0.8.0              python
 libsrt                              1.5.3-r1           apk                           
 libssh                              0.11.2-r0          apk                           
 libssh2                             1.11.1-r0          apk                           
-libssl3                             3.5.4-r0           apk                           
+libssl3                             3.5.5-r0           apk                           
 libstdc++                           14.2.0-r6          apk                           
 libtasn1                            4.21.0-r0          apk                           
 libtheora                           1.1.1-r18          apk                           
@@ -887,7 +887,7 @@ limitlessled                        1.1.3              python
 linode-api                          4.1.9b1            python                        
 linux-pam                           1.7.0-r4           apk                           
 linux-raw-sys                       0.4.12             rust-crate                    
-litellm                             1.81.1             python                        
+litellm                             1.81.3             python                        
 livisi                              0.0.25             python                        
 locationsharinglib                  5.0.1              python                        
 log                                 0.4.20             rust-crate                    
@@ -957,7 +957,7 @@ msal-extensions                     1.3.1              python
 msgpack                             1.1.2              python                        
 mt-940                              4.30.0             python                        
 mullvad-api                         1.0.0              python                        
-multidict                           6.7.0              python                        
+multidict                           6.7.1              python                        
 munch                               4.0.0              python                        
 music-assistant-client              1.3.3              python                        
 music-assistant-models              1.1.89             python                        
@@ -1046,7 +1046,7 @@ opensensemap-api                    0.2.0              python
 openssh-client-common               10.0_p1-r10        apk                           
 openssh-client-default              10.0_p1-r10        apk                           
 openssh-keygen                      10.0_p1-r10        apk                           
-openssl                             3.5.4-r0           apk                           
+openssl                             3.5.5-r0           apk                           
 opentelemetry-api                   1.39.1             python                        
 opentelemetry-sdk                   1.39.1             python                        
 opentelemetry-semantic-conventions  0.60b1             python                        
@@ -1070,8 +1070,7 @@ ovoenergy                           3.0.2              python
 oyaml                               1.0                python                        
 p11-kit                             0.25.5-r2          apk                           
 p1monitor                           3.2.0              python                        
-packaging                           25.0               python                        
-packaging                           26.0               python                        
+packaging                           26.0               python      (+1 duplicate)    
 paho-mqtt                           2.1.0              python                        
 panacotta                           0.2                python                        
 panasonic-viera                     0.4.4              python                        
@@ -1443,7 +1442,7 @@ python-melcloud                     0.1.2              python
 python-miio                         0.5.12             python                        
 python-motionmount                  2.3.0              python                        
 python-mpd2                         3.1.1              python                        
-python-multipart                    0.0.21             python                        
+python-multipart                    0.0.22             python                        
 python-mystrom                      2.5.0              python                        
 python-open-router                  0.3.3              python                        
 python-opendata-transport           0.5.0              python                        
@@ -1603,7 +1602,7 @@ sepaxml                             2.7.0              python
 serd-libs                           0.32.4-r0          apk                           
 serialio                            2.4.0              python                        
 serialx                             0.6.2              python                        
-setuptools                          80.10.1            python                        
+setuptools                          80.10.2            python                        
 sfrbox-api                          0.1.0              python                        
 sgmllib3k                           1.0.0              python                        
 shaderc                             2024.4-r0          apk                           
@@ -1826,7 +1825,7 @@ watchdog                            6.0.0              python
 waterfurnace                        1.2.0              python                        
 watergate-local-api                 2025.1.0           python                        
 wayland-libs-client                 1.23.1-r3          apk                           
-wcwidth                             0.3.1              python                        
+wcwidth                             0.5.0              python                        
 weatherflow4py                      1.4.1              python                        
 webcolors                           25.10.0            python                        
 webencodings                        0.5.1              python                        
@@ -1838,7 +1837,7 @@ websocket-client                    1.9.0              python
 websockets                          15.0.1             python                        
 weheat                              2025.12.24         python                        
 werkzeug                            3.1.5              python                        
-wheel                               0.45.1             python                        
+wheel                               0.46.3             python                        
 whirlpool-sixth-sense               1.0.3              python                        
 whois                               0.9.27             python                        
 wiffi                               1.1.2              python                        
