@@ -27,7 +27,7 @@ aioacaia                            0.1.17             python
 aioairq                             0.4.7              python                        
 aioairzone                          1.0.5              python                        
 aioairzone-cloud                    0.7.2              python                        
-aioamazondevices                    11.1.1             python                        
+aioamazondevices                    11.1.3             python                        
 aioambient                          2024.8.0           python                        
 aioapcaccess                        1.0.0              python                        
 aioaquacell                         0.2.0              python                        
@@ -220,7 +220,7 @@ auroranoaa                          0.0.5              python
 aurorapy                            0.2.7              python                        
 autarco                             3.2.0              python                        
 auth0-python                        4.13.0             python                        
-authlib                             1.6.6              python                        
+authlib                             1.6.7              python                        
 autocommand                         2.2.2              python      (+1 duplicate)    
 automower-ble                       0.2.8              python                        
 av                                  16.0.1             python                        
@@ -409,7 +409,7 @@ defusedxml                          0.7.1              python
 deluge-client                       1.10.2             python                        
 demetriek                           1.3.0              python                        
 demjson3                            3.0.6              python                        
-denonavr                            1.3.1              python                        
+denonavr                            1.3.2              python                        
 deprecated                          1.3.1              python                        
 devialet                            1.5.7              python                        
 devolo-home-control-api             0.19.0             python                        
@@ -478,7 +478,7 @@ eternalegypt                        0.0.18             python
 eudev-libs                          3.2.14-r5          apk                           
 eufylife-ble-client                 0.1.8              python                        
 events                              0.4                python                        
-evohome-async                       1.0.6              python                        
+evohome-async                       1.1.3              python                        
 evolutionhttp                       0.0.18             python                        
 exceptiongroup                      1.3.1              python                        
 faadelays                           2023.9.1           python                        
@@ -567,7 +567,7 @@ gnutls                              3.8.8-r0           apk
 go2rtc-client                       0.4.0              python                        
 goalzero                            0.2.2              python                        
 goodwe                              0.4.8              python                        
-google-air-quality-api              3.0.0              python                        
+google-air-quality-api              3.0.1              python                        
 google-api-core                     2.29.0             python                        
 google-api-python-client            2.71.0             python                        
 google-auth                         2.48.0             python                        
@@ -643,7 +643,7 @@ home-assistant-bluetooth            1.13.1             python
 home-assistant-chip-clusters        2025.7.0           python                        
 home-assistant-frontend             20260128.6         python                        
 home-assistant-intents              2026.1.28          python                        
-homeassistant                       2026.2.0           python                        
+homeassistant                       2026.2.1           python                        
 homelink-integration-api            0.0.1              python                        
 homematicip                         2.5.0              python                        
 horimote                            0.4.1              python                        
@@ -840,7 +840,7 @@ libpsl                              0.21.5-r3          apk
 libpulse                            17.0-r5            apk                           
 libpyfoscamcgi                      0.0.9              python                        
 libpyvivotek                        0.6.1              python                        
-librehardwaremonitor-api            1.8.4              python                        
+librehardwaremonitor-api            1.9.1              python                        
 librist                             0.2.10-r1          apk                           
 librouteros                         3.2.0              python                        
 libsharpyuv                         1.5.0-r0           apk                           
@@ -1223,7 +1223,7 @@ pyegps                              0.2.5              python
 pyelectra                           1.2.4              python                        
 pyemby                              1.10               python                        
 pyemoncms                           0.1.3              python                        
-pyenphase                           2.4.3              python                        
+pyenphase                           2.4.5              python                        
 pyenvisalink                        4.7                python                        
 pyephember2                         0.4.12             python                        
 pyeverlights                        0.1.0              python                        
@@ -1309,7 +1309,7 @@ pynetgear                           0.10.10            python
 pynetio                             0.1.9.1            python                        
 pynina                              1.0.2              python                        
 pynintendoauth                      1.0.2              python                        
-pynintendoparental                  2.3.2              python                        
+pynintendoparental                  2.3.2.1            python                        
 pynobo                              1.8.1              python                        
 pynordpool                          0.3.2              python                        
 pynuki                              1.6.3              python                        
@@ -1455,7 +1455,7 @@ python-rabbitair                    0.0.8              python
 python-ripple-api                   0.0.3              python                        
 python-roborock                     4.8.0              python                        
 python-slugify                      8.0.4              python                        
-python-smarttub                     0.0.46             python                        
+python-smarttub                     0.0.47             python                        
 python-snoo                         0.8.3              python                        
 python-socketio                     5.16.0             python                        
 python-socketio-v4                  4.6.1              python                        
@@ -1824,7 +1824,7 @@ watchdog                            6.0.0              python
 waterfurnace                        1.4.0              python                        
 watergate-local-api                 2025.1.0           python                        
 wayland-libs-client                 1.23.1-r3          apk                           
-wcwidth                             0.5.3              python                        
+wcwidth                             0.6.0              python                        
 weatherflow4py                      1.4.1              python                        
 webcolors                           25.10.0            python                        
 webencodings                        0.5.1              python                        
