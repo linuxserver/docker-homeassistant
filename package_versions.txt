@@ -159,6 +159,7 @@ android-backup                      0.2.0              python
 androidtv                           0.0.75             python                        
 androidtvremote2                    0.2.3              python                        
 anel-pwrctrl-homeassistant          0.0.1.dev2         python                        
+annotated-doc                       0.0.4              python                        
 annotated-types                     0.7.0              python                        
 annotatedyaml                       1.0.2              python                        
 anova-wifi                          0.17.0             python                        
@@ -190,7 +191,7 @@ arris-tg2492lg                      2.2.0              python
 arrow                               1.4.0              python                        
 asgiref                             3.11.1             python                        
 asmog                               0.0.6              python                        
-asn1                                3.1.0              python                        
+asn1                                3.2.0              python                        
 asn1crypto                          1.5.1              python                        
 astral                              2.2                python                        
 asusrouter                          1.21.3             python                        
@@ -263,7 +264,7 @@ bitflags                            2.4.1              rust-crate
 bitstream-io                        2.2.0              rust-crate                    
 bitstream-io                        2.6.0              rust-crate                    
 bitstring                           4.3.1              python                        
-bitstruct                           8.21.0             python                        
+bitstruct                           8.22.0             python                        
 bitvec                              1.0.1              rust-crate                    
 bitvec_helpers                      3.1.6              rust-crate                    
 bizkaibus                           0.1.1              python                        
@@ -367,7 +368,7 @@ coreutils                           9.7-r1             apk
 coreutils-env                       9.7-r1             apk                           
 coreutils-fmt                       9.7-r1             apk                           
 coreutils-sha512sum                 9.7-r1             apk                           
-coverage                            7.13.3             python                        
+coverage                            7.13.4             python                        
 crc                                 3.3.0              rust-crate                    
 crc                                 7.1.0              python                        
 crc-catalog                         2.4.0              rust-crate                    
@@ -731,7 +732,8 @@ jaraco-functools                    4.4.0              python      (+1 duplicate
 jaraco-itertools                    6.4.3              python                        
 jaraco-logging                      3.4.0              python                        
 jaraco-net                          10.2.3             python                        
-jaraco-text                         4.0.0              python      (+1 duplicate)    
+jaraco-text                         4.0.0              python                        
+jaraco-text                         4.2.0              python                        
 jeepney                             0.9.0              python                        
 jellyfin-apiclient-python           1.11.0             python                        
 jinja2                              3.1.6              python                        
@@ -903,11 +905,11 @@ lw12                                0.9.2              python
 lxml                                6.0.1              python                        
 mac-vendor-lookup                   0.1.15             python                        
 mariadb-connector-c                 3.3.10-r0          apk                           
-markdown                            3.10.1             python                        
+markdown                            3.10.2             python                        
 markupsafe                          3.0.3              python                        
 marshmallow                         3.26.2             python                        
 marshmallow-dataclass               8.7.1              python                        
-mashumaro                           3.19               python                        
+mashumaro                           3.20               python                        
 mastodon-py                         2.1.2              python                        
 matrix-nio                          0.25.2             python                        
 maxcube-api                         0.4.3              python                        
@@ -964,7 +966,6 @@ musl-utils                          1.2.5-r10          apk
 mutagen                             1.47.0             python                        
 mutesync                            0.0.1              python                        
 mvg                                 1.4.0              python                        
-my-test-package                     1.0                python                        
 mypermobil                          0.1.8              python                        
 mypy-extensions                     1.1.0              python                        
 mysqlclient                         2.2.7              python                        
@@ -1417,7 +1418,7 @@ python-didl-lite                    1.5.0              python
 python-digitalocean                 1.13.2             python                        
 python-dotenv                       1.2.1              python                        
 python-ecobee-api                   0.3.2              python                        
-python-engineio                     4.13.0             python                        
+python-engineio                     4.13.1             python                        
 python-engineio-v3                  3.14.2             python                        
 python-etherscan-api                0.0.3              python                        
 python-family-hub-local             0.0.2              python                        
@@ -1457,7 +1458,7 @@ python-roborock                     4.8.0              python
 python-slugify                      8.0.4              python                        
 python-smarttub                     0.0.47             python                        
 python-snoo                         0.8.3              python                        
-python-socketio                     5.16.0             python                        
+python-socketio                     5.16.1             python                        
 python-socketio-v4                  4.6.1              python                        
 python-socks                        2.8.0              python                        
 python-songpal                      0.16.2             python                        
@@ -1602,7 +1603,7 @@ sepaxml                             2.7.0              python
 serd-libs                           0.32.4-r0          apk                           
 serialio                            2.4.0              python                        
 serialx                             0.6.2              python                        
-setuptools                          80.10.2            python                        
+setuptools                          82.0.0             python                        
 sfrbox-api                          0.1.0              python                        
 sgmllib3k                           1.0.0              python                        
 shaderc                             2024.4-r0          apk                           
@@ -1747,6 +1748,7 @@ twitterapi                          2.7.12             python
 typedmonarchmoney                   0.4.4              python                        
 typeguard                           4.4.4              python                        
 typer                               0.12.5             python                        
+typer-slim                          0.21.2             python                        
 types-certifi                       2021.10.8.3        python                        
 types-pytz                          2025.2.0.20251108  python                        
 types-urllib3                       1.26.25.14         python                        
