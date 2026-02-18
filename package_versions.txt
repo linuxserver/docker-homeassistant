@@ -221,7 +221,7 @@ auroranoaa                          0.0.5              python
 aurorapy                            0.2.7              python                        
 autarco                             3.2.0              python                        
 auth0-python                        4.13.0             python                        
-authlib                             1.6.7              python                        
+authlib                             1.6.8              python                        
 autocommand                         2.2.2              python      (+1 duplicate)    
 automower-ble                       0.2.8              python                        
 av                                  16.0.1             python                        
@@ -499,7 +499,7 @@ ffmpeg-libswresample                6.1.2-r2           apk
 ffmpeg-libswscale                   6.1.2-r2           apk                           
 fido2                               2.1.1              python                        
 file-read-backwards                 2.0.0              python                        
-filelock                            3.21.2             python                        
+filelock                            3.24.2             python                        
 findutils                           4.10.0-r0          apk                           
 fing-agent-api                      1.0.3              python                        
 fints                               3.1.0              python                        
@@ -806,7 +806,7 @@ libdeflate                          1.23-r0            apk
 libdovi                             3.3.1-r1           apk                           
 libdrm                              2.4.124-r0         apk                           
 libeconf                            0.6.3-r0           apk                           
-libecpg                             17.7-r0            apk                           
+libecpg                             17.8-r0            apk                           
 libedit                             20250104.3.1-r1    apk                           
 libexpat                            2.7.4-r0           apk                           
 libffi                              3.4.8-r0           apk                           
@@ -836,7 +836,7 @@ libpcap                             1.10.5-r1          apk
 libpciaccess                        0.18.1-r0          apk                           
 libplacebo                          6.338.2-r3         apk                           
 libpng                              1.6.54-r0          apk                           
-libpq                               17.7-r0            apk                           
+libpq                               17.8-r0            apk                           
 libproc2                            4.0.4-r3           apk                           
 libpsl                              0.21.5-r3          apk                           
 libpulse                            17.0-r5            apk                           
@@ -1097,7 +1097,7 @@ pint                                0.25.2             python
 pip                                 25.3               python                        
 pkce                                1.0.3              python                        
 platformdirs                        4.4.0              python                        
-platformdirs                        4.7.1              python                        
+platformdirs                        4.9.2              python                        
 plexapi                             4.15.16            python                        
 plexauth                            0.0.6              python                        
 plexwebsocket                       0.0.14             python                        
@@ -1203,7 +1203,7 @@ pydanfossair                        0.1.0              python
 pydantic                            2.12.2             python                        
 pydantic-core                       2.41.4             python                        
 pydantic-extra-types                2.11.0             python                        
-pydantic-settings                   2.12.0             python                        
+pydantic-settings                   2.13.0             python                        
 pydeako                             0.6.0              python                        
 pydeconz                            120                python                        
 pydelijn                            1.1.0              python                        
@@ -1461,7 +1461,7 @@ python-smarttub                     0.0.47             python
 python-snoo                         0.8.3              python                        
 python-socketio                     5.16.1             python                        
 python-socketio-v4                  4.6.1              python                        
-python-socks                        2.8.0              python                        
+python-socks                        2.8.1              python                        
 python-songpal                      0.16.2             python                        
 python-tado                         0.18.16            python                        
 python-technove                     2.0.0              python                        
@@ -1736,7 +1736,7 @@ transitions                         0.8.11             python
 transmission-rpc                    7.0.3              python                        
 travispy                            0.3.5              python                        
 triggercmd                          0.0.36             python                        
-trio                                0.32.0             python                        
+trio                                0.33.0             python                        
 trio-typing                         0.10.0             python                        
 trio-websocket                      0.12.2             python                        
 ttls                                1.8.3              python                        
@@ -1747,7 +1747,7 @@ twilio                              6.32.0             python
 twitchapi                           4.2.1              python                        
 twitterapi                          2.7.12             python                        
 typedmonarchmoney                   0.4.4              python                        
-typeguard                           4.4.4              python                        
+typeguard                           4.5.0              python                        
 typer                               0.12.5             python                        
 typer-slim                          0.21.2             python                        
 types-certifi                       2021.10.8.3        python                        
@@ -1790,7 +1790,7 @@ utf8parse                           0.2.1              rust-crate
 utmps-libs                          0.1.3.1-r0         apk                           
 uv                                  0.9.26             python                        
 uvcclient                           0.12.1             python                        
-uvicorn                             0.40.0             python                        
+uvicorn                             0.41.0             python                        
 v4l-utils-libs                      1.28.1-r1          apk                           
 v_frame                             0.3.7              rust-crate                    
 vacuum-map-parser-base              0.1.5              python                        
@@ -1808,7 +1808,7 @@ victron-vrm                         0.1.8              python
 vidstab                             1.1.1-r0           apk                           
 vilfo-api-client                    0.5.0              python                        
 vincenty                            0.1.4              python                        
-virtualenv                          20.36.1            python                        
+virtualenv                          20.37.0            python                        
 visionpluspython                    1.0.2              python                        
 vobject                             0.9.9              python                        
 voip-utils                          0.3.5              python                        
