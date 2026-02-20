@@ -195,7 +195,6 @@ asn1                                3.2.0              python
 asn1crypto                          1.5.1              python                        
 astral                              2.2                python                        
 asusrouter                          1.21.3             python                        
-async-generator                     1.10               python                        
 async-interrupt                     1.2.2              python                        
 async-modbus                        0.2.3              python                        
 async-timeout                       4.0.3              python                        
@@ -231,11 +230,11 @@ avahi-libs                          0.8-r21            apk
 avea                                1.6.1              python                        
 awesomeversion                      25.8.0             python                        
 aws-request-signer                  1.2.0              python                        
-awscrt                              0.31.1             python                        
-awsiotsdk                           1.28.0             python                        
+awscrt                              0.31.2             python                        
+awsiotsdk                           1.28.1             python                        
 axis                                66                 python                        
 ayla-iot-unofficial                 1.4.7              python                        
-azure-core                          1.38.1             python                        
+azure-core                          1.38.2             python                        
 azure-eventhub                      5.11.1             python                        
 azure-identity                      1.25.2             python                        
 azure-kusto-data                    4.5.1              python                        
@@ -264,7 +263,7 @@ bitflags                            2.4.1              rust-crate
 bitstream-io                        2.2.0              rust-crate                    
 bitstream-io                        2.6.0              rust-crate                    
 bitstring                           4.3.1              python                        
-bitstruct                           8.22.0             python                        
+bitstruct                           8.22.1             python                        
 bitvec                              1.0.1              rust-crate                    
 bitvec_helpers                      3.1.6              rust-crate                    
 bizkaibus                           0.1.1              python                        
@@ -443,7 +442,7 @@ ebusdpy                             0.0.17             python
 ecdsa                               0.19.1             python                        
 ecoaliface                          0.4.0              python                        
 egauge-async                        0.4.0              python                        
-eheimdigital                        1.5.0              python                        
+eheimdigital                        1.6.0              python                        
 either                              1.9.0              rust-crate                    
 ekey-bionyxpy                       1.0.1              python                        
 electrickiwi-api                    0.9.14             python                        
@@ -499,7 +498,7 @@ ffmpeg-libswresample                6.1.2-r2           apk
 ffmpeg-libswscale                   6.1.2-r2           apk                           
 fido2                               2.1.1              python                        
 file-read-backwards                 2.0.0              python                        
-filelock                            3.24.2             python                        
+filelock                            3.24.3             python                        
 findutils                           4.10.0-r0          apk                           
 fing-agent-api                      1.0.3              python                        
 fints                               3.1.0              python                        
@@ -511,7 +510,7 @@ fivem-api                           0.1.2              python
 fixerio                             1.0.0a0            python                        
 fjaraskupan                         2.3.3              python                        
 flac-win32                          UNKNOWN            binary                        
-flask                               3.1.2              python                        
+flask                               3.1.3              python                        
 flexcache                           0.3                python                        
 flexit-bacnet                       2.2.3              python                        
 flexparser                          0.4                python                        
@@ -569,7 +568,7 @@ go2rtc-client                       0.4.0              python
 goalzero                            0.2.2              python                        
 goodwe                              0.4.8              python                        
 google-air-quality-api              3.0.1              python                        
-google-api-core                     2.29.0             python                        
+google-api-core                     2.30.0             python                        
 google-api-python-client            2.71.0             python                        
 google-auth                         2.48.0             python                        
 google-auth-httplib2                0.3.0              python                        
@@ -644,7 +643,7 @@ home-assistant-bluetooth            1.13.1             python
 home-assistant-chip-clusters        2025.7.0           python                        
 home-assistant-frontend             20260128.6         python                        
 home-assistant-intents              2026.1.28          python                        
-homeassistant                       2026.2.2           python                        
+homeassistant                       2026.2.3           python                        
 homelink-integration-api            0.0.1              python                        
 homematicip                         2.5.0              python                        
 horimote                            0.4.1              python                        
@@ -669,7 +668,7 @@ hyperion-py                         0.7.6              python
 iammeter                            0.2.1              python                        
 iaqualink                           0.6.0              python                        
 ibeacon-ble                         1.2.0              python                        
-ical                                12.1.3             python                        
+ical                                13.2.0             python                        
 icalendar                           6.3.1              python                        
 icmplib                             3.0                python                        
 idasen                              0.12.0             python                        
@@ -1203,7 +1202,7 @@ pydanfossair                        0.1.0              python
 pydantic                            2.12.2             python                        
 pydantic-core                       2.41.4             python                        
 pydantic-extra-types                2.11.0             python                        
-pydantic-settings                   2.13.0             python                        
+pydantic-settings                   2.13.1             python                        
 pydeako                             0.6.0              python                        
 pydeconz                            120                python                        
 pydelijn                            1.1.0              python                        
@@ -1335,7 +1334,7 @@ pypaperless                         4.1.1              python
 pyparsing                           3.3.2              python                        
 pypasser                            0.0.5              python                        
 pypca                               0.0.7              python                        
-pypck                               0.9.9              python                        
+pypck                               0.9.11             python                        
 pypglab                             0.0.5              python                        
 pypjlink2                           1.2.1              python                        
 pyplaato                            0.0.19             python                        
@@ -1352,7 +1351,7 @@ pyquery                             2.0.1              python
 pyqvrpro                            0.52               python                        
 pyqwikswitch                        0.93               python                        
 pyrail                              0.4.1              python                        
-pyrainbird                          6.0.1              python                        
+pyrainbird                          6.0.5              python                        
 pyrate-limiter                      3.9.0              python                        
 pyrecswitch                         1.0.2              python                        
 pyrepetierng                        0.1.0              python                        
@@ -1383,7 +1382,7 @@ pyskyqhub                           0.1.4              python
 pysma                               1.1.0              python                        
 pysmappee                           0.2.29             python                        
 pysmarlaapi                         0.9.3              python                        
-pysmartthings                       3.5.2              python                        
+pysmartthings                       3.5.3              python                        
 pysmarty2                           0.10.3             python                        
 pysmb                               1.2.13             python                        
 pysmhi                              1.1.0              python                        
@@ -1531,7 +1530,7 @@ rayon                               1.8.0              rust-crate
 rayon-core                          1.12.0             rust-crate                    
 reactivex                           4.1.0              python                        
 readline                            8.2.13-r1          apk                           
-recurring-ical-events               3.8.0              python                        
+recurring-ical-events               3.8.1              python                        
 referencing                         0.37.0             python                        
 refoss-ha                           1.2.5              python                        
 regenmaschine                       2024.3.0           python                        
@@ -1586,7 +1585,7 @@ sdl3                                3.2.16-r0          apk
 secretstorage                       3.5.0              python                        
 securetar                           2025.2.1           python                        
 segno                               1.6.6              python                        
-selenium                            4.40.0             python                        
+selenium                            4.41.0             python                        
 selenium-manager                    UNKNOWN            binary                        
 semver                              3.0.4              python                        
 sendgrid                            6.8.2              python                        
@@ -1675,7 +1674,7 @@ starlink-grpc-core                  1.2.3              python
 statsd                              3.2.1              python                        
 stdiomask                           0.0.6              python                        
 steamodd                            4.21               python                        
-stevedore                           5.6.0              python                        
+stevedore                           5.7.0              python                        
 stookwijzer                         1.6.1              python                        
 streamlabswater                     1.0.1              python                        
 striprtf                            0.0.29             python                        
@@ -1737,7 +1736,6 @@ transmission-rpc                    7.0.3              python
 travispy                            0.3.5              python                        
 triggercmd                          0.0.36             python                        
 trio                                0.33.0             python                        
-trio-typing                         0.10.0             python                        
 trio-websocket                      0.12.2             python                        
 ttls                                1.8.3              python                        
 ttn-client                          1.2.3              python                        
@@ -1747,12 +1745,10 @@ twilio                              6.32.0             python
 twitchapi                           4.2.1              python                        
 twitterapi                          2.7.12             python                        
 typedmonarchmoney                   0.4.4              python                        
-typeguard                           4.5.0              python                        
+typeguard                           4.5.1              python                        
 typer                               0.12.5             python                        
 typer-slim                          0.21.2             python                        
-types-certifi                       2021.10.8.3        python                        
 types-pytz                          2025.2.0.20251108  python                        
-types-urllib3                       1.26.25.14         python                        
 typing-extensions                   4.15.0             python                        
 typing-inspect                      0.9.0              python                        
 typing-inspection                   0.4.2              python                        
@@ -1808,7 +1804,7 @@ victron-vrm                         0.1.8              python
 vidstab                             1.1.1-r0           apk                           
 vilfo-api-client                    0.5.0              python                        
 vincenty                            0.1.4              python                        
-virtualenv                          20.37.0            python                        
+virtualenv                          20.38.0            python                        
 visionpluspython                    1.0.2              python                        
 vobject                             0.9.9              python                        
 voip-utils                          0.3.5              python                        
@@ -1838,7 +1834,7 @@ webrtc-models                       0.3.0              python
 websocket-client                    1.9.0              python                        
 websockets                          15.0.1             python                        
 weheat                              2026.1.25          python                        
-werkzeug                            3.1.5              python                        
+werkzeug                            3.1.6              python                        
 wheel                               0.46.3             python                        
 whirlpool-sixth-sense               1.0.3              python                        
 whois                               0.9.27             python                        
