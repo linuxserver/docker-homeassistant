@@ -56,7 +56,6 @@ RUN \
     bluez \
     bluez-deprecated \
     bluez-libs \
-    cups-libs \
     curl \
     eudev-libs \
     ffmpeg \
@@ -238,8 +237,7 @@ RUN \
     -r requirements.txt && \
   uv pip install --no-build \
       -r requirements_all.txt \
-      isal \
-      pycups && \
+      isal && \
   uv pip install \
     homeassistant==${HASS_RELEASE} && \
   for cleanfiles in *.pyc *.pyo; do \
