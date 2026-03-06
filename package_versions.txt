@@ -86,7 +86,7 @@ aiolookin                           1.0.0              python
 aiolyric                            2.0.2              python                        
 aiomealie                           1.2.1              python                        
 aiomodernforms                      0.1.8              python                        
-aiomqtt                             2.5.0              python                        
+aiomqtt                             2.5.1              python                        
 aiomusiccast                        0.15.0             python                        
 aionanoleaf2                        1.0.2              python                        
 aionotion                           2024.3.0           python                        
@@ -120,7 +120,7 @@ aiosomecomfort                      0.0.35             python
 aiosqlite                           0.21.0             python                        
 aiosteamist                         1.0.1              python                        
 aiostreammagic                      2.13.0             python                        
-aioswitcher                         6.1.0              python                        
+aioswitcher                         6.1.1              python                        
 aiosyncthing                        0.7.1              python                        
 aiotankerkoenig                     0.5.1              python                        
 aiotedee                            0.2.25             python                        
@@ -128,7 +128,7 @@ aiotractive                         1.0.0              python
 aiounifi                            88                 python                        
 aiousbwatcher                       1.1.1              python                        
 aiovlc                              0.5.1              python                        
-aiovodafone                         3.1.2              python                        
+aiovodafone                         3.1.3              python                        
 aiowaqi                             3.1.0              python                        
 aiowatttime                         0.1.1              python                        
 aiowebdav2                          0.6.1              python                        
@@ -200,7 +200,7 @@ async-timeout                       4.0.3              python
 async-upnp-client                   0.46.2             python                        
 asyncarve                           0.1.1              python                        
 asyncclick                          8.3.0.7            python                        
-asyncinotify                        4.2.0              python                        
+asyncinotify                        4.4.0              python                        
 asyncio-dgram                       3.0.0              python                        
 asyncio-throttle                    1.0.2              python                        
 asyncpysupla                        0.0.5              python                        
@@ -307,7 +307,7 @@ c-ares                              1.34.6-r0          apk
 ca-certificates                     20250911-r0        apk                           
 ca-certificates-bundle              20250911-r0        apk                           
 cached-ipaddress                    1.0.1              python                        
-cachetools                          7.0.2              python                        
+cachetools                          7.0.3              python                        
 caio                                0.9.25             python                        
 caldav                              2.1.0              python                        
 casttube                            0.2.1              python                        
@@ -585,7 +585,7 @@ gpiozero                            1.6.2              python
 gps3                                0.33.3             python                        
 gql                                 4.0.0              python                        
 graphite2                           1.3.14-r6          apk                           
-graphql-core                        3.2.7              python                        
+graphql-core                        3.2.8              python                        
 graphviz                            0.21               python                        
 greeclimate                         2.1.1              python                        
 greeneye-monitor                    3.0.3              python                        
@@ -638,7 +638,7 @@ home-assistant-bluetooth            1.13.1             python
 home-assistant-chip-clusters        2025.7.0           python                        
 home-assistant-frontend             20260304.0         python                        
 home-assistant-intents              2026.3.3           python                        
-homeassistant                       2026.3.0           python                        
+homeassistant                       2026.3.1           python                        
 homelink-integration-api            0.0.1              python                        
 homematicip                         2.6.0              python                        
 homevolt                            0.5.0              python                        
@@ -1025,7 +1025,7 @@ ollama                              0.5.1              python
 omnilogic                           0.4.5              python                        
 once_cell                           1.19.0             rust-crate                    
 ondilo                              0.5.0              python                        
-onedrive-personal-sdk               0.1.4              python                        
+onedrive-personal-sdk               0.1.5              python                        
 onevpl-libs                         2023.3.1-r2        apk                           
 oniguruma                           6.9.10-r0          apk                           
 onvif-zeep-async                    4.0.4              python                        
@@ -1093,7 +1093,7 @@ pint                                0.25.2             python
 pip                                 25.3               python                        
 pkce                                1.0.3              python                        
 platformdirs                        4.4.0              python                        
-platformdirs                        4.9.2              python                        
+platformdirs                        4.9.4              python                        
 plexapi                             4.15.16            python                        
 plexauth                            0.0.6              python                        
 plexwebsocket                       0.0.14             python                        
@@ -1409,7 +1409,7 @@ pythinkingcleaner                   0.0.3              python
 python                              3.14.2             binary                        
 python-awair                        0.2.5              python                        
 python-blockchain-api               0.0.2              python                        
-python-bsblan                       5.1.0              python                        
+python-bsblan                       5.1.2              python                        
 python-citybikes                    0.3.3              python                        
 python-clementine-remote            1.0.1              python                        
 python-dateutil                     2.9.0.post0        python                        
@@ -1655,7 +1655,7 @@ speechrecognition                   3.8.1              python
 speedtest-cli                       2.1.3              python                        
 speexdsp                            1.2.1-r2           apk                           
 spirv-tools                         1.4.313.0-r0       apk                           
-spotifyaio                          1.0.0              python                        
+spotifyaio                          2.0.2              python                        
 sqlalchemy                          2.0.41             python                        
 sqlite-libs                         3.49.2-r1          apk                           
 sqlparse                            0.5.5              python                        
@@ -1700,7 +1700,7 @@ tdb-libs                            1.4.12-r0          apk
 tellcore-net                        0.4                python                        
 tellcore-py                         1.1.2              python                        
 tellduslive                         0.10.12            python                        
-teltasync                           0.1.3              python                        
+teltasync                           0.2.0              python                        
 temescal                            0.5                python                        
 temperusb                           1.6.1              python                        
 tempora                             5.8.1              python                        
