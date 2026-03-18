@@ -364,7 +364,7 @@ coreutils                           9.7-r1             apk
 coreutils-env                       9.7-r1             apk                           
 coreutils-fmt                       9.7-r1             apk                           
 coreutils-sha512sum                 9.7-r1             apk                           
-coverage                            7.13.4             python                        
+coverage                            7.13.5             python                        
 crc                                 3.3.0              rust-crate                    
 crc                                 7.1.0              python                        
 crc-catalog                         2.4.0              rust-crate                    
@@ -1163,7 +1163,7 @@ pyairobotrest                       0.3.0              python
 pyairvisual                         2023.8.1           python                        
 pyanglianwater                      3.1.1              python                        
 pyaprilaire                         0.9.1              python                        
-pyasn1                              0.6.2              python                        
+pyasn1                              0.6.3              python                        
 pyasn1-modules                      0.4.2              python                        
 pyatag                              0.3.5.3            python                        
 pyatmo                              9.2.3              python                        
@@ -1664,7 +1664,7 @@ sratom                              0.6.18-r0          apk
 srp                                 1.0.22             python                        
 srpenergy                           1.3.6              python                        
 srptools                            1.0.1              python                        
-sse-starlette                       3.3.2              python                        
+sse-starlette                       3.3.3              python                        
 ssl_client                          1.37.0-r20         apk                           
 standard-aifc                       3.13.0             python                        
 standard-chunk                      3.13.0             python                        
