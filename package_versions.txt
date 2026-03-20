@@ -11,7 +11,7 @@ adext                               0.4.4              python
 adguardhome                         0.8.1              python                        
 advantage-air                       0.4.4              python                        
 aemet-opendata                      0.6.4              python                        
-aenum                               3.1.16             python                        
+aenum                               3.1.17             python                        
 afsapi                              0.2.7              python                        
 agent-py                            0.0.24             python                        
 aio-geojson-client                  0.21               python                        
@@ -206,7 +206,7 @@ asyncio-throttle                    1.0.2              python
 asyncpysupla                        0.0.5              python                        
 asyncsleepiq                        1.7.0              python                        
 asyncssh                            2.21.0             python                        
-asyncstdlib                         3.13.3             python                        
+asyncstdlib                         3.14.0             python                        
 asynctest                           0.13.0             python                        
 atomicwrites-homeassistant          1.4.1              python                        
 atpublic                            7.0.0              python                        
@@ -230,9 +230,9 @@ awesomeversion                      25.8.0             python
 aws-request-signer                  1.2.0              python                        
 awscrt                              0.31.3             python                        
 awsiotsdk                           1.28.2             python                        
-axis                                66                 python                        
+axis                                67                 python                        
 ayla-iot-unofficial                 1.4.7              python                        
-azure-core                          1.38.3             python                        
+azure-core                          1.39.0             python                        
 azure-eventhub                      5.11.1             python                        
 azure-identity                      1.25.3             python                        
 azure-kusto-data                    4.5.1              python                        
@@ -399,7 +399,7 @@ debugpy                             1.8.17             python
 decora-wifi                         1.4                python                        
 decorator                           5.2.1              python                        
 deebot-client                       18.0.0             python                        
-deepdiff                            8.6.1              python                        
+deepdiff                            8.6.2              python                        
 deepmerge                           2.0                python                        
 defusedxml                          0.7.1              python                        
 deluge-client                       1.10.2             python                        
@@ -638,7 +638,7 @@ home-assistant-bluetooth            1.13.1             python
 home-assistant-chip-clusters        2025.7.0           python                        
 home-assistant-frontend             20260312.0         python                        
 home-assistant-intents              2026.3.3           python                        
-homeassistant                       2026.3.2           python                        
+homeassistant                       2026.3.3           python                        
 homelink-integration-api            0.0.1              python                        
 homematicip                         2.6.0              python                        
 homevolt                            0.5.0              python                        
@@ -661,7 +661,7 @@ hwdata-pci                          0.395-r0           apk
 hwdata-usb                          0.395-r0           apk                           
 hyperframe                          6.1.0              python                        
 hyperion-py                         0.7.6              python                        
-hyponcloud                          0.3.0              python                        
+hyponcloud                          0.9.0              python                        
 iammeter                            0.2.1              python                        
 iaqualink                           0.6.0              python                        
 ibeacon-ble                         1.2.0              python                        
@@ -807,7 +807,7 @@ libdrm                              2.4.124-r0         apk
 libeconf                            0.6.3-r0           apk                           
 libecpg                             17.9-r0            apk                           
 libedit                             20250104.3.1-r1    apk                           
-libexpat                            2.7.4-r0           apk                           
+libexpat                            2.7.5-r0           apk                           
 libffi                              3.4.8-r0           apk                           
 libflac                             1.4.3-r1           apk                           
 libftdi1                            1.5-r4             apk                           
@@ -923,7 +923,7 @@ medcom-ble                          0.1.1              python
 melnor-bluetooth                    0.0.25             python                        
 memchr                              2.7.1              rust-crate                    
 messagebird                         1.2.0              python                        
-metar                               1.11.0             python                        
+metar                               2.0.1              python                        
 meteo-lt-pkg                        0.2.4              python                        
 meteoalertapi                       0.3.1              python                        
 meteocalc                           1.1.0              python                        
@@ -1051,7 +1051,7 @@ opentelemetry-semantic-conventions  0.61b0             python
 openwebifpy                         4.3.1              python                        
 openwrt-luci-rpc                    1.1.17             python                        
 openwrt-ubus-rpc                    0.0.2              python                        
-opower                              0.17.0             python                        
+opower                              0.17.1             python                        
 opus                                1.5.2-r1           apk                           
 opuslib                             3.0.1              python                        
 oralb-ble                           1.0.2              python                        
@@ -1090,7 +1090,7 @@ pianobar                            2024.12.21-r0      apk
 pigpio                              1.78               python                        
 pilight                             0.1.1              python                        
 pillow                              12.1.1             python                        
-pint                                0.25.2             python                        
+pint                                0.25.3             python                        
 pip                                 25.3               python                        
 pkce                                1.0.3              python                        
 platformdirs                        4.4.0              python                        
@@ -1321,7 +1321,7 @@ pynzbgetapi                         0.2.0              python
 pyobihai                            1.4.2              python                        
 pyoctoprintapi                      0.1.14             python                        
 pyombi                              0.1.10             python                        
-pyopenssl                           25.3.0             python                        
+pyopenssl                           26.0.0             python                        
 pyopenuv                            2023.2.0           python                        
 pyopenweathermap                    0.2.2              python                        
 pyopnsense                          0.4.0              python                        
@@ -1383,12 +1383,12 @@ pyskyqhub                           0.1.4              python
 pysma                               1.1.0              python                        
 pysmappee                           0.2.29             python                        
 pysmarlaapi                         1.0.1              python                        
-pysmartthings                       3.7.0              python                        
+pysmartthings                       3.7.2              python                        
 pysmarty2                           0.10.3             python                        
 pysmb                               1.2.13             python                        
 pysmhi                              1.1.0              python                        
 pysml                               0.1.5              python                        
-pysmlight                           0.2.16             python                        
+pysmlight                           0.3.1              python                        
 pysnmp                              7.1.22             python                        
 pysnooz                             0.8.6              python                        
 pysocks                             1.7.1              python                        
@@ -1417,7 +1417,7 @@ python-dateutil                     2.9.0.post0        python
 python-decouple                     3.8                python                        
 python-didl-lite                    1.5.0              python                        
 python-digitalocean                 1.13.2             python                        
-python-discovery                    1.1.3              python                        
+python-discovery                    1.2.0              python                        
 python-dotenv                       1.2.2              python                        
 python-ecobee-api                   0.3.2              python                        
 python-engineio                     4.13.1             python                        
