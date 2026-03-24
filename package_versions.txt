@@ -123,7 +123,7 @@ aiostreammagic                      2.13.0             python
 aioswitcher                         6.1.1              python                        
 aiosyncthing                        0.7.1              python                        
 aiotankerkoenig                     0.5.1              python                        
-aiotedee                            0.2.25             python                        
+aiotedee                            0.2.27             python                        
 aiotractive                         1.0.0              python                        
 aiounifi                            88                 python                        
 aiousbwatcher                       1.1.1              python                        
@@ -312,7 +312,7 @@ caio                                0.9.25             python
 caldav                              2.1.0              python                        
 casttube                            0.2.1              python                        
 catatonit                           0.2.1-r0           apk                           
-cbor2                               5.8.0              python                        
+cbor2                               5.9.0              python                        
 certifi                             2026.2.25          python                        
 cffi                                2.0.0              python                        
 cfg-if                              1.0.0              rust-crate                    
@@ -589,7 +589,7 @@ graphql-core                        3.2.8              python
 graphviz                            0.21               python                        
 greeclimate                         2.1.1              python                        
 greeneye-monitor                    3.0.3              python                        
-greenplanet-energy-api              0.1.4              python                        
+greenplanet-energy-api              0.1.10             python                        
 greenwavereality                    0.5.1              python                        
 gridnet                             5.0.1              python                        
 growattserver                       1.9.0              python                        
@@ -636,9 +636,9 @@ hole                                0.9.0              python
 holidays                            0.84               python                        
 home-assistant-bluetooth            1.13.1             python                        
 home-assistant-chip-clusters        2025.7.0           python                        
-home-assistant-frontend             20260312.0         python                        
+home-assistant-frontend             20260312.1         python                        
 home-assistant-intents              2026.3.3           python                        
-homeassistant                       2026.3.3           python                        
+homeassistant                       2026.3.4           python                        
 homelink-integration-api            0.0.1              python                        
 homematicip                         2.6.0              python                        
 homevolt                            0.5.0              python                        
@@ -725,7 +725,7 @@ jaraco-abode                        6.2.1              python
 jaraco-classes                      3.4.0              python                        
 jaraco-collections                  5.2.1              python                        
 jaraco-context                      6.1.0              python                        
-jaraco-context                      6.1.1              python                        
+jaraco-context                      6.1.2              python                        
 jaraco-email                        3.1.1              python                        
 jaraco-functools                    4.4.0              python      (+1 duplicate)    
 jaraco-itertools                    6.4.3              python                        
@@ -1054,7 +1054,7 @@ openwrt-ubus-rpc                    0.0.2              python
 opower                              0.17.1             python                        
 opus                                1.5.2-r1           apk                           
 opuslib                             3.0.1              python                        
-oralb-ble                           1.0.2              python                        
+oralb-ble                           1.1.0              python                        
 orc                                 0.4.40-r1          apk                           
 orderedmultidict                    1.0.2              python                        
 orderly-set                         5.5.0              python                        
@@ -1428,7 +1428,7 @@ python-fullykiosk                   0.0.14             python
 python-gc100                        1.0.3a0            python                        
 python-gitlab                       1.6.0              python                        
 python-google-drive-api             0.1.0              python                        
-python-google-weather-api           0.0.4              python                        
+python-google-weather-api           0.0.6              python                        
 python-homeassistant-analytics      0.9.0              python                        
 python-homewizard-energy            10.0.1             python                        
 python-hpilo                        4.4.3              python                        
@@ -1670,10 +1670,10 @@ standard-aifc                       3.13.0             python
 standard-chunk                      3.13.0             python                        
 standard-telnetlib                  3.13.0             python                        
 starkbank-ecdsa                     2.2.0              python                        
-starlette                           0.52.1             python                        
+starlette                           1.0.0              python                        
 starline                            0.1.5              python                        
 starlingbank                        3.2                python                        
-starlink-grpc-core                  1.2.3              python                        
+starlink-grpc-core                  1.2.4              python                        
 statsd                              3.2.1              python                        
 stdiomask                           0.0.6              python                        
 steamloop                           1.2.0              python                        
@@ -1735,7 +1735,7 @@ tomli                               2.4.0              python
 toonapi                             0.3.0              python                        
 total-connect-client                2025.12.2          python                        
 tp-connected                        0.0.4              python                        
-tplink-omada-client                 1.5.3              python                        
+tplink-omada-client                 1.5.6              python                        
 tqdm                                4.67.3             python                        
 transitions                         0.8.11             python                        
 transmission-rpc                    7.0.3              python                        
@@ -1841,14 +1841,14 @@ webrtc-models                       0.3.0              python
 websocket-client                    1.9.0              python                        
 websockets                          15.0.1             python                        
 weheat                              2026.2.28          python                        
-werkzeug                            3.1.6              python                        
+werkzeug                            3.1.7              python                        
 wheel                               0.46.3             python                        
 whirlpool-sixth-sense               1.0.3              python                        
 whois                               0.9.27             python                        
 wiffi                               1.1.2              python                        
 wirelesstagpy                       0.8.1              python                        
 wled                                0.21.0             python                        
-wolf-comm                           0.0.23             python                        
+wolf-comm                           0.0.48             python                        
 wrapt                               1.17.3             python                        
 wsdiscovery                         2.1.2              python                        
 wsdot                               0.0.1              python                        
@@ -1858,7 +1858,7 @@ wyz                                 0.5.1              rust-crate
 x-wr-timezone                       2.0.1              python                        
 x264-libs                           0.164.3108-r0      apk                           
 x265-libs                           3.6-r0             apk                           
-xiaomi-ble                          1.6.0              python                        
+xiaomi-ble                          1.10.0             python                        
 xknx                                3.15.0             python                        
 xknxproject                         3.8.2              python                        
 xlsxwriter                          3.2.9              python                        
@@ -1869,14 +1869,14 @@ xvidcore                            1.3.7-r2           apk
 xz                                  5.8.1-r0           apk                           
 xz-libs                             5.8.1-r0           apk                           
 y4m                                 0.8.0              rust-crate                    
-yagrc                               1.1.2              python                        
+yagrc                               1.1.3              python                        
 yalesmartalarmclient                0.4.3              python                        
 yalexs                              9.2.0              python                        
 yalexs-ble                          3.2.8              python                        
 yarl                                1.22.0             python                        
 yeelight                            0.7.16             python                        
 yeelightsunflower                   0.0.10             python                        
-yolink-api                          0.6.1              python                        
+yolink-api                          0.6.3              python                        
 youless-api                         2.2.0              python                        
 youtubeaio                          2.1.1              python                        
 yt-dlp                              2026.2.21          python                        
