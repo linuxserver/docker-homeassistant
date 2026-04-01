@@ -253,8 +253,8 @@ beautifulsoup4                      4.13.3             python
 bellows                             0.49.0             python                        
 bidict                              0.23.1             python                        
 bimmer-connected                    0.17.3             python                        
-bind-libs                           9.20.18-r0         apk                           
-bind-tools                          9.20.18-r0         apk                           
+bind-libs                           9.20.21-r0         apk                           
+bind-tools                          9.20.21-r0         apk                           
 bitarray                            3.8.0              python                        
 bitflags                            2.4.1              rust-crate                    
 bitstream-io                        2.2.0              rust-crate                    
@@ -390,7 +390,7 @@ dataclass-wizard                    0.39.1             python
 dataclasses-json                    0.6.7              python                        
 datadog                             0.52.0             python                        
 datapoint                           0.12.1             python                        
-dateparser                          1.3.0              python                        
+dateparser                          1.4.0              python                        
 dbus                                1.16.2-r1          apk                           
 dbus-daemon-launch-helper           1.16.2-r1          apk                           
 dbus-fast                           3.1.2              python                        
@@ -399,7 +399,7 @@ debugpy                             1.8.17             python
 decora-wifi                         1.4                python                        
 decorator                           5.2.1              python                        
 deebot-client                       18.0.0             python                        
-deepdiff                            8.6.2              python                        
+deepdiff                            9.0.0              python                        
 deepmerge                           2.0                python                        
 defusedxml                          0.7.1              python                        
 deluge-client                       1.10.2             python                        
@@ -435,7 +435,7 @@ dynalite-panel                      0.0.4              python
 eagle100                            0.1.1              python                        
 easyenergy                          2.2.0              python                        
 ebusdpy                             0.0.17             python                        
-ecdsa                               0.19.1             python                        
+ecdsa                               0.19.2             python                        
 ecoaliface                          0.4.0              python                        
 egauge-async                        0.4.0              python                        
 eheimdigital                        1.6.0              python                        
@@ -562,20 +562,20 @@ go2rtc-client                       0.4.0              python
 goalzero                            0.2.2              python                        
 goodwe                              0.4.8              python                        
 google-air-quality-api              3.0.1              python                        
-google-api-core                     2.30.0             python                        
+google-api-core                     2.30.1             python                        
 google-api-python-client            2.71.0             python                        
 google-auth                         2.49.1             python                        
-google-auth-httplib2                0.3.0              python                        
-google-auth-oauthlib                1.3.0              python                        
+google-auth-httplib2                0.3.1              python                        
+google-auth-oauthlib                1.3.1              python                        
 google-cloud-pubsub                 2.29.0             python                        
 google-cloud-speech                 2.31.1             python                        
 google-cloud-texttospeech           2.25.1             python                        
 google-genai                        1.59.0             python                        
-google-geo-type                     0.5.0              python                        
+google-geo-type                     0.6.0              python                        
 google-maps-routing                 0.6.15             python                        
 google-nest-sdm                     9.1.2              python                        
 google-photos-library-api           0.12.1             python                        
-googleapis-common-protos            1.73.0             python                        
+googleapis-common-protos            1.73.1             python                        
 goslide-api                         0.7.0              python                        
 gotailwind                          0.3.0              python                        
 govee-ble                           0.44.0             python                        
@@ -652,7 +652,7 @@ httpcore                            1.0.9              python
 httplib2                            0.20.4             python                        
 httpx                               0.28.1             python                        
 httpx-sse                           0.4.3              python                        
-httpx-ws                            0.8.2              python                        
+httpx-ws                            0.9.0              python                        
 huawei-lte-api                      1.11.0             python                        
 hueble                              2.1.0              python                        
 humanfriendly                       10.0               python                        
@@ -834,7 +834,7 @@ libpanelw                           6.5_p20250503-r0   apk
 libpcap                             1.10.5-r1          apk                           
 libpciaccess                        0.18.1-r0          apk                           
 libplacebo                          6.338.2-r3         apk                           
-libpng                              1.6.55-r0          apk                           
+libpng                              1.6.56-r0          apk                           
 libpq                               17.9-r0            apk                           
 libproc2                            4.0.4-r3           apk                           
 libpsl                              0.21.5-r3          apk                           
@@ -1120,7 +1120,7 @@ proliphix                           0.4.1              python
 prometheus-client                   0.21.0             python                        
 prompt-toolkit                      3.0.52             python                        
 propcache                           0.4.1              python                        
-proto-plus                          1.27.1             python                        
+proto-plus                          1.27.2             python                        
 protobuf                            6.32.0             python                        
 protobuf-c                          1.5.2-r0           apk                           
 prowlpy                             1.1.1              python                        
@@ -1242,7 +1242,7 @@ pyfritzhome                         0.6.20             python
 pyfronius                           0.8.0              python                        
 pyfttt                              0.3                python                        
 pygatt                              4.0.5              python                        
-pygments                            2.19.2             python                        
+pygments                            2.20.0             python                        
 pygtfs                              0.1.9              python                        
 pygti                               0.9.4              python                        
 pyhaversion                         22.8.0             python                        
@@ -1417,7 +1417,7 @@ python-dateutil                     2.9.0.post0        python
 python-decouple                     3.8                python                        
 python-didl-lite                    1.5.0              python                        
 python-digitalocean                 1.13.2             python                        
-python-discovery                    1.2.0              python                        
+python-discovery                    1.2.1              python                        
 python-dotenv                       1.2.2              python                        
 python-ecobee-api                   0.3.2              python                        
 python-engineio                     4.13.1             python                        
@@ -1664,7 +1664,7 @@ sratom                              0.6.18-r0          apk
 srp                                 1.0.22             python                        
 srpenergy                           1.3.6              python                        
 srptools                            1.0.1              python                        
-sse-starlette                       3.3.3              python                        
+sse-starlette                       3.3.4              python                        
 ssl_client                          1.37.0-r20         apk                           
 standard-aifc                       3.13.0             python                        
 standard-chunk                      3.13.0             python                        
