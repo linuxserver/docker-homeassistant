@@ -1476,7 +1476,7 @@ pydaikin                            2.17.2                                      
 pydanfossair                        0.1.0                                                    python                        
 pydantic                            2.12.2                                                   python                        
 pydantic-core                       2.41.4                                                   python                        
-pydantic-extra-types                2.11.1                                                   python                        
+pydantic-extra-types                2.11.2                                                   python                        
 pydantic-settings                   2.13.1                                                   python                        
 pydeako                             0.6.0                                                    python                        
 pydeconz                            120                                                      python                        
@@ -1680,7 +1680,7 @@ pyswitchbot                         2.0.0                                       
 pyswitchmate                        0.5.1                                                    python                        
 pysyncthru                          0.8.0                                                    python                        
 pytautulli                          23.1.1                                                   python                        
-pytest                              9.0.2                                                    python                        
+pytest                              9.0.3                                                    python                        
 pytest-rerunfailures                16.0.1                                                   python                        
 pythinkingcleaner                   0.0.3                                                    python                        
 python                              3.14.2                                                   binary                        
@@ -1693,7 +1693,7 @@ python-dateutil                     2.9.0.post0                                 
 python-decouple                     3.8                                                      python                        
 python-didl-lite                    1.5.0                                                    python                        
 python-digitalocean                 1.13.2                                                   python                        
-python-discovery                    1.2.1                                                    python                        
+python-discovery                    1.2.2                                                    python                        
 python-dotenv                       1.2.2                                                    python                        
 python-ecobee-api                   0.3.2                                                    python                        
 python-engineio                     4.13.1                                                   python                        
@@ -1719,7 +1719,7 @@ python-melcloud                     0.1.2                                       
 python-miio                         0.5.12                                                   python                        
 python-motionmount                  2.3.0                                                    python                        
 python-mpd2                         3.1.1                                                    python                        
-python-multipart                    0.0.22                                                   python                        
+python-multipart                    0.0.24                                                   python                        
 python-mystrom                      2.5.0                                                    python                        
 python-open-router                  0.3.3                                                    python                        
 python-opendata-transport           0.5.0                                                    python                        
@@ -2279,7 +2279,7 @@ uv-virtualenv                       0.0.34                                      
 uv-warnings                         0.0.34                                                   rust-crate  (+1 duplicate)    
 uv-workspace                        0.0.34                                                   rust-crate  (+1 duplicate)    
 uvcclient                           0.12.1                                                   python                        
-uvicorn                             0.43.0                                                   python                        
+uvicorn                             0.44.0                                                   python                        
 v4l-utils-libs                      1.28.1-r1                                                apk                           
 v_frame                             0.3.7                                                    rust-crate                    
 vacuum-map-parser-base              0.1.5                                                    python                        
