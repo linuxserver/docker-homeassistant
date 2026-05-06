@@ -143,7 +143,7 @@ RUN \
     | grep 'PIP_VERSION: ' \
     | sed 's|.*PIP_VERSION: ||' \
     | sed 's|"||g') && \
-  HA_UV_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/Dockerfile" | grep 'install uv==' | sed 's|.*install uv==||') && \
+  HA_UV_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/requirements.txt" | grep 'uv==' | sed 's|.*uv==||') && \
   HA_GO2RTC_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/homeassistant/components/go2rtc/const.py" | grep 'RECOMMENDED_VERSION' | sed 's|.*RECOMMENDED_VERSION = "||' | sed 's|".*||') && \
   curl -o \
     /bin/go2rtc -fL \
