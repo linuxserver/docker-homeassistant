@@ -436,7 +436,7 @@ coreutils                           9.7-r1                                      
 coreutils-env                       9.7-r1                                                   apk                           
 coreutils-fmt                       9.7-r1                                                   apk                           
 coreutils-sha512sum                 9.7-r1                                                   apk                           
-coverage                            7.13.5                                                   python                        
+coverage                            7.14.0                                                   python                        
 cpufeatures                         0.2.17                                                   rust-crate  (+1 duplicate)    
 crc                                 3.3.0                                                    rust-crate                    
 crc                                 7.1.0                                                    python                        
@@ -845,7 +845,7 @@ idasen                              0.12.0                                      
 idasen-ha                           2.6.5                                                    python                        
 identify                            2.6.19                                                   python                        
 idna                                1.1.0                                                    rust-crate  (+1 duplicate)    
-idna                                3.13                                                     python                        
+idna                                3.15                                                     python                        
 idna_adapter                        1.2.1                                                    rust-crate  (+1 duplicate)    
 idrive-e2-client                    0.1.1                                                    python                        
 ifaddr                              0.2.0                                                    python                        
@@ -1208,7 +1208,7 @@ nexia                               2.11.1                                      
 nextcloudmonitor                    1.5.1                                                    python                        
 nextcord                            3.1.0                                                    python                        
 nextdns                             5.0.0                                                    python                        
-nghttp2-libs                        1.65.0-r0                                                apk                           
+nghttp2-libs                        1.69.0-r0                                                apk                           
 nhc                                 0.8.0                                                    python                        
 nibe                                2.22.0                                                   python                        
 nice-go                             1.0.1                                                    python                        
@@ -1669,7 +1669,7 @@ pysmappee                           0.2.29                                      
 pysmarlaapi                         1.0.2                                                    python                        
 pysmartthings                       3.7.3                                                    python                        
 pysmarty2                           0.10.3                                                   python                        
-pysmb                               1.2.13                                                   python                        
+pysmb                               1.2.14                                                   python                        
 pysmhi                              2.0.0                                                    python                        
 pysml                               0.1.5                                                    python                        
 pysmlight                           0.3.2                                                    python                        
@@ -1702,7 +1702,7 @@ python-dateutil                     2.9.0.post0                                 
 python-decouple                     3.8                                                      python                        
 python-didl-lite                    1.5.0                                                    python                        
 python-digitalocean                 1.13.2                                                   python                        
-python-discovery                    1.3.0                                                    python                        
+python-discovery                    1.3.1                                                    python                        
 python-dotenv                       1.2.2                                                    python                        
 python-dropbox-api                  0.1.3                                                    python                        
 python-duco-client                  0.4.1                                                    python                        
@@ -1730,7 +1730,7 @@ python-melcloud                     0.1.3                                       
 python-miio                         0.5.12                                                   python                        
 python-motionmount                  2.3.0                                                    python                        
 python-mpd2                         3.1.1                                                    python                        
-python-multipart                    0.0.27                                                   python                        
+python-multipart                    0.0.28                                                   python                        
 python-mystrom                      2.5.0                                                    python                        
 python-open-router                  0.3.3                                                    python                        
 python-opendata-transport           0.5.0                                                    python                        
@@ -1928,7 +1928,7 @@ secret-service                      5.1.0                                       
 secretstorage                       3.5.0                                                    python                        
 securetar                           2026.4.1                                                 python                        
 segno                               1.6.6                                                    python                        
-selenium                            4.43.0                                                   python                        
+selenium                            4.44.0                                                   python                        
 selenium-manager                    UNKNOWN                                                  binary                        
 semver                              1.0.27                                                   rust-crate  (+1 duplicate)    
 semver                              3.0.4                                                    python                        
@@ -2033,7 +2033,7 @@ sratom                              0.6.18-r0                                   
 srp                                 1.0.22                                                   python                        
 srpenergy                           1.3.8                                                    python                        
 srptools                            1.0.1                                                    python                        
-sse-starlette                       3.4.2                                                    python                        
+sse-starlette                       3.4.4                                                    python                        
 ssl_client                          1.37.0-r20                                               apk                           
 stable_deref_trait                  1.2.1                                                    rust-crate  (+1 duplicate)    
 standard-aifc                       3.13.0                                                   python                        
@@ -2311,7 +2311,7 @@ victron-vrm                         0.1.8                                       
 vidstab                             1.1.1-r0                                                 apk                           
 vilfo-api-client                    0.5.0                                                    python                        
 vincenty                            0.1.4                                                    python                        
-virtualenv                          21.3.1                                                   python                        
+virtualenv                          21.3.2                                                   python                        
 visionpluspython                    1.0.2                                                    python                        
 vobject                             0.9.9                                                    python                        
 voip-utils                          0.3.5                                                    python                        
