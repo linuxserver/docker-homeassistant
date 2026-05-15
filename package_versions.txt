@@ -14,7 +14,7 @@ advantage-air                       0.4.4                                       
 aemet-opendata                      0.6.4                                                    python                        
 aenum                               3.1.17                                                   python                        
 aes                                 0.8.4                                                    rust-crate  (+1 duplicate)    
-afsapi                              1.0.0                                                    python                        
+afsapi                              1.0.1                                                    python                        
 agent-py                            0.0.24                                                   python                        
 aho-corasick                        1.1.4                                                    rust-crate  (+1 duplicate)    
 aio-geojson-client                  0.21                                                     python                        
@@ -52,7 +52,7 @@ aioeagle                            1.1.0                                       
 aioecowitt                          2025.9.2                                                 python                        
 aioelectricitymaps                  1.1.1                                                    python                        
 aioemonitor                         1.0.5                                                    python                        
-aioesphomeapi                       44.21.0                                                  python                        
+aioesphomeapi                       44.24.1                                                  python                        
 aiofile                             3.9.0                                                    python                        
 aiofiles                            24.1.0                                                   python                        
 aioflo                              2021.11.0                                                python                        
@@ -61,7 +61,7 @@ aioghost                            0.4.0                                       
 aiogithubapi                        26.0.0                                                   python                        
 aioguardian                         2026.1.1                                                 python                        
 aiohappyeyeballs                    2.6.1                                                    python                        
-aioharmony                          0.5.3                                                    python                        
+aioharmony                          1.0.3                                                    python                        
 aiohasupervisor                     0.4.3                                                    python                        
 aiohomeconnect                      0.36.0                                                   python                        
 aiohomekit                          3.2.20                                                   python                        
@@ -202,7 +202,7 @@ arris-tg2492lg                      2.2.0                                       
 arrow                               1.4.0                                                    python                        
 asgiref                             3.11.1                                                   python                        
 asmog                               0.0.6                                                    python                        
-asn1                                3.2.0                                                    python                        
+asn1                                3.3.0                                                    python                        
 asn1-rs                             0.7.1                                                    rust-crate  (+1 duplicate)    
 asn1-rs-impl                        0.2.0                                                    rust-crate  (+1 duplicate)    
 asn1crypto                          1.5.1                                                    python                        
@@ -263,7 +263,7 @@ aws-lc-sys                          0.39.0                                      
 aws-request-signer                  1.2.0                                                    python                        
 awscrt                              0.32.1                                                   python                        
 awsiotsdk                           1.29.0                                                   python                        
-axis                                70                                                       python                        
+axis                                71                                                       python                        
 axoasset                            2.0.1                                                    rust-crate  (+1 duplicate)    
 axoprocess                          0.2.1                                                    rust-crate  (+1 duplicate)    
 axotag                              0.3.0                                                    rust-crate  (+1 duplicate)    
@@ -276,7 +276,7 @@ azure-kusto-data                    4.5.1                                       
 azure-kusto-ingest                  4.5.1                                                    python                        
 azure-servicebus                    7.10.0                                                   python                        
 azure-storage-blob                  12.24.0                                                  python                        
-azure-storage-queue                 12.15.0                                                  python                        
+azure-storage-queue                 12.16.0                                                  python                        
 b2sdk                               2.10.4                                                   python                        
 babel                               2.15.0                                                   python                        
 backoff                             2.2.1                                                    python                        
@@ -359,6 +359,7 @@ bzip2-sys                           0.1.13+1.0.8                                
 c-ares                              1.34.6-r0                                                apk                           
 ca-certificates                     20260413-r0                                              apk                           
 ca-certificates-bundle              20260413-r0                                              apk                           
+cachebox                            5.2.3                                                    python                        
 cached-ipaddress                    1.0.1                                                    python                        
 cachetools                          7.1.1                                                    python                        
 caio                                0.9.25                                                   python                        
@@ -486,7 +487,7 @@ debugpy                             1.8.17                                      
 decora-wifi                         1.4                                                      python                        
 decorator                           5.2.1                                                    python                        
 deebot-client                       18.3.0                                                   python                        
-deepdiff                            9.0.0                                                    python                        
+deepdiff                            9.1.0                                                    python                        
 deepmerge                           2.0                                                      python                        
 defusedxml                          0.7.1                                                    python                        
 deluge-client                       1.10.2                                                   python                        
@@ -789,9 +790,9 @@ hmac                                0.12.1                                      
 hole                                0.9.0                                                    python                        
 holidays                            0.96                                                     python                        
 home-assistant-bluetooth            2.0.0                                                    python                        
-home-assistant-frontend             20260429.3                                               python                        
+home-assistant-frontend             20260429.4                                               python                        
 home-assistant-intents              2026.5.5                                                 python                        
-homeassistant                       2026.5.1                                                 python                        
+homeassistant                       2026.5.2                                                 python                        
 homedir                             0.3.6                                                    rust-crate  (+1 duplicate)    
 homekit-audio-proxy                 1.2.1                                                    python                        
 homelink-integration-api            0.0.1                                                    python                        
@@ -858,7 +859,7 @@ image                               0.25.10                                     
 imageio                             2.37.3                                                   python                        
 imath                               3.1.12-r0                                                apk                           
 imeon-inverter-api                  0.4.0                                                    python                        
-imgw-pib                            2.1.1                                                    python                        
+imgw-pib                            2.1.2                                                    python                        
 imlib2                              1.12.4-r0                                                apk                           
 importlib-metadata                  8.7.1                                                    python      (+1 duplicate)    
 importlib-resources                 6.5.2                                                    python                        
@@ -1542,7 +1543,7 @@ pyialarm                            2.2.0                                       
 pyicloud                            2.4.1                                                    python                        
 pyinsteon                           1.6.4                                                    python                        
 pyintelliclima                      0.3.1                                                    python                        
-pyintesishome                       1.8.0                                                    python                        
+pyintesishome                       1.8.7                                                    python                        
 pyipma                              3.0.9                                                    python                        
 pyipp                               0.17.0                                                   python                        
 pyiqvia                             2022.4.0                                                 python                        
@@ -1582,7 +1583,7 @@ pymeteoclimatic                     0.1.1                                       
 pymetno                             0.13.0                                                   python                        
 pymicro-vad                         1.0.1                                                    python                        
 pymicrobot                          0.0.23                                                   python                        
-pymiele                             0.6.1                                                    python                        
+pymiele                             0.6.2                                                    python                        
 pymitv                              1.4.3                                                    python                        
 pymochad                            0.2.0                                                    python                        
 pymodbus                            3.11.2                                                   python                        
@@ -1705,7 +1706,7 @@ python-digitalocean                 1.13.2                                      
 python-discovery                    1.3.1                                                    python                        
 python-dotenv                       1.2.2                                                    python                        
 python-dropbox-api                  0.1.3                                                    python                        
-python-duco-client                  0.4.1                                                    python                        
+python-duco-connectivity            0.4.0                                                    python                        
 python-ecobee-api                   0.3.2                                                    python                        
 python-engineio                     4.13.1                                                   python                        
 python-engineio-v3                  3.14.2                                                   python                        
@@ -1796,7 +1797,7 @@ pyyaml                              6.0.3                                       
 pyyardian                           1.1.1                                                    python                        
 pyzbar                              0.1.7                                                    python                        
 pyzerproc                           0.4.8                                                    python                        
-pyzipper                            0.3.6                                                    python                        
+pyzipper                            0.4.0                                                    python                        
 qbittorrent-api                     2024.9.67                                                python                        
 qbusmqttapi                         1.4.3                                                    python                        
 qingping-ble                        1.1.0                                                    python                        
@@ -1844,7 +1845,7 @@ regex                               1.12.3                                      
 regex                               2024.11.6                                                python                        
 regex-automata                      0.4.14                                                   rust-crate  (+1 duplicate)    
 regex-syntax                        0.8.10                                                   rust-crate  (+1 duplicate)    
-renault-api                         0.5.7                                                    python                        
+renault-api                         0.5.8                                                    python                        
 rend                                0.5.3                                                    rust-crate  (+1 duplicate)    
 renson-endura-delta                 1.7.2                                                    python                        
 reolink-aio                         0.19.1                                                   python                        
@@ -1953,7 +1954,7 @@ serde_repr                          0.1.20                                      
 serde_spanned                       1.0.4                                                    rust-crate  (+1 duplicate)    
 serde_urlencoded                    0.7.1                                                    rust-crate  (+1 duplicate)    
 serialio                            2.4.0                                                    python                        
-serialx                             1.7.1                                                    python                        
+serialx                             1.7.3                                                    python                        
 setuptools                          81.0.0                                                   python                        
 sfrbox-api                          0.1.1                                                    python                        
 sgmllib3k                           1.0.0                                                    python                        
@@ -2173,7 +2174,7 @@ twitchapi                           4.2.1                                       
 twitterapi                          2.7.12                                                   python                        
 typed-path                          0.12.3                                                   rust-crate  (+1 duplicate)    
 typedmonarchmoney                   0.7.0                                                    python                        
-typeguard                           4.5.1                                                    python                        
+typeguard                           4.5.2                                                    python                        
 typeid                              1.0.3                                                    rust-crate  (+1 duplicate)    
 typenum                             1.19.0                                                   rust-crate  (+1 duplicate)    
 typer                               0.12.5                                                   python                        
@@ -2292,7 +2293,7 @@ uv-virtualenv                       0.0.41                                      
 uv-warnings                         0.0.41                                                   rust-crate  (+1 duplicate)    
 uv-workspace                        0.0.41                                                   rust-crate  (+1 duplicate)    
 uvcclient                           0.12.1                                                   python                        
-uvicorn                             0.46.0                                                   python                        
+uvicorn                             0.47.0                                                   python                        
 v4l-utils-libs                      1.28.1-r1                                                apk                           
 v_frame                             0.3.7                                                    rust-crate                    
 vacuum-map-parser-base              0.1.5                                                    python                        
@@ -2311,7 +2312,7 @@ victron-vrm                         0.1.8                                       
 vidstab                             1.1.1-r0                                                 apk                           
 vilfo-api-client                    0.5.0                                                    python                        
 vincenty                            0.1.4                                                    python                        
-virtualenv                          21.3.2                                                   python                        
+virtualenv                          21.3.3                                                   python                        
 visionpluspython                    1.0.2                                                    python                        
 vobject                             0.9.9                                                    python                        
 voip-utils                          0.3.5                                                    python                        
