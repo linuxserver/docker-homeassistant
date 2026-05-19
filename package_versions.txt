@@ -46,14 +46,14 @@ aiocomelit                          2.0.3                                       
 aioconsole                          0.8.2                                                    python                        
 aiodhcpwatcher                      1.2.1                                                    python                        
 aiodiscover                         2.7.1                                                    python                        
-aiodns                              4.0.0                                                    python                        
+aiodns                              4.0.3                                                    python                        
 aioeafm                             0.1.2                                                    python                        
 aioeagle                            1.1.0                                                    python                        
 aioecowitt                          2025.9.2                                                 python                        
 aioelectricitymaps                  1.1.1                                                    python                        
 aioemonitor                         1.0.5                                                    python                        
 aioesphomeapi                       44.24.1                                                  python                        
-aiofile                             3.9.0                                                    python                        
+aiofile                             3.11.1                                                   python                        
 aiofiles                            24.1.0                                                   python                        
 aioflo                              2021.11.0                                                python                        
 aioftp                              0.21.3                                                   python                        
@@ -75,7 +75,7 @@ aiohttp-sse                         2.2.0                                       
 aiohttp-sse-client2                 0.3.0                                                    python                        
 aiohue                              4.8.1                                                    python                        
 aioimaplib                          2.0.1                                                    python                        
-aioimmich                           0.14.0                                                   python                        
+aioimmich                           0.14.1                                                   python                        
 aioitertools                        0.13.0                                                   python                        
 aiokafka                            0.10.0                                                   python                        
 aiokef                              0.2.16                                                   python                        
@@ -361,7 +361,7 @@ ca-certificates                     20260413-r0                                 
 ca-certificates-bundle              20260413-r0                                              apk                           
 cachebox                            5.2.3                                                    python                        
 cached-ipaddress                    1.0.1                                                    python                        
-cachetools                          7.1.1                                                    python                        
+cachetools                          7.1.3                                                    python                        
 caio                                0.9.25                                                   python                        
 caldav                              2.1.0                                                    python                        
 camino                              1.2.2                                                    rust-crate  (+1 duplicate)    
@@ -485,7 +485,7 @@ deadpool                            0.12.3                                      
 deadpool-runtime                    0.1.4                                                    rust-crate  (+1 duplicate)    
 debugpy                             1.8.17                                                   python                        
 decora-wifi                         1.4                                                      python                        
-decorator                           5.2.1                                                    python                        
+decorator                           5.3.1                                                    python                        
 deebot-client                       18.3.0                                                   python                        
 deepdiff                            9.1.0                                                    python                        
 deepmerge                           2.0                                                      python                        
@@ -710,7 +710,7 @@ goodwe                              0.4.10                                      
 google-air-quality-api              3.0.1                                                    python                        
 google-api-core                     2.30.3                                                   python                        
 google-api-python-client            2.71.0                                                   python                        
-google-auth                         2.52.0                                                   python                        
+google-auth                         2.53.0                                                   python                        
 google-auth-httplib2                0.4.0                                                    python                        
 google-auth-oauthlib                1.4.0                                                    python                        
 google-cloud-pubsub                 2.29.0                                                   python                        
@@ -792,7 +792,7 @@ holidays                            0.96                                        
 home-assistant-bluetooth            2.0.0                                                    python                        
 home-assistant-frontend             20260429.4                                               python                        
 home-assistant-intents              2026.5.5                                                 python                        
-homeassistant                       2026.5.2                                                 python                        
+homeassistant                       2026.5.3                                                 python                        
 homedir                             0.3.6                                                    rust-crate  (+1 duplicate)    
 homekit-audio-proxy                 1.2.1                                                    python                        
 homelink-integration-api            0.0.1                                                    python                        
@@ -861,7 +861,7 @@ imath                               3.1.12-r0                                   
 imeon-inverter-api                  0.4.0                                                    python                        
 imgw-pib                            2.1.2                                                    python                        
 imlib2                              1.12.4-r0                                                apk                           
-importlib-metadata                  8.7.1                                                    python      (+1 duplicate)    
+importlib-metadata                  8.7.1                                                    python                        
 importlib-resources                 6.5.2                                                    python                        
 imutils                             0.5.4                                                    python                        
 incomfort-client                    0.7.0                                                    python                        
@@ -919,7 +919,8 @@ jaraco-collections                  5.2.1                                       
 jaraco-context                      6.1.0                                                    python                        
 jaraco-context                      6.1.2                                                    python                        
 jaraco-email                        3.1.1                                                    python                        
-jaraco-functools                    4.4.0                                                    python      (+1 duplicate)    
+jaraco-functools                    4.4.0                                                    python                        
+jaraco-functools                    4.5.0                                                    python                        
 jaraco-itertools                    6.4.3                                                    python                        
 jaraco-logging                      3.4.0                                                    python                        
 jaraco-net                          10.2.3                                                   python                        
@@ -929,7 +930,7 @@ jeepney                             0.9.0                                       
 jellyfin-apiclient-python           1.11.0                                                   python                        
 jiff                                0.2.23                                                   rust-crate  (+1 duplicate)    
 jinja2                              3.1.6                                                    python                        
-jiter                               0.14.0                                                   python                        
+jiter                               0.15.0                                                   python                        
 jmespath                            1.1.0                                                    python                        
 jobserver                           0.1.34                                                   rust-crate  (+1 duplicate)    
 josepy                              2.2.0                                                    python                        
@@ -1286,9 +1287,9 @@ openssh-client-default              10.0_p1-r10                                 
 openssh-keygen                      10.0_p1-r10                                              apk                           
 openssl                             3.5.6-r0                                                 apk                           
 openssl-probe                       0.2.1                                                    rust-crate  (+1 duplicate)    
-opentelemetry-api                   1.41.1                                                   python                        
-opentelemetry-sdk                   1.41.1                                                   python                        
-opentelemetry-semantic-conventions  0.62b1                                                   python                        
+opentelemetry-api                   1.42.0                                                   python                        
+opentelemetry-sdk                   1.42.0                                                   python                        
+opentelemetry-semantic-conventions  0.63b0                                                   python                        
 openwebifpy                         4.3.1                                                    python                        
 openwrt-luci-rpc                    1.1.17                                                   python                        
 openwrt-ubus-rpc                    0.0.2                                                    python                        
@@ -1543,7 +1544,7 @@ pyialarm                            2.2.0                                       
 pyicloud                            2.4.1                                                    python                        
 pyinsteon                           1.6.4                                                    python                        
 pyintelliclima                      0.3.1                                                    python                        
-pyintesishome                       1.8.7                                                    python                        
+pyintesishome                       1.8.8                                                    python                        
 pyipma                              3.0.9                                                    python                        
 pyipp                               0.17.0                                                   python                        
 pyiqvia                             2022.4.0                                                 python                        
@@ -1731,7 +1732,7 @@ python-melcloud                     0.1.3                                       
 python-miio                         0.5.12                                                   python                        
 python-motionmount                  2.3.0                                                    python                        
 python-mpd2                         3.1.1                                                    python                        
-python-multipart                    0.0.28                                                   python                        
+python-multipart                    0.0.29                                                   python                        
 python-mystrom                      2.5.0                                                    python                        
 python-open-router                  0.3.3                                                    python                        
 python-opendata-transport           0.5.0                                                    python                        
@@ -1798,7 +1799,7 @@ pyyardian                           1.1.1                                       
 pyzbar                              0.1.7                                                    python                        
 pyzerproc                           0.4.8                                                    python                        
 pyzipper                            0.4.0                                                    python                        
-qbittorrent-api                     2024.9.67                                                python                        
+qbittorrent-api                     2026.5.1                                                 python                        
 qbusmqttapi                         1.4.3                                                    python                        
 qingping-ble                        1.1.0                                                    python                        
 qnapstats                           0.4.0                                                    python                        
@@ -2049,7 +2050,7 @@ statsd                              3.2.1                                       
 stdiomask                           0.0.6                                                    python                        
 steamloop                           1.2.0                                                    python                        
 steamodd                            4.21                                                     python                        
-stevedore                           5.7.0                                                    python                        
+stevedore                           5.8.0                                                    python                        
 stookwijzer                         1.6.1                                                    python                        
 streamlabswater                     1.0.1                                                    python                        
 striprtf                            0.0.32                                                   python                        
@@ -2179,7 +2180,7 @@ typeid                              1.0.3                                       
 typenum                             1.19.0                                                   rust-crate  (+1 duplicate)    
 typer                               0.12.5                                                   python                        
 typer-slim                          0.21.2                                                   python                        
-types-pytz                          2026.2.0.20260506                                        python                        
+types-pytz                          2026.2.0.20260518                                        python                        
 typing-extensions                   4.15.0                                                   python                        
 typing-inspect                      0.9.0                                                    python                        
 typing-inspection                   0.4.2                                                    python                        
@@ -2427,7 +2428,6 @@ zimg                                3.0.5-r3                                    
 zinvolt                             0.4.3                                                    python                        
 zip                                 8.1.0                                                    rust-crate  (+1 duplicate)    
 zipp                                3.23.0                                                   python                        
-zipp                                3.23.1                                                   python                        
 zix-libs                            0.6.2-r0                                                 apk                           
 zlib                                1.3.2-r0                                                 apk                           
 zlib-rs                             0.6.3                                                    rust-crate  (+1 duplicate)    
