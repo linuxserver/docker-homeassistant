@@ -1005,7 +1005,7 @@ libdeflate                          1.23-r0                                     
 libdovi                             3.3.1-r1                                                 apk                           
 libdrm                              2.4.124-r0                                               apk                           
 libeconf                            0.6.3-r0                                                 apk                           
-libecpg                             17.9-r0                                                  apk                           
+libecpg                             17.10-r0                                                 apk                           
 libedit                             20250104.3.1-r1                                          apk                           
 libexpat                            2.7.5-r0                                                 apk                           
 libffi                              3.4.8-r0                                                 apk                           
@@ -1036,7 +1036,7 @@ libpcap                             1.10.5-r1                                   
 libpciaccess                        0.18.1-r0                                                apk                           
 libplacebo                          6.338.2-r3                                               apk                           
 libpng                              1.6.57-r0                                                apk                           
-libpq                               17.9-r0                                                  apk                           
+libpq                               17.10-r0                                                 apk                           
 libproc2                            4.0.4-r3                                                 apk                           
 libpsl                              0.21.5-r3                                                apk                           
 libpulse                            17.0-r5                                                  apk                           
