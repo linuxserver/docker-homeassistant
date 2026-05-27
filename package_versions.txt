@@ -437,7 +437,7 @@ coreutils                           9.7-r1                                      
 coreutils-env                       9.7-r1                                                   apk                           
 coreutils-fmt                       9.7-r1                                                   apk                           
 coreutils-sha512sum                 9.7-r1                                                   apk                           
-coverage                            7.14.0                                                   python                        
+coverage                            7.14.1                                                   python                        
 cpufeatures                         0.2.17                                                   rust-crate  (+1 duplicate)    
 crc                                 3.3.0                                                    rust-crate                    
 crc                                 7.1.0                                                    python                        
@@ -934,7 +934,7 @@ jiter                               0.15.0                                      
 jmespath                            1.1.0                                                    python                        
 jobserver                           0.1.34                                                   rust-crate  (+1 duplicate)    
 josepy                              2.2.0                                                    python                        
-joserfc                             1.6.5                                                    python                        
+joserfc                             1.6.8                                                    python                        
 jq                                  1.8.1-r0                                                 apk                           
 json-c                              0.18-r1                                                  apk                           
 jsonpath                            0.82.2                                                   python                        
@@ -1117,7 +1117,7 @@ markdown                            3.10.2                                      
 markupsafe                          3.0.3                                                    python                        
 marshmallow                         3.26.2                                                   python                        
 marshmallow-dataclass               8.7.1                                                    python                        
-mashumaro                           3.21                                                     python                        
+mashumaro                           3.22                                                     python                        
 mastodon-py                         2.2.1                                                    python                        
 matchers                            0.2.0                                                    rust-crate  (+1 duplicate)    
 matrix-nio                          0.25.2                                                   python                        
@@ -2017,7 +2017,7 @@ somfy-mylink-synergy                1.0.6                                       
 sonos-websocket                     0.1.3                                                    python                        
 sord-libs                           0.16.18-r0                                               apk                           
 sortedcontainers                    2.4.0                                                    python                        
-soupsieve                           2.8.3                                                    python                        
+soupsieve                           2.8.4                                                    python                        
 soxr                                0.1.3-r7                                                 apk                           
 spdx                                0.10.9                                                   rust-crate  (+1 duplicate)    
 spdx                                0.13.4                                                   rust-crate  (+1 duplicate)    
@@ -2043,7 +2043,7 @@ standard-aifc                       3.13.0                                      
 standard-chunk                      3.13.0                                                   python                        
 standard-telnetlib                  3.13.0                                                   python                        
 starkbank-ecdsa                     2.3.1                                                    python                        
-starlette                           1.0.1                                                    python                        
+starlette                           1.1.0                                                    python                        
 starline                            0.1.5                                                    python                        
 starlingbank                        3.2                                                      python                        
 starlink-grpc-core                  1.2.5                                                    python                        
@@ -2085,7 +2085,7 @@ tdb-libs                            1.4.12-r0                                   
 tellcore-net                        0.4                                                      python                        
 tellcore-py                         1.1.2                                                    python                        
 tellduslive                         0.10.12                                                  python                        
-telnetlib3                          4.0.3                                                    python                        
+telnetlib3                          4.0.4                                                    python                        
 teltasync                           0.2.0                                                    python                        
 temescal                            0.5                                                      python                        
 temp-env                            0.3.6                                                    rust-crate  (+1 duplicate)    
@@ -2295,7 +2295,7 @@ uv-virtualenv                       0.0.41                                      
 uv-warnings                         0.0.41                                                   rust-crate  (+1 duplicate)    
 uv-workspace                        0.0.41                                                   rust-crate  (+1 duplicate)    
 uvcclient                           0.12.1                                                   python                        
-uvicorn                             0.47.0                                                   python                        
+uvicorn                             0.48.0                                                   python                        
 v4l-utils-libs                      1.28.1-r1                                                apk                           
 v_frame                             0.3.7                                                    rust-crate                    
 vacuum-map-parser-base              0.1.5                                                    python                        
