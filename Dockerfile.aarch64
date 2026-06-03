@@ -101,9 +101,9 @@ RUN \
     | grep 'BASE_IMAGE_VERSION: ' \
     | sed 's|.*: "||' | sed 's|".*||') && \
   echo "HASS_BASE retrieved as ${HASS_BASE}" && \
-  HA_PY_MAJOR=$(curl -fsL https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/build.yaml \
-    | grep 'amd64: ' \
-    | cut -d: -f3 \
+  HA_PY_MAJOR=$(curl -fsL https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/Dockerfile \
+    | grep 'ARG BUILD_FROM=' \
+    | cut -d: -f2 \
     | sed 's|-alpine.*||') && \
   echo "HA_PY_MAJOR retrieved as ${HA_PY_MAJOR}" && \
   HASS_BASE_RELEASE=$(curl -fSsL https://api.github.com/repos/home-assistant/docker/releases) && \
@@ -121,17 +121,15 @@ RUN \
   git clone --branch "${HA_DOCKER_BASE}" \
     --depth 1 https://github.com/home-assistant/docker-base.git \
     /tmp/ha-docker-base && \
-  HA_PY_VERSION=$(cat /tmp/ha-docker-base/python/${HA_PY_MAJOR}/build.yaml \
-    | grep 'PYTHON_VERSION: ' \
-    | sed 's|.*PYTHON_VERSION: ||' \
-    | sed 's|"||g') && \
-  HA_JEMALLOC_VER=$(cat /tmp/ha-docker-base/alpine/build.yaml \
-    | grep 'JEMALLOC_VERSION: ' \
-    | sed 's|.*JEMALLOC_VERSION: ||' \
-    | sed 's|"||g') && \
-  HA_ALPINE_VER=$(curl -fsL https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/build.yaml \
-    | grep 'amd64: ' \
-    | cut -d: -f3 \
+  HA_PY_VERSION=$(cat /tmp/ha-docker-base/python/${HA_PY_MAJOR}/Dockerfile \
+    | grep 'ARG PYTHON_VERSION=' \
+    | sed 's|.*PYTHON_VERSION=||') && \
+  HA_JEMALLOC_VER=$(cat /tmp/ha-docker-base/alpine/Dockerfile \
+    | grep 'ARG JEMALLOC_VERSION=' \
+    | sed 's|.*JEMALLOC_VERSION=||') && \
+  HA_ALPINE_VER=$(curl -fsL https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/Dockerfile \
+    | grep 'ARG BUILD_FROM=' \
+    | cut -d: -f2 \
     | sed 's|.*-alpine||' \
     | sed 's|-.*||') && \
   IMAGE_ALPINE_VER=$(cat /etc/os-release | grep PRETTY_NAME | sed 's|.*Linux v||' | sed 's|"||') && \
@@ -139,10 +137,9 @@ RUN \
     echo -e "**** Incorrect OS version detected, canceling build ****\n**** Upstream expected OS: ${HA_ALPINE_VER} ****\n**** Detected OS: ${IMAGE_ALPINE_VER}****"; \
     exit 1; \
   fi && \
-  HA_PIP_VERSION=$(cat /tmp/ha-docker-base/python/${HA_PY_MAJOR}/build.yaml \
-    | grep 'PIP_VERSION: ' \
-    | sed 's|.*PIP_VERSION: ||' \
-    | sed 's|"||g') && \
+  HA_PIP_VERSION=$(cat /tmp/ha-docker-base/python/${HA_PY_MAJOR}/Dockerfile \
+    | grep 'ARG PIP_VERSION=' \
+    | sed 's|.*PIP_VERSION=||') && \
   HA_UV_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/requirements.txt" | grep 'uv==' | sed 's|.*uv==||') && \
   HA_GO2RTC_VERSION=$(curl -fsL "https://raw.githubusercontent.com/home-assistant/core/refs/tags/${HASS_RELEASE}/homeassistant/components/go2rtc/const.py" | grep 'RECOMMENDED_VERSION' | sed 's|.*RECOMMENDED_VERSION = "||' | sed 's|".*||') && \
   curl -o \
