@@ -23,7 +23,7 @@ aio-geojson-geonetnz-quakes         0.16                                        
 aio-geojson-geonetnz-volcano        0.9                                                      python                        
 aio-geojson-nsw-rfs-incidents       0.7                                                      python                        
 aio-geojson-usgs-earthquakes        0.3                                                      python                        
-aio-georss-client                   0.14                                                     python                        
+aio-georss-client                   2026.6.0                                                 python                        
 aio-georss-gdacs                    0.10                                                     python                        
 aio-ownet                           0.0.5                                                    python                        
 aioacaia                            0.1.17                                                   python                        
@@ -437,7 +437,7 @@ coreutils                           9.7-r1                                      
 coreutils-env                       9.7-r1                                                   apk                           
 coreutils-fmt                       9.7-r1                                                   apk                           
 coreutils-sha512sum                 9.7-r1                                                   apk                           
-coverage                            7.14.1                                                   python                        
+coverage                            7.14.3                                                   python                        
 cpufeatures                         0.2.17                                                   rust-crate  (+1 duplicate)    
 crc                                 3.3.0                                                    rust-crate                    
 crc                                 7.1.0                                                    python                        
@@ -487,7 +487,7 @@ decora-wifi                         1.4                                         
 decorator                           5.2.1                                                    python                        
 deebot-client                       18.3.0                                                   python                        
 deepdiff                            9.1.0                                                    python                        
-deepmerge                           2.0                                                      python                        
+deepmerge                           2.1.0                                                    python                        
 defusedxml                          0.7.1                                                    python                        
 deluge-client                       1.10.2                                                   python                        
 demetriek                           1.3.0                                                    python                        
@@ -683,7 +683,7 @@ geocachingapi                       0.3.0                                       
 geographiclib                       2.1                                                      python                        
 geojson                             3.3.0                                                    python                        
 geopy                               2.3.0                                                    python                        
-georss-client                       0.19                                                     python                        
+georss-client                       2026.6.0                                                 python                        
 georss-generic-client               0.8                                                      python                        
 georss-ign-sismologia-client        0.8                                                      python                        
 georss-qld-bushfire-alert-client    0.8                                                      python                        
@@ -802,7 +802,7 @@ homelink-integration-api            0.0.5                                       
 homematicip                         2.12.0                                                   python                        
 homevolt                            0.5.0                                                    python                        
 horimote                            0.4.1                                                    python                        
-hpack                               4.1.0                                                    python                        
+hpack                               4.2.0                                                    python                        
 html-escape                         0.2.13                                                   rust-crate  (+1 duplicate)    
 html-table-parser-python3           0.1.5                                                    python                        
 html5lib                            1.1                                                      python      (+1 duplicate)    
@@ -1009,7 +1009,7 @@ libdrm                              2.4.124-r0                                  
 libeconf                            0.6.3-r0                                                 apk                           
 libecpg                             17.10-r0                                                 apk                           
 libedit                             20250104.3.1-r1                                          apk                           
-libexpat                            2.7.5-r0                                                 apk                           
+libexpat                            2.8.1-r0                                                 apk                           
 libffi                              3.4.8-r0                                                 apk                           
 libflac                             1.4.3-r1                                                 apk                           
 libftdi1                            1.5-r4                                                   apk                           
@@ -1053,7 +1053,7 @@ libsodium                           1.0.20-r1                                   
 libsoundtouch                       0.8.0                                                    python                        
 libsrt                              1.5.3-r1                                                 apk                           
 libssh                              0.11.2-r0                                                apk                           
-libssh2                             1.11.1-r1                                                apk                           
+libssh2                             1.11.1-r2                                                apk                           
 libssl3                             3.5.7-r0                                                 apk                           
 libstdc++                           14.2.0-r6                                                apk                           
 libtheora                           1.1.1-r18                                                apk                           
@@ -1178,7 +1178,7 @@ ms-cv                               0.1.1                                       
 msal                                1.37.0                                                   python                        
 msal-extensions                     1.3.1                                                    python                        
 msgpack                             1.2.1                                                    python                        
-mt-940                              4.30.0                                                   python                        
+mt-940                              5.0.0                                                    python                        
 mullvad-api                         1.0.0                                                    python                        
 multidict                           6.7.1                                                    python                        
 munch                               4.0.0                                                    python                        
@@ -1276,10 +1276,10 @@ open-garage                         0.2.0                                       
 open-meteo                          0.3.2                                                    python                        
 openai                              2.21.0                                                   python                        
 openerz-api                         0.3.0                                                    python                        
-openexr-libiex                      3.3.2-r0                                                 apk                           
-openexr-libilmthread                3.3.2-r0                                                 apk                           
-openexr-libopenexr                  3.3.2-r0                                                 apk                           
-openexr-libopenexrcore              3.3.2-r0                                                 apk                           
+openexr-libiex                      3.3.11-r0                                                apk                           
+openexr-libilmthread                3.3.11-r0                                                apk                           
+openexr-libopenexr                  3.3.11-r0                                                apk                           
+openexr-libopenexrcore              3.3.11-r0                                                apk                           
 openhomedevice                      2.2                                                      python                        
 openrgb-python                      0.3.6                                                    python                        
 opensensemap-api                    0.4.1                                                    python                        
@@ -1388,7 +1388,7 @@ pre-commit-package                  dev-1                                       
 predicates                          3.1.4                                                    rust-crate  (+1 duplicate)    
 predicates-core                     1.0.10                                                   rust-crate  (+1 duplicate)    
 predicates-tree                     1.0.13                                                   rust-crate  (+1 duplicate)    
-prettytable                         3.17.0                                                   python                        
+prettytable                         3.18.0                                                   python                        
 priority-queue                      2.7.0                                                    rust-crate  (+1 duplicate)    
 proc-macro-crate                    3.5.0                                                    rust-crate  (+1 duplicate)    
 proc-macro2                         1.0.106                                                  rust-crate  (+1 duplicate)    
@@ -1714,7 +1714,7 @@ python-dotenv                       1.2.2                                       
 python-dropbox-api                  0.1.3                                                    python                        
 python-duco-connectivity            0.5.0                                                    python                        
 python-ecobee-api                   0.4.0                                                    python                        
-python-engineio                     4.13.2                                                   python                        
+python-engineio                     4.13.3                                                   python                        
 python-engineio-v3                  3.14.2                                                   python                        
 python-etherscan-api                0.0.3                                                    python                        
 python-family-hub-local             0.0.2                                                    python                        
@@ -1757,7 +1757,7 @@ python-sn2                          0.4.0                                       
 python-snoo                         0.8.3                                                    python                        
 python-socketio                     5.16.3                                                   python                        
 python-socketio-v4                  4.6.1                                                    python                        
-python-socks                        2.8.1                                                    python                        
+python-socks                        2.8.2                                                    python                        
 python-songpal                      0.16.2                                                   python                        
 python-tado                         0.18.16                                                  python                        
 python-technove                     2.1.1                                                    python                        
@@ -2039,7 +2039,7 @@ sratom                              0.6.18-r0                                   
 srp                                 1.0.22                                                   python                        
 srpenergy                           1.3.8                                                    python                        
 srptools                            1.0.1                                                    python                        
-sse-starlette                       3.4.4                                                    python                        
+sse-starlette                       3.4.5                                                    python                        
 ssl_client                          1.37.0-r20                                               apk                           
 stable_deref_trait                  1.2.1                                                    rust-crate  (+1 duplicate)    
 standard-aifc                       3.13.0                                                   python                        
