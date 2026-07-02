@@ -109,7 +109,7 @@ init_diagram: |
     svc-homeassistant -> legacy-services
   }
   Base Images: {
-    "baseimage-alpine:3.22"
+    "baseimage-alpine:3.24"
   }
   "homeassistant:latest" <- Base Images
 # changelog
