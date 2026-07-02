@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-alpine:3.22
+FROM ghcr.io/linuxserver/baseimage-alpine:3.24
 
 # set version label
 ARG BUILD_DATE
@@ -106,18 +106,11 @@ RUN \
     | cut -d: -f2 \
     | sed 's|-alpine.*||') && \
   echo "HA_PY_MAJOR retrieved as ${HA_PY_MAJOR}" && \
-  HASS_BASE_RELEASE=$(curl -fSsL https://api.github.com/repos/home-assistant/docker/releases) && \
-  HASS_BASE_TIME=$(date -d $(echo $HASS_BASE_RELEASE | \
-    jq -r ".[] | select(.tag_name | match(\"${HASS_BASE}\")) .published_at") +%s) && \
-  for i in 0 1 2 3 4 5 6; do \
-    HA_DOCKER_BASE_TIME=$(date -d $(curl -s "https://api.github.com/repos/home-assistant/docker-base/releases" | \
-      jq -r ".[${i}].published_at") +%s); \
-    if [ "${HASS_BASE_TIME}" -ge "${HA_DOCKER_BASE_TIME}" ]; then \
-      HA_DOCKER_BASE=$(curl -s "https://api.github.com/repos/home-assistant/docker-base/releases" | jq -r ".[${i}].tag_name"); \
-      echo "**** HA_DOCKER_BASE detected as version ${HA_DOCKER_BASE} ****"; \
-      break; \
-    fi; \
-  done && \
+  HA_DOCKER_BASE=$(curl -fsL https://raw.githubusercontent.com/home-assistant/docker/${HASS_BASE}/Dockerfile \
+    | grep 'ARG BUILD_FROM=' \
+    | cut -d: -f2 \
+    | cut -d- -f3) && \
+  echo "HA_DOCKER_BASE detected as version ${HA_DOCKER_BASE}" && \
   git clone --branch "${HA_DOCKER_BASE}" \
     --depth 1 https://github.com/home-assistant/docker-base.git \
     /tmp/ha-docker-base && \
