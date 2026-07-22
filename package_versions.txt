@@ -712,7 +712,7 @@ goodwe                              0.4.10                                      
 google-air-quality-api              3.0.1                                                    python                        
 google-api-core                     2.32.0                                                   python                        
 google-api-python-client            2.71.0                                                   python                        
-google-auth                         2.56.1                                                   python                        
+google-auth                         2.56.2                                                   python                        
 google-auth-httplib2                0.4.0                                                    python                        
 google-auth-oauthlib                1.4.0                                                    python                        
 google-cloud-core                   2.6.0                                                    python                        
@@ -1392,7 +1392,7 @@ prana-api-client                    0.12.0                                      
 praw                                7.5.0                                                    python                        
 prawcore                            2.4.0                                                    python                        
 prayer-times-calculator-offline     1.0.3                                                    python                        
-pre-commit                          4.6.0                                                    python                        
+pre-commit                          4.6.1                                                    python                        
 pre-commit-package                  dev-1                                                    lua-rocks                     
 predicates                          3.1.4                                                    rust-crate  (+1 duplicate)    
 predicates-core                     1.0.10                                                   rust-crate  (+1 duplicate)    
