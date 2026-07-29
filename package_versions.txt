@@ -172,7 +172,7 @@ android-backup                      0.2.0                                       
 androidtv                           0.0.75                                                   python                        
 androidtvremote2                    0.3.1                                                    python                        
 anel-pwrctrl-homeassistant          0.0.1.dev2                                               python                        
-annotated-doc                       0.0.4                                                    python                        
+annotated-doc                       0.0.5                                                    python                        
 annotated-types                     0.8.0                                                    python                        
 annotatedyaml                       1.0.2                                                    python                        
 anova-wifi                          0.17.1                                                   python                        
@@ -270,8 +270,8 @@ awesomeversion                      25.8.0                                      
 aws-lc-rs                           1.16.2                                                   rust-crate  (+1 duplicate)    
 aws-lc-sys                          0.39.0                                                   rust-crate  (+1 duplicate)    
 aws-request-signer                  1.2.0                                                    python                        
-awscrt                              0.34.1                                                   python                        
-awsiotsdk                           1.30.0                                                   python                        
+awscrt                              0.36.1                                                   python                        
+awsiotsdk                           1.31.0                                                   python                        
 axis                                74                                                       python                        
 axoasset                            2.0.1                                                    rust-crate  (+1 duplicate)    
 axoprocess                          0.2.1                                                    rust-crate  (+1 duplicate)    
@@ -300,9 +300,9 @@ bcrypt                              5.0.0                                       
 beautifulsoup4                      4.13.3                                                   python                        
 bellows                             0.49.2                                                   python                        
 bidict                              0.23.1                                                   python                        
-bind-libs                           9.20.24-r0                                               apk                           
-bind-tools                          9.20.24-r0                                               apk                           
-bitarray                            3.9.1                                                    python                        
+bind-libs                           9.20.26-r0                                               apk                           
+bind-tools                          9.20.26-r0                                               apk                           
+bitarray                            3.9.2                                                    python                        
 bitflags                            2.13.0                                                   rust-crate  (+1 duplicate)    
 bitflags                            2.9.1                                                    rust-crate                    
 bitstream-io                        2.6.0                                                    rust-crate                    
@@ -466,7 +466,7 @@ crownstone-sse                      2.0.5                                       
 crownstone-uart                     2.1.0                                                    python                        
 crypto-common                       0.1.7                                                    rust-crate  (+1 duplicate)    
 cryptography                        48.0.1                                                   python                        
-cssselect                           1.4.0                                                    python                        
+cssselect                           1.5.0                                                    python                        
 csv                                 1.4.0                                                    rust-crate  (+1 duplicate)    
 csv-core                            0.1.13                                                   rust-crate  (+1 duplicate)    
 ctrlc                               3.5.2                                                    rust-crate  (+1 duplicate)    
@@ -1064,7 +1064,7 @@ libsndfile                          1.2.2-r2                                    
 libsodium                           1.0.22-r0                                                apk                           
 libsoundtouch                       0.8.0                                                    python                        
 libsrt                              1.5.3-r1                                                 apk                           
-libssh                              0.12.0-r0                                                apk                           
+libssh                              0.12.1-r0                                                apk                           
 libssh2                             1.11.1-r3                                                apk                           
 libssl3                             3.5.7-r0                                                 apk                           
 libstdc++                           15.2.0-r5                                                apk                           
@@ -1409,7 +1409,7 @@ profiling                           1.0.16                                      
 progettihwsw                        0.1.3                                                    python                        
 proliphix                           0.4.1                                                    python                        
 prometheus-client                   0.21.0                                                   python                        
-prompt-toolkit                      3.0.52                                                   python                        
+prompt-toolkit                      3.0.53                                                   python                        
 propcache                           0.5.2                                                    python                        
 proto-plus                          1.28.2                                                   python                        
 protobuf                            6.32.0                                                   python                        
@@ -1647,7 +1647,7 @@ pyprusalink                         3.0.0                                       
 pyps4-2ndscreen                     1.3.1                                                    python                        
 pypubsub                            4.0.7                                                    python                        
 pyqrcode                            1.2.1                                                    python                        
-pyquery                             2.0.1                                                    python                        
+pyquery                             2.1.0                                                    python                        
 pyqvrpro                            0.52                                                     python                        
 pyqwikswitch                        0.93                                                     python                        
 pyrail                              0.4.1                                                    python                        
@@ -1787,7 +1787,7 @@ pytrafikverket                      1.1.1                                       
 pytransportnsw                      0.1.1                                                    python                        
 pytrydan                            1.0.2                                                    python                        
 pyturbojpeg                         1.8.3                                                    python                        
-pytz                                2026.2                                                   python                        
+pytz                                2026.3.post1                                             python                        
 pyuptimerobot                       25.0.0                                                   python                        
 pyusb                               1.3.1                                                    python                        
 pyvera                              0.3.16                                                   python                        
@@ -1849,7 +1849,7 @@ rayon                               1.10.0                                      
 rayon                               1.12.0                                                   rust-crate  (+1 duplicate)    
 rayon-core                          1.12.1                                                   rust-crate                    
 rayon-core                          1.13.0                                                   rust-crate  (+1 duplicate)    
-reactivex                           5.0.0                                                    python                        
+reactivex                           5.1.0                                                    python                        
 readline                            8.3.3-r1                                                 apk                           
 recurring-ical-events               3.8.2                                                    python                        
 redgtech-api                        0.1.38                                                   python                        
@@ -2164,7 +2164,7 @@ tower-http                          0.6.8                                       
 tower-layer                         0.3.3                                                    rust-crate  (+1 duplicate)    
 tower-service                       0.3.3                                                    rust-crate  (+1 duplicate)    
 tplink-omada-client                 1.5.8                                                    python                        
-tqdm                                4.69.0                                                   python                        
+tqdm                                4.70.0                                                   python                        
 tracing                             0.1.44                                                   rust-crate  (+1 duplicate)    
 tracing-attributes                  0.1.31                                                   rust-crate  (+1 duplicate)    
 tracing-core                        0.1.36                                                   rust-crate  (+1 duplicate)    
@@ -2188,12 +2188,12 @@ twilio                              6.32.0                                      
 twitchapi                           4.2.1                                                    python                        
 twitterapi                          2.7.12                                                   python                        
 typedmonarchmoney                   0.7.0                                                    python                        
-typeguard                           4.5.2                                                    python                        
+typeguard                           4.6.0                                                    python                        
 typeid                              1.0.3                                                    rust-crate  (+1 duplicate)    
 typenum                             1.19.0                                                   rust-crate  (+1 duplicate)    
 typer                               0.12.5                                                   python                        
 typer-slim                          0.21.2                                                   python                        
-types-pytz                          2026.2.0.20260518                                        python                        
+types-pytz                          2026.3.1.20260727                                        python                        
 typing-extensions                   4.16.0                                                   python                        
 typing-inspect                      0.9.0                                                    python                        
 typing-inspection                   0.4.2                                                    python                        
