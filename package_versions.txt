@@ -191,7 +191,7 @@ anyhow                              1.0.98                                      
 anyio                               4.13.0                                                   python                        
 aom-libs                            3.14.1-r0                                                apk                           
 apischema                           0.19.0                                                   python                        
-apk-tools                           3.0.6-r0                                                 apk                           
+apk-tools                           3.0.7-r0                                                 apk                           
 appdirs                             1.4.4                                                    python                        
 apple-weatherkit                    1.1.3                                                    python                        
 apprise                             1.11.0                                                   python                        
@@ -203,7 +203,7 @@ aranet4                             2.6.0                                       
 arcam-fmj                           1.8.3                                                    python                        
 arcstr                              1.2.0                                                    rust-crate  (+1 duplicate)    
 arg_enum_proc_macro                 0.3.4                                                    rust-crate                    
-argcomplete                         3.7.0                                                    python                        
+argcomplete                         3.7.1                                                    python                        
 arrayvec                            0.7.6                                                    rust-crate                    
 arris-tg2492lg                      2.2.0                                                    python                        
 arrow                               1.4.0                                                    python                        
@@ -302,7 +302,7 @@ bellows                             0.49.2                                      
 bidict                              0.23.1                                                   python                        
 bind-libs                           9.20.26-r0                                               apk                           
 bind-tools                          9.20.26-r0                                               apk                           
-bitarray                            3.9.2                                                    python                        
+bitarray                            3.10.0                                                   python                        
 bitflags                            2.13.0                                                   rust-crate  (+1 duplicate)    
 bitflags                            2.9.1                                                    rust-crate                    
 bitstream-io                        2.6.0                                                    rust-crate                    
@@ -367,7 +367,7 @@ ca-certificates                     20260611-r0                                 
 ca-certificates-bundle              20260611-r0                                              apk                           
 cachebox                            5.2.3                                                    python                        
 cached-ipaddress                    1.1.2                                                    python                        
-cachetools                          7.1.6                                                    python                        
+cachetools                          7.1.7                                                    python                        
 caio                                0.9.25                                                   python                        
 caldav                              2.1.0                                                    python                        
 camino                              1.2.2                                                    rust-crate  (+1 duplicate)    
@@ -444,7 +444,7 @@ coreutils                           9.11-r0                                     
 coreutils-env                       9.11-r0                                                  apk                           
 coreutils-fmt                       9.11-r0                                                  apk                           
 coreutils-sha512sum                 9.11-r0                                                  apk                           
-coverage                            7.15.2                                                   python                        
+coverage                            7.15.3                                                   python                        
 cpufeatures                         0.2.17                                                   rust-crate  (+1 duplicate)    
 crc                                 3.3.0                                                    rust-crate                    
 crc                                 7.1.0                                                    python                        
@@ -480,7 +480,7 @@ dataclass-wizard                    0.39.1                                      
 dataclasses-json                    0.6.7                                                    python                        
 datadog                             0.52.1                                                   python                        
 datapoint                           0.12.1                                                   python                        
-dateparser                          1.4.1                                                    python                        
+dateparser                          1.4.2                                                    python                        
 dbus                                1.16.2-r2                                                apk                           
 dbus-daemon-launch-helper           1.16.2-r2                                                apk                           
 dbus-fast                           5.0.22                                                   python                        
@@ -616,7 +616,7 @@ ffmpeg-libswresample                8.1.2-r0                                    
 ffmpeg-libswscale                   8.1.2-r0                                                 apk                           
 fido2                               2.2.1                                                    python                        
 file-read-backwards                 2.0.0                                                    python                        
-filelock                            3.32.0                                                   python                        
+filelock                            3.32.2                                                   python                        
 filetime                            0.2.29                                                   rust-crate  (+1 duplicate)    
 findutils                           4.10.0-r1                                                apk                           
 fing-agent-api                      1.1.0                                                    python                        
@@ -983,7 +983,7 @@ letpot                              0.7.0                                       
 lg-rs232-tv                         1.2.0                                                    python                        
 libSvtAv1Enc                        4.1.0-r0                                                 apk                           
 libao                               1.2.2-r3                                                 apk                           
-libapk                              3.0.6-r0                                                 apk                           
+libapk                              3.0.7-r0                                                 apk                           
 libass                              0.17.4-r1                                                apk                           
 libasyncns                          0.8-r5                                                   apk                           
 libattr                             2.5.2-r2                                                 apk                           
@@ -1129,7 +1129,7 @@ lzma-sys                            0.1.20                                      
 mac-vendor-lookup                   0.1.15                                                   python                        
 mailparse                           0.16.1                                                   rust-crate  (+1 duplicate)    
 mariadb-connector-c                 3.4.6-r0                                                 apk                           
-markdown                            3.10.2                                                   python                        
+markdown                            3.10.3                                                   python                        
 markupsafe                          3.0.3                                                    python                        
 marshmallow                         3.26.2                                                   python                        
 marshmallow-dataclass               8.7.1                                                    python                        
@@ -1718,12 +1718,12 @@ python-dateutil                     2.9.0.post0                                 
 python-decouple                     3.8                                                      python                        
 python-didl-lite                    1.5.0                                                    python                        
 python-digitalocean                 1.13.2                                                   python                        
-python-discovery                    1.5.0                                                    python                        
+python-discovery                    1.5.1                                                    python                        
 python-dotenv                       1.2.2                                                    python                        
 python-dropbox-api                  0.1.4                                                    python                        
 python-duco-connectivity            0.7.1                                                    python                        
 python-ecobee-api                   0.4.1                                                    python                        
-python-engineio                     4.13.3                                                   python                        
+python-engineio                     4.13.4                                                   python                        
 python-engineio-v3                  3.14.2                                                   python                        
 python-etherscan-api                0.0.3                                                    python                        
 python-family-hub-local             0.0.2                                                    python                        
@@ -2136,7 +2136,7 @@ time                                0.3.47                                      
 time-core                           0.1.8                                                    rust-crate  (+1 duplicate)    
 tinyhtml                            1.3.0                                                    python                        
 tinystr                             0.8.2                                                    rust-crate  (+1 duplicate)    
-tinytag                             2.2.1                                                    python                        
+tinytag                             2.3.0                                                    python                        
 tinyvec                             1.11.0                                                   rust-crate  (+1 duplicate)    
 tinyvec                             1.9.0                                                    rust-crate                    
 tinyvec_macros                      0.1.1                                                    rust-crate  (+1 duplicate)    
@@ -2309,7 +2309,7 @@ uv-virtualenv                       0.0.58                                      
 uv-warnings                         0.0.58                                                   rust-crate  (+1 duplicate)    
 uv-workspace                        0.0.58                                                   rust-crate  (+1 duplicate)    
 uvcclient                           0.12.1                                                   python                        
-uvicorn                             0.51.0                                                   python                        
+uvicorn                             0.52.1                                                   python                        
 v4l-utils-libs                      1.32.0-r1                                                apk                           
 v_frame                             0.3.9                                                    rust-crate                    
 vacuum-map-parser-base              0.1.5                                                    python                        
@@ -2328,7 +2328,7 @@ victron-vrm                         0.1.12                                      
 vidstab                             1.1.1-r0                                                 apk                           
 vilfo-api-client                    0.5.0                                                    python                        
 vincenty                            0.1.4                                                    python                        
-virtualenv                          21.7.0                                                   python                        
+virtualenv                          21.7.1                                                   python                        
 visionpluspython                    1.1.0                                                    python                        
 vobject                             0.9.9                                                    python                        
 voip-utils                          0.4.0                                                    python                        
