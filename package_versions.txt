@@ -361,7 +361,7 @@ btsocket                            0.3.0                                       
 buienradar                          1.0.9                                                    python                        
 busybox                             1.37.0-r31                                               apk                           
 busybox-binsh                       1.37.0-r31                                               apk                           
-bx-py-utils                         120                                                      python                        
+bx-py-utils                         121                                                      python                        
 bytecheck                           0.8.2                                                    rust-crate  (+1 duplicate)    
 bytemuck                            1.25.0                                                   rust-crate  (+1 duplicate)    
 byteorder-lite                      0.1.0                                                    rust-crate  (+1 duplicate)    
@@ -565,7 +565,7 @@ either                              1.15.0                                      
 either                              1.16.0                                                   rust-crate  (+1 duplicate)    
 ekey-bionyxpy                       1.0.1                                                    python                        
 electrickiwi-api                    0.9.14                                                   python                        
-elementpath                         5.1.3                                                    python                        
+elementpath                         5.1.4                                                    python                        
 elevenlabs                          2.51.0                                                   python                        
 elgato                              5.1.2                                                    python                        
 elkm1-lib                           2.2.15                                                   python                        
@@ -758,7 +758,7 @@ graphviz                            0.21                                        
 greeclimate                         2.1.4                                                    python                        
 greencell-client                    1.0.3                                                    python                        
 greeneye-monitor                    3.0.3                                                    python                        
-greenlet                            3.5.4                                                    python                        
+greenlet                            3.5.5                                                    python                        
 greenplanet-energy-api              0.1.10                                                   python                        
 gridnet                             5.0.1                                                    python                        
 growattserver                       2.1.0                                                    python                        
@@ -1084,7 +1084,7 @@ libsndfile                          1.2.2-r2                                    
 libsodium                           1.0.22-r0                                                apk                           
 libsoundtouch                       0.8.0                                                    python                        
 libsrt                              1.5.3-r1                                                 apk                           
-libssh                              0.12.1-r0                                                apk                           
+libssh                              0.12.2-r0                                                apk                           
 libssh2                             1.11.1-r3                                                apk                           
 libssl3                             3.5.7-r0                                                 apk                           
 libstdc++                           15.2.0-r5                                                apk                           
@@ -1197,7 +1197,7 @@ miniz_oxide                         0.8.9                                       
 mio                                 1.2.0                                                    rust-crate  (+1 duplicate)    
 mitsubishi-comfort                  0.5.1                                                    python                        
 moat-ble                            0.1.1                                                    python                        
-modbus-connection                   4.1.0                                                    python                        
+modbus-connection                   4.5.0                                                    python                        
 moehlenhoff-alpha2                  1.4.0                                                    python                        
 momonga                             0.3.0                                                    python                        
 monarchmoneycommunity               1.5.1                                                    python                        
@@ -1397,7 +1397,7 @@ pkcs1                               0.7.5                                       
 pkcs5                               0.7.1                                                    rust-crate  (+1 duplicate)    
 pkcs8                               0.10.2                                                   rust-crate  (+1 duplicate)    
 plain                               0.2.3                                                    rust-crate  (+1 duplicate)    
-platformdirs                        4.11.0                                                   python                        
+platformdirs                        4.11.2                                                   python                        
 platformdirs                        4.4.0                                                    python                        
 plexapi                             4.15.16                                                  python                        
 plexauth                            0.0.6                                                    python                        
@@ -1415,7 +1415,7 @@ prana-api-client                    0.12.0                                      
 praw                                7.5.0                                                    python                        
 prawcore                            2.4.0                                                    python                        
 prayer-times-calculator-offline     1.0.3                                                    python                        
-pre-commit                          4.6.1                                                    python                        
+pre-commit                          4.6.2                                                    python                        
 pre-commit-package                  dev-1                                                    lua-rocks                     
 predicates                          3.1.4                                                    rust-crate  (+1 duplicate)    
 predicates-core                     1.0.10                                                   rust-crate  (+1 duplicate)    
@@ -1711,7 +1711,7 @@ pysmappee                           0.2.29                                      
 pysmarlaapi                         1.0.2                                                    python                        
 pysmartthings                       4.0.1                                                    python                        
 pysmarty2                           0.10.3                                                   python                        
-pysmb                               1.2.14                                                   python                        
+pysmb                               1.2.15                                                   python                        
 pysmhi                              2.0.0                                                    python                        
 pysml                               0.1.8                                                    python                        
 pysmlight                           0.5.3                                                    python                        
@@ -1971,7 +1971,7 @@ secretstorage                       3.5.0                                       
 securetar                           2026.4.1                                                 python                        
 segno                               1.6.6                                                    python                        
 seize                               0.5.1                                                    rust-crate  (+1 duplicate)    
-selenium                            4.46.0                                                   python                        
+selenium                            4.47.0                                                   python                        
 selenium-manager                    UNKNOWN                                                  binary                        
 semver                              1.0.27                                                   rust-crate  (+1 duplicate)    
 semver                              3.0.4                                                    python                        
@@ -2084,7 +2084,7 @@ standard-aifc                       3.13.0                                      
 standard-chunk                      3.13.0                                                   python                        
 standard-telnetlib                  3.13.0                                                   python                        
 starkbank-ecdsa                     2.3.1                                                    python                        
-starlette                           1.4.1                                                    python                        
+starlette                           1.6.0                                                    python                        
 starline                            0.1.5                                                    python                        
 starlingbank                        3.2                                                      python                        
 starlink-grpc-core                  1.2.5                                                    python                        
@@ -2201,7 +2201,7 @@ transitions                         0.8.11                                      
 transmission-rpc                    7.0.3                                                    python                        
 travispy                            0.3.5                                                    python                        
 triggercmd                          0.0.36                                                   python                        
-trio                                0.33.0                                                   python                        
+trio                                0.34.0                                                   python                        
 trio-websocket                      0.12.2                                                   python                        
 trmnl                               0.1.1                                                    python                        
 try-lock                            0.2.5                                                    rust-crate  (+1 duplicate)    
@@ -2221,7 +2221,7 @@ typer-slim                          0.21.2                                      
 types-pytz                          2026.3.1.20260727                                        python                        
 typing-extensions                   4.16.0                                                   python                        
 typing-inspect                      0.9.0                                                    python                        
-typing-inspection                   0.4.2                                                    python                        
+typing-inspection                   0.4.3                                                    python                        
 tzdata                              2026.3                                                   python                        
 tzdata                              2026c-r0                                                 apk                           
 tzlocal                             5.3.1                                                    python                        
@@ -2351,7 +2351,7 @@ victron-vrm                         0.1.12                                      
 vidstab                             1.1.1-r0                                                 apk                           
 vilfo-api-client                    0.5.0                                                    python                        
 vincenty                            0.1.4                                                    python                        
-virtualenv                          21.7.1                                                   python                        
+virtualenv                          21.7.4                                                   python                        
 visionpluspython                    1.1.0                                                    python                        
 vizaio                              0.3.2                                                    python                        
 vobject                             0.9.9                                                    python                        
