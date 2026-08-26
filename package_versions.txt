@@ -302,7 +302,7 @@ batinfo                             0.4.2                                       
 bcrypt                              5.0.0                                                    python                        
 beautifulsoup4                      4.13.3                                                   python                        
 bellows                             1.0.0                                                    python                        
-bidict                              0.23.1                                                   python                        
+bidict                              0.24.1                                                   python                        
 bind-libs                           9.20.26-r0                                               apk                           
 bind-tools                          9.20.26-r0                                               apk                           
 bitarray                            3.10.1                                                   python                        
@@ -631,7 +631,7 @@ ffmpeg-libswresample                8.1.2-r0                                    
 ffmpeg-libswscale                   8.1.2-r0                                                 apk                           
 fido2                               2.2.1                                                    python                        
 file-read-backwards                 2.0.0                                                    python                        
-filelock                            3.32.3                                                   python                        
+filelock                            3.32.4                                                   python                        
 filetime                            0.2.29                                                   rust-crate  (+1 duplicate)    
 findutils                           4.10.0-r1                                                apk                           
 fing-agent-api                      1.1.0                                                    python                        
@@ -729,10 +729,10 @@ goodwe                              0.4.10                                      
 google-air-quality-api              3.0.1                                                    python                        
 google-api-core                     2.33.0                                                   python                        
 google-api-python-client            2.71.0                                                   python                        
-google-auth                         2.56.3                                                   python                        
-google-auth-httplib2                0.4.1                                                    python                        
-google-auth-oauthlib                1.4.0                                                    python                        
-google-cloud-core                   2.6.1                                                    python                        
+google-auth                         2.57.0                                                   python                        
+google-auth-httplib2                0.4.2                                                    python                        
+google-auth-oauthlib                1.4.1                                                    python                        
+google-cloud-core                   2.7.0                                                    python                        
 google-cloud-firestore              2.27.0                                                   python                        
 google-cloud-pubsub                 2.29.0                                                   python                        
 google-cloud-speech                 2.31.1                                                   python                        
@@ -1019,7 +1019,7 @@ libcap-setcap                       2.78-r0                                     
 libcap-utils                        2.78-r0                                                  apk                           
 libcap2                             2.78-r0                                                  apk                           
 libcom_err                          1.47.4-r0                                                apk                           
-libcrypto3                          3.5.7-r0                                                 apk                           
+libcrypto3                          3.5.8-r0                                                 apk                           
 libcurl                             8.21.0-r0                                                apk                           
 libdav1d                            1.5.3-r0                                                 apk                           
 libde265                            1.0.18-r0                                                apk                           
@@ -1086,7 +1086,7 @@ libsoundtouch                       0.8.0                                       
 libsrt                              1.5.3-r1                                                 apk                           
 libssh                              0.12.2-r0                                                apk                           
 libssh2                             1.11.1-r3                                                apk                           
-libssl3                             3.5.7-r0                                                 apk                           
+libssl3                             3.5.8-r0                                                 apk                           
 libstdc++                           15.2.0-r5                                                apk                           
 libtheora                           1.2.0-r1                                                 apk                           
 libturbojpeg                        3.1.3-r0                                                 apk                           
@@ -1197,7 +1197,7 @@ miniz_oxide                         0.8.9                                       
 mio                                 1.2.0                                                    rust-crate  (+1 duplicate)    
 mitsubishi-comfort                  0.5.1                                                    python                        
 moat-ble                            0.1.1                                                    python                        
-modbus-connection                   4.8.1                                                    python                        
+modbus-connection                   4.10.0                                                   python                        
 moehlenhoff-alpha2                  1.4.0                                                    python                        
 momonga                             0.3.0                                                    python                        
 monarchmoneycommunity               1.5.1                                                    python                        
@@ -1213,7 +1213,7 @@ mozart-api                          6.2.0.44.0                                  
 mpdecimal                           4.0.1-r0                                                 apk                           
 mpg123-libs                         1.33.5-r0                                                apk                           
 ms-cv                               0.1.1                                                    python                        
-msal                                1.37.0                                                   python                        
+msal                                1.38.0                                                   python                        
 msal-extensions                     1.3.1                                                    python                        
 msgpack                             1.2.1                                                    python                        
 mt-940                              5.0.0                                                    python                        
@@ -1317,7 +1317,7 @@ opensensemap-api                    0.4.1                                       
 openssh-client-common               10.3_p1-r0                                               apk                           
 openssh-client-default              10.3_p1-r0                                               apk                           
 openssh-keygen                      10.3_p1-r0                                               apk                           
-openssl                             3.5.7-r0                                                 apk                           
+openssl                             3.5.8-r0                                                 apk                           
 openssl-probe                       0.2.1                                                    rust-crate  (+1 duplicate)    
 opentelemetry-api                   1.44.0                                                   python                        
 opentelemetry-sdk                   1.44.0                                                   python                        
@@ -1367,7 +1367,7 @@ path-slash                          0.2.1                                       
 pathdiff                            0.2.3                                                    rust-crate  (+1 duplicate)    
 pathvalidate                        3.3.1                                                    python                        
 pbkdf2                              0.12.2                                                   rust-crate  (+1 duplicate)    
-pbr                                 7.1.0                                                    python                        
+pbr                                 7.1.2                                                    python                        
 pcre2                               10.47-r1                                                 apk                           
 pdunehd                             1.3.3                                                    python                        
 peblar                              0.5.1                                                    python                        
@@ -1397,7 +1397,7 @@ pkcs1                               0.7.5                                       
 pkcs5                               0.7.1                                                    rust-crate  (+1 duplicate)    
 pkcs8                               0.10.2                                                   rust-crate  (+1 duplicate)    
 plain                               0.2.3                                                    rust-crate  (+1 duplicate)    
-platformdirs                        4.11.3                                                   python                        
+platformdirs                        4.11.4                                                   python                        
 platformdirs                        4.4.0                                                    python                        
 plexapi                             4.15.16                                                  python                        
 plexauth                            0.0.6                                                    python                        
@@ -1745,7 +1745,7 @@ python-dateutil                     2.9.0.post0                                 
 python-decouple                     3.8                                                      python                        
 python-didl-lite                    1.5.1                                                    python                        
 python-digitalocean                 1.13.2                                                   python                        
-python-discovery                    1.5.2                                                    python                        
+python-discovery                    1.5.3                                                    python                        
 python-dotenv                       1.2.3                                                    python                        
 python-dropbox-api                  0.1.4                                                    python                        
 python-duco-connectivity            0.11.0                                                   python                        
@@ -1959,7 +1959,7 @@ scanelf                             1.3.9-r1                                    
 scapy                               2.7.0                                                    python                        
 schedule                            1.2.2                                                    python                        
 schemars                            1.2.1                                                    rust-crate  (+1 duplicate)    
-scipy                               1.18.0                                                   python                        
+scipy                               1.18.1                                                   python                        
 scopeguard                          1.2.0                                                    rust-crate  (+1 duplicate)    
 screenlogicpy                       0.10.2                                                   python                        
 scroll                              0.13.0                                                   rust-crate  (+1 duplicate)    
@@ -2351,7 +2351,7 @@ victron-vrm                         0.1.12                                      
 vidstab                             1.1.1-r0                                                 apk                           
 vilfo-api-client                    0.5.0                                                    python                        
 vincenty                            0.1.4                                                    python                        
-virtualenv                          21.7.4                                                   python                        
+virtualenv                          21.7.5                                                   python                        
 visionpluspython                    1.1.0                                                    python                        
 vizaio                              0.3.2                                                    python                        
 vobject                             0.9.9                                                    python                        
