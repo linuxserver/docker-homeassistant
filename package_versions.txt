@@ -91,7 +91,7 @@ aiolichess                          1.3.0                                       
 aiolifx                             1.2.2                                                    python                        
 aiolifx-effects                     0.3.2                                                    python                        
 aiolifx-themes                      1.0.4                                                    python                        
-aiolimiter                          1.2.1                                                    python                        
+aiolimiter                          1.3.0                                                    python                        
 aiolookin                           1.0.0                                                    python                        
 aiolyric                            2.1.2                                                    python                        
 aiomealie                           2.0.0                                                    python                        
@@ -198,7 +198,7 @@ anyhow                              1.0.98                                      
 anyio                               4.13.0                                                   python                        
 aom-libs                            3.14.1-r0                                                apk                           
 apischema                           0.19.0                                                   python                        
-apk-tools                           3.0.7-r0                                                 apk                           
+apk-tools                           3.0.8-r0                                                 apk                           
 appdirs                             1.4.4                                                    python                        
 apple-weatherkit                    1.1.3                                                    python                        
 apprise                             1.11.0                                                   python                        
@@ -391,7 +391,7 @@ cap-std                             4.0.2                                       
 cargo-util                          0.2.30                                                   rust-crate  (+1 duplicate)    
 casttube                            0.2.1                                                    python                        
 catatonit                           0.2.1-r0                                                 apk                           
-cattrs                              26.1.0                                                   python                        
+cattrs                              26.2.0                                                   python                        
 cbc                                 0.1.2                                                    rust-crate  (+1 duplicate)    
 cbor2                               5.9.0                                                    python                        
 certifi                             2026.7.22                                                python                        
@@ -491,7 +491,7 @@ csv                                 1.4.0                                       
 csv-core                            0.1.13                                                   rust-crate  (+1 duplicate)    
 ctrlc                               3.5.2                                                    rust-crate  (+1 duplicate)    
 ctutils                             0.4.2                                                    rust-crate  (+1 duplicate)    
-curl                                8.21.0-r0                                                apk                           
+curl                                8.22.0-r0                                                apk                           
 cyclonedx-bom                       0.8.1                                                    rust-crate  (+1 duplicate)    
 cyclonedx-bom-macros                0.1.0                                                    rust-crate  (+1 duplicate)    
 dacite                              1.9.2                                                    python                        
@@ -641,7 +641,7 @@ ffmpeg-libswresample                8.1.2-r0                                    
 ffmpeg-libswscale                   8.1.2-r0                                                 apk                           
 fido2                               2.2.1                                                    python                        
 file-read-backwards                 2.0.0                                                    python                        
-filelock                            3.32.5                                                   python                        
+filelock                            3.32.6                                                   python                        
 filetime                            0.2.29                                                   rust-crate  (+1 duplicate)    
 findutils                           4.10.0-r1                                                apk                           
 fing-agent-api                      1.1.0                                                    python                        
@@ -979,7 +979,7 @@ jmespath                            1.1.0                                       
 jobserver                           0.1.35                                                   rust-crate  (+1 duplicate)    
 josepy                              2.2.0                                                    python                        
 joserfc                             1.7.5                                                    python                        
-jq                                  1.8.1-r0                                                 apk                           
+jq                                  1.8.2-r0                                                 apk                           
 json-c                              0.18-r1                                                  apk                           
 jsonpath-python                     1.1.6                                                    python                        
 jsonpickle                          4.1.2                                                    python                        
@@ -1022,7 +1022,7 @@ letpot                              0.7.0                                       
 lg-rs232-tv                         1.2.0                                                    python                        
 libSvtAv1Enc                        4.1.0-r0                                                 apk                           
 libao                               1.2.2-r3                                                 apk                           
-libapk                              3.0.7-r0                                                 apk                           
+libapk                              3.0.8-r0                                                 apk                           
 libass                              0.17.4-r1                                                apk                           
 libasyncns                          0.8-r5                                                   apk                           
 libattr                             2.5.2-r2                                                 apk                           
@@ -1039,7 +1039,7 @@ libcap-utils                        2.78-r0                                     
 libcap2                             2.78-r0                                                  apk                           
 libcom_err                          1.47.4-r0                                                apk                           
 libcrypto3                          3.5.8-r0                                                 apk                           
-libcurl                             8.21.0-r0                                                apk                           
+libcurl                             8.22.0-r0                                                apk                           
 libdav1d                            1.5.3-r0                                                 apk                           
 libde265                            1.0.18-r0                                                apk                           
 libdovi                             3.3.2-r0                                                 apk                           
@@ -1081,11 +1081,11 @@ libmd                               1.2.0-r0                                    
 libmount                            2.42.3-r1                                                apk                           
 libncursesw                         6.6_p20260516-r0                                         apk                           
 libogg                              1.3.6-r0                                                 apk                           
-libopenmpt                          0.8.7-r0                                                 apk                           
+libopenmpt                          0.8.9-r0                                                 apk                           
 libopus-0.x64                       UNKNOWN                                                  binary                        
 libopus-0.x86                       UNKNOWN                                                  binary                        
 libpanelw                           6.6_p20260516-r0                                         apk                           
-libpcap                             1.10.6-r1                                                apk                           
+libpcap                             1.10.7-r0                                                apk                           
 libpciaccess                        0.19-r0                                                  apk                           
 libplacebo                          7.360.1-r0                                               apk                           
 libpng                              1.6.58-r1                                                apk                           
@@ -1234,7 +1234,7 @@ ms-cv                               0.1.1                                       
 msal                                1.38.0                                                   python                        
 msal-extensions                     1.3.1                                                    python                        
 msgpack                             1.2.2                                                    python                        
-mt-940                              5.1.0                                                    python                        
+mt-940                              5.1.1                                                    python                        
 mullvad-api                         1.0.0                                                    python                        
 multidict                           6.7.1                                                    python                        
 munch                               4.0.0                                                    python                        
@@ -1417,7 +1417,7 @@ pkcs1                               0.7.5                                       
 pkcs5                               0.7.1                                                    rust-crate  (+1 duplicate)    
 pkcs8                               0.10.2                                                   rust-crate  (+1 duplicate)    
 plain                               0.2.3                                                    rust-crate  (+1 duplicate)    
-platformdirs                        4.11.7                                                   python                        
+platformdirs                        4.11.8                                                   python                        
 platformdirs                        4.4.0                                                    python                        
 plexapi                             4.15.16                                                  python                        
 plexauth                            0.0.6                                                    python                        
@@ -1817,7 +1817,7 @@ python-sn2                          0.4.0                                       
 python-snoo                         0.8.3                                                    python                        
 python-socketio                     5.16.4                                                   python                        
 python-socketio-v4                  4.6.1                                                    python                        
-python-socks                        3.0.0                                                    python                        
+python-socks                        3.1.1                                                    python                        
 python-songpal                      0.16.2                                                   python                        
 python-swisscom-internet-box        0.2.0                                                    python                        
 python-tado                         0.18.16                                                  python                        
@@ -2191,7 +2191,7 @@ time                                0.3.47                                      
 time-core                           0.1.8                                                    rust-crate  (+1 duplicate)    
 tinyhtml                            1.3.0                                                    python                        
 tinystr                             0.8.2                                                    rust-crate  (+1 duplicate)    
-tinytag                             2.3.1                                                    python                        
+tinytag                             2.3.2                                                    python                        
 tinyvec                             1.11.0                                                   rust-crate  (+1 duplicate)    
 tinyvec                             1.9.0                                                    rust-crate                    
 tinyvec_macros                      0.1.1                                                    rust-crate  (+1 duplicate)    
@@ -2383,7 +2383,7 @@ victron-vrm                         0.1.12                                      
 vidstab                             1.1.1-r0                                                 apk                           
 vilfo-api-client                    0.5.0                                                    python                        
 vincenty                            0.1.4                                                    python                        
-virtualenv                          21.7.8                                                   python                        
+virtualenv                          21.7.9                                                   python                        
 visionpluspython                    1.1.0                                                    python                        
 vizaio                              0.6.1                                                    python                        
 vobject                             0.9.9                                                    python                        
