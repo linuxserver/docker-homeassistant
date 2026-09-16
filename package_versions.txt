@@ -462,7 +462,7 @@ coreutils                           9.11-r0                                     
 coreutils-env                       9.11-r0                                                  apk                           
 coreutils-fmt                       9.11-r0                                                  apk                           
 coreutils-sha512sum                 9.11-r0                                                  apk                           
-coverage                            7.16.0                                                   python                        
+coverage                            7.16.1                                                   python                        
 cpufeatures                         0.2.17                                                   rust-crate  (+1 duplicate)    
 cpufeatures                         0.3.0                                                    rust-crate  (+1 duplicate)    
 crc                                 3.3.0                                                    rust-crate                    
@@ -641,7 +641,7 @@ ffmpeg-libswresample                8.1.2-r0                                    
 ffmpeg-libswscale                   8.1.2-r0                                                 apk                           
 fido2                               2.2.1                                                    python                        
 file-read-backwards                 2.0.0                                                    python                        
-filelock                            3.32.6                                                   python                        
+filelock                            3.32.7                                                   python                        
 filetime                            0.2.29                                                   rust-crate  (+1 duplicate)    
 findutils                           4.10.0-r1                                                apk                           
 fing-agent-api                      1.1.0                                                    python                        
@@ -773,7 +773,7 @@ graphviz                            0.21                                        
 greeclimate                         2.1.4                                                    python                        
 greencell-client                    1.0.3                                                    python                        
 greeneye-monitor                    3.0.3                                                    python                        
-greenlet                            3.5.5                                                    python                        
+greenlet                            3.5.6                                                    python                        
 greenplanet-energy-api              0.1.10                                                   python                        
 gridnet                             5.0.1                                                    python                        
 growattserver                       2.2.0                                                    python                        
@@ -850,12 +850,14 @@ http-content-range                  0.2.4                                       
 http-ece                            1.1.0                                                    python                        
 httparse                            1.10.1                                                   rust-crate  (+1 duplicate)    
 httpcore                            1.0.9                                                    python                        
+httpcore2                           2.13.0                                                   python                        
 httpdate                            1.0.3                                                    rust-crate  (+1 duplicate)    
 httplib2                            0.32.0                                                   python                        
 httpx                               0.28.1                                                   python                        
 httpx-retries                       0.6.0                                                    python                        
 httpx-sse                           0.4.3                                                    python                        
 httpx-ws                            0.9.0                                                    python                        
+httpx2                              2.13.0                                                   python                        
 huawei-lte-api                      1.11.0                                                   python                        
 hueble                              2.2.3                                                    python                        
 humanfriendly                       10.0                                                     python                        
@@ -974,7 +976,7 @@ jellyfin-apiclient-python           1.16.0                                      
 jiff                                0.2.35                                                   rust-crate  (+1 duplicate)    
 jiff-core                           0.1.0                                                    rust-crate  (+1 duplicate)    
 jinja2                              3.1.6                                                    python                        
-jiter                               0.16.0                                                   python                        
+jiter                               0.17.0                                                   python                        
 jmespath                            1.1.0                                                    python                        
 jobserver                           0.1.35                                                   rust-crate  (+1 duplicate)    
 josepy                              2.2.0                                                    python                        
@@ -1815,7 +1817,7 @@ python-slugify                      8.0.4                                       
 python-smarttub                     0.0.47                                                   python                        
 python-sn2                          0.4.0                                                    python                        
 python-snoo                         0.8.3                                                    python                        
-python-socketio                     5.16.4                                                   python                        
+python-socketio                     5.17.0                                                   python                        
 python-socketio-v4                  4.6.1                                                    python                        
 python-socks                        3.1.1                                                    python                        
 python-songpal                      0.16.2                                                   python                        
@@ -1998,7 +2000,7 @@ seize                               0.5.1                                       
 selenium                            4.49.0                                                   python                        
 selenium-manager                    UNKNOWN                                                  binary                        
 semver                              1.0.27                                                   rust-crate  (+1 duplicate)    
-semver                              3.0.4                                                    python                        
+semver                              3.1.0                                                    python                        
 sendgrid                            6.8.2                                                    python                        
 sense-energy                        0.14.3                                                   python                        
 sensirion-ble                       0.1.1                                                    python                        
@@ -2047,7 +2049,7 @@ simdutf8                            0.1.5                                       
 similar                             2.7.0                                                    rust-crate  (+1 duplicate)    
 similar                             3.1.1                                                    rust-crate  (+1 duplicate)    
 simple-websocket                    1.1.0                                                    python                        
-simpleeval                          1.0.7                                                    python                        
+simpleeval                          1.0.8                                                    python                        
 simplefin4py                        0.0.18                                                   python                        
 simplehound                         0.3                                                      python                        
 simplejson                          4.1.2                                                    python                        
@@ -2236,6 +2238,7 @@ triggercmd                          0.0.36                                      
 trio                                0.34.0                                                   python                        
 trio-websocket                      0.12.2                                                   python                        
 trmnl                               0.1.1                                                    python                        
+truststore                          0.10.4                                                   python                        
 try-lock                            0.2.5                                                    rust-crate  (+1 duplicate)    
 ttls                                1.11.1                                                   python                        
 ttn-client                          1.3.0                                                    python                        
@@ -2254,7 +2257,7 @@ types-pytz                          2026.3.1.20260727                           
 typing-extensions                   4.16.0                                                   python                        
 typing-inspect                      0.9.0                                                    python                        
 typing-inspection                   0.4.4                                                    python                        
-tzdata                              2026.3                                                   python                        
+tzdata                              2026.4                                                   python                        
 tzdata                              2026c-r0                                                 apk                           
 tzlocal                             5.3.1                                                    python                        
 uart-devices                        0.1.1                                                    python                        
@@ -2290,7 +2293,7 @@ uplink-protobuf                     0.1.0                                       
 uritemplate                         4.2.0                                                    python                        
 url                                 2.5.8                                                    rust-crate  (+1 duplicate)    
 url-normalize                       3.0.0                                                    python                        
-urllib3                             2.7.0                                                    python                        
+urllib3                             2.8.0                                                    python                        
 usb-devices                         0.5.1                                                    python                        
 userspace-rcu                       0.15.3-r0                                                apk                           
 utf8_iter                           1.0.4                                                    rust-crate  (+1 duplicate)    
@@ -2364,7 +2367,7 @@ uv-virtualenv                       0.0.72                                      
 uv-warnings                         0.0.72                                                   rust-crate  (+1 duplicate)    
 uv-workspace                        0.0.72                                                   rust-crate  (+1 duplicate)    
 uvcclient                           0.12.1                                                   python                        
-uvicorn                             0.52.4                                                   python                        
+uvicorn                             0.53.0                                                   python                        
 v4l-utils-libs                      1.32.0-r1                                                apk                           
 v_frame                             0.3.9                                                    rust-crate                    
 vacuum-map-parser-base              0.1.5                                                    python                        
@@ -2383,7 +2386,7 @@ victron-vrm                         0.1.12                                      
 vidstab                             1.1.1-r0                                                 apk                           
 vilfo-api-client                    0.5.0                                                    python                        
 vincenty                            0.1.4                                                    python                        
-virtualenv                          21.7.9                                                   python                        
+virtualenv                          21.7.10                                                  python                        
 visionpluspython                    1.1.0                                                    python                        
 vizaio                              0.6.2                                                    python                        
 vobject                             0.9.9                                                    python                        
@@ -2421,7 +2424,7 @@ werkzeug                            3.1.8                                       
 wheel                               0.46.3                                                   python                        
 which                               8.0.5                                                    rust-crate  (+1 duplicate)    
 whirlpool-sixth-sense               1.3.1                                                    python                        
-whodap                              0.1.16                                                   python                        
+whodap                              0.2.0                                                    python                        
 whoisdomain                         2.20260806.3                                             python                        
 wiffi                               1.1.2                                                    python                        
 wiim                                0.1.7                                                    python                        
