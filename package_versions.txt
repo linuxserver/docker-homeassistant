@@ -166,7 +166,7 @@ alpha-vantage                       2.3.1                                       
 alpine-baselayout                   3.7.2-r1                                                 apk                           
 alpine-baselayout-data              3.7.2-r1                                                 apk                           
 alpine-keys                         2.6-r0                                                   apk                           
-alpine-release                      3.24.1-r0                                                apk                           
+alpine-release                      3.24.2-r0                                                apk                           
 alsa-lib                            1.2.15.3-r0                                              apk                           
 alsa-plugins-pulse                  1.2.12-r2                                                apk                           
 altruistclient                      0.1.1                                                    python                        
@@ -259,7 +259,7 @@ asyncstdlib                         3.14.0                                      
 asynctest                           0.13.0                                                   python                        
 atomic-waker                        1.1.2                                                    rust-crate  (+1 duplicate)    
 atomicwrites-homeassistant          1.4.1                                                    python                        
-atpublic                            7.0.0                                                    python                        
+atpublic                            8.0.1                                                    python                        
 attach_amd64                        UNKNOWN                                                  binary                        
 attach_x86                          UNKNOWN                                                  binary                        
 attrs                               26.1.0                                                   python                        
@@ -378,8 +378,8 @@ bytemuck                            1.25.0                                      
 byteorder-lite                      0.1.0                                                    rust-crate  (+1 duplicate)    
 bytes                               1.12.1                                                   rust-crate  (+1 duplicate)    
 c-ares                              1.34.8-r0                                                apk                           
-ca-certificates                     20260611-r0                                              apk                           
-ca-certificates-bundle              20260611-r0                                              apk                           
+ca-certificates                     20260909-r0                                              apk                           
+ca-certificates-bundle              20260909-r0                                              apk                           
 cachebox                            5.2.3                                                    python                        
 cached-ipaddress                    1.1.2                                                    python                        
 cachetools                          7.2.0                                                    python                        
@@ -641,7 +641,7 @@ ffmpeg-libswresample                8.1.2-r0                                    
 ffmpeg-libswscale                   8.1.2-r0                                                 apk                           
 fido2                               2.2.1                                                    python                        
 file-read-backwards                 2.0.0                                                    python                        
-filelock                            3.32.7                                                   python                        
+filelock                            4.0.1                                                    python                        
 filetime                            0.2.29                                                   rust-crate  (+1 duplicate)    
 findutils                           4.10.0-r1                                                apk                           
 fing-agent-api                      1.1.0                                                    python                        
@@ -1061,16 +1061,16 @@ libgcrypt                           1.12.2-r0                                   
 libgomp                             15.2.0-r5                                                apk                           
 libgpg-error                        1.61-r0                                                  apk                           
 libgpiod                            2.2.4-r0                                                 apk                           
-libheif                             1.23.0-r0                                                apk                           
-libheif-aom                         1.23.0-r0                                                apk                           
-libheif-dav1d                       1.23.0-r0                                                apk                           
-libheif-ffmpeg                      1.23.0-r0                                                apk                           
-libheif-jpeg                        1.23.0-r0                                                apk                           
-libheif-libde265                    1.23.0-r0                                                apk                           
-libheif-rav1e                       1.23.0-r0                                                apk                           
-libheif-svtenc                      1.23.0-r0                                                apk                           
-libheif-x264                        1.23.0-r0                                                apk                           
-libheif-x265                        1.23.0-r0                                                apk                           
+libheif                             1.23.4-r0                                                apk                           
+libheif-aom                         1.23.4-r0                                                apk                           
+libheif-dav1d                       1.23.4-r0                                                apk                           
+libheif-ffmpeg                      1.23.4-r0                                                apk                           
+libheif-jpeg                        1.23.4-r0                                                apk                           
+libheif-libde265                    1.23.4-r0                                                apk                           
+libheif-rav1e                       1.23.4-r0                                                apk                           
+libheif-svtenc                      1.23.4-r0                                                apk                           
+libheif-x264                        1.23.4-r0                                                apk                           
+libheif-x265                        1.23.4-r0                                                apk                           
 libhwy                              1.3.0-r0                                                 apk                           
 libid3tag                           0.16.3-r0                                                apk                           
 libidn2                             2.3.8-r0                                                 apk                           
@@ -1238,7 +1238,7 @@ msal-extensions                     1.3.1                                       
 msgpack                             1.2.2                                                    python                        
 mt-940                              5.1.1                                                    python                        
 mullvad-api                         1.0.0                                                    python                        
-multidict                           6.9.0                                                    python                        
+multidict                           6.9.1                                                    python                        
 munch                               4.0.0                                                    python                        
 munge                               0.4.7                                                    rust-crate  (+1 duplicate)    
 music-assistant-client              1.5.1                                                    python                        
@@ -1419,7 +1419,7 @@ pkcs1                               0.7.5                                       
 pkcs5                               0.7.1                                                    rust-crate  (+1 duplicate)    
 pkcs8                               0.10.2                                                   rust-crate  (+1 duplicate)    
 plain                               0.2.3                                                    rust-crate  (+1 duplicate)    
-platformdirs                        4.11.10                                                  python                        
+platformdirs                        4.11.12                                                  python                        
 platformdirs                        4.4.0                                                    python                        
 plexapi                             4.15.16                                                  python                        
 plexauth                            0.0.6                                                    python                        
@@ -1680,7 +1680,7 @@ pyotp                               2.9.0                                       
 pyoverkiz                           2.1.0                                                    python                        
 pypalazzetti                        0.1.20                                                   python                        
 pypaperless                         5.2.3                                                    python                        
-pyparsing                           3.3.2                                                    python                        
+pyparsing                           3.3.3                                                    python                        
 pypasser                            0.0.5                                                    python                        
 pypca                               0.0.7                                                    python                        
 pypck                               0.9.13                                                   python                        
@@ -2258,7 +2258,7 @@ typing-extensions                   4.16.0                                      
 typing-inspect                      0.9.0                                                    python                        
 typing-inspection                   0.4.4                                                    python                        
 tzdata                              2026.4                                                   python                        
-tzdata                              2026c-r0                                                 apk                           
+tzdata                              2026d-r0                                                 apk                           
 tzlocal                             5.3.1                                                    python                        
 uart-devices                        0.1.1                                                    python                        
 uasiren                             0.0.1                                                    python                        
@@ -2386,7 +2386,7 @@ victron-vrm                         0.1.12                                      
 vidstab                             1.1.1-r0                                                 apk                           
 vilfo-api-client                    0.5.0                                                    python                        
 vincenty                            0.1.4                                                    python                        
-virtualenv                          21.7.14                                                  python                        
+virtualenv                          21.11.0                                                  python                        
 visionpluspython                    1.1.0                                                    python                        
 vizaio                              0.6.2                                                    python                        
 vobject                             0.9.9                                                    python                        
