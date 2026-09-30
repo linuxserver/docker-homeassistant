@@ -462,7 +462,7 @@ coreutils                           9.11-r0                                     
 coreutils-env                       9.11-r0                                                  apk                           
 coreutils-fmt                       9.11-r0                                                  apk                           
 coreutils-sha512sum                 9.11-r0                                                  apk                           
-coverage                            7.16.1                                                   python                        
+coverage                            7.16.2                                                   python                        
 cpufeatures                         0.2.17                                                   rust-crate  (+1 duplicate)    
 cpufeatures                         0.3.0                                                    rust-crate  (+1 duplicate)    
 crc                                 3.3.0                                                    rust-crate                    
@@ -641,7 +641,7 @@ ffmpeg-libswresample                8.1.2-r0                                    
 ffmpeg-libswscale                   8.1.2-r0                                                 apk                           
 fido2                               2.2.1                                                    python                        
 file-read-backwards                 2.0.0                                                    python                        
-filelock                            4.0.4                                                    python                        
+filelock                            4.0.7                                                    python                        
 filetime                            0.2.29                                                   rust-crate  (+1 duplicate)    
 findutils                           4.10.0-r1                                                apk                           
 fing-agent-api                      1.1.0                                                    python                        
@@ -744,10 +744,10 @@ goodwe                              0.4.10                                      
 google-air-quality-api              3.0.1                                                    python                        
 google-api-core                     2.33.0                                                   python                        
 google-api-python-client            2.71.0                                                   python                        
-google-auth                         2.58.1                                                   python                        
-google-auth-httplib2                0.4.2                                                    python                        
-google-auth-oauthlib                1.4.1                                                    python                        
-google-cloud-core                   2.7.0                                                    python                        
+google-auth                         2.59.0                                                   python                        
+google-auth-httplib2                0.4.3                                                    python                        
+google-auth-oauthlib                1.5.0                                                    python                        
+google-cloud-core                   2.8.0                                                    python                        
 google-cloud-firestore              2.27.0                                                   python                        
 google-cloud-pubsub                 2.29.0                                                   python                        
 google-cloud-speech                 2.31.1                                                   python                        
@@ -768,7 +768,7 @@ gpiozero                            1.6.2                                       
 gps3                                0.33.3                                                   python                        
 gql                                 4.0.0                                                    python                        
 graphite2                           1.3.14-r6                                                apk                           
-graphql-core                        3.2.12                                                   python                        
+graphql-core                        3.2.13                                                   python                        
 graphviz                            0.21                                                     python                        
 greeclimate                         2.1.4                                                    python                        
 greencell-client                    1.0.3                                                    python                        
@@ -898,7 +898,7 @@ ignore                              0.4.31                                      
 ihcsdk                              2.8.12                                                   python                        
 ijson                               3.5.1                                                    python                        
 image                               0.25.10                                                  rust-crate  (+1 duplicate)    
-imageio                             2.37.4                                                   python                        
+imageio                             2.38.0                                                   python                        
 imeon-inverter-api                  0.4.0                                                    python                        
 imgw-pib                            2.5.2                                                    python                        
 imlib2                              1.12.6-r0                                                apk                           
@@ -1235,7 +1235,7 @@ mpg123-libs                         1.33.5-r0                                   
 ms-cv                               0.1.1                                                    python                        
 msal                                1.39.0                                                   python                        
 msal-extensions                     1.3.1                                                    python                        
-msgpack                             1.2.2                                                    python                        
+msgpack                             1.2.3                                                    python                        
 mt-940                              5.1.1                                                    python                        
 mullvad-api                         1.0.0                                                    python                        
 multidict                           6.9.1                                                    python                        
@@ -1419,7 +1419,7 @@ pkcs1                               0.7.5                                       
 pkcs5                               0.7.1                                                    rust-crate  (+1 duplicate)    
 pkcs8                               0.10.2                                                   rust-crate  (+1 duplicate)    
 plain                               0.2.3                                                    rust-crate  (+1 duplicate)    
-platformdirs                        4.12.0                                                   python                        
+platformdirs                        4.12.2                                                   python                        
 platformdirs                        4.4.0                                                    python                        
 plexapi                             4.15.16                                                  python                        
 plexauth                            0.0.6                                                    python                        
@@ -1910,7 +1910,7 @@ reflink-copy                        0.1.30                                      
 refoss-ha                           1.2.5                                                    python                        
 regenmaschine                       2024.3.0                                                 python                        
 regex                               1.13.1                                                   rust-crate  (+1 duplicate)    
-regex                               2026.9.10                                                python                        
+regex                               2026.9.29                                                python                        
 regex-automata                      0.4.16                                                   rust-crate  (+1 duplicate)    
 regex-syntax                        0.8.11                                                   rust-crate  (+1 duplicate)    
 renault-api                         0.5.13                                                   python                        
@@ -2103,7 +2103,7 @@ sratom                              0.6.20-r0                                   
 srp                                 1.0.22                                                   python                        
 srpenergy                           1.3.8                                                    python                        
 srptools                            1.0.1                                                    python                        
-sse-starlette                       3.4.11                                                   python                        
+sse-starlette                       3.5.0                                                    python                        
 ssl_client                          1.37.0-r31                                               apk                           
 stable_deref_trait                  1.2.0                                                    rust-crate                    
 stable_deref_trait                  1.2.1                                                    rust-crate  (+1 duplicate)    
@@ -2386,7 +2386,7 @@ victron-vrm                         0.1.12                                      
 vidstab                             1.1.1-r0                                                 apk                           
 vilfo-api-client                    0.5.0                                                    python                        
 vincenty                            0.1.4                                                    python                        
-virtualenv                          21.13.0                                                  python                        
+virtualenv                          21.14.1                                                  python                        
 visionpluspython                    1.1.0                                                    python                        
 vizaio                              0.6.2                                                    python                        
 vobject                             0.9.9                                                    python                        
@@ -2420,7 +2420,7 @@ webrtc-models                       0.3.0                                       
 websocket-client                    1.9.2                                                    python                        
 websockets                          15.0.1                                                   python                        
 weheat                              2026.4.8                                                 python                        
-werkzeug                            3.1.8                                                    python                        
+werkzeug                            3.1.9                                                    python                        
 wheel                               0.46.3                                                   python                        
 which                               8.0.5                                                    rust-crate  (+1 duplicate)    
 whirlpool-sixth-sense               1.3.1                                                    python                        
