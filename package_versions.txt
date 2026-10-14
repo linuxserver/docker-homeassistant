@@ -316,7 +316,7 @@ besen                               0.4.7                                       
 bidict                              0.24.1                                                   python                        
 bind-libs                           9.20.29-r0                                               apk                           
 bind-tools                          9.20.29-r0                                               apk                           
-bitarray                            3.12.1                                                   python                        
+bitarray                            3.12.2                                                   python                        
 bitflags                            1.3.2                                                    rust-crate  (+1 duplicate)    
 bitflags                            2.13.1                                                   rust-crate  (+1 duplicate)    
 bitflags                            2.9.1                                                    rust-crate                    
@@ -644,7 +644,7 @@ ffmpeg-libswresample                8.1.2-r0                                    
 ffmpeg-libswscale                   8.1.2-r0                                                 apk                           
 fido2                               2.2.1                                                    python                        
 file-read-backwards                 2.0.0                                                    python                        
-filelock                            4.1.1                                                    python                        
+filelock                            4.1.2                                                    python                        
 filetime                            0.2.29                                                   rust-crate  (+1 duplicate)    
 findutils                           4.10.0-r1                                                apk                           
 fing-agent-api                      1.1.0                                                    python                        
@@ -657,7 +657,6 @@ fivem-api                           0.1.2                                       
 fixedbitset                         0.5.7                                                    rust-crate  (+1 duplicate)    
 fixerio                             1.0.0a0                                                  python                        
 fjaraskupan                         2.3.4                                                    python                        
-flac-win32                          UNKNOWN                                                  binary                        
 flask                               3.1.3                                                    python                        
 flate2                              1.1.10                                                   rust-crate  (+1 duplicate)    
 flexcache                           0.3                                                      python                        
@@ -877,7 +876,7 @@ iaqualink                           0.7.0                                       
 ibeacon-ble                         1.2.0                                                    python                        
 ical                                14.3.0                                                   python                        
 icalendar                           6.3.1                                                    python                        
-icalendar-searcher                  1.1.0                                                    python                        
+icalendar-searcher                  1.2.0                                                    python                        
 icmplib                             3.0.4                                                    python                        
 icu_collections                     2.1.1                                                    rust-crate  (+1 duplicate)    
 icu_locale_core                     2.1.1                                                    rust-crate  (+1 duplicate)    
@@ -1363,7 +1362,6 @@ orvibo                              1.1.2                                       
 os_str_bytes                        6.6.1                                                    rust-crate  (+1 duplicate)    
 ouman-eh-800-api                    1.1.0                                                    python                        
 ourgroceries                        1.6.0                                                    python                        
-outcome                             1.3.0.post0                                              python                        
 ovoenergy                           3.0.2                                                    python                        
 owo-colors                          4.4.0                                                    rust-crate  (+1 duplicate)    
 oyaml                               1.0                                                      python                        
@@ -1517,7 +1515,7 @@ pyblu                               2.0.8                                       
 pybotvac                            0.0.29                                                   python                        
 pybraendstofpriser                  2.2.0                                                    python                        
 pybravia                            0.5.3                                                    python                        
-pycares                             5.1.0                                                    python                        
+pycares                             5.2.0                                                    python                        
 pycarwings2                         2.14                                                     python                        
 pycasperglow                        1.2.0                                                    python                        
 pycec                               0.5.2                                                    python                        
@@ -1541,7 +1539,7 @@ pydaikin                            2.19.1                                      
 pydanfossair                        1.0.0                                                    python                        
 pydantic                            2.13.5                                                   python                        
 pydantic-core                       2.46.5                                                   python                        
-pydantic-settings                   2.15.0                                                   python                        
+pydantic-settings                   2.16.0                                                   python                        
 pydantic-xml                        2.21.1                                                   python                        
 pydeako                             0.6.0                                                    python                        
 pydeconz                            120                                                      python                        
@@ -1552,7 +1550,6 @@ pydoods                             1.0.2                                       
 pydrawise                           2026.9.0                                                 python                        
 pydroid-ipcam                       3.0.0                                                    python                        
 pydroplet                           2.5.0                                                    python                        
-pydub                               0.25.1                                                   python                        
 pyduotecno                          2024.10.1                                                python                        
 pyebox                              1.1.4                                                    python                        
 pyecoforest                         0.4.0                                                    python                        
@@ -1675,7 +1672,7 @@ pyoverkiz                           2.1.2                                       
 pypalazzetti                        0.1.20                                                   python                        
 pypaperless                         5.2.3                                                    python                        
 pyparsing                           3.3.3                                                    python                        
-pypasser                            0.0.5                                                    python                        
+pypasser                            1.0.0                                                    python                        
 pypca                               0.0.7                                                    python                        
 pypck                               0.9.13                                                   python                        
 pypglab                             0.0.5                                                    python                        
@@ -1735,7 +1732,6 @@ pysml                               0.1.8                                       
 pysmlight                           0.5.3                                                    python                        
 pysnmp                              7.1.27                                                   python                        
 pysnooz                             0.10.0                                                   python                        
-pysocks                             1.7.1                                                    python                        
 pysoma                              0.0.12                                                   python                        
 pysomfymylink                       1.0.0                                                    python                        
 pyspcwebgw                          0.7.0                                                    python                        
@@ -1990,8 +1986,6 @@ secretstorage                       3.5.0                                       
 securetar                           2026.4.1                                                 python                        
 segno                               1.6.6                                                    python                        
 seize                               0.5.1                                                    rust-crate  (+1 duplicate)    
-selenium                            4.51.0                                                   python                        
-selenium-manager                    UNKNOWN                                                  binary                        
 semver                              1.0.27                                                   rust-crate  (+1 duplicate)    
 semver                              3.1.0                                                    python                        
 sendgrid                            6.8.2                                                    python                        
@@ -2082,7 +2076,6 @@ soxr                                0.1.3-r7                                    
 spdx                                0.13.5                                                   rust-crate  (+1 duplicate)    
 speak2mary                          1.4.0                                                    python                        
 specialized-turbo                   0.8.4                                                    python                        
-speechrecognition                   3.8.1                                                    python                        
 speedtest-cli                       2.1.3                                                    python                        
 speexdsp                            1.2.1-r2                                                 apk                           
 spin                                0.9.9                                                    rust-crate  (+1 duplicate)    
@@ -2224,8 +2217,6 @@ tracing-tree                        0.4.1                                       
 transitions                         0.8.11                                                   python                        
 transmission-rpc                    7.0.3                                                    python                        
 triggercmd                          0.0.36                                                   python                        
-trio                                0.34.0                                                   python                        
-trio-websocket                      0.12.2                                                   python                        
 trmnl                               0.1.1                                                    python                        
 truststore                          0.10.4                                                   python                        
 try-lock                            0.2.5                                                    rust-crate  (+1 duplicate)    
