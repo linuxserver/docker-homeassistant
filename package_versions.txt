@@ -644,7 +644,7 @@ ffmpeg-libswresample                8.1.2-r0                                    
 ffmpeg-libswscale                   8.1.2-r0                                                 apk                           
 fido2                               2.2.1                                                    python                        
 file-read-backwards                 2.0.0                                                    python                        
-filelock                            4.1.2                                                    python                        
+filelock                            4.2.0                                                    python                        
 filetime                            0.2.29                                                   rust-crate  (+1 duplicate)    
 findutils                           4.10.0-r1                                                apk                           
 fing-agent-api                      1.1.0                                                    python                        
@@ -980,7 +980,7 @@ joserfc                             1.7.5                                       
 jq                                  1.8.2-r0                                                 apk                           
 json-c                              0.18-r1                                                  apk                           
 jsonpath-python                     1.1.6                                                    python                        
-jsonpickle                          4.1.3                                                    python                        
+jsonpickle                          4.1.4                                                    python                        
 jsonrpc-async                       2.1.3                                                    python                        
 jsonrpc-base                        2.2.0                                                    python                        
 jsonrpc-websocket                   3.3.0                                                    python                        
@@ -1224,7 +1224,7 @@ monarchmoneycommunity               1.6.0                                       
 monzopy                             1.8.0                                                    python                        
 mopeka-iot-ble                      0.8.0                                                    python                        
 more-itertools                      10.8.0                                                   python                        
-more-itertools                      11.2.0                                                   python                        
+more-itertools                      11.2.1                                                   python                        
 motionblinds                        0.6.30                                                   python                        
 motionblindsble                     0.1.3                                                    python                        
 motioneye-client                    0.3.14                                                   python                        
