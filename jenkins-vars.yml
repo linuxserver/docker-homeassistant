@@ -3,6 +3,8 @@
 # jenkins variables
 project_name: docker-homeassistant
 external_type: pip_version
+custom_release_notes_command: |-
+  curl -H "Authorization: token ${GITHUB_TOKEN}" -s https://api.github.com/repos/home-assistant/core/releases/tags/${EXT_RELEASE} | jq -r '. |.body' > releasebody.json
 release_type: stable
 release_tag: latest
 ls_branch: main
