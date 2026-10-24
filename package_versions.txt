@@ -830,7 +830,7 @@ holidays                            0.106                                       
 home-assistant-bluetooth            2.0.0                                                    python                        
 home-assistant-frontend             20260930.5                                               python                        
 home-assistant-intents              2026.10.6                                                python                        
-homeassistant                       2026.10.3                                                python                        
+homeassistant                       2026.10.4                                                python                        
 homedir                             0.3.6                                                    rust-crate  (+1 duplicate)    
 homekit-audio-proxy                 1.2.1                                                    python                        
 homelink-integration-api            0.1.0                                                    python                        
@@ -1624,7 +1624,7 @@ pylitejet                           0.6.3                                       
 pylitterbot                         2025.6.5                                                 python                        
 pyloadapi                           2.1.0                                                    python                        
 pylutron                            0.4.4                                                    python                        
-pylutron-caseta                     0.29.0                                                   python                        
+pylutron-caseta                     0.30.0                                                   python                        
 pymailgunner                        1.4                                                      python                        
 pymata-express                      1.19                                                     python                        
 pymediaroom                         0.6.5.4                                                  python                        
