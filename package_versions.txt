@@ -509,7 +509,7 @@ ctrlc                               3.5.2                                       
 ctutils                             0.4.2                                                    rust-crate  (+1 duplicate)    
 curl                                8.23.0-r0                                                apk                           
 curl-cffi                           0.16.3                                                   python                        
-dacite                              1.9.2                                                    python                        
+dacite                              1.9.3                                                    python                        
 data-encoding                       2.11.1                                                   rust-crate  (+1 duplicate)    
 data-grand-lyon-ha                  0.9.0                                                    python                        
 dataclass-wizard                    0.39.1                                                   python                        
@@ -1918,7 +1918,7 @@ reflink-copy                        0.1.30                                      
 refoss-ha                           1.2.6                                                    python                        
 regenmaschine                       2024.3.0                                                 python                        
 regex                               1.13.1                                                   rust-crate  (+1 duplicate)    
-regex                               2026.11.23                                               python                        
+regex                               2026.11.24                                               python                        
 regex-automata                      0.4.18                                                   rust-crate  (+1 duplicate)    
 regex-syntax                        0.8.11                                                   rust-crate  (+1 duplicate)    
 renault-api                         0.6.3                                                    python                        
